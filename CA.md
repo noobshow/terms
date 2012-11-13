@@ -10,7 +10,7 @@
 
 Welcome to Stripe. We developed this payment service (the “Service”) to make it easy for you to accept credit and debit card payments online from your customers so you can focus on your own product or service.
 
-We have tried to draft these Merchant Terms of Service to be readable to people like us. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](http://stripe.com/contact).
+We have tried to draft these Merchant Terms of Service to be readable to people like us. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](http://stripe.com/help/contact).
 
 Below is a quick description of the sections in this Agreement, but (*legal disclaimer coming*) you should read each section to understand all the detailed terms of the agreement.
 
