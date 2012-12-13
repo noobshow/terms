@@ -5,7 +5,7 @@
 </header>
 
 <article>
-# Last Updated: December 12, 2012
+##	Last Updated: December 12, 2012
 
 # About our terms of service
 
