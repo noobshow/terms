@@ -40,7 +40,7 @@ The Terms and Conditions described here constitute a legal agreement (“Agreeme
 
 1. ## Our Role
 
-    Our Service helps you accept and process credit card, debit card and other types of card payments (collectively “cards”) from your customers who want to pay you for products or services or to give you a donation. Stripe is not a bank or a money services business (“MSB”) and Stripe does not offer banking or MSB services as defined by the United States Department of Treasury. In addition, we do not assume any liability for the products or services purchased using our Service. You will be required to register with Stripe to use the Stripe Service (see Registering for Stripe). 
+    Our Service helps you accept and process credit card, debit card and other types of card payments (collectively “cards”) from your customers who want to pay you for products or services or to give you a donation. Stripe is not a bank or a money services business (“MSB”) and Stripe does not offer banking or MSB services as defined by the United States Department of Treasury. In addition, we do not assume any liability for the products or services purchased using our Service. You will be required to register with Stripe to use the Stripe Service (see Registering for Stripe).
 
 2. ## Our Software
 
@@ -79,12 +79,12 @@ The Terms and Conditions described here constitute a legal agreement (“Agreeme
 10. ## Your Privacy
 
 	Your privacy and the protection of your data are very important to us. You acknowledge that you have received, read in full and agree with the terms of our [Privacy Policy] (https://stripe.com/privacy) linked to and incorporated into this Agreement by reference, which contains your consent to our collection, use, retention and disclosure of personal information as well as other matters set forth therein and which explains how and for what purposes we collect, use, retain, disclose and safeguard the information you provide to us. You also acknowledge that we or our payment processor is required to report your business name and the name of your principals to the MATCHTM listing maintained by MasterCard and accessed and updated by Visa and American Express or to the Consortium Merchant Negative File maintained by Discover, if applicable, pursuant to the requirements of the Network Rules.  You specifically consent to the fulfillment of the obligations related to the listing by us or our payment processor and to the listing itself and you waive and hold harmless us or our payment processor from all claims and liabilities you may have as a result of such reporting.
-	
+
 11. ## Privacy of Others
 
-    You represent to Stripe that you are in compliance with all applicable privacy laws, you have obtained all necessary rights and consents under applicable law to disclose to Stripe, or allow Stripe to collect, use, retain and disclose any Cardholder Data that you provide to us or authorize us to collect.  As between you and Stripe, you are solely responsible for disclosing to your customers that Stripe is processing credit card transactions for you and obtaining Data from you about such customers.  
-    
-    If you receive information about others, including Cardholders, through the use of the Service, you must keep such information confidential and only use it in connection with the Service.   You may not disclose or distribute any such information to a third party or use any such information for marketing purposes unless you receive the express consent of the user to do so.  You may not disclose card information to any third party, other than in connection with processing a card transaction requested by your customer under the Service and in a manner consistent with PCI DSS and applicable law.  
+    You represent to Stripe that you are in compliance with all applicable privacy laws, you have obtained all necessary rights and consents under applicable law to disclose to Stripe, or allow Stripe to collect, use, retain and disclose any Cardholder Data that you provide to us or authorize us to collect.  As between you and Stripe, you are solely responsible for disclosing to your customers that Stripe is processing credit card transactions for you and obtaining Data from you about such customers.
+
+    If you receive information about others, including Cardholders, through the use of the Service, you must keep such information confidential and only use it in connection with the Service.   You may not disclose or distribute any such information to a third party or use any such information for marketing purposes unless you receive the express consent of the user to do so.  You may not disclose card information to any third party, other than in connection with processing a card transaction requested by your customer under the Service and in a manner consistent with PCI DSS and applicable law.
 
 12. ## Restricted Use
 
@@ -103,11 +103,11 @@ The Terms and Conditions described here constitute a legal agreement (“Agreeme
 15. ## Disclosures and Notices
 
     You agree that Stripe can provide disclosures and notices regarding the Service to you by posting such disclosures and notices on our website, emailing them to the email address listed in your Stripe account, or mailing them to the address listed in your Stripe Service Account. You also agree that electronic disclosures and notices have the same meaning and effect as if we had provided you with a paper copy. Such disclosures and notices shall be considered to be received by you within 24 hours of the time it is posted to our website or emailed to you unless we receive notice that the email was not delivered.
-    
+
 16.	## References to Our Relationship
 
 You agree that, from the time you begin processing payment with Stripe until you terminate your account with us, we may identify you as a customer of Stripe.   Neither you nor we will imply any untrue sponsorship, endorsement or affiliation between you and Stripe.
- 
+
 
 <h1 id="section_b">Section B: Registering for Stripe</h1>
 
@@ -119,7 +119,7 @@ You agree that, from the time you begin processing payment with Stripe until you
 
 2. ## Company Descriptions and Site URL
 
-    As part of your registration, you must provide your site URL (e.g. www.mystore.com) and the name under which you do business (which may be the business’s legal name or a “doing business name”) (e.g. MyStore Online Widgets). These two fields may appear in your customers’ credit or debit card statements. To avoid customer confusion and transaction disputes, you must enter a description that clearly identifies your business as well as an accurate site URL. 
+    As part of your registration, you must provide your site URL (e.g. www.mystore.com) and the name under which you do business (which may be the business’s legal name or a “doing business name”) (e.g. MyStore Online Widgets). These two fields may appear in your customers’ credit or debit card statements. To avoid customer confusion and transaction disputes, you must enter a description that clearly identifies your business as well as an accurate site URL.
 
 3. ## Verification and Underwriting
 
@@ -241,14 +241,14 @@ You agree that, from the time you begin processing payment with Stripe until you
     Termination does not relieve you of your obligations as defined in this Agreement and Stripe may elect to continue to hold any funds deemed necessary pending resolution of any other terms or obligations defined in this Agreement, including but not limited to Chargebacks, Fees, Refunds, or other investigations or proceedings.
 
     Upon termination you agree: (i) to immediately cease your use of the Service (ii) discontinue use of any Stripe trademarks and to immediately remove any Stripe references and logos from your Site (iii) or other trademarks to continue to be bound by this Agreement (iv) that the license granted under this Agreement shall end, (v) that we reserve the right (but have no obligation) to delete all of your information and account data stored on our servers, and (e) we will not be liable to you for compensation, reimbursement, or damages in connection with your use of the Service, or any termination or suspension of the Service or deletion of your information or account data.
-    
+
     At any time within thirty (30) days after terminating your Stripe account you may request in writing that we transfer Card Data associated with your Transaction History to an alternative PCI-DSS Level 1 certified payment processor that you identify to us. We will use commercially reasonable efforts to complete such transfer within ten (10) business days from receipt of your written request.
 
 4. ## Your License; Our Trademarks
 
     Stripe grants you a personal, limited, non-exclusive, revocable, non-transferable license, without the right to sublicense, to electronically access and use the Service solely to accept and receive payments and to manage the funds you so receive. The Service includes our website, any software, programs, documentation, tools, internet-based services, components, and any updates (including software maintenance, service information, help content, bug fixes or maintenance releases) thereto provided to you by Stripe. You will be entitled to download updates to the Service, subject to any additional terms made known to you at that time, when Stripe makes these updates available.
-    
-    We may also periodically make available certain Stripe logos, trademarks or other identifiers for your use.  If we do so, you will use them subject to and in accordance with Stripe’s then current trademark usage guidelines. 
+
+    We may also periodically make available certain Stripe logos, trademarks or other identifiers for your use.  If we do so, you will use them subject to and in accordance with Stripe’s then current trademark usage guidelines.
 
 5. ## Ownership
 
