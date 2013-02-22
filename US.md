@@ -145,7 +145,7 @@ You agree that, from the time you begin processing payment with Stripe until you
 
 <h1 id="section_c">Section C: Processing Card Transactions and Receiving Your Funds</h1>
 
-1. ## Processing Card Transactions</h2>
+1. ## Processing Card Transactions
 
     You agree that you will honor all eligible cards presented for payment by your customers for your goods and services in accordance with the Card Network rules, this Agreement and any operating guides that we may provide you from time to time. You agree that you will obtain an authorization from the Card Network(s) for each card transaction, as required under the Card Networks’ rules, and will not submit a card transaction for settlement where there is a negative authorization or the card is otherwise expired. You acknowledge that the existence of an affirmative authorization from us or the Card Networks does not mean that a particular card transaction will not be subject to Chargeback, Reversal or Claim at a later date.
 
