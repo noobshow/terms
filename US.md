@@ -5,7 +5,7 @@
 </header>
 
 <article>
-##	Last Updated: December 19, 2012
+##	Last Updated: April 5, 2013
 
 # About our terms of service
 
@@ -82,7 +82,7 @@ The Terms and Conditions described here constitute a legal agreement (“Agreeme
 
 11. ## Privacy of Others
 
-    You represent to Stripe that you are in compliance with all applicable privacy laws, you have obtained all necessary rights and consents under applicable law to disclose to Stripe, or allow Stripe to collect, use, retain and disclose any Cardholder Data that you provide to us or authorize us to collect.  As between you and Stripe, you are solely responsible for disclosing to your customers that Stripe is processing credit card transactions for you and obtaining Data from you about such customers.
+    You represent to Stripe that you are in compliance with all applicable privacy laws, you have obtained all necessary rights and consents under applicable law to disclose to Stripe, or allow Stripe to collect, use, retain and disclose any Cardholder Data that you provide to us or authorize us to collect, including information that we may collect directly from your end users via cookies or other means.  As between you and Stripe, you are solely responsible for disclosing to your customers that Stripe is processing credit card transactions for you and obtaining Data from such customers.
 
     If you receive information about others, including Cardholders, through the use of the Service, you must keep such information confidential and only use it in connection with the Service.   You may not disclose or distribute any such information to a third party or use any such information for marketing purposes unless you receive the express consent of the user to do so.  You may not disclose card information to any third party, other than in connection with processing a card transaction requested by your customer under the Service and in a manner consistent with PCI DSS and applicable law.
 
@@ -213,7 +213,7 @@ You agree that, from the time you begin processing payment with Stripe until you
 
     To the extent permitted by law, we may collect any obligations you owe us under this Agreement by deducting the corresponding amounts from the Reserve Account or from funds payable to you arising from the settlement of card transactions. Fees will be assessed at the time a transaction is processed and will be first deducted from the funds received for such transactions. If the settlement amounts or Reserve Account are not sufficient to meet your obligations to us, we may charge or debit the bank account or credit card registered in your Stripe Service Account for any amounts owed to us. Your failure to fully pay amounts that you owe us on demand will be a breach of this Agreement. You will be liable for our costs associated with collection in addition to the amount owed, including without limitation attorneys’ fees and expenses, costs of any arbitration or court proceeding, collection agency fees, and any applicable interest.
 
-    Additionally, we may require a personal guaranty from a principal of a business for funds owed under this Agreement.  If we require a personal guarantee we will specifically inform you in advance.
+    Additionally, we may require a personal guarantee from a principal of a business for funds owed under this Agreement.  If we require a personal guarantee we will specifically inform you in advance.
 
 11. ## Reserves
 
