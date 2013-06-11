@@ -169,13 +169,35 @@ You agree that, from the time you begin processing payment with Stripe until you
 
     Stripe and/or Wells Fargo reserves the right to change the Payout Schedule or suspend payouts to your Bank Account should we determine it is necessary due to pending disputes, excessive or anticipated excessive Chargebacks or refunds, or other suspicious activity associated with your use of the Service or if required by law or court order.
 
-4. ## Reconciliations and Errors
+4. ## Transfer Creation API
+
+    If you use the Stripe transfer creation application programming interface or other functionality provided by Stripe that helps you to transfer your funds to third parties (collectively, the “Transfer Creation API”), the terms of this Section 4 apply to you. 
+
+    1. Available Funds. Stripe will indicate that particular funds are available for payout to you (“Available Funds”) in the Stripe Transfer API or in your Stripe account management dashboard, in accordance with the Stripe Terms of Service.  Available Funds will remain in an omnibus account for your benefit until paid out to you or your Recipient (as defined below) in accordance with your instructions, so you should promptly designate a Recipient.  You will not be entitled to receive interest on Available Funds.
+
+    2. Designation of Recipients. As part of the Transfer Creation API, Stripe will provide you with the ability to designate third party recipients to whom you may transfer all or a portion of your Available Funds, by supplying certain required information (“Recipients”).  You are solely responsible for determining the accuracy and completeness of any payment instructions that you provide to Stripe using the Transfer Creation API.  By designating a Recipient to receive Available Funds, you represent and warrant to us that:
+
+        1. you have verified the identity of the Recipient and the accuracy of the payment details associated with such Recipient;
+        2. your transfer of Available Funds to the Recipient is not associated with any unlawful transaction or activity by you or the Recipient; and
+        3. the Recipient is legally entitled to receive such Available Funds from you.
+
+    3. Appointment as Agent. If you use the Transfer Creation API, you hereby appoint us as your agent to make payment of your Available Funds via ACH or other methods to your Recipients using our payment tools.  
+
+    4. Commercial Use Only. The Transfer Creation API is solely for commercial use and you may not use it for any personal, family or household purposes.
+
+    5. Taxes. As between you and us, unless we otherwise agree with you in writing or are otherwise required to do so by law, you are solely responsible for the filing of any tax disclosure forms associated with your payment of funds to the Recipient (including, e.g., 1099 forms).
+
+    6. Identification of Recipients. You will take reasonable steps to verify the legal name of any Recipient you designate, and you will submit the verified name of each Recipient to us.  Such steps may include, for example, verifying a government issued identity from the Recipient, matching the recipient’s identity against reliable third party databases, or other methods that you reasonably believe will ensure that the identity of the Recipient that you provide us is accurate.  If we request it, you will promptly provide documentation of Recipient identification or your methods of determining identity, and otherwise cooperate with us reasonably so that may understand the identity of each Recipient.  We reserve the right to change the identification required for Recipients upon notice to you.
+
+    7. Liability. Except for our obligation to make payments in accordance with instructions provided using your account credentials, we will have no liability of any kind in connection with the use of the Transfer Creation API.
+
+5. ## Reconciliations and Errors
 
     Your Transaction History will be available to you when you login to the Stripe management dashboard. Except as required by law, you are solely responsible for reconciling your Transaction History with your actual card payment transactions. You agree to notify us of any discrepancies arising from such reconciliation and verification. We will investigate any reported discrepancies and attempt to rectify any errors that you or we discover. In the event you are owed money as a result of the discrepancy, we will transfer funds to your Bank Account in the next scheduled payout. Your failure to notify us of a error or discrepancy in your Transaction History within sixty (60) days of when it first appears on your Transaction History will be deemed a waiver of any right to amounts owed to you in connection with any such error or discrepancy in processing your card payments.
 
     If you submit or cause us to process transactions erroneously, you agree to contact us immediately. We will investigate any reported errors and attempt to rectify any errors that you or we discover by crediting or debiting your Bank Account as appropriate. Your failure to notify us of a processing error within thirty (30) days of when it first appears on your electronic transaction history will be deemed a waiver of any right to amounts owed to you.
 
-5. ## Refunds and Returns
+6. ## Refunds and Returns
 
     By accepting these terms of service, you agree to submit any and all refunds and adjustments for returns of your products and services through the Stripe Service to the cardholders card in accordance with the terms of this Agreement and Network Rules. Network Rules require that you will (i) maintain a fair return, cancellation or adjustment policy; (ii) disclose your return or cancellation policy to customers at the time of purchase, (iii) not give cash refunds to a customer in connection with a Card sale, unless required by law, and (iv) not accept cash or any other item of value for preparing a Card sale refund.
 
@@ -183,7 +205,7 @@ You agree that, from the time you begin processing payment with Stripe until you
 
     For processed refunds, Stripe will deduct the refund amount (including any applicable Fees) from (i) settlement funds owed to you from processing of other card transactions, or (ii) funds in any Reserve Account. If these funds are not sufficient, you authorize Stripe to initiate an ACH debit entry to your Bank Account in the amount necessary to complete the refund transaction to the Cardholder’s card. In the event Stripe cannot access your Bank Account by means of ACH debit entry, you agree to pay all funds owed to Stripe upon demand. You are solely responsible for accepting and processing returns of your products and services; Stripe has no responsibility or obligation for processing such returns.
 
-6. ## Chargebacks
+7. ## Chargebacks
 
     A Chargeback (defined below in Section D(6)) is typically caused when a customer disputes a charge that appears on their bill. A Chargeback may result in the reversal of a transaction, with the amount charged back to you. You can be assessed charge backs for: (i) customer disputes, or (ii) unauthorized or improperly authorized transactions, or (iii) transactions that do not comply with Network Rules or the terms of this Agreement or are allegedly unlawful or suspicious, or (iv) any reversals for any reason by the Network, our processor or acquiring bank, or the Cardholder bank.
 
@@ -191,7 +213,7 @@ You agree that, from the time you begin processing payment with Stripe until you
 
     Further, if we reasonably believe that a Chargeback is likely with respect to any transaction, we may withhold the amount of the potential Chargeback from payments otherwise due to you under this Agreement until such time that: (a) a Chargeback is assessed due to a customer’s complaint, in which case we will retain the funds; (b) the period of time under applicable law or regulation by which the customer may dispute that the transaction has expired; or (c) we determine that a Chargeback on the transaction will not occur.
 
-7. ## Contesting your Chargebacks
+8. ## Contesting your Chargebacks
 
     You or Stripe may elect to contest Chargebacks assessed to your account. Stripe may provide you with assistance including notifications and software to help contest your Chargebacks. We do not assume any liability for our role or assistance in contesting Chargebacks.
 
@@ -201,29 +223,29 @@ You agree that, from the time you begin processing payment with Stripe until you
 
     We reserve the right, upon notice to you, to charge a fee for mediating or investigating Chargeback disputes.
 
-8. ## Excessive Chargebacks
+9. ## Excessive Chargebacks
 
     At any point, Stripe, Wells Fargo, the Card Networks, or our payment processor(s) may determine that you are incurring excessive Chargebacks. Excessive Chargebacks may result in additional fees, penalties, or fines. Excessive Chargebacks may also result in additional controls and restrictions to your use of the Stripe Service, including without limitation, (i) changes to the terms of your Reserve Account, (ii) increases to your applicable Fees, (iii) delays in your Payout Schedule, or (iv) possible suspension or termination of your Stripe account and the Service. The Networks may also place additional controls or restrictions as part of their own monitoring programs for merchants with excessive Chargebacks.
 
-9. ## Stripe Fees
+10. ## Stripe Fees
 
     You agree to pay the Fees (“Fees”) assessed by us to you for providing the payment services described in this Agreement. These fees will be calculated pursuant to the [Fee Schedule](https://stripe.com/help/pricing) linked to here and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, subject to a thirty (30) day notice period to you.
 
     You acknowledge that you are also responsible for any penalties or fines imposed on Stripe or directly to you by any Network or financial institution as a result of your activities.
 
-10. ## Our Collection Rights
+11. ## Our Collection Rights
 
     To the extent permitted by law, we may collect any obligations you owe us under this Agreement by deducting the corresponding amounts from the Reserve Account or from funds payable to you arising from the settlement of card transactions. Fees will be assessed at the time a transaction is processed and will be first deducted from the funds received for such transactions. If the settlement amounts or Reserve Account are not sufficient to meet your obligations to us, we may charge or debit the bank account or credit card registered in your Stripe Service Account for any amounts owed to us. Your failure to fully pay amounts that you owe us on demand will be a breach of this Agreement. You will be liable for our costs associated with collection in addition to the amount owed, including without limitation attorneys’ fees and expenses, costs of any arbitration or court proceeding, collection agency fees, and any applicable interest.
 
     Additionally, we may require a personal guarantee from a principal of a business for funds owed under this Agreement.  If we require a personal guarantee we will specifically inform you in advance.
 
-11. ## Reserves
+12. ## Reserves
 
     Funds in held in reserves are amounts of money set aside to cover Chargebacks, refunds, or other payment obligations under this agreement (a “Reserve Account”). Stripe, in its sole discretion, will set the terms of your Reserve Account and notify you of such terms, which may require that a certain amount (including the full amount) of the funds received for your transaction is held for a period of time or that additional amounts are held in Reserve Account. Stripe, in its sole discretion, may elect to change the terms of the Reserve Account at any time for any reason based on your payment processing history or as requested by our payment processors.
 
     Stripe may fund the Reserve Account by means of: (i) any funds payouts made or due to you for card transactions submitted to the service, or, or (ii) amounts available in your Bank Account by means of ACH debit to that Bank Account, or (iv) other sources of funds associated with your Stripe account; or (iv) requesting that you provide funds to Stripe for deposit to the Reserve Account.
 
-12. ## Security Interest
+13. ## Security Interest
 
     You grant us a lien and security interest in the Reserve Account, all Card transactions (including future Card transactions), any rights to receive credits or payments under this Agreement, and all deposits and other property of yours possessed or maintained by us on your behalf. You will execute, deliver, and pay the fees for any documents we request to create, perfect, maintain and enforce this security interest.
 
