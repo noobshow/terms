@@ -14,7 +14,7 @@ We have tried to draft these Merchant Terms of Service to be readable to people 
 
 Below is a quick description of the sections in this Agreement, but (*legal disclaimer coming*) you should read each section to understand all the detailed terms of the agreement.
 
-# The Stripe Service
+# The Stripe Servicepr
 
 We provide you with software and a service to process your online credit and debit card payments; we will respect and protect your privacy and data. You run your business, service your customers, protect your customers’ data, report &amp; pay taxes, and observe all laws, rules, and regulations. <a href="#section_a" class="arrow">Complete details</a>
 
@@ -136,7 +136,7 @@ These Terms and Conditions constitute a legal agreement (“Agreement”) betwee
 
 5. ## Prohibited Businesses
 
-        There are certain categories of businesses and business practices for which the Stripe Service cannot be used (“Prohibited Businesses”).   Most, although not all, of these Prohibited Business categories are imposed by Card Network rules or the requirements of our banking providers or processors.  We maintain a list here: [Prohibited Businesses (https://stripe.com/prohibited_businesses).  By registering for Stripe, you confirm that you will not use the Service to accept payments in connection with any of the Prohibited Businesses.  If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please contact us.
+        There are certain categories of businesses and business practices for which the Stripe Service cannot be used (“Prohibited Businesses”).   Most, although not all, of these Prohibited Business categories are imposed by Card Network rules or the requirements of our banking providers or processors.  We maintain a list here: [Prohibited Businesses] (https://stripe.com/prohibited_businesses).  By registering for Stripe, you confirm that you will not use the Service to accept payments in connection with any of the Prohibited Businesses.  If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please contact us.
 
 6. ## Business Conduct
 
