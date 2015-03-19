@@ -165,11 +165,11 @@ Unless they are defined differently in context, the following words have these m
     All card transaction amounts that are processed under the FX Payment Service will be automatically converted into Australian dollars (AUD) by NAB at a time and exchange rate determined by NAB and not by Stripe.
 
     The FX Payment Service is provided by NAB, subject to the following terms:
-    (a) the exchange rate used in the conversion of Covered Currency transaction amounts into AUD will be the rate that applies at the time that the currency exchange is booked by NAB, which may be up to two business days after the day that the card transaction was processed in the Covered Currency; 
-    (b) the conversion rate used by NAB to convert the Covered Currency to Australian dollars will be sourced from the traded “Reuters D2” offer rate at the time of booking the conversion and will include a margin to NAB. The margin at the time of preparation of this document is 1.8%. NAB may vary the margin upon 30 days notice to you, which may be provided via Stripe; 
-    (c) while NAB publishes daily indicative exchange rates on its website, the rates applicable to the FX Payment Service may differ from this rate; 
-    (d) NAB will determine the actual time at which it will perform the exchange between the Covered Currency and Australian dollar; 
-    (e) Stripe will notify you of the fees and charges relating to the FX Payment Service from time to time; and 
+    (a) the exchange rate used in the conversion of Covered Currency transaction amounts into AUD will be the rate that applies at the time that the currency exchange is booked by NAB, which may be up to two business days after the day that the card transaction was processed in the Covered Currency;
+    (b) the conversion rate used by NAB to convert the Covered Currency to Australian dollars will be sourced from the traded “Reuters D2” offer rate at the time of booking the conversion and will include a margin to NAB. The margin at the time of preparation of this document is 1.8%. NAB may vary the margin upon 30 days notice to you, which may be provided via Stripe;
+    (c) while NAB publishes daily indicative exchange rates on its website, the rates applicable to the FX Payment Service may differ from this rate;
+    (d) NAB will determine the actual time at which it will perform the exchange between the Covered Currency and Australian dollar;
+    (e) Stripe will notify you of the fees and charges relating to the FX Payment Service from time to time; and
     (f) Covered Currency transactions will be processed and settlement amounts will be paid to you in accordance with Section C: Processing Card Transactions and Receiving Your Funds.
 
     You acknowledge and understand that because NAB will determine the actual time when it will perform the currency exchange, the rate of exchange may have changed from the time when your customer made the payment in the Covered Currency to the time when it is exchanged to Australian dollars. The amount you will receive in Australian dollars may therefore be greater or less than the amount you would have received if the exchange had occurred at the time of customer’s purchase.
@@ -846,7 +846,7 @@ By authorizing another application to link to your Stripe account, you agree to 
 
 <article>
 
-<h2>Debiting your account</h2>
+<h2 id="debit-authorization">Debiting your account</h2>
 <p>
 In the event that the net activity in your account on a day is
 negative or Stripe needs you to fund your account for any other reason
