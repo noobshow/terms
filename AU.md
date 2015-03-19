@@ -2,7 +2,7 @@
 
 <header id="tos">
 # Terms of Service &mdash; Australia
-Last Updated: May 26, 2014.
+Last Updated: May 26, 2014. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
 <article>

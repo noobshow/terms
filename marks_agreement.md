@@ -1,6 +1,7 @@
 <section id="details">
-<header>
+<header id="tos">
 # Stripe Marks Usage Agreement
+Last Updated: May 29, 2013. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 <article><p>You may use the Stripe name and logo (“Stripe Marks”) to let your customers know that Stripe (“we”, “us”, “our”) provides payment processing services for your business.</p>
 
