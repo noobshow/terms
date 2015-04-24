@@ -1,6 +1,6 @@
 <section id="details">
 <header id="cpagmt">
-# Stripe Connect Platform Agreement – United States
+# Stripe Connect Platform Agreement
 Last Updated: March 23, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 <article>

@@ -1,6 +1,6 @@
 <section id="details">
 <header id="caagmt">
-# Stripe Connected Account Agreement – United States
+# Stripe Connected Account Agreement
 Last Updated: March 23, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 <article>
