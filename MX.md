@@ -1,6 +1,11 @@
+<section id="details">
+
+<header id="tos">
 # Términos de Servicio  &mdash; México
 Última Actualización: el 18 de marzo de 2015. Las versiones anteriores y sus modificaciones están [disponibles aquí](https://github.com/stripe/terms).
+</header>
 
+<article>
 # Acerca de Nuestros Términos de Servicio
 Bienvenidos a Stripe México. Hemos desarrollado este procesamiento de servicios de pago (el “Servicio”) para facilitarle a usted el aceptar pagos en línea de sus clientes con tarjetas de crédito o débito y para que así usted pueda enfocarse en su producto o servicio.
 
@@ -331,3 +336,8 @@ Estos términos y condiciones y todas las políticas y procedimientos que se inc
 ## 18. Supervivencia
 
 Además de cualquier disposición que sea razonablemente necesaria para cumplir o hacer cumplir los fines del presente Contrato, las siguientes secciones del Contrato sobrevivirán y permanecerán en vigor de conformidad con sus término: Secciones: A(3), A(11) C(4), C(5),C(6),C(9), C(10),C(11), D(3), D(5), D(6), D(8), D(9), D(10), D(17) and D(18).
+
+
+</article>
+
+</section>
