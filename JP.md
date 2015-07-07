@@ -2,7 +2,7 @@
 
 <header id="tos">
 # 利用規約 &mdash; 日本
-最新更新日: 2015年4月1日
+最新更新日: 2015年7月7日 旧版からの変更点は[こちら](https://github.com/stripe/terms)でご確認できます。
 </header>
 
 <article class="tos">
