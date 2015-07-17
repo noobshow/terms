@@ -2,7 +2,7 @@
 
 <header id="tos">
 # Terms of Service &mdash; Australia
-Last Updated: May 26, 2014. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: July 17, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
 <article>
@@ -326,7 +326,7 @@ Unless they are defined differently in context, the following words have these m
 
     Your failure to comply with a request for any of this identification information or documentation within five (5) days may result in suspension or termination of your Stripe account.
 
-    You authorise Stripe to retrieve additional information about you from third parties and other identification services. Stripe may use your information to apply for card merchant acquiring accounts on your behalf with certain Card Schemes.
+    You authorise Stripe to retrieve additional information about you from third parties and other identification services. You specifically consent to your information being used to make searches of the Electoral Roll and the Document Verification Service in order to verify your identity. Stripe may use your information to apply for card merchant acquiring accounts on your behalf with certain Card Schemes.
 
 4. ## Australian domicile requirements
 
