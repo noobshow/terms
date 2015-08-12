@@ -350,7 +350,7 @@ These Terms and Conditions constitute a legal agreement (“Agreement”) betwee
 </article>
 
 
-21. ## Code of Conduct, Element 13 Disclosure
+##21. Code of Conduct, Element 13 Disclosure
 
 The FCAC has established a Code of Conduct for the Credit and Debit Card Industry, which is available at the [FCAC's website](http://www.fcac-acfc.gc.ca/Eng/forIndustry/publications/lawsReg/Pages/CodeofCo-Codedeco.aspx).
 
