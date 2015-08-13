@@ -347,31 +347,30 @@ These Terms and Conditions constitute a legal agreement (“Agreement”) betwee
 20. ## Language
 
 	The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. Les parties reconnaissent avoir demandé que le présent contrat ainsi que tous les documents qui s’y rattachent soient rédigés en langue anglaise.
-</article>
-
 
 21. ## Code of Conduct, Element 13 Disclosure
 
-The FCAC has established a Code of Conduct for the Credit and Debit Card Industry, which is available at the [FCAC's website](http://www.fcac-acfc.gc.ca/Eng/forIndustry/publications/lawsReg/Pages/CodeofCo-Codedeco.aspx).
+	The FCAC has established a Code of Conduct for the Credit and Debit Card Industry, which is available at the [FCAC's website](http://www.fcac-acfc.gc.ca/Eng/forIndustry/publications/lawsReg/Pages/CodeofCo-Codedeco.aspx).
 
-Stripe Payments Canada, Ltd. has established a process for managing potential Code of Conduct compliance violations. If you have a complaint about a particular element of the Code of Conduct, please follow the process below:
+	Stripe Payments Canada, Ltd. has established a process for managing potential Code of Conduct compliance violations. If you have a complaint about a particular element of the Code of Conduct, please follow the process below:
 
-*Cardholders:* If you are a cardholder and cannot resolve the complaint with the merchant that accepted your card payment, you should contact the financial institution that issued your credit or debit card. 
+	*Cardholders:* If you are a cardholder and cannot resolve the complaint with the merchant that accepted your card payment, you should contact the financial institution that issued your credit or debit card. 
 
-*Merchants:* If you are merchant using Stripe, you should submit your complaint to [Stripe Support](https://support.stripe.com/email/login) and include all of the following information:  
+	*Merchants:* If you are merchant using Stripe, you should submit your complaint to [Stripe Support](https://support.stripe.com/email/login) and include all of the following information:  
 
-* Your name
-* Business name on your Stripe account
-* Business address with territory specified
-* Name and email address of administrator on your Stripe account 
-* Identify one or more of the following elements of Code that the complaint pertains to: Element 1: Transparency and Disclosure Element; Element 2: Notice of fee increase or new fee Element;  Element 3: Contract Cancellation; Element 4: No Obligation Acceptance;  Element 5: Payment Method Discount Element; Element 6: Competing domestic debit applications; Element 7: Equal branding; Element 8: Separate cards /default settings; 9: Premium products; 10: Negative Option Acceptance; Element 11: Contactless Payments; 12: Renewal and Cancellation Disclosure; Element 13: Complaint Handling Process
-* General summary of your complaint and, if you have any supporting documents, please provide them upon response from our Support team.
+	* Your name
+	* Business name on your Stripe account
+	* Business address with territory specified
+	* Name and email address of administrator on your Stripe account 
+	* Identify one or more of the following elements of Code that the complaint pertains to: Element 1: Transparency and Disclosure Element; Element 2: Notice of fee increase or new fee Element;  Element 3: Contract Cancellation; Element 4: No Obligation Acceptance;  Element 5: Payment Method Discount Element; Element 6: Competing domestic debit applications; Element 7: Equal branding; Element 8: Separate cards /default settings; 9: Premium products; 10: Negative Option Acceptance; Element 11: Contactless Payments; 12: Renewal and Cancellation Disclosure; Element 13: Complaint Handling Process
+	* General summary of your complaint and, if you have any supporting documents, please provide them upon response from our Support team.
  
-Please ensure that all information requested is provided so that we may appropriately investigate the matter.  Per the Code of Conduct, we will acknowledge receipt of your email within 5 days of receipt. We will either resolve the complaint within 90 days or provide you information as to why it has not been resolved within such period. 
+	Please ensure that all information requested is provided so that we may appropriately investigate the matter.  Per the Code of Conduct, we will acknowledge receipt of your email within 5 days of receipt. We will either resolve the complaint within 90 days or provide you information as to why it has not been resolved within such period. 
 
-If your complaint has not been resolved after following the above process, you , may contact the Financial Consumer Agency of Canada by calling 1-866-461-3222 or emailing info@fcac-acfc.gc.ca.
+	If your complaint has not been resolved after following the above process, you , may contact the Financial Consumer Agency of Canada by calling 1-866-461-3222 or emailing info@fcac-acfc.gc.ca.
 
-Except where otherwise agreed upon in writing between you and Stripe, you are bound by this Agreement on the date your account was opened with Stripe.  You may close your account and terminate this Agreement at anytime, and there is no fee to do so.  Pricing can be found on our [pricing webpage](https://stripe.com/ca/pricing).  
+	Except where otherwise agreed upon in writing between you and Stripe, you are bound by this Agreement on the date your account was opened with Stripe.  You may close your account and terminate this Agreement at anytime, and there is no fee to do so.  Pricing can be found on our [pricing webpage](https://stripe.com/ca/pricing).  
+</article>
 
 
 <header id="applications">
