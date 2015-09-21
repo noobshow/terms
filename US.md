@@ -372,7 +372,7 @@ In addition to any provision that is reasonably necessary to accomplish or enfor
 
 ## 20. Card Network Disclosure
 
-The Wells Fargo mailing address is Wells Fargo Bank, 1200 Montego Way, Walnut Creek, CA 94598 and its phone number is 1-800-451-5817. Wells Fargo discloses that: (a) it is the only entity approved to extend acceptance of Visa and MasterCard products directly to you; (b) it must be a principal to this Agreement; (c) it is responsible for educating you on pertinent Visa and MasterCard rules with which you must comply, but this information may be provided to you by Stripe; (d) it is responsible for and must provide settlement funds to you; and (e) it is responsible for all funds held in reserve that are derived from settlement.
+The Wells Fargo mailing address is Wells Fargo Bank, 1200 Montego, Walnut Creek, CA 94598 and its phone number is 1-800-451-5817. Wells Fargo discloses that: (a) it is the only entity approved to extend acceptance of Visa and MasterCard products directly to you; (b) it must be a principal to this Agreement; (c) it is responsible for educating you on pertinent Visa and MasterCard rules with which you must comply, but this information may be provided to you by Stripe; (d) it is responsible for and must provide settlement funds to you; and (e) it is responsible for all funds held in reserve that are derived from settlement.
 
 </article>
 
