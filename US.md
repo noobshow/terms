@@ -104,7 +104,7 @@ We reserve the right to not authorize or settle any transaction you submit which
 
 ## 14. Card Network Rules
 
-The Card Networks have established guidelines, bylaws, rules, and regulations (“Network Rules”). You are required to comply with all applicable Network Rules that are applicable to merchants. You can review portions of the Network Rules at [Visa](http://usa.visa.com/merchants/operations/op_regulations.html), [MasterCard](http://www.mastercard.com/us/merchant/support/rules.html), and [American Express] (https://www209.americanexpress.com/merchant/services/en_US/merchant-regulations). The Card Networks reserve the right to amend the Network Rules. Stripe reserves the right to amend the Agreement at any time with notice to you as necessary to comply with Network Rules or otherwise address changes to the Stripe Services.
+The Card Networks have established guidelines, bylaws, rules, and regulations (“Network Rules”). You are required to comply with all applicable Network Rules that are applicable to merchants. You can review portions of the Network Rules at [Visa](http://usa.visa.com/merchants/operations/op_regulations.html), [MasterCard](http://www.mastercard.com/us/merchant/support/rules.html), and [American Express](https://www209.americanexpress.com/merchant/services/en_US/merchant-regulations). The Card Networks reserve the right to amend the Network Rules. Stripe reserves the right to amend the Agreement at any time with notice to you as necessary to comply with Network Rules or otherwise address changes to the Stripe Services.
 
 ## 15. Disclosures and Notices
 
