@@ -2,7 +2,7 @@
 
 <header id="tos">
 # Terms of Service &mdash; Canada
-Last Updated: August 11, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: October 23, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
 <article>
@@ -342,7 +342,7 @@ These Terms and Conditions constitute a legal agreement (“Agreement”) betwee
 
 19. ## Designated Bank Disclosure
 
-	Designated Bank’s mailing address is 55 Standish Court, Suite 400, Mississauga, ON L5R. The Designated Bank discloses that: (a) it is the only party to this Agreement who is approved to extend acceptance of MasterCard or Visa products directly to you; (b) it must be a principal to this Agreement; (c) it is responsible for educating you on pertinent Visa and MasterCard rules with which you must comply, but this information may be provided to you by Stripe; (d) it is responsible for and must provide settlement funds to you for transactions settled to it; and (e) it is responsible for all funds held by it in reserve that are derived from settlement.
+	Designated Bank’s mailing address is 3200-40 King Street, Toronto, ON M5H 3Y2. The Designated Bank discloses that: (a) it is the only party to this Agreement who is approved to extend acceptance of MasterCard or Visa products directly to you; (b) it must be a principal to this Agreement; (c) it is responsible for educating you on pertinent Visa and MasterCard rules with which you must comply, but this information may be provided to you by Stripe; (d) it is responsible for and must provide settlement funds to you for transactions settled to it; and (e) it is responsible for all funds held by it in reserve that are derived from settlement.
 
 20. ## Language
 
