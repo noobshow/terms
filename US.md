@@ -3,14 +3,12 @@
 <header id="tos">
 # Terms of Service &mdash; United States
 Last Updated: September 14, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
-
 </header>
 
 <article>
-
 # About our terms of service
 
-Welcome to Stripe. We developed a payment service (the “Stripe Payments”) to make it easy for you to accept credit and debit card payments online from your customers so you can focus on your own product or service. We have also developed additional services that you can use with Stripe Payments, such as Stripe Connect (allowing you to share data and management of your account with various platforms) and Stripe Relay (allowing you to publish product information and accept orders through various channels). 
+Welcome to Stripe. We developed a payment service (the “Stripe Payments”) to make it easy for you to accept credit and debit card payments online from your customers so you can focus on your own product or service. We have also developed additional services that you can use with Stripe Payments, such as Stripe Connect (allowing you to share data and management of your account with various platforms) and Stripe Relay (allowing you to publish product information and accept orders through various channels).
 
 We have tried to draft these Merchant Terms of Service to be readable, but should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](https://stripe.com/help/contact).
 
@@ -32,17 +30,17 @@ Funds from your transactions (minus our fees) are paid to you at a schedule comm
 
 We can terminate this agreement at any time (especially if you do something bad). You can also terminate anytime. Termination is effective immediately. Termination does not alter your liability for processed payments or related chargebacks. This section also includes all the extra legal stuff they make us add (e.g. indemnification, warranties, assignment). [Complete details](#section_d)
 
-# Stripe Terms of Service 
+# Stripe Terms of Service
 
 The Terms and Conditions described here constitute a legal agreement (“Agreement”) between the sole proprietor or business organization listed as the “Merchant” on the service registration page (sometimes referred to as “you,” “your”, “user”), Stripe, Inc. (“Stripe”), and Wells Fargo Bank, N.A. (“Wells Fargo”, collectively with Stripe referred as “we”, “our” or “us”).
 
 #<a id="section_a"></a>Section A: Stripe Services
 
-## 1. Our Role 
+## 1. Our Role
 
 Stripe Payments helps you accept and process credit card, debit card and other types of payments (collectively “Cards”) from your customers who want to pay you for products or services or give donations. Stripe’s card processing service supports US-issued card and most non-US issued cards with a Visa, MasterCard, Discover, JCB, or American Express logo (collectively “the Card Networks”) including credit, debit, pre-paid, or gift cards. Stripe is not a bank or a money services business (“MSB”) and Stripe does not offer banking or MSB services as defined by the United States Department of Treasury. In addition, we do not assume any liability for the products or services purchased using Stripe Payments. You will be required to register with Stripe to use Stripe Payments (see [Registering for Stripe](#section_b)).
 
-[Stripe Connect](https://stripe.com/us/terms#stripe-connect) enables you to work with various platform providers to help manage your account, provide ancillary services, or perform analytics using your data from your Stripe account.  [Stripe Relay](https://stripe.com/us/terms#stripe-orders) provides you a mechanism for easily publishing your product data to various online channels. Each of these is discussed in more detail below.  Collectively, we refer to Stripe Payments, Stripe Connect, and Stripe Relay as the “Stripe Services.” 
+[Stripe Connect](https://stripe.com/us/terms#stripe-connect) enables you to work with various platform providers to help manage your account, provide ancillary services, or perform analytics using your data from your Stripe account.  [Stripe Relay](https://stripe.com/us/terms#stripe-orders) provides you a mechanism for easily publishing your product data to various online channels. Each of these is discussed in more detail below.  Collectively, we refer to Stripe Payments, Stripe Connect, and Stripe Relay as the “Stripe Services.”
 
 ## 2. Stripe Payments
 
@@ -76,7 +74,7 @@ You are fully responsible for the security of data on your site, through your ap
 
 Stripe is responsible for protecting the security of Payment Data in our possession and will maintain commercially reasonable administrative, technical, and physical procedures to protect all the personal information regarding you and your customers that is stored in our servers from unauthorized access and accidental loss or modification. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use such personal information for improper purposes. You acknowledge that you provide this personal information regarding you and your customers at your own risk. We recommend you review our [Privacy Policy](https://stripe.com/privacy), which will help you understand how we collect, use and safeguard the information you provide to us.
 
-Stripe may provide or suggest security procedures and controls intended to reduce the risk to you of fraud ("Security Controls").  These Security Controls may include processes or applications that are developed by Stripe or by third parties, including but not limited to providing two-factor authentication for logging into your Stripe Account. You agree to review all Security Controls and choose those that are appropriate for your business to protect against unauthorized transactions and, if necessary, use other procedures and controls not provided by us. Disabling or failing to properly use Security Controls increases your exposure to unauthorized Card transactions. Keep in mind that you are responsible for the use of lost or stolen data that is used to purchase products or services from your business.  We are not liable for and do not insure against losses to you or your customers resulting from use of lost or stolen data with Stripe Payments (including but not limited to losses arising from the use of lost or stolen credit cards to make purchases from your site or app, or those caused by a compromise of your login credentials). 
+Stripe may provide or suggest security procedures and controls intended to reduce the risk to you of fraud ("Security Controls").  These Security Controls may include processes or applications that are developed by Stripe or by third parties, including but not limited to providing two-factor authentication for logging into your Stripe Account. You agree to review all Security Controls and choose those that are appropriate for your business to protect against unauthorized transactions and, if necessary, use other procedures and controls not provided by us. Disabling or failing to properly use Security Controls increases your exposure to unauthorized Card transactions. Keep in mind that you are responsible for the use of lost or stolen data that is used to purchase products or services from your business.  We are not liable for and do not insure against losses to you or your customers resulting from use of lost or stolen data with Stripe Payments (including but not limited to losses arising from the use of lost or stolen credit cards to make purchases from your site or app, or those caused by a compromise of your login credentials).
 
 ## 9. Audit Right
 
@@ -116,7 +114,7 @@ You agree that, from the time you begin processing payment with Stripe until you
 
 ## 17. Stripe Connect
 
-Stripe Connect allows third-party platform providers (“Platforms”) to help you administer your Stripe Account and provide additional services directly to you or your customers.  To permit Platforms to connect to your Stripe Account, you must add the Platform through the Stripe management dashboard and accept the [Stripe Connected Account Agreement](https://stripe.com/connect/account-terms) (“Stripe Connected Account Agreement”). 
+Stripe Connect allows third-party platform providers (“Platforms”) to help you administer your Stripe Account and provide additional services directly to you or your customers.  To permit Platforms to connect to your Stripe Account, you must add the Platform through the Stripe management dashboard and accept the [Stripe Connected Account Agreement](https://stripe.com/connect/account-terms) (“Stripe Connected Account Agreement”).
 
 By connecting Platforms to your Stripe Account you are authorizing Stripe to permit these Platforms to (a) access your Stripe Account and Payment Data, (b) create charges and customers in your Stripe Account, and (c) deduct amounts (for example, fees and charges) from the amount that would otherwise be payable to you from transactions occurring in connection with the Platform (“Platform Fees”).  Any Platform Fees will be separately agreed upon by you and the Platform, and will be in addition to Stripe’s fees and charges.
 
@@ -128,7 +126,7 @@ Stripe Relay allows you to publish information that describes specific products 
 
 Any Product Data you provide to us will be provided to the Channels you select through the Stripe management dashboard.  You understand and agree that Channels will publish Product Data as you have provided it through Stripe Relay. You are solely responsible for acquiring the appropriate rights to publish Product Information through the Channels, and for any pricing, inventory information, facts or statements – even those made erroneously – that are contained in the Product Data. You grant to Stripe a worldwide, fully-paid, nontransferable license to: (a) publish Product Data through the Channels, (b) receive and transmit Order Data to you, and (c) use any trademarks, service marks, or non-public personal information contained in Product Data or Orders data therein to the extent required to perform either (a) or (b); and authorize Stripe to sublicense such rights to Channels.  You agree to hold Channels harmless for claims or losses you incur due to the use of Order Data or publication of Product Data to facilitate your use of Stripe Relay.
 
-You may only use Stripe Relay to publish Product Data to Channels, and may only receive and transmit Order Data between Channels and your systems (or systems under your control) for your own benefit. You may not resell or distribute Stripe Relay to third parties. 
+You may only use Stripe Relay to publish Product Data to Channels, and may only receive and transmit Order Data between Channels and your systems (or systems under your control) for your own benefit. You may not resell or distribute Stripe Relay to third parties.
 
 You represent and warrant that you will not falsely advertise any Product Data through Channels, and that you will not use any unfair or deceptive acts or practices when advertising the underlying product or service through the Channels.  You understand and agree that you are solely responsible for production, fulfillment, shipping, or providing any ancillary services related to Orders you receive through your use of Stripe Relay.
 
@@ -140,7 +138,7 @@ From time to time we may offer you additional features or services (“Additiona
 
 ## 1. Registration
 
-The Stripe Services are only made available under this Agreement to persons in the United States that operate a business selling products or services, or to accept donations for a bona fide charitable organization. Stripe Payments may not be used to accept payments for personal, family, or household purposes. To use the Stripe Services, you will first have to register. When you register, we will collect basic information including your name, company name, location, email address, tax identification number, and phone number. If you have not already done so, you will also be required to provide an email address and password for your Stripe Account. You may not register another account with Stripe if we have already rejected an account for your business.  If you believe your original application was rejected in error, please contact our [Support team](https://support.stripe.com/email/login) to review your account. 
+The Stripe Services are only made available under this Agreement to persons in the United States that operate a business selling products or services, or to accept donations for a bona fide charitable organization. Stripe Payments may not be used to accept payments for personal, family, or household purposes. To use the Stripe Services, you will first have to register. When you register, we will collect basic information including your name, company name, location, email address, tax identification number, and phone number. If you have not already done so, you will also be required to provide an email address and password for your Stripe Account. You may not register another account with Stripe if we have already rejected an account for your business.  If you believe your original application was rejected in error, please contact our [Support team](https://support.stripe.com/email/login) to review your account.
 
 You may choose to register as an individual (sole proprietor) or as a business organization. If you register as a business organization, you must also provide information about an owner or principal of the business and you must be authorized to act on behalf of the business, and must have the authority to bind the business to this Agreement. Keep in mind that you are accepting the terms and conditions of this Agreement on behalf of the business. If you are a sole proprietor, the term “you” will mean you, the natural person, as well as the business organization that you represent.
 
@@ -216,7 +214,7 @@ Stripe will deduct the Refund amount (including any applicable Fees) from (i) se
 
 A Chargeback is typically caused when a customer disputes a charge that appears on their bill. A Chargeback may result in the reversal of a transaction where you are immediately liable for the amount of the transaction. You can be assessed Chargebacks for (i) customer disputes; (ii) unauthorized or improperly authorized transactions; (iii) transactions that do not comply with Network Rules or the terms of this Agreement or are allegedly unlawful or suspicious; or (iv) any reversals for any reason by the Card Network, our processor, or the acquiring or issuing banks.
 
-When a Chargeback is issued, you are immediately liable to Stripe for the full amount of the transaction relate to the Chargeback plus any associated Fees, fines, expenses or penalties (including those assessed by the Card Networks or our payment processors). You agree that Stripe may recover these amounts by debiting your Bank Account, debiting the Reserve Account, or setting off any amounts owed to you by us. If we are unable to recover funds related to a Chargeback for which you are liable, you will pay us the full amount of the Chargeback immediately upon demand. Where such amounts are not immediately paid to us, you agree to pay all costs and expenses, including without limitation attorneys’ fees and other legal expenses, incurred by or on behalf of us in connection with the collection of any unpaid Chargebacks unpaid by you.
+When a Chargeback is issued, you are immediately liable to Stripe for the full amount of the transaction related to the Chargeback plus any associated Fees, fines, expenses or penalties (including those assessed by the Card Networks or our payment processors). You agree that Stripe may recover these amounts by debiting your Bank Account, debiting the Reserve Account, or setting off any amounts owed to you by us. If we are unable to recover funds related to a Chargeback for which you are liable, you will pay us the full amount of the Chargeback immediately upon demand. Where such amounts are not immediately paid to us, you agree to pay all costs and expenses, including without limitation attorneys’ fees and other legal expenses, incurred by or on behalf of us in connection with the collection of any unpaid Chargebacks unpaid by you.
 
 If we reasonably believe that a Chargeback is likely with respect to any transaction, we may withhold the amount of the potential Chargeback from payments otherwise due to you under this Agreement until such time that: (a) a Chargeback is assessed due to a customer’s complaint, in which case we will retain the funds; (b) the period of time under applicable law or regulation by which the customer may dispute that the transaction has expired; or (c) we determine that a Chargeback on the transaction will not occur.
 
@@ -328,7 +326,7 @@ The Stripe Services are controlled and operated from facilities in the United St
 
 You agree that any disputes arising out of or relating to this Agreement or the Stripe Services will be resolved in accordance with this Section 10.
 
-This Agreement is governed by the laws of the State of California without regard to its choice of law provisions. The exclusive venue for any actions or claims arising under or related to this Agreement will be the state or federal courts located in San Francisco County, California. ALL PARTIES IRREVOCABLY WAIVE ANY AND ALL RIGHTS THEY MAY HAVE TO A TRIAL BY JURY IN ANY JUDICIAL PROCEEDING INVOLVING ANY CLAIM RELATING TO OR ARISING UNDER THIS AGREEMENT. 
+This Agreement is governed by the laws of the State of California without regard to its choice of law provisions. The exclusive venue for any actions or claims arising under or related to this Agreement will be the state or federal courts located in San Francisco County, California. ALL PARTIES IRREVOCABLY WAIVE ANY AND ALL RIGHTS THEY MAY HAVE TO A TRIAL BY JURY IN ANY JUDICIAL PROCEEDING INVOLVING ANY CLAIM RELATING TO OR ARISING UNDER THIS AGREEMENT.
 
 Headings are included in this Agreement for convenience only, and will not be considered in interpreting this Agreement. The Agreement does not limit any rights that we may have under trade secret, copyright, patent, or other laws. Our delay or failure to assert any right or provision under this Agreement will not constitute a waiver of such right or provision. No waiver of any term of this Agreement will be deemed a further or continuing waiver of such term or any other term.
 
@@ -350,7 +348,7 @@ This Agreement binds you and your respective representatives, and permitted and 
 
 ## 15. Third-Party Services and Links to Other Websites
 
-You may be offered services, products, and promotions provided by or be presented links to websites operated by third parties (“Third-Party Services”) that utilize, integrate, or provide services related to the Service. If you decide to use these Third-Party Services, you will be responsible for reviewing and understanding the terms and conditions associated with these Third-Party Services. You agree that we are not responsible for the performance of Third-Party Services.  
+You may be offered services, products, and promotions provided by or be presented links to websites operated by third parties (“Third-Party Services”) that utilize, integrate, or provide services related to the Service. If you decide to use these Third-Party Services, you will be responsible for reviewing and understanding the terms and conditions associated with these Third-Party Services. You agree that we are not responsible for the performance of Third-Party Services.
 
 Our website may contain links to Third-Party Services as a convenience to you. The inclusion of any links to Third-Party Services does not imply an approval, endorsement, or recommendation by us. Your access or use of any Third-Party Services is done at your own risk. You understand that Third-Party Services are not governed by this Agreement. We expressly disclaim all responsibility and liability for Third-Party Services. Please remember that when you use a link to go from our website to a Third-Party Service, our Privacy Policy is no longer in effect. Your browsing and interaction with a Third-Party Service, including those that have a link on our website, is subject to that Third-Party Service’s own terms and policies.
 
@@ -375,5 +373,3 @@ In addition to any provision that is reasonably necessary to accomplish or enfor
 The Wells Fargo mailing address is Wells Fargo Bank, 1200 Montego, Walnut Creek, CA 94598 and its phone number is 1-800-451-5817. Wells Fargo discloses that: (a) it is the only entity approved to extend acceptance of Visa and MasterCard products directly to you; (b) it must be a principal to this Agreement; (c) it is responsible for educating you on pertinent Visa and MasterCard rules with which you must comply, but this information may be provided to you by Stripe; (d) it is responsible for and must provide settlement funds to you; and (e) it is responsible for all funds held in reserve that are derived from settlement.
 
 </article>
-
-</section>
