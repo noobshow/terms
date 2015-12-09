@@ -2,7 +2,7 @@
 
 <header id="privacy">
 # Privacy Policy &mdash; <%= @country_name %>
-This policy was last updated on June 19, 2015.
+This policy was last updated on December 9, 2015.
 </header>
 
 <article>
@@ -124,8 +124,6 @@ We also take all reasonable steps to ensure that the Personal Data we hold is pr
 Stripe will provide some or all of its Services from systems located outside of Europe. As such, Merchants are required to disclose to Checkout Users that personally identifiable information may be transferred, processed and stored outside of Europe.
 
 Stripe maintains strict administrative, technical and physical procedures to protect information stored in our servers, which are located in the United States. Access to information is limited (through user/password credentials and software systems) to those employees who require it to perform their job functions.
-
-Stripe complies with the U.S.-EU Safe Harbour Framework and the U.S.-Swiss Safe Harbour Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data from European Union member countries and Switzerland. Stripe has certified that it adheres to the Safe Harbour Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more about the Safe Harbour program, and view Stripe’s certification, by visiting [www.export.gov](http://www.export.gov). If you have questions regarding Stripe’s Safe Harbour certification, please [contact us](https://stripe.com/contact).
 
 # Changes to this Policy
 
