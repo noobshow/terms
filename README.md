@@ -6,6 +6,8 @@ IFTTT Recipe: <a href="https://ifttt.com/view_embed_recipe/269879-email-me-when-
 
 * [AU.md](https://stripe.com/au/terms)
 * [CA.md](https://stripe.com/ca/terms)
+* [JP.md](https://stripe.com/jp/terms)
+* [JP_privacy.html](https://stripe.com/jp/privacy)
 * [MX.md](https://stripe.com/mx/terms)
 * [US.md](https://stripe.com/us/terms)
 * [checkout_terms.md](https://stripe.com/checkout/terms)
