@@ -1,9 +1,10 @@
-<section id="details">
 <header id="tos">
 # Stripe Marks Usage Agreement
 Last Updated: May 29, 2013. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
-<article><p>You may use the Stripe name and logo (“Stripe Marks”) to let your customers know that Stripe (“we”, “us”, “our”) provides payment processing services for your business.</p>
+
+<section>
+You may use the Stripe name and logo (“Stripe Marks”) to let your customers know that Stripe (“we”, “us”, “our”) provides payment processing services for your business.
 
 The Stripe Marks are important assets of Stripe’s business, and they are protected by US and international copyright and trademark laws. By using them you agree as follows:
 
@@ -16,5 +17,4 @@ The Stripe Marks are important assets of Stripe’s business, and they are prote
 *  You may not use the Stripe Marks or the word "Stripe", any confusingly similar name or trademark, in the name of your product or service, or in your domain name, without our prior written approval.
 
 *  You will not display, copy, modify or transmit the Stripe Marks in any way except as described in this Agreement or otherwise agreed in writing by Stripe, Inc.
-</article>
 </section>

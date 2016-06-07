@@ -1,26 +1,24 @@
-<section id="details">
-
 <header id="cpagmt">
 # Stripe Connect Platform Agreement
 Last Updated: April 12, 2016.  Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
-<article>
-# About Stripe Connect – Connect Platform
+<section>
+## About Stripe Connect – Connect Platform
 
 Thank you for using [Stripe Connect](https://stripe.com/connect).  Stripe Connect lets platform providers like you enable customers to use Stripe for accepting payments and lets you manage certain aspects of your customers’ Stripe accounts, including initiating charges or refunds, handling of disputes, and other functions available through Stripe Connect.  You must inform any of your customers that use Stripe Connect to accept payments or permit you to manage their account that they are doing so.
 
-# Stripe Connect Platform Agreement
+## Stripe Connect Platform Agreement
 
 This Stripe Connect Platform Agreement is a legal agreement (“Connect Platform Agreement”) between the legal entity (including sole proprietors) that you identified on the registration page (“Connect Platform” or “you”) and Stripe (“Stripe”).  The products and services that you provide through the Connect Platform, regardless of whether or not fees are charged, are referred to in this Connect Platform Agreement as “Platform Services.”  This Connect Platform Agreement also governs how Connect Platforms may manage users’ Stripe accounts (each a “Connected Account”).  Management of Connected Accounts includes use and administration of data about Connected Accounts and their transactions (“Data”) and initiating Activity.  As used in this Connect Platform Agreement, any action submitted using the Stripe Connect API on behalf of a Connected Account is referred to as “Activity,” which includes initiating charges or Refunds, handling disputes or Chargebacks, and other features available through Stripe Connect.
 
 You represent to Stripe that all of the information you provided to us is accurate and complete, that you are authorized to agree to this Connect Platform Agreement on behalf of the Connect Platform.  You agree to the terms and conditions of this Connect Platform Agreement and to the Stripe Terms of Service (“Stripe ToS”).  The Stripe ToS may also incorporate separate agreements with financial services providers (each a “Financial Services Provider”).  Please read them carefully, as both your use of the Stripe Service and your treatment of Connected Accounts are subject to your acceptance of these terms and conditions.
 
-## 1. Relationship to Other Agreements
+### 1. Relationship to Other Agreements
 
 By using Stripe Connect, including the Stripe Service, you expressly agree to abide by the terms and conditions of this Connect Platform Agreement, the Stripe ToS, and to any updates or modifications to either of those documents that may occasionally be made by Stripe.  The Stripe ToS is incorporated into this Connect Platform Agreement by reference as it relates to your use of the Stripe Service.  This Connect Platform Agreement contains additional terms and conditions relating to your use of the features of Stripe Connect made available to Connect Platforms.  To the extent that there is a conflict between the Stripe ToS and this Connect Platform Agreement related to your use of Stripe Connect, this Connect Platform Agreement will prevail.  Nothing in this Connect Platform Agreement alters the terms and conditions of the Stripe ToS as between you and Financial Services Providers.  Any capitalized terms that are used but not defined in this Connect Platform Agreement are defined in the Stripe ToS.
 
-##2. Stripe Connect – Connect Platform
+### 2. Stripe Connect – Connect Platform
 
 Stripe Connect allows you to integrate Stripe Service into your platform and help manage the payments experience for your customers, who may be selling goods or services, or receive bona fide charitable donations.  You may provide some services on their behalf, such as web development or hosting services, customer service, processing of refunds, handling consumer complaints, or other Activity.  It is your sole responsibility, and Stripe disclaims all liability or responsibility, to clearly explain to Connected Accounts the nature of the Platform Services and the Activity that you will manage as part of the Connected Account’s utilizing the Stripe Service.
 
@@ -28,7 +26,7 @@ Stripe has a direct contractual relationship with each Connected Account and pro
 
 You consent to Stripe's disclosure of your name and address, and information about the transactions that you process through the Stripe Service to Financial Services Providers and our service providers to facilitate the provision of Stripe Connect and Stripe Services to you and to Connected Accounts.  You also consent to Stripe’s use of information provided to or collected by us as part of providing the Stripe Service for our internal analyses and fraud monitoring.  For more information regarding Stripe's use of data, please review [Stripe’s Privacy Policy](https://stripe.com/privacy).
 
-##3. Your Obligations
+### 3. Your Obligations
 
 **a. Agreements with Connected Accounts:**  You must have a written agreement with the business entity or individual that owns each  Connected Account explaining the Platform Services, how the Connect Platform accesses and uses Data, and the Activities that are performed by the Connect Platform (collectively, the “Platform Agreement”).  Stripe is not responsible to Connected Accounts for any Platform Services you provide – you are solely responsible for providing Platform Services to Connected Accounts as described in the Platform Agreement.  You may only engage in Activity on the Connected Account to the extent that you are doing so as an agent on behalf of the Connected Account (as a merchant payee) for the limited purpose of processing or acceptance of payments using the Stripe Service, which must be clearly stated in your Platform Agreement.
 
@@ -44,7 +42,7 @@ You may not use Stripe Connect: (a) to access any Data or initiate any Activity,
 
 **e. Data Protection**:  You may only use Stripe Connect and Data consistent with this Connect Platform Agreement.  You will have a privacy policy that tells Connected Accounts what Data you access and how you will use, display, or transfer that Data.  You will include a prominent link to or affirmatively share your privacy policy available to all Connected Accounts.  You will obtain explicit consent from Connected Accounts before using Data for any purpose other than providing Platform Services.  You will use all reasonable efforts to protect and secure Data from unauthorized use or disclosure, and will promptly notify Connected Accounts and Stripe where Data is accessed or disclosed without permission.
 
-##4. Onboarding Connected Accounts
+### 4. Onboarding Connected Accounts
 
 Stripe provides various mechanisms for you to allow your customers to create and manage Connected Accounts, which are described in the [Connect documentation](https://stripe.com/docs/connect/connecting-to-accounts).  You are solely responsible for the selection of the mechanism by which Connected Accounts integrate into the Connect Platform, which may include assisting your customers in creating a Connected Account or integrating an existing Stripe account into the Connect Platform.  Selection of the manner of integration impacts your liability for Activity on the Connected Accounts.  Please read the following sections carefully prior to selecting the option that is appropriate for your business when onboarding Connected Accounts:
 
@@ -64,19 +62,19 @@ You are solely responsible for ensuring that each Connected Account expressly ag
 
 For a Connected Account created using managed onboarding, except as provided herein, you understand and agree that you are responsible and liable to Stripe for all Activity on the Connected Account, whether initiated by you or not (including all transactions, Chargebacks, Refunds, Claims, fines associated with such Activity, or use of the Stripe Service in a manner prohibited under this Connect Platform Agreement or the Stripe ToS).  Where so configured, Stripe may attempt to collect any amounts owed from the Connected Account prior to collecting such amounts from the Connect Platform, however the Connect Platform remains directly liable to Stripe for any of the foregoing and Stripe may debit the Bank Account identified by the Connect Platform.  In addition, you agree to are liable for any inaccurate or incomplete information provided to Stripe as part of the provisioning of the Connected Account.
 
-##5. Underwriting and Screening
+### 5. Underwriting and Screening
 
 Stripe may require that you establish certain criteria for accepting Connected Accounts consistent with both Stripe’s and the Financial Services Provider’s programs for underwriting Connected Accounts (“Underwriting Policies”).  Stripe will have ultimate discretion regarding its underwriting and risk decisions including, without limitation, any decision of whether or not to provide Stripe Service to any Connected Account.  Stripe reserves the right to suspend or terminate provision of Stripe Service to any Connected Account at any time if (a) Stripe determines that the Connected Account’s activities violate Stripe’s Underwriting Policies, the [Stripe Connected Account Agreement](https://stripe.com/connect/account-terms), the [Stripe ToS](https://stripe.com/terms) (including Network Rules), or applicable law; (b) a Connected Account is engaged in activities listed on the [Prohibited Businesses List](https://stripe.com/prohibited_businesses); or (c) such activity otherwise reflects negatively on Stripe’s or the Financial Services Provider’s brand or reputation.
 
 To the extent that you become aware of a Connected Account being engaged in any illegal, deceptive, or fraudulent activity, you agree to promptly notify Stripe.  Likewise, Stripe will use commercially reasonable efforts to promptly terminate or suspend any such accounts once notified by you.
 
-##6. Connect Pricing and Platform Fees
+### 6. Connect Pricing and Platform Fees
 
 Except as expressly agreed upon in writing between you and Stripe, the pricing for your use of the Stripe Service and Stripe Connect on the Connect Platform will be provided as described on [Stripe’s pricing page](https://stripe.com/pricing) (“Fee Schedule”).  These fees may include fees for processing Activity using Stripe Services (including Chargebacks), fees for managing Connected Accounts, fees for cross-border transactions, and other amounts.  All fees charged by Stripe will be reflected in your [Stripe dashboard](https://dashboard.stripe.com), and you agree that Stripe will have the right to deduct such fees from amounts processed by Stripe for you or any Connected Accounts.
 
 You are solely responsible for communicating any use, recurring, or application fees charged to Connected Accounts for their use of Platform Services (“Platform Fees”) and agree to clearly communicate any Platform Fees in advance of charging the Connected Accounts.  You must accurately reflect any fees charged for Stripe Services to Connected Accounts.
 
-##7. Indemnification
+### 7. Indemnification
 
 In addition to indemnification obligations under the Stripe ToS, you agree to defend, indemnify, and hold harmless Stripe, Financial Services Providers, and their respective employees and agents (each a “Disclaiming Entity”) from and against any claim, suit, demand, loss, liability, damage, action, or proceeding arising out of or relating to (a) your breach of any provision of this Connect Platform Agreement; (b) any disputes between you and Connected Accounts, including those arising from use of Data or Activity by you, your employees, or your agents, whether for the Connect Platform or a Connected Account; or (c) your use of Stripe Connect in a manner that is illegal or inconsistent with the [Connect API](https://stripe.com/docs/connect).
 
@@ -84,7 +82,7 @@ Where a Connected Account was created as part of a managed onboarding flow, you 
 
 Stripe agrees to defend, indemnify, and hold harmless the Connect Platform from and against any claim, suit, demand, action, or proceeding to the extent that such arises from out of or relates to Stripe Connect infringing the intellectual property rights of third parties to this Connect Platform Agreement.
 
-##8. Representations and Warranties
+### 8. Representations and Warranties
 
 In addition to the representations and warranties of the Stripe ToS, you represent and warrant to Stripe that you will (a) obtain authorization for all Activity initiated on behalf of a Connected Account, and for any Data obtained through or used with Stripe Connect, by you, your employees, or your agents; (b) dutifully comply with the onboarding and underwriting obligations described herein; and (c) not use Stripe Connect or knowingly permit the use of Stripe Services by Connected Accounts in a manner that is illegal or deceptive.
 
@@ -92,7 +90,7 @@ Stripe represents and warrants that it will provide Stripe Connect (a) in a mann
 
 EXCEPT AS EXPRESSLY PROVIDED HEREIN, STRIPE PROVIDES STRIPE CONNECT TO YOU ON AN "AS IS" "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY.  STRIPE WILL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO YOU FOR ANY AMOUNT, WHETHER AS INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH USE OF STRIPE CONNECT, WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE, PRODUCT LIABILITY, OR OTHERWISE), OR ANY OTHER FINANCIAL LOSS, WHETHER OR NOT YOU ADVISED US OF THE POSSIBILITY OF SUCH DAMAGES.
 
-##9. Limitations of Liability
+### 9. Limitations of Liability
 
 Stripe is not responsible for and disclaims all liability for your, your employees’, and your agents’ (a) acts or omissions in providing Platform Services to your customers (including Connected Accounts), which includes but is not limited to delivery of goods or services to your customers or third parties, or properly describing Platform Services; (b) compliance with applicable laws and obligations related to your offering or providing Platform Services; and (c) providing customer service, notifications, or receipts, handling refunds or consumer complaints, or taking other actions related the Platform Service.
 
@@ -104,7 +102,7 @@ WITHOUT LIMITING THE FOREGOING PROVISIONS OF THIS SECTION 9, THE DISCLAIMING ENT
 
 THIS LIMITATION OF LIABILITY SECTION APPLIES REGARDLESS OF THE LEGAL THEORY ON WHICH THE CLAIM IS BASED, INCLUDING WITHOUT LIMITATION CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER BASIS. THE LIMITATIONS APPLY EVEN IF THE DISCLAIMING ENTITIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-##10.  Other General Legal Terms
+### 10.  Other General Legal Terms
 
 **a. Term, Termination, and the Effects of Termination:** The term of this Connect Platform Agreement will begin when you register your platform with Stripe and will end when terminated by you or by Stripe as described in this Connect Platform Agreement.  You may terminate this Connect Platform Agreement at any time by providing notice to Stripe and immediately ceasing your use of Stripe Connect.  However, if you commence using Stripe Connect again after such notice, you will be considered to have consented to this Connect Platform Agreement again.  Stripe may terminate this Connect Platform Agreement (a) if you are in breach of this Connect Platform Agreement and fail to cure the breach upon 30 days’ notice by Stripe (such notice only being required if curing the breach is feasible); (b) upon 120 days’ notice for any reason; (c) if the Connect Platform is the subject of any voluntary or involuntary bankruptcy or insolvency petition or proceeding; or (d) if required to do so by demand of  Financial Services Provider, the Card Networks, or under court or legal order.
 
@@ -120,5 +118,4 @@ Sections 7 through 10 and all provisions giving rise to continuing obligations (
 
 Thank you and welcome to Stripe Connect!
 
-</article>
 </section>
