@@ -423,4 +423,3 @@ Once you have authorized a Partner Application it will continue to have access t
 </article>
 
 </section>
-

@@ -144,71 +144,71 @@ Cookies enable us to identify your device, or you when you have logged in. We us
 Strictly necessary cookies: These cookies are necessary in order for you to move around Stripe.com and use the site:
 
 <table>
-	<thead>
-		<td>Cookie Name</td>
-		<td>Purpose</td>
-	</thead>
-	<tbody>
-		<tr>
-			<td>accounts</td>
-			<td>A list of Stripe accounts you have access to</td>
-		</tr>
-		<tr>
-			<td>livemode_{ACCOUNT_ID}</td>
-			<td>Several cookies that indicate whether or not livemode should be selected in that account's dashboard by default.</td>
-		</tr>
-		<tr>
-			<td>stripe.csrf</td>
-			<td>A random token to prevent cross site request forgery</td>
-		</tr>
-		<tr>
-			<td>rack.session</td>
-			<td>A unique session identifier</td>
-		</tr>
-		<tr>
-			<td>session</td>
-			<td>A unique session identifier if you're logged into your Stripe dashboard</td>
-		</tr>
-		<tr>
-			<td>machine_identifier</td>
-			<td>A random string used to identify your machine</td>
-		</tr>
-	</tbody>
+  <thead>
+    <td>Cookie Name</td>
+    <td>Purpose</td>
+  </thead>
+  <tbody>
+    <tr>
+      <td>accounts</td>
+      <td>A list of Stripe accounts you have access to</td>
+    </tr>
+    <tr>
+      <td>livemode_{ACCOUNT_ID}</td>
+      <td>Several cookies that indicate whether or not livemode should be selected in that account's dashboard by default.</td>
+    </tr>
+    <tr>
+      <td>stripe.csrf</td>
+      <td>A random token to prevent cross site request forgery</td>
+    </tr>
+    <tr>
+      <td>rack.session</td>
+      <td>A unique session identifier</td>
+    </tr>
+    <tr>
+      <td>session</td>
+      <td>A unique session identifier if you're logged into your Stripe dashboard</td>
+    </tr>
+    <tr>
+      <td>machine_identifier</td>
+      <td>A random string used to identify your machine</td>
+    </tr>
+  </tbody>
 </table>
 
 Functionality: Functionality cookies record information about choices you’ve made and allow us to tailor the Website to you.
 
 <table>
-	<thead>
-		<td>Cookie Name</td>
-		<td>Purpose</td>
-	</thead>
-	<tbody>
-		<tr>
-			<td>country</td>
-			<td>The country you're currently viewing the site for</td>
-		</tr>
-		<tr>
-			<td>lang</td>
-			<td>The programming language you last viewed docs in</td>
-		</tr>
-		<tr>
-			<td>checkout-test-session, checkout-dashboard-session</td>
-			<td>A random string used to associate a user with a particular "Remember Me" account. When a user opts to save their payment information or log into an account they've already created, we use these cookies to keep them logged in between requests.  Each cookie maintains this state for a somewhat different context.</td>
-		</tr>
-		<tr>
-			<td>last-used-checkout-name</td>
-			<td>The value of the "name" parameter passed to Checkout by the merchant the last time Checkout was opened. We use this to customize the content of "https://stripe.com/checkout/info".</td>
-		</tr>
-		<tr>
-			<td>cookiesEnabled</td>
-			<td>A random value we set to determine whether we're able to set cookies for the user</td>
-		</tr>
-		<tr>
-			<td>logged_in</td>
-			<td>whether or not you're currently logged in</td>
-		</tr>
-	</tbody>
+  <thead>
+    <td>Cookie Name</td>
+    <td>Purpose</td>
+  </thead>
+  <tbody>
+    <tr>
+      <td>country</td>
+      <td>The country you're currently viewing the site for</td>
+    </tr>
+    <tr>
+      <td>lang</td>
+      <td>The programming language you last viewed docs in</td>
+    </tr>
+    <tr>
+      <td>checkout-test-session, checkout-dashboard-session</td>
+      <td>A random string used to associate a user with a particular "Remember Me" account. When a user opts to save their payment information or log into an account they've already created, we use these cookies to keep them logged in between requests.  Each cookie maintains this state for a somewhat different context.</td>
+    </tr>
+    <tr>
+      <td>last-used-checkout-name</td>
+      <td>The value of the "name" parameter passed to Checkout by the merchant the last time Checkout was opened. We use this to customize the content of "https://stripe.com/checkout/info".</td>
+    </tr>
+    <tr>
+      <td>cookiesEnabled</td>
+      <td>A random value we set to determine whether we're able to set cookies for the user</td>
+    </tr>
+    <tr>
+      <td>logged_in</td>
+      <td>whether or not you're currently logged in</td>
+    </tr>
+  </tbody>
 </table>
 
 
@@ -217,28 +217,28 @@ Performance: We use performance cookies to help us to provide a better user expe
 
 
 <table>
-	<thead>
-		<td>Cookie Name</td>
-		<td>Purpose</td>
-	</thead>
-	<tbody>
-		<tr>
-			<td>stripe_orig_pros</td>
-			<td>Tracking of the referrer the user entered the site with</td>
-		</tr>
-		<tr>
-			<td>mp_{RANDOM_STRING}_mixpanel</td>
-			<td>A random identifier and some analytics information on how you use your account</td>
-		</tr>
-		<tr>
-			<td>cid</td>
-			<td>A random value we set to track user metrics. We especially use this to ensure that users consistently see the same Checkout experience when we are running an A/B test of new features.</td>
-		</tr>
-		<tr>
-			<td>__utma, __utmb, __utmc, __utmz</td>
-			<td>Analytics information used to track user metrics. Please see [this table](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage#gajs) for more details.</td>
-		</tr>
-	</tbody>
+  <thead>
+    <td>Cookie Name</td>
+    <td>Purpose</td>
+  </thead>
+  <tbody>
+    <tr>
+      <td>stripe_orig_pros</td>
+      <td>Tracking of the referrer the user entered the site with</td>
+    </tr>
+    <tr>
+      <td>mp_{RANDOM_STRING}_mixpanel</td>
+      <td>A random identifier and some analytics information on how you use your account</td>
+    </tr>
+    <tr>
+      <td>cid</td>
+      <td>A random value we set to track user metrics. We especially use this to ensure that users consistently see the same Checkout experience when we are running an A/B test of new features.</td>
+    </tr>
+    <tr>
+      <td>__utma, __utmb, __utmc, __utmz</td>
+      <td>Analytics information used to track user metrics. Please see [this table](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage#gajs) for more details.</td>
+    </tr>
+  </tbody>
 </table>
 
 </article>
