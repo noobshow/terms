@@ -34,7 +34,7 @@ National Australia Bank Limited (“NAB”) or Stripe may suspend or terminate t
 
 # Merchant Terms of Service
 
-The Terms and Conditions described here constitute a legal agreement between the entity listed as the “Merchant” on the Service registration page (sometimes referred to as “you,” “your”, or “user”), Stripe Australia Pty Limited (“Stripe”) and the National Australia Bank Limited ("NAB"). Stripe and NAB are collectively also referred to as “we”, “our” or “us”).
+The Terms and Conditions described here constitute a legal agreement between the entity listed as the “Merchant” on the Service registration page (sometimes referred to as “you,” “your”, or “user”), Stripe Payments Australia Pty Limited (“Stripe”) and the National Australia Bank Limited ("NAB"). Stripe and NAB are collectively also referred to as “we”, “our” or “us”).
 
 # Definitions
 
@@ -87,12 +87,12 @@ Unless they are defined differently in context, the following words have these m
 “Related Body Corporate” has the meaning given to it in the Corporations Act, 2001 (Cth).
 
 “Relevant Law” means any:
-    (1)	statute, ordinance, code or other law including regulations and other instruments under them; and
-    (2)	any code of practice, guidelines or standards issued by relevant regulators or industry bodies, whether or not having the force of law.
+    (1) statute, ordinance, code or other law including regulations and other instruments under them; and
+    (2) any code of practice, guidelines or standards issued by relevant regulators or industry bodies, whether or not having the force of law.
 
 “Reserve Account”  means funds held in reserve that are amounts of money set aside to cover Chargebacks, refunds, or other payment obligations under this agreement.
 
-“Stripe” refers to Stripe Australia Pty Ltd A.C.N. 160 180 343.
+“Stripe” refers to Stripe Payments Australia Pty Ltd A.C.N. 160 180 343.
 
 “Transaction Receipt” means a document used to evidence a transaction.
 
@@ -107,13 +107,13 @@ Unless they are defined differently in context, the following words have these m
 2. ## NAB Services
 
     NAB has agreed to provide the NAB Services to you in connection with the provision by Stripe to you of the AUD Payment Services, and directly to you in respect of the FX Payment Service. You acknowledge and agree that:
-    (1)	you may benefit from the NAB Services provided to Stripe;
-    (2)	nothing in this Agreement is to be taken to be an offer by NAB to provide, or to be an obligation to provide, the NAB Services or any other service other than the FX Payment Service directly to you;
-    (3)	NAB is not liable to you in respect of any amount payable to you in connection with your use of the AUD Payment Services;
-    (4)	the amount of any transaction processed as a card payment using the NAB Services will be paid to Stripe by NAB and will be credited to your nominated account by us under the terms of this Agreement;
-    (5)	Stripe is responsible for dealing with complaints or disputes relating to the Payment Services and you will refer any such complaints or disputes ("Dispute") immediately to Stripe for resolution in accordance with Stripe's dispute resolution procedures;
-    (6)	you will provide all assistance reasonably required by Stripe to resolve a Dispute; and
-    (7)	NAB is not liable (including liability for negligence) for any loss or damage caused directly or indirectly to you by NAB's provision, or failure to provide, the NAB Services to Stripe.
+    (1) you may benefit from the NAB Services provided to Stripe;
+    (2) nothing in this Agreement is to be taken to be an offer by NAB to provide, or to be an obligation to provide, the NAB Services or any other service other than the FX Payment Service directly to you;
+    (3) NAB is not liable to you in respect of any amount payable to you in connection with your use of the AUD Payment Services;
+    (4) the amount of any transaction processed as a card payment using the NAB Services will be paid to Stripe by NAB and will be credited to your nominated account by us under the terms of this Agreement;
+    (5) Stripe is responsible for dealing with complaints or disputes relating to the Payment Services and you will refer any such complaints or disputes ("Dispute") immediately to Stripe for resolution in accordance with Stripe's dispute resolution procedures;
+    (6) you will provide all assistance reasonably required by Stripe to resolve a Dispute; and
+    (7) NAB is not liable (including liability for negligence) for any loss or damage caused directly or indirectly to you by NAB's provision, or failure to provide, the NAB Services to Stripe.
 
 3. ## Stripe's Software
 
@@ -124,14 +124,14 @@ Unless they are defined differently in context, the following words have these m
 4. ## Your obligations
 
     You:
-    (a)	must immediately notify Stripe of any change to your financial position which may affect your ability to perform your obligations under this Agreement; and
-    (b)	must not carry on business in a place which has not been approved by Stripe and must not move any of your places of business without Stripe's prior written consent; and
-    (c)	must only use the Payment Service for  a sales transaction where you are the supplier of the goods and/or services; and
-    (d)	must not submit Payment Service transactions on behalf of a third party. For the avoidance of doubt, this includes submitting transactions for goods or services sold on another Person's website; and
-    (e)	must allow the employees, contractors or agents of Stripe, NAB or any Card Scheme reasonable access to your premises during normal business hours to check your compliance with this Agreement, the Data Security Standards or for the purposes of the relevant Card Scheme Rules; and
-    (f)	must provide Stripe and NAB with all information and assistance Stripe or NAB reasonably require to perform Stripe's or NAB's obligations under this Agreement or in relation to the NAB Services and to deal with any queries in relation to the Payment Service; and
-    (g)	must comply with all applicable Card Scheme Rules and Relevant Laws and contractual requirements in accepting card payments and performing your obligations under this Agreement; and
-    (h)	will observe and implement the fraud prevention procedures set out in the manuals, guides or directions provided to you, unless otherwise mutually agreed to by the parties.
+    (a) must immediately notify Stripe of any change to your financial position which may affect your ability to perform your obligations under this Agreement; and
+    (b) must not carry on business in a place which has not been approved by Stripe and must not move any of your places of business without Stripe's prior written consent; and
+    (c) must only use the Payment Service for  a sales transaction where you are the supplier of the goods and/or services; and
+    (d) must not submit Payment Service transactions on behalf of a third party. For the avoidance of doubt, this includes submitting transactions for goods or services sold on another Person's website; and
+    (e) must allow the employees, contractors or agents of Stripe, NAB or any Card Scheme reasonable access to your premises during normal business hours to check your compliance with this Agreement, the Data Security Standards or for the purposes of the relevant Card Scheme Rules; and
+    (f) must provide Stripe and NAB with all information and assistance Stripe or NAB reasonably require to perform Stripe's or NAB's obligations under this Agreement or in relation to the NAB Services and to deal with any queries in relation to the Payment Service; and
+    (g) must comply with all applicable Card Scheme Rules and Relevant Laws and contractual requirements in accepting card payments and performing your obligations under this Agreement; and
+    (h) will observe and implement the fraud prevention procedures set out in the manuals, guides or directions provided to you, unless otherwise mutually agreed to by the parties.
 
 5. ## Authorization for Handling of Funds
 
@@ -198,9 +198,9 @@ Unless they are defined differently in context, the following words have these m
     If Stripe or NAB believe it is necessary based on your implementation and request it of you, you will promptly provide us with documentation evidencing your compliance with the Data Security Standards if requested by us. You also agree that you will use only Data Security Standards compliant service providers in connection with the storage, or transmission of Card Data defined as a cardholder’s account number, expiration date, and card verification value 2 ("CVV2"). You must not store CVV2 data at any time.
 
     You acknowledge and agree that if you fail to comply with the security protocols and standards set out in this Section:
-    (a)	Stripe or NAB may terminate this agreement and the Payment Services;
-    (b)	you are liable for any fine imposed on Stripe or NAB by any of the Card Schemes as a result of your failure to comply; and
-    (c)	you are liable for any fines which the Card Schemes levy in the event that you suffer a data compromise incident and have not complied with the PCI-DSS protocols.
+    (a) Stripe or NAB may terminate this agreement and the Payment Services;
+    (b) you are liable for any fine imposed on Stripe or NAB by any of the Card Schemes as a result of your failure to comply; and
+    (c) you are liable for any fines which the Card Schemes levy in the event that you suffer a data compromise incident and have not complied with the PCI-DSS protocols.
 
     Information on the Data Security Standards can be found on the Payment Card Industry Council’s website. It is your responsibility to comply with these standards.
 
@@ -241,19 +241,19 @@ Unless they are defined differently in context, the following words have these m
     You are required to obey all Relevant Laws applicable to your use of the Payment Service (for example, those governing financial services, consumer protections, unfair competition, anti-money laundering, anti-discrimination or false advertising).
 
     In addition to any other requirements or restrictions set forth in this Agreement, you shall not:
-    (a)	utilize the credit available on any Card to provide cash advances to Cardholders;
-    (b)	submit any card transaction for processing that does not arise from your sale of goods or service to a buyer customer, or acceptance of a bona fide charitable donation;
-    (c)	act as a payment intermediary or aggregator or otherwise resell Stripe's services on behalf of any third party;
-    (d)	send what you believe to be potentially fraudulent authorizations or fraudulent card transaction; or
-    (e)	use the Stripe Payment Service in a manner that Visa, MasterCard, American Express, Diners Club or any other Card Scheme reasonably believes to be an abuse of the Card Scheme or a violation of Card Scheme Rules.
+    (a) utilize the credit available on any Card to provide cash advances to Cardholders;
+    (b) submit any card transaction for processing that does not arise from your sale of goods or service to a buyer customer, or acceptance of a bona fide charitable donation;
+    (c) act as a payment intermediary or aggregator or otherwise resell Stripe's services on behalf of any third party;
+    (d) send what you believe to be potentially fraudulent authorizations or fraudulent card transaction; or
+    (e) use the Stripe Payment Service in a manner that Visa, MasterCard, American Express, Diners Club or any other Card Scheme reasonably believes to be an abuse of the Card Scheme or a violation of Card Scheme Rules.
     You further agree not to, nor to permit any third party to, do any of the following:
-    (f)	access or attempt to access Stripe systems, programs or data that are not made available for public use;
-    (g)	copy, reproduce, republish, upload, post, transmit, resell or distribute in any way material from Stripe;
-    (h)	permit any third party to use and benefit from the Payment Service via a rental, lease, timesharing, service bureau or other arrangement;
-    (i)	transfer any rights granted to you under this Agreement;
-    (j)	work around any of the technical limitations of the Payment Service, use any tool to enable features or functionalities that are otherwise disabled in the Payment Service, or decompile, disassemble or otherwise reverse engineer the Payment Service, except to the extent that such restriction is expressly prohibited by law;
-    (k)	perform or attempt to perform any actions that would interfere with the proper working of the Payment Service, prevent access to or use of the Payment Service by Stripe's other users, or impose an unreasonable or disproportionately large load on Stripe's infrastructure; or
-    (l)	otherwise use the Payment Service except as expressly allowed under this section.
+    (f) access or attempt to access Stripe systems, programs or data that are not made available for public use;
+    (g) copy, reproduce, republish, upload, post, transmit, resell or distribute in any way material from Stripe;
+    (h) permit any third party to use and benefit from the Payment Service via a rental, lease, timesharing, service bureau or other arrangement;
+    (i) transfer any rights granted to you under this Agreement;
+    (j) work around any of the technical limitations of the Payment Service, use any tool to enable features or functionalities that are otherwise disabled in the Payment Service, or decompile, disassemble or otherwise reverse engineer the Payment Service, except to the extent that such restriction is expressly prohibited by law;
+    (k) perform or attempt to perform any actions that would interfere with the proper working of the Payment Service, prevent access to or use of the Payment Service by Stripe's other users, or impose an unreasonable or disproportionately large load on Stripe's infrastructure; or
+    (l) otherwise use the Payment Service except as expressly allowed under this section.
 
 16. ## Suspicion of Unauthorised or Illegal Use
 
@@ -271,11 +271,11 @@ Unless they are defined differently in context, the following words have these m
     You acknowledge that NAB or Stripe may deliver notices to you in any of the ways listed below in this Section 18.
 
     A notice is considered to be received:
-    (a)	if delivered personally, at the time of delivery;
-    (b)	if sent by pre-paid post, on the third day after the posting;
-    (c)	if sent by facsimile transmission, on the date the transmitting machine records transmission of the complete document;
-    (d)	when the party sending the notice is the NAB or Stripe, if sent by email, at the time when the email enters your information system;
-    (e)	when the party sending the notice is Stripe, if posted to Stripe's website, after 24 hours of the time it is successfully posted to the website.
+    (a) if delivered personally, at the time of delivery;
+    (b) if sent by pre-paid post, on the third day after the posting;
+    (c) if sent by facsimile transmission, on the date the transmitting machine records transmission of the complete document;
+    (d) when the party sending the notice is the NAB or Stripe, if sent by email, at the time when the email enters your information system;
+    (e) when the party sending the notice is Stripe, if posted to Stripe's website, after 24 hours of the time it is successfully posted to the website.
     The address, facsimile number or email address to be used for notices is the last address, facsimile number or email address advised by a party.  You must inform Stripe immediately of any change of your address, facsimile number or email address.
 
 19. ## References to your relationship with Stripe
@@ -298,27 +298,27 @@ Unless they are defined differently in context, the following words have these m
 2. ## Approval to use payment services
 
     You acknowledge that:
-    (a)	the operation of this Agreement is conditional on NAB and Stripe approving an application for Stripe to provide the relevant Payment Services to you and this Agreement is not binding until that occurs; and
-    (b)	in relation to information provided by you to Stripe in connection with your application:
-    (i)	Stripe may provide that information to NAB;
-    (ii)	we may rely on such information as being complete, accurate and not misleading or deceptive; and
-    (iii)	NAB is not obliged to verify the completeness or accuracy of the information it receives from Stripe;
-    (c)	subject to compliance with Privacy Law, Stripe and NAB may obtain from any Card Scheme, a person who is involved in any Card Scheme, any credit reporting agency or any other person, information about your merchant history or Personal Information about you, a Related Body Corporate, your officers, employees or agents for any purpose relating to the operation of the Card Schemes and we can use any such information to assess your application;
-    (d)	subject to compliance with Privacy Law, Stripe and NAB can disclose information about your merchant history, a data breach and relevant Personal Information in the following circumstances:
-    (i)	to any Card Scheme or to any person who is involved in any Card Scheme, information about you for any purpose related to the operation of those schemes, card fraud detection agencies (including information about termination of merchant solutions and reason(s) for termination of NAB merchant solutions);
-    (ii)	where the law requires or permits us to do so; and
-    (iii)	where we have reasonable grounds to believe that either you are involved in dishonest or criminal activity, are a victim of such activity, may have information relevant to an inquiry into such activity or have experienced a data breach, to any law enforcement or regulatory agency whether or not we have been requested by that agency to provide such information; and
-    (e)	Stripe and NAB can disclose your information to any related entities of ours and to any outsourced service providers engaged by us (for example, mail houses, debt collection agencies (where necessary) or data analytics providers);
-    (f)	the decision whether to approve your application is at NAB's sole discretion and the reason for any decision which is made may not be given to you;
-    (g)	an approval by NAB is specific to the Payment Services being provided to you and does not in any way constitute a representation by NAB that you will able to use the services of another payment service provider or of NAB directly should you cease using the Payment Services for any reason; and
-    (h)	any information obtained by NAB during its assessment of an application under Section 2(a) is and remains confidential to NAB and will not be shared with you. NAB is bound by Card Scheme Rules and all correspondence and discussions between Card Schemes and NAB are confidential as between NAB and the Card Schemes.
+    (a) the operation of this Agreement is conditional on NAB and Stripe approving an application for Stripe to provide the relevant Payment Services to you and this Agreement is not binding until that occurs; and
+    (b) in relation to information provided by you to Stripe in connection with your application:
+    (i) Stripe may provide that information to NAB;
+    (ii)  we may rely on such information as being complete, accurate and not misleading or deceptive; and
+    (iii) NAB is not obliged to verify the completeness or accuracy of the information it receives from Stripe;
+    (c) subject to compliance with Privacy Law, Stripe and NAB may obtain from any Card Scheme, a person who is involved in any Card Scheme, any credit reporting agency or any other person, information about your merchant history or Personal Information about you, a Related Body Corporate, your officers, employees or agents for any purpose relating to the operation of the Card Schemes and we can use any such information to assess your application;
+    (d) subject to compliance with Privacy Law, Stripe and NAB can disclose information about your merchant history, a data breach and relevant Personal Information in the following circumstances:
+    (i) to any Card Scheme or to any person who is involved in any Card Scheme, information about you for any purpose related to the operation of those schemes, card fraud detection agencies (including information about termination of merchant solutions and reason(s) for termination of NAB merchant solutions);
+    (ii)  where the law requires or permits us to do so; and
+    (iii) where we have reasonable grounds to believe that either you are involved in dishonest or criminal activity, are a victim of such activity, may have information relevant to an inquiry into such activity or have experienced a data breach, to any law enforcement or regulatory agency whether or not we have been requested by that agency to provide such information; and
+    (e) Stripe and NAB can disclose your information to any related entities of ours and to any outsourced service providers engaged by us (for example, mail houses, debt collection agencies (where necessary) or data analytics providers);
+    (f) the decision whether to approve your application is at NAB's sole discretion and the reason for any decision which is made may not be given to you;
+    (g) an approval by NAB is specific to the Payment Services being provided to you and does not in any way constitute a representation by NAB that you will able to use the services of another payment service provider or of NAB directly should you cease using the Payment Services for any reason; and
+    (h) any information obtained by NAB during its assessment of an application under Section 2(a) is and remains confidential to NAB and will not be shared with you. NAB is bound by Card Scheme Rules and all correspondence and discussions between Card Schemes and NAB are confidential as between NAB and the Card Schemes.
     You represent and warrant that:
-    (i)	any information you provide to Stripe in connection with an application for Stripe to provide the Services is complete, accurate and not misleading or deceptive; and
-    (j)	if you have disclosed Personal Information to Stripe in connection with the application under Section 2 (a), where required, you have obtained the relevant individual's prior consent to the disclosure and otherwise complied with your obligations under Privacy Law; and
-    (k)	you are able to satisfy your obligations and responsibilities under this Agreement.
+    (i) any information you provide to Stripe in connection with an application for Stripe to provide the Services is complete, accurate and not misleading or deceptive; and
+    (j) if you have disclosed Personal Information to Stripe in connection with the application under Section 2 (a), where required, you have obtained the relevant individual's prior consent to the disclosure and otherwise complied with your obligations under Privacy Law; and
+    (k) you are able to satisfy your obligations and responsibilities under this Agreement.
     You acknowledge and agree that:
-    (l)	Stripe and NAB are authorised to obtain from third parties financial and credit information relating to you in connection with our decision to approve your application and in respect of Stripe and NAB's continuing evaluation of your financial and credit worthiness; and
-    (m)	any information collected by Stripe may be disclosed to NAB.
+    (l) Stripe and NAB are authorised to obtain from third parties financial and credit information relating to you in connection with our decision to approve your application and in respect of Stripe and NAB's continuing evaluation of your financial and credit worthiness; and
+    (m) any information collected by Stripe may be disclosed to NAB.
 
 3. ## Verification
 
@@ -331,11 +331,11 @@ Unless they are defined differently in context, the following words have these m
 4. ## Australian domicile requirements
 
     You acknowledge that we may only provide services to you under this Agreement where you:
-    (a)	have a permanent establishment in Australia through which transactions are completed;
-    (b)	are registered to do business in Australia;
-    (c)	have a local address in Australia for correspondence and acceptance of judicial process;
-    (d)	pay taxes in Australia (where required) in relation to the sales activity; and
-    (e)	satisfy any other domesticity requirements imposed by Card Schemes from time to time.
+    (a) have a permanent establishment in Australia through which transactions are completed;
+    (b) are registered to do business in Australia;
+    (c) have a local address in Australia for correspondence and acceptance of judicial process;
+    (d) pay taxes in Australia (where required) in relation to the sales activity; and
+    (e) satisfy any other domesticity requirements imposed by Card Schemes from time to time.
 
     In addition to any other right to terminate or suspend the Payment Service, we may immediately cease to accept transactions under this Agreement where you fail to satisfy the above requirements.
 
@@ -346,18 +346,18 @@ Unless they are defined differently in context, the following words have these m
     As part of your registration, you must provide your website URL (e.g. www.mystore.com.au) and the name under which you do business (which may be the business’s legal name or a “doing business name”) (e.g. MyStore Online Widgets). These two fields may appear in your customers’ credit or debit card statements. To avoid customer confusion and transaction disputes, it is important that you enter a description that clearly identifies your business as well as an accurate site URL.
 
     The website must clearly display the following information:
-    (a)	your business name (and Australian Business Number as applicable);
-    (b)	the address of your approved place of business;
-    (c)	your business contact details;
-    (d)	a complete description of the goods and services available for purchase on your web site with the price advertised in Australian dollars or, if applicable, a Covered Currency;
-    (e)	details of your return and refund policy, including how a transaction can be cancelled by a Cardholder; and
-    (f)	details of your delivery times for goods and services, which are appropriate for the type of business you carry on. If the delivery is to be delayed, the Cardholder must be notified of the delay and an option provided to them to obtain a refund;
-    (g)	details of any Australian export restrictions (if applicable);
-    (h)	details of your privacy policy, which must include the information required by Australian Privacy Principles 1.3 and 1.4, and how you intend to deal with, or share, Personal Information obtained from and about the Cardholder; and
-    (i)	a description of the measures you have to maintain the security of:
-    (i)	Cardholders' account data;
-    (ii)	any other information which, by notice, Stripe or NAB require you to display from time to time; and
-    (iii)	any other information required for the purpose of complying with card scheme rules.
+    (a) your business name (and Australian Business Number as applicable);
+    (b) the address of your approved place of business;
+    (c) your business contact details;
+    (d) a complete description of the goods and services available for purchase on your web site with the price advertised in Australian dollars or, if applicable, a Covered Currency;
+    (e) details of your return and refund policy, including how a transaction can be cancelled by a Cardholder; and
+    (f) details of your delivery times for goods and services, which are appropriate for the type of business you carry on. If the delivery is to be delayed, the Cardholder must be notified of the delay and an option provided to them to obtain a refund;
+    (g) details of any Australian export restrictions (if applicable);
+    (h) details of your privacy policy, which must include the information required by Australian Privacy Principles 1.3 and 1.4, and how you intend to deal with, or share, Personal Information obtained from and about the Cardholder; and
+    (i) a description of the measures you have to maintain the security of:
+    (i) Cardholders' account data;
+    (ii)  any other information which, by notice, Stripe or NAB require you to display from time to time; and
+    (iii) any other information required for the purpose of complying with card scheme rules.
     You must provide Stripe reasonable access to view, monitor and audit the pages of your website.
     Your website payments page must be protected by Secure Sockets Layer (SSL) or any other form of security method approved in writing by Stripe.
 
@@ -376,22 +376,22 @@ Unless they are defined differently in context, the following words have these m
     You agree that you will obtain an authorization from the Card Scheme(s) for each card transaction, as required under the Card Schemes’ rules, and will not submit a card transaction for settlement where there is a negative authorization or the card is otherwise expired. You acknowledge that the existence of an affirmative authorization from Stripe or NAB or the Card Schemes does not mean that a particular card transaction will not be subject to Chargeback, Reversal or Claim at a later date.
 
     Subject to the other provisions of this Agreement, you:
-    (a)	must only send Stripe a sales transaction when you have committed to provide the goods and services to the customer; and
-    (b)	must not accept a Card in a credit card transaction for the purpose of giving a Cardholder cash; and
-    (c)	must perform all obligations (including supplying all goods and/or services) to the cardholder in connection with the sale; and
-    (d)	must not sell, purchase, provide or exchange any information or document relating to a Cardholder's account number, or Card number, or a transaction, to any Person other than Stripe, NAB or the card issuer, or as otherwise required by law;
-    (e)	must, if you do provide or exchange any such information referred to in (d), do so in compliance with all Relevant Laws including Privacy Law;
-    (f)	must destroy any document that is no longer required to be retained, by applicable law or Card Scheme Rules, in a manner which makes the information unreadable;
-    (g)	must take reasonable steps to ensure that the information and documents mentioned in (d) are protected from misuse and loss and from unauthorised access, modification or disclosure;
-    (h)	must not make any representation in connection with any goods or services which may bind Stripe, NAB or any Card Scheme;
-    (i)	must not indicate or imply that Stripe, NAB or any Card Scheme endorse any goods or services or refer to a nominated Card in stating eligibility for goods, services, or any membership;
-    (j)	must not accept a Card or a transaction which is of a type you have been previously advised is not acceptable;
-    (k)	must provide sufficient training to your employees to ensure you meet your obligations under this Agreement; and must prominently and unequivocally inform the Cardholder of your identity at all points of Cardholder interaction (including on any relevant web site, promotional material and invoice) so that the Cardholder can readily distinguish you from Stripe, any supplier of goods or services to you, or any other third party;
-    (l)	must provide notice to any Cardholder with whom you enter into a transaction that you are responsible for that transaction, including for any goods or services provided, any payment transaction, related service enquiries, dispute resolution, and performance of the terms and conditions of the transaction;
-    (m)	must not unfairly distinguish between issuers of a Card when accepting a transaction;
-    (n)	must not refuse to complete a transaction solely because a Cardholder refuses to provide additional identification information in circumstances where we do not require you to obtain it;
-    (o)	if you collect or store Cardholder information, you must comply with any Data Security Standards notified to you; and
-    (p)	you may must not transfer or attempt to transfer financial liability under this Agreement by asking or requiring a Cardholder to waive his or her dispute rights.
+    (a) must only send Stripe a sales transaction when you have committed to provide the goods and services to the customer; and
+    (b) must not accept a Card in a credit card transaction for the purpose of giving a Cardholder cash; and
+    (c) must perform all obligations (including supplying all goods and/or services) to the cardholder in connection with the sale; and
+    (d) must not sell, purchase, provide or exchange any information or document relating to a Cardholder's account number, or Card number, or a transaction, to any Person other than Stripe, NAB or the card issuer, or as otherwise required by law;
+    (e) must, if you do provide or exchange any such information referred to in (d), do so in compliance with all Relevant Laws including Privacy Law;
+    (f) must destroy any document that is no longer required to be retained, by applicable law or Card Scheme Rules, in a manner which makes the information unreadable;
+    (g) must take reasonable steps to ensure that the information and documents mentioned in (d) are protected from misuse and loss and from unauthorised access, modification or disclosure;
+    (h) must not make any representation in connection with any goods or services which may bind Stripe, NAB or any Card Scheme;
+    (i) must not indicate or imply that Stripe, NAB or any Card Scheme endorse any goods or services or refer to a nominated Card in stating eligibility for goods, services, or any membership;
+    (j) must not accept a Card or a transaction which is of a type you have been previously advised is not acceptable;
+    (k) must provide sufficient training to your employees to ensure you meet your obligations under this Agreement; and must prominently and unequivocally inform the Cardholder of your identity at all points of Cardholder interaction (including on any relevant web site, promotional material and invoice) so that the Cardholder can readily distinguish you from Stripe, any supplier of goods or services to you, or any other third party;
+    (l) must provide notice to any Cardholder with whom you enter into a transaction that you are responsible for that transaction, including for any goods or services provided, any payment transaction, related service enquiries, dispute resolution, and performance of the terms and conditions of the transaction;
+    (m) must not unfairly distinguish between issuers of a Card when accepting a transaction;
+    (n) must not refuse to complete a transaction solely because a Cardholder refuses to provide additional identification information in circumstances where we do not require you to obtain it;
+    (o) if you collect or store Cardholder information, you must comply with any Data Security Standards notified to you; and
+    (p) you may must not transfer or attempt to transfer financial liability under this Agreement by asking or requiring a Cardholder to waive his or her dispute rights.
 
     You will submit all Card transactions for processing no later than three (3) days from the date of authorization.
 
@@ -405,90 +405,90 @@ Unless they are defined differently in context, the following words have these m
 
 
     If you are notified that you must prepare the Transaction Receipt, you must ensure the information contained in the Transaction Receipt:
-    (a)	is identical with the information on any other copy; and
-    (b)	legibly includes the information notified to you.
+    (a) is identical with the information on any other copy; and
+    (b) legibly includes the information notified to you.
     You must provide Stripe with the Transaction Receipt and any other required evidence of the transaction within seven days if you are asked by Stripe to provide it.
     If you wish to change your Internet or email address, or telephone number appearing on the Transaction Receipt, you must notify Stripe in writing at least 15 Banking Days prior to the change taking effect.
 
 3. ## Invalid or unacceptable transactions
 
     A transaction is not valid or is unacceptable if any of the following apply:
-    (a)	the transaction is illegal as per applicable laws;
-    (b)	if applicable, the signature on the voucher, Transaction Receipt or authority is forged or unauthorised;
-    (c)	the transaction is before or after any validity period indicated on the relevant Card;
-    (d)	you have been told not to accept the Card;
-    (e)	the transaction is not authorised by the Cardholder;
-    (f)	the particulars on the copy of the voucher or Transaction Receipt given to the Cardholder are not identical with the particulars on any other copy;
-    (g)	the price charged for the goods or services is inflated to include an undisclosed surcharge for card payments;
-    (h)	another person has provided or is to provide the goods or services the subject of the transaction to a Cardholder;
-    (i)	you did not actually supply the goods or services to a genuine Cardholder as required by the terms of the transaction, or have indicated your intention not to do so;
-    (j)	the transaction did not relate to the actual sale of goods or services to a genuine Cardholder;
-    (k)	the transaction is offered, recorded or billed in a currency we have not authorised you to accept;
-    (l)	this Agreement was terminated before the date of the transaction;
-    (m)	you have not complied with your obligations in Section C.1;
-    (n)	if applicable, the details are keyed into Equipment and you did not legibly record on a Transaction Receipt the information required by 2;
-    (o)	it is a remote transaction and you did not record reasonable identification details for the Cardholder and the commencement and expiry dates for the Card; orit is a credit transaction in which:
-    (i)	the amount of the transaction or transactions on the same occasion is more than any applicable limit notified to you;
-    (ii)	you collected or refinanced an existing debt including, without limitation, the collection of a dishonoured cheque or payment for previous card charges; or
-    (iii)	you provide a Cardholder with cash;
-    (p)	it occurs during a period in which your rights under this Agreement were suspended under or after this Agreement was terminated;
-    (q)	you cannot give a Transaction Receipt as required under these terms of service; or
-    (r)	for any other reason, the Cardholder is entitled under the Card Scheme Rules to a chargeback of the transaction.
+    (a) the transaction is illegal as per applicable laws;
+    (b) if applicable, the signature on the voucher, Transaction Receipt or authority is forged or unauthorised;
+    (c) the transaction is before or after any validity period indicated on the relevant Card;
+    (d) you have been told not to accept the Card;
+    (e) the transaction is not authorised by the Cardholder;
+    (f) the particulars on the copy of the voucher or Transaction Receipt given to the Cardholder are not identical with the particulars on any other copy;
+    (g) the price charged for the goods or services is inflated to include an undisclosed surcharge for card payments;
+    (h) another person has provided or is to provide the goods or services the subject of the transaction to a Cardholder;
+    (i) you did not actually supply the goods or services to a genuine Cardholder as required by the terms of the transaction, or have indicated your intention not to do so;
+    (j) the transaction did not relate to the actual sale of goods or services to a genuine Cardholder;
+    (k) the transaction is offered, recorded or billed in a currency we have not authorised you to accept;
+    (l) this Agreement was terminated before the date of the transaction;
+    (m) you have not complied with your obligations in Section C.1;
+    (n) if applicable, the details are keyed into Equipment and you did not legibly record on a Transaction Receipt the information required by 2;
+    (o) it is a remote transaction and you did not record reasonable identification details for the Cardholder and the commencement and expiry dates for the Card; orit is a credit transaction in which:
+    (i) the amount of the transaction or transactions on the same occasion is more than any applicable limit notified to you;
+    (ii)  you collected or refinanced an existing debt including, without limitation, the collection of a dishonoured cheque or payment for previous card charges; or
+    (iii) you provide a Cardholder with cash;
+    (p) it occurs during a period in which your rights under this Agreement were suspended under or after this Agreement was terminated;
+    (q) you cannot give a Transaction Receipt as required under these terms of service; or
+    (r) for any other reason, the Cardholder is entitled under the Card Scheme Rules to a chargeback of the transaction.
 
     A transaction for a sale or refund is not acceptable if:
-    (s)	the Cardholder disputes liability for the transaction for any reason or makes a claim for set-off or a counterclaim; or
-    (t)	it is of a class which NAB or Stripe decide, in their discretion, is not acceptable.
+    (s) the Cardholder disputes liability for the transaction for any reason or makes a claim for set-off or a counterclaim; or
+    (t) it is of a class which NAB or Stripe decide, in their discretion, is not acceptable.
     You acknowledge and agree that NAB or Stripe may:
-    (u)	refuse to accept a transaction if it is invalid or unacceptable, or may charge it back to you if it has already been processed, even if Stripe or NAB have given you an authorisation; and
-    (v)	reverse a sales transaction as a Chargeback, and debit your account for the amount of the chargeback, for any of the reasons in Section 3(a) through (t) or any other reason we notify you of from time to time; and
-    (w)	without limiting the above, delay, block, freeze or refuse to accept any transaction where NAB or Stripe have reasonable grounds to believe that the transaction breaches Australian law or sanctions or the laws or sanctions of any other country.
+    (u) refuse to accept a transaction if it is invalid or unacceptable, or may charge it back to you if it has already been processed, even if Stripe or NAB have given you an authorisation; and
+    (v) reverse a sales transaction as a Chargeback, and debit your account for the amount of the chargeback, for any of the reasons in Section 3(a) through (t) or any other reason we notify you of from time to time; and
+    (w) without limiting the above, delay, block, freeze or refuse to accept any transaction where NAB or Stripe have reasonable grounds to believe that the transaction breaches Australian law or sanctions or the laws or sanctions of any other country.
     You cannot infer from the fact that a cardholder has been issued with a nominated card, or that a transaction has been processed or an authorisation has been given, that we have guaranteed:
-    (x)	the cardholder's creditworthiness; or
-    (y)	the correct identity of the cardholder; or
-    (z)	that the transaction is valid and acceptable and will not be subsequently charged back or reversed; or
-    (aa)	that you have complied with your obligations under this agreement and you waive any right to claim that we do.
+    (x) the cardholder's creditworthiness; or
+    (y) the correct identity of the cardholder; or
+    (z) that the transaction is valid and acceptable and will not be subsequently charged back or reversed; or
+    (aa)  that you have complied with your obligations under this agreement and you waive any right to claim that we do.
 
 4. ## Card Acceptance Requirements
 
     You must:
-    (a)	use reasonable care to detect forged or unauthorised signatures or the unauthorised use or forgery of a Card; and
-    (b)	notify Stripe if you become aware of or suspect fraud on the part of a Cardholder; and
-    (c)	not deliberately reduce the value of any one transaction by:
-    (i)	splitting a transaction into two or more transactions; or
-    (ii)	allowing a Cardholder to purchase items separately; and
-    (d)	establish a fair policy for dealing with refunds and disputes about transactions and include information about that policy on Transaction Receipts as required by Stripe; and
-    (e)	only submit a transaction as a refund to a Cardholder if it is a genuine refund of a previous sale transaction. The refund must be processed to the same card that was used in the original sales transaction and be for the original sale amount or, if the cardholder has agreed to a partial refund, the amount of that partial refund; and
-    (f)	give refunds for transactions by means of credit and not in cash or cheque; and
-    (g)	not process a refund transaction as a way of transferring funds between your accounts; and
-    (h)	if a transaction for a sale does not cover the full amount of the sale:
-    (i)	in the situation in which the Card is used to make a deposit or pay an instalment you may accept the Card in payment of all or part of the outstanding balance; and
-    (ii)	in any other circumstance you must obtain the balance due at the time the sale is completed in cash; and
-    (i)	not state or set a minimum or maximum amount for a Card transaction without our prior written consent; and
-    (j)	not ask a Cardholder to reveal their PIN or any other secret identifier; and
-    (k)	contact Stripe for instructions if the identification of a Cardholder or the validity of the Card is uncertain; and
-    (l)	must not knowingly submit for processing any transaction that is illegal or that you should have known is illegal.
+    (a) use reasonable care to detect forged or unauthorised signatures or the unauthorised use or forgery of a Card; and
+    (b) notify Stripe if you become aware of or suspect fraud on the part of a Cardholder; and
+    (c) not deliberately reduce the value of any one transaction by:
+    (i) splitting a transaction into two or more transactions; or
+    (ii)  allowing a Cardholder to purchase items separately; and
+    (d) establish a fair policy for dealing with refunds and disputes about transactions and include information about that policy on Transaction Receipts as required by Stripe; and
+    (e) only submit a transaction as a refund to a Cardholder if it is a genuine refund of a previous sale transaction. The refund must be processed to the same card that was used in the original sales transaction and be for the original sale amount or, if the cardholder has agreed to a partial refund, the amount of that partial refund; and
+    (f) give refunds for transactions by means of credit and not in cash or cheque; and
+    (g) not process a refund transaction as a way of transferring funds between your accounts; and
+    (h) if a transaction for a sale does not cover the full amount of the sale:
+    (i) in the situation in which the Card is used to make a deposit or pay an instalment you may accept the Card in payment of all or part of the outstanding balance; and
+    (ii)  in any other circumstance you must obtain the balance due at the time the sale is completed in cash; and
+    (i) not state or set a minimum or maximum amount for a Card transaction without our prior written consent; and
+    (j) not ask a Cardholder to reveal their PIN or any other secret identifier; and
+    (k) contact Stripe for instructions if the identification of a Cardholder or the validity of the Card is uncertain; and
+    (l) must not knowingly submit for processing any transaction that is illegal or that you should have known is illegal.
     For remote transactions, you must:
-    (m)	take reasonable steps to verify the identity of the Person you are dealing with, in order to confirm that they are the genuine Cardholder, including by observing and implementing the recommendations in any fraud prevention material provided to you; and
-    (n)	record reasonable identification details of the Person you are dealing with, as well as the commencement and expiry dates of the Card.
+    (m) take reasonable steps to verify the identity of the Person you are dealing with, in order to confirm that they are the genuine Cardholder, including by observing and implementing the recommendations in any fraud prevention material provided to you; and
+    (n) record reasonable identification details of the Person you are dealing with, as well as the commencement and expiry dates of the Card.
 
 5. ## Surcharging
 
-    5.1	Definitions. For the purpose of this Section C.5, the following words or phrases have the following meanings:"Surcharge"" means any fee charged by a merchant to a cardholder that is added to a transaction for the acceptance of a card; and "reasonable costs of card acceptance" are costs that will be determined having regard to the Reserve Bank of Australia’s Guidance Note: Interpretation of Surcharging Standards, as amended or replaced from time to time.
+    5.1 Definitions. For the purpose of this Section C.5, the following words or phrases have the following meanings:"Surcharge"" means any fee charged by a merchant to a cardholder that is added to a transaction for the acceptance of a card; and "reasonable costs of card acceptance" are costs that will be determined having regard to the Reserve Bank of Australia’s Guidance Note: Interpretation of Surcharging Standards, as amended or replaced from time to time.
 
-    5.2	Amount of surcharge
-    (a)	Where you elect to charge a cardholder a surcharge in respect of a transaction, you must not impose a surcharge in excess of the reasonable cost of card acceptance.
-    (b)	Upon request by Stripe or any card schemes, you must produce supporting information to substantiate your costs of card acceptance.  Where the card scheme dictates the format of the required substantiation, e.g. through use of a "reasonable cost of acceptance calculator", you must provide details of your costs in the required format.
-    (c)	Where required by a card scheme, you must submit, at your cost, to an audit of your costs of card acceptance by an independent auditor approved by the Card Scheme requiring the audit. The audit must be completed and results reported back to the relevant card scheme within the timeframe specified by the Card Scheme.
-    (d)	Where, following an investigation into your surcharging and cost of card acceptance, we or a card scheme determine that the amount that you are surcharging exceeds the reasonable costs of card acceptance, we may, by 30 days notice to you, require you to reduce your surcharge level to an amount that does not exceed the reasonable costs of card acceptance.
-    (e)	Without limiting any other rights that we may have under this agreement, we may, by notice to you, terminate this agreement if, following receipt of notice under this Section, you fail to reduce your surcharge level to an amount that does not exceed the reasonable costs of card acceptance.
-    (f)	You acknowledge that excessive surcharging by you could expose NAB to fines from card schemes.  You agree to indemnify NAB against any fines imposed by card schemes in relation to your surcharging practices.
-    (g)	You acknowledge that card issuers may from time to time change the classification of a credit card (ie. standard or premium) and, as a result, when applying a surcharge rate to a cardholder, it cannot be guaranteed that the classification of the card (ie. standard or premium) on which you have based the surcharge will be same as the classification on which you are charged your merchant service fee in relation to the same transaction.
+    5.2 Amount of surcharge
+    (a) Where you elect to charge a cardholder a surcharge in respect of a transaction, you must not impose a surcharge in excess of the reasonable cost of card acceptance.
+    (b) Upon request by Stripe or any card schemes, you must produce supporting information to substantiate your costs of card acceptance.  Where the card scheme dictates the format of the required substantiation, e.g. through use of a "reasonable cost of acceptance calculator", you must provide details of your costs in the required format.
+    (c) Where required by a card scheme, you must submit, at your cost, to an audit of your costs of card acceptance by an independent auditor approved by the Card Scheme requiring the audit. The audit must be completed and results reported back to the relevant card scheme within the timeframe specified by the Card Scheme.
+    (d) Where, following an investigation into your surcharging and cost of card acceptance, we or a card scheme determine that the amount that you are surcharging exceeds the reasonable costs of card acceptance, we may, by 30 days notice to you, require you to reduce your surcharge level to an amount that does not exceed the reasonable costs of card acceptance.
+    (e) Without limiting any other rights that we may have under this agreement, we may, by notice to you, terminate this agreement if, following receipt of notice under this Section, you fail to reduce your surcharge level to an amount that does not exceed the reasonable costs of card acceptance.
+    (f) You acknowledge that excessive surcharging by you could expose NAB to fines from card schemes.  You agree to indemnify NAB against any fines imposed by card schemes in relation to your surcharging practices.
+    (g) You acknowledge that card issuers may from time to time change the classification of a credit card (ie. standard or premium) and, as a result, when applying a surcharge rate to a cardholder, it cannot be guaranteed that the classification of the card (ie. standard or premium) on which you have based the surcharge will be same as the classification on which you are charged your merchant service fee in relation to the same transaction.
 
-    5.3	Disclosure of surcharge.  You must clearly disclose to the cardholder before the transaction is completed any surcharge that you will charge for completing the transaction, and do it in such a way that allows the transaction to be cancelled without the cardholder occurring any cost.
-    (i)	You must display on the payment page on your website a notice stating:
-    (i)	that you charge a surcharge; and
-    (ii)	the exact amount or percentage of the surcharge.
-    (j)	You must not represent or otherwise imply that the surcharge is levied by a card scheme, by Stripe or NAB or any other financial institution.
+    5.3 Disclosure of surcharge.  You must clearly disclose to the cardholder before the transaction is completed any surcharge that you will charge for completing the transaction, and do it in such a way that allows the transaction to be cancelled without the cardholder occurring any cost.
+    (i) You must display on the payment page on your website a notice stating:
+    (i) that you charge a surcharge; and
+    (ii)  the exact amount or percentage of the surcharge.
+    (j) You must not represent or otherwise imply that the surcharge is levied by a card scheme, by Stripe or NAB or any other financial institution.
 
 6. ## Payouts and Transaction History
 
@@ -505,13 +505,13 @@ Unless they are defined differently in context, the following words have these m
     Except as required by law, you are solely responsible for compiling and retaining permanent records of all transactions and other data associated with your use of Stripe, your Transaction History and your use of the Payment Service.
 
     You acknowledge and agree that:
-    (a)	payment of the settlement funds by NAB to Stripe in accordance with your direction under this Section 6 will satisfy NAB’s obligation to you in respect of settlement of those funds;
-    (b)	Stripe is responsible for disbursing any amounts received from NAB to you, in accordance with your payout arrangements with Stripe; and
-    (c)	NAB will not be liable for any failure by Stripe to account to you for any funds received from NAB.
+    (a) payment of the settlement funds by NAB to Stripe in accordance with your direction under this Section 6 will satisfy NAB’s obligation to you in respect of settlement of those funds;
+    (b) Stripe is responsible for disbursing any amounts received from NAB to you, in accordance with your payout arrangements with Stripe; and
+    (c) NAB will not be liable for any failure by Stripe to account to you for any funds received from NAB.
 
 7. ## Payout Schedule
 
-    Payout schedule refers to the time it takes for Stripe to initiate a transfer to your Bank Account of settlement funds arising from card transactions processed through the Payment Service (“Payout Schedule”).  Stripe’s general Payout Schedule will be identified on <a href="https://stripe.com/help/transfers">https://stripe.com/help/transfers</a> or a successor website, and will typically be a rolling schedule (e.g., and for example only, 7 days) from the date of charge.  Stripe may change the Payout Schedule periodically as permitted under this Agreement.
+    Payout schedule refers to the time it takes for Stripe to initiate a transfer to your Bank Account of settlement funds arising from card transactions processed through the Payment Service (“Payout Schedule”).  Stripe’s general Payout Schedule will be identified on <a href="https://stripe.com/docs/transfers">https://stripe.com/docs/transfers</a> or a successor website, and will typically be a rolling schedule (e.g., and for example only, 7 days) from the date of charge.  Stripe may change the Payout Schedule periodically as permitted under this Agreement.
 
     Once your bank account information has been reviewed, Stripe will initiate transfer of settlement funds (less any Fees, Chargebacks, and other funds owed to Stripe for any reason) in accordance with the Payout Schedule, the terms of which will be made available to you when you login to your Stripe management dashboard. The settlement funds should normally be credited to your Bank Account within 1-2 days of Stripe initiating the payout.
 
@@ -524,9 +524,9 @@ Unless they are defined differently in context, the following words have these m
 8. ## Recurring transactions
 
     You may only process a transaction as a recurring transaction if:
-    (a)	you have obtained cardholder permission (either electronically or in hardcopy) to periodically charge for a recurring service and have provided notice (e.g. via email) prior to each successive charge; and
-    (b)	you retain this permission for the duration of the recurring services and make it available to us on request; and
-    (c)	you provide a simple and accessible online cancellation procedure, if the cardholder request for the goods or services was initially accepted online.
+    (a) you have obtained cardholder permission (either electronically or in hardcopy) to periodically charge for a recurring service and have provided notice (e.g. via email) prior to each successive charge; and
+    (b) you retain this permission for the duration of the recurring services and make it available to us on request; and
+    (c) you provide a simple and accessible online cancellation procedure, if the cardholder request for the goods or services was initially accepted online.
 
 9. ## Reconciliations and Errors
 
@@ -539,25 +539,25 @@ Unless they are defined differently in context, the following words have these m
 10. ## Refunds and Returns
 
     By accepting this Agreement, you agree to submit any and all refunds and adjustments for returns of your products and services through the Payment Service to the cardholder's card in accordance with the terms of this Agreement and Card Scheme Rules. Card Scheme Rules require that you will:
-    (a)	maintain a fair return, cancellation or adjustment policy;
-    (b)	disclose your return or cancellation policy to customers at the time of purchase;
-    (c)	not give cash refunds to a customer in connection with a Card sale, unless required by law; and
-    (d)	not accept cash or any other item of value for preparing a Card sale refund.
+    (a) maintain a fair return, cancellation or adjustment policy;
+    (b) disclose your return or cancellation policy to customers at the time of purchase;
+    (c) not give cash refunds to a customer in connection with a Card sale, unless required by law; and
+    (d) not accept cash or any other item of value for preparing a Card sale refund.
 
     You must only submit a transaction as a refund to a Cardholder if it is a genuine refund of a previous sale transaction. The refund must be processed to the same card that was used in the original sales transaction and be for the exact dollar amount of the original transaction including tax, handling charges, and any other fees or charges or, if the cardholder has agreed to a partial refund, the amount of that partial refund. The refund amount may not exceed the original sale amount except by an amount equal to any reimbursements to customer for postage costs incurred for product returns. You will use best efforts to process all refunds within sixty (60) days after the original transaction date, and you acknowledge that refunds processed after that time may not be capable of being processed
 
     For processed refunds, Stripe will deduct the refund amount (including any applicable Fees) from:
-    (e)	settlement funds owed to you from processing of other card transactions; or
-    (f)	funds in any Reserve Account.
+    (e) settlement funds owed to you from processing of other card transactions; or
+    (f) funds in any Reserve Account.
     If these funds are not sufficient, you authorise Stripe to initiate a direct debit to your Bank Account in the amount necessary to complete the refund transaction to the Cardholder’s card. In the event Stripe cannot access your Bank Account by means of direct debit, you agree to pay all funds owed to Stripe upon demand. You are solely responsible for accepting and processing returns of your products and services; Stripe has no responsibility or obligation for processing such returns.
 
 11. ## Chargebacks
 
     A Chargeback is typically caused when a customer disputes a charge that appears on their bill. A Chargeback may result in the reversal of a transaction, with the amount charged back to you. You can be assessed Chargebacks for:
-    (a)	customer disputes; or
-    (b)	unauthorised or improperly authorised transactions; or
-    (c)	transactions that do not comply with Card Scheme Rules or the terms of this Agreement or are allegedly unlawful or suspicious; or
-    (d)	any reversals for any reason by the Card Scheme, NAB, or the Cardholder bank.
+    (a) customer disputes; or
+    (b) unauthorised or improperly authorised transactions; or
+    (c) transactions that do not comply with Card Scheme Rules or the terms of this Agreement or are allegedly unlawful or suspicious; or
+    (d) any reversals for any reason by the Card Scheme, NAB, or the Cardholder bank.
 
     When a Chargeback is issued, you are immediately liable for the full amount of payment of the Chargeback plus any associated Fees, fines, expenses or penalties (including those assessed by the Card Schemes or NAB).
 
@@ -584,10 +584,10 @@ Unless they are defined differently in context, the following words have these m
 
     At any point, Stripe, NAB, or the Card Schemes may determine that you are incurring excessive Chargebacks. Excessive Chargebacks may result in additional fees, penalties, or fines that are payable by you. Excessive Chargebacks may also result in additional controls and restrictions to your use of the Payment Service, including without limitation:
 
-    (a)	changes to the terms of your Reserve Account;
-    (b)	increases to your applicable Fees;
-    (c)	delays in your Payout Schedule; or
-    (d)	suspension or termination of your Stripe account and the Payment Service.
+    (a) changes to the terms of your Reserve Account;
+    (b) increases to your applicable Fees;
+    (c) delays in your Payout Schedule; or
+    (d) suspension or termination of your Stripe account and the Payment Service.
     The Card Schemes may also place additional controls or restrictions as part of their own monitoring programs for merchants with excessive Chargebacks.
 
 14. ## Stripe Fees
@@ -611,10 +611,10 @@ Unless they are defined differently in context, the following words have these m
     Funds held in reserves are amounts of money set aside to cover Chargebacks, refunds, or other payment obligations under this agreement (a “Reserve Account”).   Stripe, in its sole discretion, will set the terms of your Reserve Account and notify you of such terms, which may require that a certain amount (including the full amount) of the funds received for your transaction is held for a period of time or that additional amounts are held in Reserve Account.   Stripe, in its sole discretion, may elect to change the terms of the Reserve Account at any time for any reason based on your payment processing history or as requested by NAB.
 
     Stripe may fund the Reserve Account by means of:
-    (a)	any funds payouts made or due to you for card transactions submitted to the Payment Service;
-    (b)	amounts available in your Bank Account by means of direct debit to that Bank Account;
-    (c)	other sources of funds associated with your Stripe account; or
-    (d)	requesting that you provide funds to Stripe for deposit to the Reserve Account.
+    (a) any funds payouts made or due to you for card transactions submitted to the Payment Service;
+    (b) amounts available in your Bank Account by means of direct debit to that Bank Account;
+    (c) other sources of funds associated with your Stripe account; or
+    (d) requesting that you provide funds to Stripe for deposit to the Reserve Account.
 
 17. ## Security Interest
 
@@ -635,20 +635,20 @@ Unless they are defined differently in context, the following words have these m
     Stripe may suspend or terminate this Agreement or any part of it and close your Stripe account at any time for any reason effective upon providing you notice in accordance with Section A .18 above.
 
     NAB or Stripe may suspend or terminate this Agreement or suspend then terminate this Agreement or any part of it at any time if:
-    (a)	you are in breach of your obligations under or arising out of this Agreement; or
-    (b)	if in NAB or Stripe's reasonable opinion, the processing of your transactions exposes  Stripe or NAB to an unacceptable level of  risk; or
-    (c)	you are or have engaged in conduct which exposes Stripe or NAB to potential fines or penalties imposed under Relevant Law; or
-    (d)	your rights under this Agreement are the subject of a direction made under Relevant Law that the Payment Service be suspended or terminated; or
-    (e)	Stripe determines in its sole discretion that you are ineligible for the Payment Service because of the risk associated with your Stripe account, including without limitation significant credit or fraud risk, that your business or Equipment is or has been targeted by a person engaged in fraudulent or dishonest activity whether with or without your knowledge or for any other reason; or
-    (f)	a direction is made under Relevant Law that the Payment Service be suspended or terminated; or
-    (g)	you have experienced an adverse change in financial circumstances; or
-    (h)	Stripe has concerns about your solvency or if you come insolvent or are subject to any form of insolvency administration or a resolution is passed or an order is made for winding up; or
-    (i)	you have a significant adverse credit event recorded against you; or
-    (j)	we are directed to by an Australian government regulator, a Card Scheme or a Card issuer, for any reason.
+    (a) you are in breach of your obligations under or arising out of this Agreement; or
+    (b) if in NAB or Stripe's reasonable opinion, the processing of your transactions exposes  Stripe or NAB to an unacceptable level of  risk; or
+    (c) you are or have engaged in conduct which exposes Stripe or NAB to potential fines or penalties imposed under Relevant Law; or
+    (d) your rights under this Agreement are the subject of a direction made under Relevant Law that the Payment Service be suspended or terminated; or
+    (e) Stripe determines in its sole discretion that you are ineligible for the Payment Service because of the risk associated with your Stripe account, including without limitation significant credit or fraud risk, that your business or Equipment is or has been targeted by a person engaged in fraudulent or dishonest activity whether with or without your knowledge or for any other reason; or
+    (f) a direction is made under Relevant Law that the Payment Service be suspended or terminated; or
+    (g) you have experienced an adverse change in financial circumstances; or
+    (h) Stripe has concerns about your solvency or if you come insolvent or are subject to any form of insolvency administration or a resolution is passed or an order is made for winding up; or
+    (i) you have a significant adverse credit event recorded against you; or
+    (j) we are directed to by an Australian government regulator, a Card Scheme or a Card issuer, for any reason.
     This Agreement will terminate automatically and immediately if:
-    (k)	Stripe's registration as a member service provider or independent sales organisation with any card scheme is cancelled;
-    (l)	Stripe's agreement with NAB for the provision of merchant services is terminated for any reason; or
-    (m)	any other agreement that you have with Stripe in respect of Stripe's payment processing services is terminated for any reason.
+    (k) Stripe's registration as a member service provider or independent sales organisation with any card scheme is cancelled;
+    (l) Stripe's agreement with NAB for the provision of merchant services is terminated for any reason; or
+    (m) any other agreement that you have with Stripe in respect of Stripe's payment processing services is terminated for any reason.
     You authorise NAB to disclose to any Card Scheme advice of termination of this Agreement and the reasons for the termination. You acknowledge that the information concerning termination of this Agreement then becomes available to any member of the Card Schemes. This information, available to any member of the Card Schemes, may be used in assessing subsequent applications for merchant facilities.
     This Section D.2 survives termination of this Agreement.
 
@@ -658,12 +658,12 @@ Unless they are defined differently in context, the following words have these m
 
     Termination does not relieve you of your obligations as defined in this Agreement and Stripe may elect to continue to hold any funds deemed necessary pending resolution of any other terms or obligations defined in this Agreement, including but not limited to Chargebacks, Fees, Refunds, or other investigations or proceedings.
     Upon termination you agree:
-    (a)	to immediately cease your use of the Payment Service;
-    (b)	to discontinue use of any Stripe trademarks; and
-    (c)	to immediately remove any Stripe references, logos and trademarks from your Site;
-    (d)	that the licence granted under this Agreement shall end;
-    (e)	that Stripe reserves the right (but have no obligation) to delete all of your information and account data stored on its servers; and
-    (f)	Stripe will not be liable to you for compensation, reimbursement, or damages in connection with your use of the Payment Service, or any termination or suspension of the Payment Service or deletion of your information or account data.
+    (a) to immediately cease your use of the Payment Service;
+    (b) to discontinue use of any Stripe trademarks; and
+    (c) to immediately remove any Stripe references, logos and trademarks from your Site;
+    (d) that the licence granted under this Agreement shall end;
+    (e) that Stripe reserves the right (but have no obligation) to delete all of your information and account data stored on its servers; and
+    (f) Stripe will not be liable to you for compensation, reimbursement, or damages in connection with your use of the Payment Service, or any termination or suspension of the Payment Service or deletion of your information or account data.
 
     At any time within thirty (30) days after terminating your Stripe account you may request in writing that Stripe transfer Card Data associated with your Transaction History to an alternative PCI-DSS Level 1 certified payment processor that you notify to Stripe. Stripe will use commercially reasonable efforts to complete such transfer within ten (10) business days from receipt of your written request.
 
@@ -676,10 +676,10 @@ Unless they are defined differently in context, the following words have these m
     The Payment Service is licensed and not sold. Stripe reserves all rights not expressly granted to you in this Agreement. The Payment Service is protected by copyright, trade secret and other intellectual property laws. Stripe owns the title, copyright and other worldwide Intellectual Property Rights (as defined below) in the Payment Service and all copies of the Payment Service. This Agreement does not grant you any rights to Stripe's trademarks or service marks.
 
     You acknowledge and agree that:
-    (a)	the Card Scheme logos, names and holograms ('the Marks') are owned solely and exclusively by the relevant Card Scheme; and
-    (b)	you will not contest the ownership of the Marks for any reason; and
-    (c)	the Card Scheme may at any time, immediately and without notice, prohibit you from using any of the Marks for any reason; and
-    (d)	you may only use advertising and promotional material for the cards or which show a Card Scheme mark in the manner NAB approves, unless you have received authorization from the Card Schemes through other means.
+    (a) the Card Scheme logos, names and holograms ('the Marks') are owned solely and exclusively by the relevant Card Scheme; and
+    (b) you will not contest the ownership of the Marks for any reason; and
+    (c) the Card Scheme may at any time, immediately and without notice, prohibit you from using any of the Marks for any reason; and
+    (d) you may only use advertising and promotional material for the cards or which show a Card Scheme mark in the manner NAB approves, unless you have received authorization from the Card Schemes through other means.
 
     For the purposes of this Agreement, “Intellectual Property Rights” means all patent rights, copyright rights, mask work rights, moral rights, rights of publicity, trademark, trade dress and service mark rights, goodwill, trade secret rights and other intellectual property rights as may now exist or hereafter come into existence, and all applications therefore and registrations, renewals and extensions thereof, under the laws of any state, country, territory or other jurisdiction.
 
@@ -694,39 +694,39 @@ Unless they are defined differently in context, the following words have these m
     “Claim” means a challenge to a payment that you or a buyer customer files directly with Stripe.
 
     “Reversal” means Stripe reverses the settlement of funds from a processed card transaction that you received because:
-    (a)	the card transaction is invalidated by the card issuer;
-    (b)	the settlement funds were sent to you in error by:
-    (i)	Stripe or NAB;
-    (ii)	the processors, suppliers or licensors of Stripe or NAB; or
-    (iii)	any of the respective affiliates, agents, directors and employees of any of the entities listed in (i) or (ii) above;
-    (c)	the sender of the payment did not have authorization to send the payment (for example: the buyer used a card that did not belong to the buyer);
-    (d)	you received the payment for activities that violated this Agreement or any other Stripe agreement; or
-    (e)	Stripe decided a Claim against you.
+    (a) the card transaction is invalidated by the card issuer;
+    (b) the settlement funds were sent to you in error by:
+    (i) Stripe or NAB;
+    (ii)  the processors, suppliers or licensors of Stripe or NAB; or
+    (iii) any of the respective affiliates, agents, directors and employees of any of the entities listed in (i) or (ii) above;
+    (c) the sender of the payment did not have authorization to send the payment (for example: the buyer used a card that did not belong to the buyer);
+    (d) you received the payment for activities that violated this Agreement or any other Stripe agreement; or
+    (e) Stripe decided a Claim against you.
     Stripe will have the final decision-making authority with respect to Claims, including without limitation claims for refunds for purchased items that are filed with Stripe by you or your customers. You will be required to reimburse Stripe for your liability. Your liability will include the full purchase price of the item plus the original shipping cost (and in some cases you may not receive the item back). You will not receive a refund of any fees paid to Stripe.
     Without limiting the foregoing, you agree to defend, indemnify, and hold harmless Stripe, NAB and their respective employees and agents (collectively “Disclaiming Entities”) from and against any claim, suit, demand, loss, liability, damage, action or proceeding arising out of or relating to:
-    (f)	your breach of any provision of this Agreement; and/or
-    (g)	your use of the Payment Service, including without limitation any Reversals, Chargebacks, Claims, fines, fees, penalties and attorneys’ fees;
-    (h)	your, or your employee’s or agent’s, negligence or willful misconduct; or
-    (i)	third party indemnity obligations Stripe or NAB incurs as a direct or indirect result of your acts or omissions (including indemnification of any Organization or Issuer).
+    (f) your breach of any provision of this Agreement; and/or
+    (g) your use of the Payment Service, including without limitation any Reversals, Chargebacks, Claims, fines, fees, penalties and attorneys’ fees;
+    (h) your, or your employee’s or agent’s, negligence or willful misconduct; or
+    (i) third party indemnity obligations Stripe or NAB incurs as a direct or indirect result of your acts or omissions (including indemnification of any Organization or Issuer).
 
     If you are liable for any amounts owed to Stripe, Stripe may immediately remove such amounts from your Reserve Account and deduct the amounts owed to Stripe from such Reserve Account funds. If you do not have sufficient funds in the Reserve Account to cover your liability, you will be required to immediately add funds additional funds to your Reserve Account to cover funds owed to Stripe. If you do not do so, Stripe may engage in collections efforts to recover such amounts from you at your cost and expense.
 
 7. ## Representation and Warranties
 
     You represent and warrant to us that:
-    (a)	you are eligible to register and use the services provided under this Agreement;
-    (b)	by entering into this Agreement you are not currently and will not be in breach of any Relevant Law or any obligation owed to any Person; and
-    (c)	you have the right, power, and ability to enter into and perform the obligations under this Agreement, and:
-    (i)	if you are a natural person, you are at least eighteen (18) years of age or, if you are under eighteen (18) years of age, you've obtained the consent of your parent or legal guardian to your execution of this Agreement and use of the Payment Services in the manner prescribed by Stripe;
-    (ii)	if you are an incorporated body, you validly exist under the laws of your place of incorporation and have the power and authority to carry on your business as that business is now being conducted and using any name under which that business is being conducted; and
-    (iii)	if you, a Related Body Corporate or any officer, employee or agent of you or a Related Body Corporate has at any time been listed on a database of terminated merchants maintained by any Card Scheme or have otherwise had merchant services terminated by another acquiring bank, you have disclosed that fact to Stripe;
-    (d)	the name identified by you when you registered is your name or business name under which you sell goods and services;
-    (e)	any sales transaction submitted by you will represent a bona fide sale by you;
-    (f)	any sales transactions submitted by you will accurately describe the goods and/or services sold and delivered to a purchaser;
-    (g)	you will fulfill all of your obligations to each customer for which you submit a transaction and will resolve any consumer dispute or complaint directly with the purchaser;
-    (h)	you and all transactions initiated by you will comply with all Relevant Laws applicable to your business, including any applicable tax laws and regulations;
-    (i)	except in the ordinary course of business, no sales transaction submitted by you through the Payment Service will represent a sale to any principal, partner, proprietor, or owner of your entity; and
-    (j)	you will not use the Payment Service, directly or indirectly, for any fraudulent undertaking or in any manner so as to interfere with the use of the Payment Service.
+    (a) you are eligible to register and use the services provided under this Agreement;
+    (b) by entering into this Agreement you are not currently and will not be in breach of any Relevant Law or any obligation owed to any Person; and
+    (c) you have the right, power, and ability to enter into and perform the obligations under this Agreement, and:
+    (i) if you are a natural person, you are at least eighteen (18) years of age or, if you are under eighteen (18) years of age, you've obtained the consent of your parent or legal guardian to your execution of this Agreement and use of the Payment Services in the manner prescribed by Stripe;
+    (ii)  if you are an incorporated body, you validly exist under the laws of your place of incorporation and have the power and authority to carry on your business as that business is now being conducted and using any name under which that business is being conducted; and
+    (iii) if you, a Related Body Corporate or any officer, employee or agent of you or a Related Body Corporate has at any time been listed on a database of terminated merchants maintained by any Card Scheme or have otherwise had merchant services terminated by another acquiring bank, you have disclosed that fact to Stripe;
+    (d) the name identified by you when you registered is your name or business name under which you sell goods and services;
+    (e) any sales transaction submitted by you will represent a bona fide sale by you;
+    (f) any sales transactions submitted by you will accurately describe the goods and/or services sold and delivered to a purchaser;
+    (g) you will fulfill all of your obligations to each customer for which you submit a transaction and will resolve any consumer dispute or complaint directly with the purchaser;
+    (h) you and all transactions initiated by you will comply with all Relevant Laws applicable to your business, including any applicable tax laws and regulations;
+    (i) except in the ordinary course of business, no sales transaction submitted by you through the Payment Service will represent a sale to any principal, partner, proprietor, or owner of your entity; and
+    (j) you will not use the Payment Service, directly or indirectly, for any fraudulent undertaking or in any manner so as to interfere with the use of the Payment Service.
     The representations and warranties set out in this Section are ongoing throughout the term of this Agreement.
 
 8. ## No Warranties
@@ -736,8 +736,8 @@ Unless they are defined differently in context, the following words have these m
     To the extent that you acquire goods or services from Stripe or NAB as a consumer within the meaning of the Australian Consumer Law, you have certain rights and remedies (including consumer guarantee rights) that cannot be excluded, restricted or modified by agreement.
 
     Nothing in this Agreement operates to exclude, restrict or modify the application of any implied condition or warranty, provision, the exercise of any right or remedy, or the imposition of any liability under the Australian Consumer Law or any other statute where to do so would:
-    (a)	contravene that statute; or
-    (b)	cause any term of this agreement to be void.
+    (a) contravene that statute; or
+    (b) cause any term of this agreement to be void.
 
     THE PAYMENT SERVICE AND ALL ACCOMPANYING DOCUMENTATION ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. USE OF THE PAYMENT SERVICE IS AT YOUR OWN RISK.
 
@@ -750,8 +750,8 @@ Unless they are defined differently in context, the following words have these m
     THE DISCLAIMING ENTITIES DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR PAYMENT SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE PAYMENT SERVICE OR ANY HYPERLINKED WEBSITE OR SERVICE, OR FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND STRIPE WILL NOT BE A PARTY TO OR IN ANY WAY MONITOR ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.
 
     To the extent permitted by law, all conditions, warranties, guarantees, rights, remedies, liabilities and other terms implied or conferred by statute, custom or the general law that impose any liability or obligation on Stripe are excluded under this agreement.   If a supply under this agreement is a supply of goods or services to a consumer within the meaning of the Australian Consumer Law, nothing contained in agreement excludes, restricts or modifies the application of any provision, the exercise of any right or remedy, or the imposition of any liability under the Australian Consumer Law, provided that, to the extent that the Australian Consumer Law permits Stripe to limit its liability, then Stripe's liability shall be limited to:
-    (c)	in the case of services, supplying the services again or payment of the cost of having the services supplied again; and
-    (d)	in the case of goods, replacing the goods, supplying equivalent goods or repairing the goods, or payment of the cost of replacing the goods, supplying equivalent goods or having the goods repaired.
+    (c) in the case of services, supplying the services again or payment of the cost of having the services supplied again; and
+    (d) in the case of goods, replacing the goods, supplying equivalent goods or repairing the goods, or payment of the cost of replacing the goods, supplying equivalent goods or having the goods repaired.
 
 9. ## Limitation of Liability and Damages
 
