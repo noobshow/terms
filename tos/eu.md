@@ -1,5 +1,5 @@
 <header id="tos">
-# Terms of Service &mdash; <%= @country_name %>
+# Terms of Service &mdash; {{country_name}}
 Last Updated: May 6, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
@@ -40,7 +40,7 @@ Stripe’s merchant service email address is [support@stripe.com](mailto:support
 
 Our Service helps you accept and process credit card, debit card and other types of card payments (collectively “cards” or “Cards”, each a “card” or “Card”) from your customers (each, a “customer” or a “Cardholder”) in exchange for your products and services. We do not assume any liability for the products or services purchased using our Service. You will be required to register for a service account to use Stripe (“Stripe Account”)(see Registering for Stripe). Your Stripe Account allows you to review card transactions that are in process of settling from a Card Network (as defined in Section A(2) below) and SPUKL to your Bank Account.  In providing our Service, SPUKL – which is authorised as an electronic money institution by the U.K. Financial Conduct Authority – will provide regulated payment services under this Agreement.
 
-[Stripe Connect](https://stripe.com/<%= @country.downcase %>/terms#stripe-connect) enables you to work with various platform providers to help manage your Stripe Account, provide ancillary services, or perform analytics using your data from your Stripe Account.  [Stripe Relay](https://stripe.com/<%= @country.downcase %>/terms#stripe-orders) provides you a mechanism for easily publishing your product data to various online channels. Each of these is discussed in more detail below.
+[Stripe Connect](https://stripe.com/{{country_code}}/terms#stripe-connect) enables you to work with various platform providers to help manage your Stripe Account, provide ancillary services, or perform analytics using your data from your Stripe Account.  [Stripe Relay](https://stripe.com/{{country_code}}/terms#stripe-orders) provides you a mechanism for easily publishing your product data to various online channels. Each of these is discussed in more detail below.
 
 ### 2. Payments Services
 
@@ -83,9 +83,9 @@ If we believe that a security breach or compromise of data has occurred, we may 
 
 ### 10. Privacy and Data Protection
 
-**a. Privacy:** You acknowledge that you have received, read in full and agree with the terms of our [Privacy Policy](https://stripe.com/<%= @country.downcase %>/privacy) linked to and incorporated into this Agreement by reference.  Our Privacy Policy contains your consent to our collection, use, retention, and disclosure of personal information as well as other matters set forth therein and which explains how and for what purposes we collect, use, retain, disclose, and safeguard the information you provide to us.
+**a. Privacy:** You acknowledge that you have received, read in full and agree with the terms of our [Privacy Policy](https://stripe.com/{{country_code}}/privacy) linked to and incorporated into this Agreement by reference.  Our Privacy Policy contains your consent to our collection, use, retention, and disclosure of personal information as well as other matters set forth therein and which explains how and for what purposes we collect, use, retain, disclose, and safeguard the information you provide to us.
 
-**b. Data Protection:** Protection of personal data are very important to us.  Stripe will comply with the applicable data protection laws, including in particular, the adoption of laws consistent with the EU Directive 95/46/EC (“EU Data Directive”) binding in <%= @country_name %>, as amended from time to time.
+**b. Data Protection:** Protection of personal data are very important to us.  Stripe will comply with the applicable data protection laws, including in particular, the adoption of laws consistent with the EU Directive 95/46/EC (“EU Data Directive”) binding in {{country_name}}, as amended from time to time.
 
 For any personal data processed on your behalf under this Agreement, Stripe and you both agree that you are the data controller and we are the data processor in relation to that data.  We shall process the personal data only in accordance with the terms of this Agreement and lawful instructions reasonably given by you to us from time to time.  We will employ appropriate technical and organisational measures to protect such personal data.  As data processor, Stripe may appoint sub-processors for parts of its processing of personal data, provided however, that the sub-processor assumes the same obligations as are imposed on Stripe as data processor.
 
@@ -258,7 +258,7 @@ We reserve the right, upon notice to you, to charge a fee for mediating or inves
 
 ### 9. Stripe Fees
 
-You agree to pay the fees (“Fees”) assessed by Stripe to you for providing the Service described in this Agreement. These fees will be calculated pursuant to the [Fee Schedule](https://stripe.com/<%= @country.downcase %>/pricing) linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, subject to a two months’ notice period to you. You are also obligated to pay all taxes and other charges imposed by any governmental authority, including without limitation any goods or services tax (including VAT), on the Service provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
+You agree to pay the fees (“Fees”) assessed by Stripe to you for providing the Service described in this Agreement. These fees will be calculated pursuant to the [Fee Schedule](https://stripe.com/{{country_code}}/pricing) linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, subject to a two months’ notice period to you. You are also obligated to pay all taxes and other charges imposed by any governmental authority, including without limitation any goods or services tax (including VAT), on the Service provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
 
 You acknowledge that you are also responsible for any penalties or fines imposed on Stripe or directly to you by any Card Network or financial institution as a result of your activities.
 
@@ -358,7 +358,7 @@ THIS LIMITATION OF LIABILITY SECTION APPLIES REGARDLESS OF THE LEGAL THEORY ON W
 
 THE PROVISIONS OF THIS SECTION 9 SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
 
-You may not use the Stripe Services from, or on behalf of persons or entities (a) in a country embargoed by the United States or <%= @country_name %> or (b) are identified as blocked or denied persons or entities (such as politically exposed persons or PEPs, or specially designated nationals or SDNs) by the United States or <%= @country_name %>.
+You may not use the Stripe Services from, or on behalf of persons or entities (a) in a country embargoed by the United States or {{country_name}} or (b) are identified as blocked or denied persons or entities (such as politically exposed persons or PEPs, or specially designated nationals or SDNs) by the United States or {{country_name}}.
 
 ### 10. Disputes; Choice of Law; Jurisdiction and Venue
 
@@ -372,7 +372,7 @@ Headings are included for convenience only, and shall not be considered in inter
 
 ### 11. Right to Amend
 
-We have the right to change or add to the terms of this Agreement, and to change, delete, discontinue, or impose conditions on any feature or aspect of the Service or software with two months’ prior notice, including such notice on <a href="http://www.stripe.com/<%= @country.downcase %>">our website</a> or any other website maintained or owned by Stripe for the purposes of providing services in terms of this Agreement. You will be deemed to have accepted the changes unless you notify us to the contrary in writing to Stripe’s email address as set out above before the proposed date of the change and any use of the Service or software after the notified date of proposed implementation of any such changes shall constitute your acceptance of this Agreement as modified. You have the right to terminate this Agreement immediately and without charge before that date. If any provision of this Agreement is judged to be illegal or unenforceable, the continuation in full force and effect of the remainder of the provisions shall not be prejudiced.
+We have the right to change or add to the terms of this Agreement, and to change, delete, discontinue, or impose conditions on any feature or aspect of the Service or software with two months’ prior notice, including such notice on <a href="http://www.stripe.com/{{country_code}}">our website</a> or any other website maintained or owned by Stripe for the purposes of providing services in terms of this Agreement. You will be deemed to have accepted the changes unless you notify us to the contrary in writing to Stripe’s email address as set out above before the proposed date of the change and any use of the Service or software after the notified date of proposed implementation of any such changes shall constitute your acceptance of this Agreement as modified. You have the right to terminate this Agreement immediately and without charge before that date. If any provision of this Agreement is judged to be illegal or unenforceable, the continuation in full force and effect of the remainder of the provisions shall not be prejudiced.
 
 ### 12. Assignment
 
