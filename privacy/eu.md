@@ -1,5 +1,5 @@
 <header id="privacy">
-# Privacy Policy &mdash; <%= @country_name %>
+# Privacy Policy &mdash; {{country_name}}
 This policy was last updated on December 9, 2015. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a>
 </header>
 
@@ -32,7 +32,7 @@ This Privacy Policy will help you understand the following:
 Please also review, if applicable, your agreement with Stripe, including our Terms of Service that shall govern in the event of any inconsistency with this Privacy Policy.
 
 ## What does this Privacy Policy apply to?
-This Policy applies to the [stripe.com](https://stripe.com/<%= @country.downcase %>) website, including all subpages and successor pages (collectively referred to as the “Website”), and also applies to all Services that we offer.
+This Policy applies to the [stripe.com](https://stripe.com) website, including all subpages and successor pages (collectively referred to as the “Website”), and also applies to all Services that we offer.
 
 This Policy does not apply to any website, product or service of any third-party company even if the website links to (or from) our Website. Please always review the privacy practices of any third-party company before deciding whether to provide any information.
 
@@ -99,7 +99,7 @@ We may share Checkout User's contact information, but not their card information
 
 Stripe Connect allows Merchants selling on partner websites, e.g. online marketplaces, to directly accept credit card payments. If you authorise an application to access your Stripe account using Stripe Connect, you acknowledge that we may share payment transaction data and related information with the third party that provides the authorised application. The use of your information by such third party will be subject to their applicable privacy policy, which you should carefully review.
 
-We may store your Personal Data in locations outside the direct control of Stripe, for instance, on servers or databases co-located with hosting providers. Some of our the related bodies corporate or third parties to whom we disclose your Personal Data are located outside of <%= @country_name %>. These countries may include the United States of America and Ireland.
+We may store your Personal Data in locations outside the direct control of Stripe, for instance, on servers or databases co-located with hosting providers. Some of our the related bodies corporate or third parties to whom we disclose your Personal Data are located outside of {{country_name}}. These countries may include the United States of America and Ireland.
 
 We may also disclose your Personal Data to law enforcement, government officials, or other third parties if required by law or we believe in good faith that the disclosure is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our Terms of Service.
 
@@ -129,7 +129,7 @@ We reserve the right to make changes to this Policy from time to time. Please re
 
 ## Access, Correction and Complaints – Contact Us
 
-Merchants can update their account information by signing on to our [Website](https://stripe.com/<%= @country.downcase %>) with their Stripe account.
+Merchants can update their account information by signing on to our [Website](https://stripe.com) with their Stripe account.
 
 If you have any questions or suggestions about this Privacy Policy or would like to access or seek correction of your Personal Data, or if you have complaints regarding our privacy practices, please contact our Privacy Officer by emailing [privacy@stripe.com](mailto:privacy@stripe.com).
 

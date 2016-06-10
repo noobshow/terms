@@ -37,7 +37,7 @@ This Privacy Policy will help you understand the following:
 <li><a href='#8'>Access, Correction and Complaints &mdash; Contact Us</a></li>
 </ol>
 <p>
-Please also review, if applicable, your agreement with Stripe, including our <a href="<%= Opus::DaemonCommon.stripe_link('stripe.com', '/terms')%>">Terms of Service</a> that shall govern in the event of any inconsistency with this Privacy Policy.
+Please also review, if applicable, your agreement with Stripe, including our <a href="https://stripe.com/terms">Terms of Service</a> that shall govern in the event of any inconsistency with this Privacy Policy.
 </p>
 <h2 id="1">1. What does this Privacy Policy apply to?</h2>
 <p>

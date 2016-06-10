@@ -21,7 +21,7 @@ Esta Política de Privacidad le ayudará a entender lo siguiente:
 <li><a href='#8'>Contáctenos</a></li>
 </ol>
 <p>
-Por favor también revise, en su caso, su convenio de <a href="<%= Opus::DaemonCommon.stripe_link('stripe.com', '/terms')%>">Términos del Servicio</a> con Stripe, mismo que prevalecerá en caso de cualquier incongruencia con esta Política de Privacidad.
+Por favor también revise, en su caso, su convenio de <a href="https://stripe.com/terms">Términos del Servicio</a> con Stripe, mismo que prevalecerá en caso de cualquier incongruencia con esta Política de Privacidad.
 </p>
 <h2 id="1">1. ¿Cuál es el objeto de esta Política de Privacidad?</h2>
 <p>
