@@ -1,11 +1,9 @@
-<section id="details">
-
 <header id="tos">
 # Stripe Checkout User Terms of Service
 Last Updated: June 18, 2013. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
-<article>
+<section>
 These Stripe Checkout User Terms of Service are a legal agreement between Stripe, Inc. (“Stripe,” “we” or “us”) and you, the user of the Stripe Checkout service (“you”).  By using the Stripe Checkout service, you agree to be bound by these terms and conditions.
 
 1. ## General.
@@ -64,5 +62,4 @@ These Stripe Checkout User Terms of Service are a legal agreement between Stripe
 
     Stripe failure to exercise or enforce any right or provision of the Terms of Service will not be considered a waiver of that right or provision. If any provision of these Terms of Service shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that these Terms of Service shall otherwise remain in full force and effect and remain enforceable between the parties. Headings are for reference purposes only and in no way define, limit, construe or describe the scope or extent of such section. these Terms of Service, including Stripe's policies governing Stripe Checkout referenced herein, constitutes the entire agreement between you and Stripe with respect to the use of Stripe Checkout. these Terms of Service is not intended and shall not be construed to create any rights or remedies in any parties other than you and  Stripe which each shall be a third party beneficiary of these Terms of Service, and no other person will have the ability to assert any rights as a third party beneficiary under these Terms of Service.
 
-</article>
 </section>
