@@ -25,8 +25,7 @@
   </p>
   <h2 id="1">1. What does this Privacy Policy apply to?</h2>
   <p>
-    <% if @country == 'US' %>
-    Stripe, Inc. is located at 3180 18th Street, Suite 100, San Francisco, California. <% end %>This Policy applies to the stripe.com website, including all subpages and successor pages (collectively referred to as the “Website”), and also applies to all software and services that we offer, including the Stripe Checkout form that may be made available on a third-party website, or other services that we offer through our Website when you register for a Stripe account (collectively referred to as the “Services”).
+    {{us_address}} This Policy applies to the stripe.com website, including all subpages and successor pages (collectively referred to as the “Website”), and also applies to all software and services that we offer, including the Stripe Checkout form that may be made available on a third-party website, or other services that we offer through our Website when you register for a Stripe account (collectively referred to as the “Services”).
   </p>
   <p>
     This Policy does not apply to any website, product or service of any third-party company even if the website links to (or is linked from) our Website. Stripe does not operate or control those websites, products or services. Please always review the privacy practices of a company before deciding whether to provide any information.
