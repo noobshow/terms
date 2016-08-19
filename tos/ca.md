@@ -1,14 +1,14 @@
 <header id="tos">
-# Terms of Service &mdash; Canada
+# Services Agreement &mdash; Canada
 Last Updated: October 23, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
 <section>
-## About our terms of service
+## About our Services Agreement
 
 Welcome to Stripe. We developed this payment service (the “Service”) to make it easy for you to accept credit and debit card payments online from your customers so you can focus on your own product or service.
 
-We have tried to draft these Merchant Terms of Service to be readable to people like us. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](https://stripe.com/help/contact).
+We have tried to draft this Merchant Services Agreement to be readable to people like us. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](https://stripe.com/contact).
 
 Below is a quick description of the sections in this Agreement, but (*legal disclaimer coming*) you should read each section to understand all the detailed terms of the agreement.
 
@@ -28,7 +28,7 @@ We pay you for your transactions (minus our fees), at a schedule communicated to
 
 We can terminate this agreement at any time (especially if you do something bad). You can also terminate anytime. Termination is effective immediately. Termination does not alter your liability for processed payments or related chargebacks. This section also includes all the extra legal stuff they make us add (e.g. indemnification, warranties, assignment). <a href="#section_d" class="arrow">Complete details</a>
 
-## Stripe terms of service
+## Stripe Services Agreement
 
 These Terms and Conditions constitute a legal agreement (“Agreement”) between and among the sole proprietor or business entity or business organization listed as the “Merchant” on the Service registration page (sometimes referred to as “you,” “your”, “user”), Stripe Payments Canada, Ltd. (“Stripe”), and Wells Fargo Bank, N.A., Canadian Branch (“Designated Bank”, and collectively with Stripe referred to as “we,” “our” or “us”).
 
@@ -174,7 +174,7 @@ These Terms and Conditions constitute a legal agreement (“Agreement”) betwee
 
 5. ### Refunds and Returns
 
-	By accepting these terms of service, you agree to submit any and all refunds and adjustments for returns of your products and services through the Stripe Service to the cardholder’s card in accordance with the terms of this Agreement and Network Rules. Network Rules require that you will (i) maintain a fair return, cancellation or adjustment policy; (ii) disclose your return or cancellation policy to customers at the time of purchase, (iii) not give cash refunds to a customer in connection with a Card sale, unless required by law, and (iv) not accept cash or any other item of value for preparing a Card sale refund.
+	By accepting this Services Agreement, you agree to submit any and all refunds and adjustments for returns of your products and services through the Stripe Service to the cardholder’s card in accordance with the terms of this Agreement and Network Rules. Network Rules require that you will (i) maintain a fair return, cancellation or adjustment policy; (ii) disclose your return or cancellation policy to customers at the time of purchase, (iii) not give cash refunds to a customer in connection with a Card sale, unless required by law, and (iv) not accept cash or any other item of value for preparing a Card sale refund.
 
 	Full refunds must be for the exact dollar amount of the original transaction including tax, handling charges, and other. The refund amount may not exceed the original sale amount except by an amount equal to any reimbursements to customer for postage costs incurred for product returns. Refunds processed though the Stripe Service must be submitted within sixty (60) days of the original transaction but in all cases, within three (3) days of approving the Cardholder refund.
 
@@ -204,7 +204,7 @@ These Terms and Conditions constitute a legal agreement (“Agreement”) betwee
 
 9. ### Stripe Fees
 
-	You agree to pay the Fees (“Fees”) assessed by us to you for providing the payment services described in this Agreement. These fees will be calculated pursuant to the <a href="https://stripe.com/help/pricing">Fee Schedule</a> linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, provided that, with respect to increases in or the introduction of new Fees related to credit card and debit card transactions such increase in or new Fees will be subject to a ninety (90) day notice period to you.  For greater certainty, notification is not required for fee changes made in accordance with predeterminations, if any, set out in the <a href="https://stripe.com/help/pricing">Fee Schedule</a>.  You are also obligated to pay all taxes and other charges imposed by any governmental authority, including without limitation any goods and services tax, harmonized sales tax and/or provincial or territorial sales tax, on the services provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
+	You agree to pay the Fees (“Fees”) assessed by us to you for providing the payment services described in this Agreement. These fees will be calculated pursuant to the <a href="https://stripe.com/pricing">Fee Schedule</a> linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, provided that, with respect to increases in or the introduction of new Fees related to credit card and debit card transactions such increase in or new Fees will be subject to a ninety (90) day notice period to you.  For greater certainty, notification is not required for fee changes made in accordance with predeterminations, if any, set out in the <a href="https://stripe.com/pricing">Fee Schedule</a>.  You are also obligated to pay all taxes and other charges imposed by any governmental authority, including without limitation any goods and services tax, harmonized sales tax and/or provincial or territorial sales tax, on the services provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
 
 	You acknowledge that you are also responsible for any penalties or fines imposed on Stripe or directly to you by any Network or financial institution as a result of your activities.
 
@@ -274,7 +274,7 @@ These Terms and Conditions constitute a legal agreement (“Agreement”) betwee
 
 7. ### Representation and Warranties
 
-	You represent and warrant to us that: (a) if you are a natural person, you are at least eighteen (18) years of age or, if you are under eighteen (18) years of age, you've obtained the consent of your parent or legal guardian to your execution of this Agreement and use of the Stripe Services in the manner prescribed by Stripe; (b) you are eligible to register and use the Service and have the right, power, and ability to enter into and perform under this Agreement; (c) the name identified by you when you registered is your name or business name under which you sell goods and services; (d) any sales transaction submitted by you will represent a bona fide sale by you; (e) any sales transactions submitted by you will accurately describe the goods and/or services sold and delivered to a purchaser; (f) you will fulfill all of your obligations to each customer for which you submit a transaction and will resolve any consumer dispute or complaint directly with the purchaser; (g) you and all transactions initiated by you will comply with all federal, provincial, territorial, and local laws, rules, and regulations applicable to your business, including any applicable tax laws and regulations; (h) except in the ordinary course of business, no sales transaction submitted by you through the Service will represent a sale to any principal, partner, proprietor, or owner of your entity; (i) you will not use the Service, directly or indirectly, for any fraudulent undertaking or in any manner so as to interfere with the use of the Service.
+	You represent and warrant to us that: (a) if you are a natural person, you are at least eighteen (18) years of age or, if you are under eighteen (18) years of age, you've obtained the consent of your parent or legal guardian to your execution of this Agreement and use of the Stripe Services Agreement in the manner prescribed by Stripe; (b) you are eligible to register and use the Service and have the right, power, and ability to enter into and perform under this Agreement; (c) the name identified by you when you registered is your name or business name under which you sell goods and services; (d) any sales transaction submitted by you will represent a bona fide sale by you; (e) any sales transactions submitted by you will accurately describe the goods and/or services sold and delivered to a purchaser; (f) you will fulfill all of your obligations to each customer for which you submit a transaction and will resolve any consumer dispute or complaint directly with the purchaser; (g) you and all transactions initiated by you will comply with all federal, provincial, territorial, and local laws, rules, and regulations applicable to your business, including any applicable tax laws and regulations; (h) except in the ordinary course of business, no sales transaction submitted by you through the Service will represent a sale to any principal, partner, proprietor, or owner of your entity; (i) you will not use the Service, directly or indirectly, for any fraudulent undertaking or in any manner so as to interfere with the use of the Service.
 
 8. ### No Warranties
 
@@ -379,7 +379,7 @@ These Terms and Conditions constitute a legal agreement (“Agreement”) betwee
 
 These terms only apply to you if you authorize another application to connect to your Stripe account.
 
-By authorizing another application to link to your Stripe account, you agree to be bound by these Stripe Connect User Terms as well as the <a href="#tos">Stripe Terms of Service</a>. You specifically agree as follows:
+By authorizing another application to link to your Stripe account, you agree to be bound by these Stripe Connect User Terms as well as the <a href="#tos">Stripe Services Agreement</a>. You specifically agree as follows:
 
 1. ### Application Permissions
 

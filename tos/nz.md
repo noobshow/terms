@@ -1,5 +1,5 @@
 <header id="nz_services_agmt">
-# Stripe Terms of Service &mdash; New Zealand
+# Stripe Services Agreement &mdash; New Zealand
 Last Updated: April 25, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
@@ -9,7 +9,7 @@ Welcome to Stripe. We developed Stripe (the “Payment Service”) to make it ea
 
 Stripe incorporates two processes, the NZD Payment Service which enables you to offer your goods and services and accept card payments in New Zealand dollars, and the FX Payment Service which enables you to offer your goods and services and accept card payments in particular foreign currencies.
 
-We have tried to draft these Stripe Terms of Service in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how Stripe operates, please do not hesitate to contact Stripe directly.
+We have tried to draft these Stripe Services Agreement in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how Stripe operates, please do not hesitate to contact Stripe directly.
 
 Below is a quick description of the sections in this Agreement, but there are important details in the whole document, so you should read it carefully.
 
@@ -29,7 +29,7 @@ Stripe pays you for your transactions (minus any fees), at a schedule communicat
 
 Bank of New Zealand (“BNZ”) or Stripe may suspend or terminate this agreement at any time (especially if you are in breach of this agreement or are breaking the law). You can also terminate anytime. Termination is effective immediately. Termination does not alter your liability for processed payments or related chargebacks. This section also includes all the extra legal stuff they make us add (e.g. indemnification, warranties, assignment).
 
-## Merchant Terms of Service
+## Merchant Services Agreement
 
 The Terms and Conditions described here constitute a legal agreement between the entity listed as the “Merchant” on the Service registration page (sometimes referred to as “you,” “your”, or “user”), Stripe Australia Pty Limited (“Stripe”) and the Bank of New Zealand (“BNZ”). Stripe and BNZ are collectively also referred to as “we”, “our” or “us”).
 
@@ -37,7 +37,7 @@ The Terms and Conditions described here constitute a legal agreement between the
 
 Unless they are defined differently in context, the following words have these meanings in this Agreement:
 
-“Agreement” means the Merchant Terms of Service described here.
+“Agreement” means the Merchant Services Agreement described here.
 
 “Bank Account” means the bank account you specify for payments to you in Section C.5.
 
@@ -299,7 +299,7 @@ If you are notified that you must prepare the Transaction Receipt, you must ensu
 
 ### 3. Invalid or unacceptable transactions
 
-A transaction is not valid or is unacceptable if any of the following apply: (a) the transaction is illegal as per applicable laws; (b) if applicable, the signature on the voucher, Transaction Receipt or authority is forged or unauthorised; (c) the transaction is before or after any validity period indicated on the relevant Card; (d) you have been told not to accept the Card; (e) the transaction is not authorised by the Cardholder; (f) the particulars on the copy of the voucher or Transaction Receipt given to the Cardholder are not identical with the particulars on any other copy; (g) the price charged for the goods or services is inflated to include an undisclosed surcharge for card payments; (h) another person has provided or is to provide the goods or services the subject of the transaction to a Cardholder; (i) you did not actually supply the goods or services to a genuine Cardholder as required by the terms of the transaction, or have indicated your intention not to do so; (j) the transaction did not relate to the actual sale of goods or services to a genuine Cardholder; (k) the transaction is offered, recorded or billed in a currency we have not authorised you to accept; (l) this Agreement was terminated before the date of the transaction; (m) you have not complied with your obligations in Section C.1; (n) if applicable, the details are keyed into Equipment and you did not legibly record on a Transaction Receipt the information required by 2; (o) it is a remote transaction and you did not record reasonable identification details for the Cardholder and the commencement and expiry dates for the Card; or it is a credit transaction in which: (i) the amount of the transaction or transactions on the same occasion is more than any applicable limit notified to you; (ii) you collected or refinanced an existing debt including, without limitation, the collection of a dishonoured cheque or payment for previous card charges; or (iii) you provide a Cardholder with cash; (p) it occurs during a period in which your rights under this Agreement were suspended under or after this Agreement was terminated; (q) you cannot give a Transaction Receipt as required under these terms of service; or (r) for any other reason, the Cardholder is entitled under the Card Scheme Rules to a chargeback of the transaction.
+A transaction is not valid or is unacceptable if any of the following apply: (a) the transaction is illegal as per applicable laws; (b) if applicable, the signature on the voucher, Transaction Receipt or authority is forged or unauthorised; (c) the transaction is before or after any validity period indicated on the relevant Card; (d) you have been told not to accept the Card; (e) the transaction is not authorised by the Cardholder; (f) the particulars on the copy of the voucher or Transaction Receipt given to the Cardholder are not identical with the particulars on any other copy; (g) the price charged for the goods or services is inflated to include an undisclosed surcharge for card payments; (h) another person has provided or is to provide the goods or services the subject of the transaction to a Cardholder; (i) you did not actually supply the goods or services to a genuine Cardholder as required by the terms of the transaction, or have indicated your intention not to do so; (j) the transaction did not relate to the actual sale of goods or services to a genuine Cardholder; (k) the transaction is offered, recorded or billed in a currency we have not authorised you to accept; (l) this Agreement was terminated before the date of the transaction; (m) you have not complied with your obligations in Section C.1; (n) if applicable, the details are keyed into Equipment and you did not legibly record on a Transaction Receipt the information required by 2; (o) it is a remote transaction and you did not record reasonable identification details for the Cardholder and the commencement and expiry dates for the Card; or it is a credit transaction in which: (i) the amount of the transaction or transactions on the same occasion is more than any applicable limit notified to you; (ii) you collected or refinanced an existing debt including, without limitation, the collection of a dishonoured cheque or payment for previous card charges; or (iii) you provide a Cardholder with cash; (p) it occurs during a period in which your rights under this Agreement were suspended under or after this Agreement was terminated; (q) you cannot give a Transaction Receipt as required under this Services Agreement; or (r) for any other reason, the Cardholder is entitled under the Card Scheme Rules to a chargeback of the transaction.
 
 A transaction for a sale or refund is not acceptable if: (s) the Cardholder disputes liability for the transaction for any reason or makes a claim for set-off or a counterclaim; or (t) it is of a class which BNZ or Stripe decide, in their discretion, is not acceptable. You acknowledge and agree that BNZ or Stripe may: (u) refuse to accept a transaction if it is invalid or unacceptable, or may charge it back to you if it has already been processed, even if Stripe or BNZ have given you an authorisation; and (v) reverse a sales transaction as a Chargeback, and debit your account for the amount of the chargeback, for any of the reasons in Section 3(a) through (t) or any other reason we notify you of from time to time; and (w) without limiting the above, delay, block, freeze or refuse to accept any transaction where BNZ or Stripe have reasonable grounds to believe that the transaction breaches New Zealand law or sanctions or the laws or sanctions of any other country. You cannot infer from the fact that a cardholder has been issued with a nominated card, or that a transaction has been processed or an authorisation has been given, that we have guaranteed: (x) the cardholder’s creditworthiness; or (y) the correct identity of the cardholder; or (z) that the transaction is valid and acceptable and will not be subsequently charged back or reversed; or (aa) that you have complied with your obligations under this agreement and you waive any right to claim that we do.
 
@@ -333,7 +333,7 @@ You acknowledge and agree that: (a) payment of the settlement funds by BNZ to St
 
 ### 7. Payout Schedule
 
-Payout schedule refers to the time it takes for Stripe to initiate a transfer to your Bank Account of settlement funds arising from card transactions processed through the Payment Service (“Payout Schedule”). Stripe’s general Payout Schedule will be identified on [our website](https://stripe.com/help/transfers) or a successor website, and will typically be a rolling schedule (e.g., and for example only, 7 days) from the date of charge. Stripe may change the Payout Schedule periodically as permitted under this Agreement.
+Payout schedule refers to the time it takes for Stripe to initiate a transfer to your Bank Account of settlement funds arising from card transactions processed through the Payment Service (“Payout Schedule”). Stripe’s general Payout Schedule will be identified on [our website](https://stripe.com/docs/transfers) or a successor website, and will typically be a rolling schedule (e.g., and for example only, 7 days) from the date of charge. Stripe may change the Payout Schedule periodically as permitted under this Agreement.
 
 Once your bank account information has been reviewed, Stripe will initiate transfer of settlement funds (less any Fees, Chargebacks, and other funds owed to Stripe for any reason) in accordance with the Payout Schedule, the terms of which will be made available to you when you login to your Stripe management dashboard. The settlement funds should normally be credited to your Bank Account within 1-2 days of Stripe initiating the payout.
 
@@ -557,7 +557,7 @@ The BNZ mailing address is Bank of New Zealand, Level 6, 80 Queen Street, Auckla
 
 These terms only apply to you if you authorise another application to connect to your Stripe account.
 
-By authorizing another application to link to your Stripe account, you agree to be bound by these Stripe Connect User Terms as well as the Stripe Terms of Service. You specifically agree as follows:
+By authorizing another application to link to your Stripe account, you agree to be bound by these Stripe Connect User Terms as well as the Stripe Services Agreement. You specifically agree as follows:
 
 ### 1. Application Permissions
 
