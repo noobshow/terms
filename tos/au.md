@@ -1,16 +1,16 @@
 <header id="tos">
-# Terms of Service &mdash; Australia
+# Services Agreement &mdash; Australia
 Last Updated: July 17, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
 <section>
-## About our terms of service
+## About our Services Agreement
 
 Welcome to Stripe. We developed Stripe (the “Payment Service”) to make it easy for you to accept credit and debit card payments online from your customers so you can focus on your own product or service.
 
 Stripe incorporates two processes, the AUD Payment Service which enables you to offer your goods and services and accept card payments in Australian dollars, and the FX Payment Service which enables you to offer your goods and services and accept card payments in particular foreign currencies.
 
-We have tried to draft these Merchant Terms of Service in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how Stripe operates, please do not hesitate to contact Stripe directly.
+We have tried to draft this Merchant Services Agreement in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how Stripe operates, please do not hesitate to contact Stripe directly.
 
 Below is a quick description of the sections in this Agreement, but there are important details in the whole document, so you should read it carefully.
 
@@ -30,7 +30,7 @@ Stripe pays you for your transactions (minus any fees), at a schedule communicat
 
 National Australia Bank Limited (“NAB”) or Stripe may suspend or terminate this agreement at any time (especially if you are in breach of this agreement or are breaking the law). You can also terminate anytime. Termination is effective immediately. Termination does not alter your liability for processed payments or related chargebacks. This section also includes all the extra legal stuff they make us add (e.g. indemnification, warranties, assignment). <a href="#section_d" class="arrow">Complete details</a>
 
-## Merchant Terms of Service
+# Merchant Services Agreement
 
 The Terms and Conditions described here constitute a legal agreement between the entity listed as the “Merchant” on the Service registration page (sometimes referred to as “you,” “your”, or “user”), Stripe Payments Australia Pty Limited (“Stripe”) and the National Australia Bank Limited ("NAB"). Stripe and NAB are collectively also referred to as “we”, “our” or “us”).
 
@@ -38,7 +38,7 @@ The Terms and Conditions described here constitute a legal agreement between the
 
 Unless they are defined differently in context, the following words have these meanings in this Agreement:
 
-“Agreement” means the Merchant Terms of Service described here.
+“Agreement” means the Merchant Services Agreement described here.
 
 “AUD Payment Service” means a facility provided to merchants by Stripe to facilitate the acceptance and processing of credit and debit card payments for goods and services provided to Cardholders by the merchant, where the amount to be processed is an Australian dollar amount.
 
@@ -430,7 +430,7 @@ Unless they are defined differently in context, the following words have these m
     (ii)  you collected or refinanced an existing debt including, without limitation, the collection of a dishonoured cheque or payment for previous card charges; or
     (iii) you provide a Cardholder with cash;
     (p) it occurs during a period in which your rights under this Agreement were suspended under or after this Agreement was terminated;
-    (q) you cannot give a Transaction Receipt as required under these terms of service; or
+    (q) you cannot give a Transaction Receipt as required under this services agreement; or
     (r) for any other reason, the Cardholder is entitled under the Card Scheme Rules to a chargeback of the transaction.
 
     A transaction for a sale or refund is not acceptable if:
@@ -826,7 +826,7 @@ Unless they are defined differently in context, the following words have these m
 
 These terms only apply to you if you authorise another application to connect to your Stripe account.
 
-By authorizing another application to link to your Stripe account, you agree to be bound by these Stripe Connect User Terms as well as the <a href="#tos">Stripe Terms of Service</a>. You specifically agree as follows:
+By authorizing another application to link to your Stripe account, you agree to be bound by these Stripe Connect User Terms as well as the <a href="#tos">Stripe Services Agreement</a>. You specifically agree as follows:
 
 1. ### Application Permissions
 

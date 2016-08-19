@@ -1,14 +1,14 @@
 <header id="tos">
-# Terms of Service &mdash; Hong Kong
+# Services Agreement &mdash; Hong Kong
 Last Updated: April 12, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms/blob/master/HK.md).
 </header>
 
 <section>
-## About our terms of service
+## About our Services Agreement
 
 Welcome to Stripe. We developed this payment service (the “Stripe Service” or “Service”) to make it easy for you to accept credit and debit card payments online from your customers so you can focus on your own product or service.
 
-We have tried to draft these Terms of Service in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](https://stripe.com/help/contact).
+We have tried to draft this Services Agreement in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](https://stripe.com/contact).
 
 Below is a quick description of the main sections of this Agreement, but there are important details in the whole document so you should read it.
 
@@ -28,7 +28,7 @@ We pay you for your transactions (minus our Fees), at a schedule communicated to
 
 We can terminate this Agreement for any reason or at any time (especially if you are in breach of this Agreement or are breaking the law). You can terminate at any time effective immediately. Termination does not alter your liability for processed payments or related chargebacks. This section also includes all the extra legal stuff they make us add (e.g. indemnification, warranties, assignment). <a href="#section_d" class="arrow">Complete details</a>
 
-## Stripe Terms of Service
+## Stripe Services Agreement
 
 These Terms and Conditions constitute a legal agreement (“Agreement”) between the sole proprietor or business entity or business organization listed as the “Merchant” on the Service registration page (sometimes referred to as “you,” “your”, “user”), and Stripe Payments Europe, Limited (“Stripe”) (sometimes referred to as “we,” “our” or “us”). You may request a copy of this Agreement, and the other terms or documents incorporated in it by reference, at any time during the term of this Agreement.
 
@@ -122,7 +122,7 @@ You agree that, from the time you begin processing payments with Stripe until yo
 
 ### 17. Stripe Connect
 
-Stripe Connect allows third-party platform providers (“Platforms”) to help you administer your Stripe Account and provide additional services directly to you or your customers. To permit Platforms to connect to your Stripe Account, you must add the Platform through the Stripe management dashboard and accept the <a href="https://stripe.com/connect/account-terms">Stripe Connected Account Agreement</a> (“Stripe Connected Account Agreement”).
+Stripe Connect allows third-party platform providers (“Platforms”) to help you administer your Stripe Account and provide additional services directly to you or your customers. To permit Platforms to connect to your Stripe Account, you must add the Platform through the Stripe management dashboard and accept the <a href="https://stripe.com/connect-account/legal">Stripe Connected Account Agreement</a> (“Stripe Connected Account Agreement”).
 
 By connecting Platforms to your Stripe Account you are authorizing Stripe to permit these Platforms to (a) access your Stripe Account and Payment Data, (b) create charges and customers in your Stripe Account, and (c) deduct amounts (for example, fees and charges) from the amount that would otherwise be payable to you from transactions occurring in connection with the Platform (“Platform Fees”). Any Platform Fees will be separately agreed upon by you and the Platform, and will be in addition to Stripe’s fees and charges.
 
@@ -211,7 +211,7 @@ If you submit or cause us to process transactions erroneously, you agree to cont
 
 ### 5. Refunds and Returns
 
-By accepting these terms of service, you agree to submit any and all refunds and adjustments for returns of your products and services through the Stripe Service to the Cardholder’s card in accordance with the terms of this Agreement and the applicable Network Rules. Network Rules require that you will (i) maintain a fair return, cancellation or adjustment policy; (ii) disclose your return or cancellation policy to customers at the time of purchase, (iii) not give cash refunds to customers in connection with a Card sale, unless required by law, and (iv) not accept cash or any other item of value for preparing a Card sale refund.
+By accepting this Services Agreement, you agree to submit any and all refunds and adjustments for returns of your products and services through the Stripe Service to the Cardholder’s card in accordance with the terms of this Agreement and the applicable Network Rules. Network Rules require that you will (i) maintain a fair return, cancellation or adjustment policy; (ii) disclose your return or cancellation policy to customers at the time of purchase, (iii) not give cash refunds to customers in connection with a Card sale, unless required by law, and (iv) not accept cash or any other item of value for preparing a Card sale refund.
 
 Full refunds must be for the exact amount of the original transaction including tax, handling charges, and other. The refund amount may not exceed the original sale amount except by an amount equal to any reimbursements to customers for postage costs incurred for product returns. Refunds processed through the Stripe Service must be submitted within sixty (60) days of the original transaction but in all cases, within three (3) days of approving the Cardholder refund.
 
@@ -241,7 +241,7 @@ At any point, Stripe, the Designated Bank, Earthport or the Card Networks may de
 
 ### 9. Stripe Fees
 
-You agree to pay the fees assessed by us to you for providing the Service described in this Agreement (“Fees”). These Fees will be calculated pursuant to the <a href="https://stripe.com/help/pricing">Fee Schedule</a> linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, subject to a two (2) months’ notice period to you. You are also obligated to pay all taxes and other charges imposed by any governmental authority, including without limitation any goods or services tax (including VAT), on the Service provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
+You agree to pay the fees assessed by us to you for providing the Service described in this Agreement (“Fees”). These Fees will be calculated pursuant to the <a href="https://stripe.com/pricing">Fee Schedule</a> linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, subject to a two (2) months’ notice period to you. You are also obligated to pay all taxes and other charges imposed by any governmental authority, including without limitation any goods or services tax (including VAT), on the Service provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
 
 You acknowledge that you are also responsible for any penalties or fines imposed on Stripe or directly to you by any Card Network or financial institution as a result of your activities.
 
@@ -271,7 +271,7 @@ You agree to complete and return the attached direct debit mandate(s) to authori
 
 Stripe grants you a personal, limited, non-exclusive, revocable, non-transferable licence, without the right to sublicence, to electronically access and use the Stripe Services solely to (a) accept and receive payments, (b) manage the funds you so receive, and (c) build applications utilising the Stripe Services in a manner consistent with this Agreement and the documentation available to you on <a href="https://stripe.com/docs">our website</a>. This licence includes use of the APIs, documentation, images, support pages, and any updates thereto provided to you by Stripe. Where updates are subject to new or additional terms, we will update this Agreement or provide notice to you. We may terminate this licence at any time if you use the Stripe Services or content, except as permitted by this Agreement.
 
-We may also periodically make available certain Stripe logos, trademarks, or other identifiers for your use (“Stripe Marks”). If we do so, you will use them subject to and in accordance with Stripe’s then current Stripe Marks Usage Agreement. Stripe may limit or revoke your ability to use Stripe Marks at any point. All rights not provided in the <a href="https://stripe.com/marks/terms">Stripe Marks Usage Agreement</a> are expressly reserved by Stripe. We may change Stripe Marks from time to time. In the event that Stripe Marks or Stripe Marks Usage Agreement are changed, you will (a) use the current version of the Stripe Marks and (b) use Stripe Marks consistent with the Stripe Marks Usage Agreement.
+We may also periodically make available certain Stripe logos, trademarks, or other identifiers for your use (“Stripe Marks”). If we do so, you will use them subject to and in accordance with Stripe’s then current Stripe Marks Usage Agreement. Stripe may limit or revoke your ability to use Stripe Marks at any point. All rights not provided in the <a href="https://stripe.com/marks/legal">Stripe Marks Usage Agreement</a> are expressly reserved by Stripe. We may change Stripe Marks from time to time. In the event that Stripe Marks or Stripe Marks Usage Agreement are changed, you will (a) use the current version of the Stripe Marks and (b) use Stripe Marks consistent with the Stripe Marks Usage Agreement.
 
 ### 2. Ownership
 
@@ -405,7 +405,7 @@ The parties hereby acknowledge that they have required this Agreement and all re
 
 These terms only apply to you if you authorize another application to connect to your Stripe Account.
 
-By authorizing another application to link to your Stripe Account, you agree to be bound by these Stripe Connect User Terms as well as the [Stripe Terms of Service](#tos). You specifically agree as follows:
+By authorizing another application to link to your Stripe Account, you agree to be bound by these Stripe Connect User Terms as well as the [Stripe Services Agreement](#tos). You specifically agree as follows:
 
 ## 1. Application Permissions
 

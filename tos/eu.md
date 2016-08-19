@@ -1,14 +1,14 @@
 <header id="tos">
-# Terms of Service &mdash; {{country_name}}
+# Services Agreement &mdash; <%= @country_name %>
 Last Updated: May 6, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
 <section>
-## About our terms of service
+## About our Services Agreement
 
 Welcome to Stripe. We developed this payment service (the "Stripe Service" or the “Service”) to make it easy for you to accept credit and debit card payments online from your customers so you can focus on your own product or service.
 
-We have tried to draft these Terms of Service in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](https://stripe.com/help/contact).
+We have tried to draft this Services Agreement in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](https://stripe.com/contact).
 
 Below is a quick description of the main sections of this Agreement, but there are important details in the whole document, so you should read it.
 
@@ -28,7 +28,7 @@ We pay you for your transactions (minus our fees), at a schedule communicated to
 
 We can terminate this Agreement for any reason on two months’ notice and immediately in certain circumstances (such as where you breach this Agreement). You can terminate at any time effective immediately. Termination does not alter your liability for processed payments or related chargebacks. This section also includes all the extra legal stuff they make us add (e.g. indemnification, warranties, assignment). <a href="#section_d" class="arrow">Complete details</a>
 
-## Stripe Terms of Service
+## Stripe Services Agreement
 
 These Terms and Conditions constitute a legal agreement (“Agreement”) between the sole proprietor or business entity or business organisation listed as the “Merchant” on the registration page (sometimes referred to as “you,” “your”, “user”) and Stripe Payments UK, Ltd. (“SPUKL”), Stripe Payments Europe, Ltd. (“SPEL”) (SPUKL and SPEL together collectively referred to as “Stripe”), and Valitor hf. (“Valitor”) (SPEL, SPUKL and Valitor together collectively referred to as “we,” “our” or “us”).. You may request a copy of this Agreement, and the other terms or documents incorporated in it by reference, at any time during the term of this Agreement.
 
@@ -40,7 +40,7 @@ Stripe’s merchant service email address is [support@stripe.com](mailto:support
 
 Our Service helps you accept and process credit card, debit card and other types of card payments (collectively “cards” or “Cards”, each a “card” or “Card”) from your customers (each, a “customer” or a “Cardholder”) in exchange for your products and services. We do not assume any liability for the products or services purchased using our Service. You will be required to register for a service account to use Stripe (“Stripe Account”)(see Registering for Stripe). Your Stripe Account allows you to review card transactions that are in process of settling from a Card Network (as defined in Section A(2) below) and SPUKL to your Bank Account.  In providing our Service, SPUKL – which is authorised as an electronic money institution by the U.K. Financial Conduct Authority – will provide regulated payment services under this Agreement.
 
-[Stripe Connect](https://stripe.com/{{country_code}}/terms#stripe-connect) enables you to work with various platform providers to help manage your Stripe Account, provide ancillary services, or perform analytics using your data from your Stripe Account.  [Stripe Relay](https://stripe.com/{{country_code}}/terms#stripe-orders) provides you a mechanism for easily publishing your product data to various online channels. Each of these is discussed in more detail below.
+[Stripe Connect](https://stripe.com/<%= @country.downcase %>/legal#use-of-stripe-connect-and-stripe-relay) enables you to work with various platform providers to help manage your Stripe Account, provide ancillary services, or perform analytics using your data from your Stripe Account.  [Stripe Relay](https://stripe.com/<%= @country.downcase %>/legal#use-of-stripe-connect-and-stripe-relay) provides you a mechanism for easily publishing your product data to various online channels. Each of these is discussed in more detail below.
 
 ### 2. Payments Services
 
@@ -133,7 +133,7 @@ You agree that, from the time you begin processing payments with Stripe until yo
 
 ### 17. Stripe Connect
 
-Stripe Connect allows third-party platform providers (“Platforms”) to help you administer your Stripe Account and provide additional services directly to you or your customers.  To permit Platforms to connect to your Stripe Account, you must add the Platform through the Stripe management dashboard and accept the [Stripe Connected Account Agreement](https://stripe.com/connect/account-terms) (“Stripe Connected Account Agreement”).
+Stripe Connect allows third-party platform providers (“Platforms”) to help you administer your Stripe Account and provide additional services directly to you or your customers.  To permit Platforms to connect to your Stripe Account, you must add the Platform through the Stripe management dashboard and accept the [Stripe Connected Account Agreement](https://stripe.com/connect-account/legal) (“Stripe Connected Account Agreement”).
 
 By connecting Platforms to your Stripe Account you are authorizing Stripe to permit these Platforms to (a) access your Stripe Account and Payment Data, (b) create charges and customers in your Stripe Account, and (c) deduct amounts (for example, fees and charges) from the amount that would otherwise be payable to you from transactions occurring in connection with the Platform (“Platform Fees”).  Any Platform Fees will be separately agreed upon by you and the Platform, and will be in addition to Stripe’s fees and charges.
 
@@ -228,7 +228,7 @@ If you submit or cause SPUKL or Valitor to process transactions erroneously, you
 
 ### 5. Refunds and Returns
 
-By accepting these terms of service, you agree to submit any and all refunds and adjustments for returns of your products and services through the Stripe Service to the Cardholder’s card in accordance with the terms of this Agreement and the applicable Network Rules. Network Rules require that you will (i) maintain a fair return, cancellation or adjustment policy; (ii) disclose your return or cancellation policy to customers at the time of purchase, (iii) not give cash refunds to customers in connection with a Card sale, unless required by law, and (iv) not accept cash or any other item of value for preparing a Card sale refund.
+By accepting this Services Agreement, you agree to submit any and all refunds and adjustments for returns of your products and services through the Stripe Service to the Cardholder’s card in accordance with the terms of this Agreement and the applicable Network Rules. Network Rules require that you will (i) maintain a fair return, cancellation or adjustment policy; (ii) disclose your return or cancellation policy to customers at the time of purchase, (iii) not give cash refunds to customers in connection with a Card sale, unless required by law, and (iv) not accept cash or any other item of value for preparing a Card sale refund.
 
 Full refunds must be for the exact amount of the original transaction including tax, handling charges, and other. The refund amount may not exceed the original sale amount except by an amount equal to any reimbursements to customers for postage costs incurred for product returns. Refunds processed through the Stripe Service must be submitted within sixty (60) days of the original transaction but in all cases, within three (3) days of approving the Cardholder refund.
 

@@ -1,14 +1,14 @@
 <header id="tos">
-# Terms of Service &mdash; Singapore
-Last Updated: May 19, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms/blob/master/SG.md).
+# Services Agreement &mdash; Singapore
+Last Updated: August 4, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms/blob/master/SG.md).
 </header>
 
 <section>
-## About our terms of service
+## About our Services Agreement
 
 Welcome to Stripe. We developed this payment service (the “Service” or “Stripe Service”) to make it easy for you to accept credit and debit card payments online from your customers so you can focus on your own product or service.
 
-We have tried to draft these Merchant Terms of Service in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](https://stripe.com/help/contact).
+We have tried to draft this Merchant Services Agreement in a clear and simple manner. Unfortunately, the realities of the legal world make it a very difficult task. So, should you have any questions or concerns or would simply like to better understand how we do things at Stripe, please do not hesitate to [contact us](https://stripe.com/contact).
 
 Below is a quick description of the main sections of this Agreement, but there are important details in the whole document so you should read it.
 
@@ -28,7 +28,7 @@ We pay you for your transactions (minus our Fees), at a schedule communicated to
 
 We can terminate this Agreement for any reason or at any time (especially if you are in breach of this Agreement or are breaking the law). You can terminate at anytime effective immediately. Termination does not alter your liability for processed payments or related chargebacks. This section also includes all the extra legal stuff they make us add (e.g. indemnification, warranties, assignment). <a href="#section_d" class="arrow">Complete details</a>
 
-## Stripe Terms of Service
+## Stripe Services Agreement
 
 These Terms and Conditions constitute a legal agreement (“Agreement”) between the sole proprietor or business entity or business organization listed as the “Merchant” on the Service registration page (sometimes referred to as “you,” “your”, “user”), and Stripe Payments Europe Limited (“Stripe”, which includes certain affiliates, where applicable) (sometimes referred to as “we,” “our” or “us”). You may request a copy of this Agreement, and the other terms or documents incorporated in it by reference, at any time during the term of this Agreement.
 
@@ -46,7 +46,7 @@ We provide the Stripe application programming interfaces (collectively, “API�
 
 ### 3. Authorization for Handling of Funds
 
-By accepting this Agreement, you acknowledge that certain entities designated by Stripe may hold, receive, and disburse funds on your behalf when such funds from your card transactions settle from the Card Networks. You acknowledge that First Data Merchant Solutions Private Limited, a company incorporated under the laws of Singapore under registered number 200616768C and having its registered office at 8 Marina Boulevard, #05-02, Singapore 018981, or alternatively, an entity designated by Stripe (each, the “Designated Bank”, as applicable) and Earthport plc, a public listed company incorporated and domiciled in England and quoted on AIM, having its registered office at 21 New Street, London, EC2M 4TP, United Kingdom (“Earthport”) may provide services in order for your card transaction settlement funds to be held, received and disbursed to you and the timing of such disbursements. You also acknowledge that the Designated Bank may hold settlement funds in a deposit account on trust on your behalf pending disbursement of the funds to you in accordance with the terms of this Agreement. You authorize us to provide our Service through which we will be acting as a technology service provider to the Designated Bank and Earthport.
+By accepting this Agreement, you acknowledge that certain entities designated by Stripe may hold, receive, and disburse funds on your behalf when such funds from your card transactions settle from the Card Networks, and you specifically consent to us transferring such funds between such entities prior to the funds being disbursed to you. You acknowledge that First Data Merchant Solutions Private Limited, a company incorporated under the laws of Singapore under registered number 200616768C and having its registered office at 8 Marina Boulevard, #05-02, Singapore 018981, or alternatively, an entity designated by Stripe (each, the “Designated Bank”, as applicable) and Earthport plc, a public listed company incorporated and domiciled in England and quoted on AIM, having its registered office at 21 New Street, London, EC2M 4TP, United Kingdom (“Earthport”) may provide services in order for your card transaction settlement funds to be held, received and disbursed to you and the timing of such disbursements. You also acknowledge that the Designated Bank may hold settlement funds in a deposit account on trust on your behalf pending disbursement of the funds to you in accordance with the terms of this Agreement. You authorize us to provide our Service through which we will be acting as a technology service provider to the Designated Bank and Earthport.
 
 You agree you are not entitled to any interest associated with the settlement funds held in the deposit account pending settlement to your specified bank settlement account and you may not assign any interest in those funds or the deposit account.
 
@@ -192,7 +192,7 @@ If you submit or cause us to process transactions erroneously, you agree to cont
 
 ### 5. Refunds and Returns
 
-By accepting these terms of service, you agree to submit any and all refunds and adjustments for returns of your products and services through the Stripe Service to the Cardholder’s card in accordance with the terms of this Agreement and the applicable Network Rules. Network Rules require that you will (i) maintain a fair return, cancellation or adjustment policy; (ii) disclose your return or cancellation policy to customers at the time of purchase, (iii) not give cash refunds to a customer in connection with a Card sale, unless required by law, and (iv) not accept cash or any other item of value for preparing a Card sale refund.
+By accepting this Services Agreement, you agree to submit any and all refunds and adjustments for returns of your products and services through the Stripe Service to the Cardholder’s card in accordance with the terms of this Agreement and the applicable Network Rules. Network Rules require that you will (i) maintain a fair return, cancellation or adjustment policy; (ii) disclose your return or cancellation policy to customers at the time of purchase, (iii) not give cash refunds to a customer in connection with a Card sale, unless required by law, and (iv) not accept cash or any other item of value for preparing a Card sale refund.
 
 Full refunds must be for the exact dollar amount of the original transaction including tax, handling charges, and other. The refund amount may not exceed the original sale amount except by an amount equal to any reimbursements to customer for postage costs incurred for product returns. Refunds processed through the Stripe Service must be submitted within sixty (60) days of the original transaction but in all cases, within three (3) days of approving the Cardholder refund.
 
@@ -222,7 +222,7 @@ At any point, Stripe, the Designated Bank, Earthport or the Card Networks may de
 
 ### 9. Stripe Fees
 
-You agree to pay the fees assessed by us to you for providing the processing and other services described in this Agreement (“Fees”). These Fees will be calculated pursuant to the <a href="https://stripe.com/help/pricing">Fee Schedule</a> linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, provided that, with respect to increases in or the introduction of new Fees related to credit card and debit card transactions such increase in or new Fees will be subject to a ninety (90) day notice period to you. For greater certainty, notification is not required for fee changes made in accordance with predeterminations, if any, set out in the <a href="https://stripe.com/help/pricing">Fee Schedule</a>.  You are also obligated to pay all taxes and other charges imposed by any governmental authority on the services provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
+You agree to pay the fees assessed by us to you for providing the processing and other services described in this Agreement (“Fees”). These Fees will be calculated pursuant to the <a href="https://stripe.com/pricing">Fee Schedule</a> linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, provided that, with respect to increases in or the introduction of new Fees related to credit card and debit card transactions such increase in or new Fees will be subject to a ninety (90) day notice period to you. For greater certainty, notification is not required for fee changes made in accordance with predeterminations, if any, set out in the <a href="https://stripe.com/pricing">Fee Schedule</a>.  You are also obligated to pay all taxes and other charges imposed by any governmental authority on the services provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
 
 You acknowledge that you are also responsible for any penalties or fines imposed on Stripe or directly to you by any Card Network or financial institution as a result of your activities.
 
@@ -374,7 +374,7 @@ The parties hereby acknowledge that they have required this Agreement and all re
 
 These terms only apply to you if you authorize another application to connect to your Stripe Account.
 
-By authorizing another application to link to your Stripe Account, you agree to be bound by these Stripe Connect User Terms as well as the [Stripe Terms of Service](#tos). You specifically agree as follows:
+By authorizing another application to link to your Stripe Account, you agree to be bound by these Stripe Connect User Terms as well as the [Stripe Services Agreement](#tos). You specifically agree as follows:
 
 ## 1. Application Permissions
 
