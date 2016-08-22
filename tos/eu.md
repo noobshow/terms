@@ -1,5 +1,5 @@
 <header id="tos">
-# Services Agreement &mdash; <%= @country_name %>
+# Services Agreement &mdash; {{country_name}}
 Last Updated: May 6, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms).
 </header>
 
@@ -40,7 +40,7 @@ Stripe’s merchant service email address is [support@stripe.com](mailto:support
 
 Our Service helps you accept and process credit card, debit card and other types of card payments (collectively “cards” or “Cards”, each a “card” or “Card”) from your customers (each, a “customer” or a “Cardholder”) in exchange for your products and services. We do not assume any liability for the products or services purchased using our Service. You will be required to register for a service account to use Stripe (“Stripe Account”)(see Registering for Stripe). Your Stripe Account allows you to review card transactions that are in process of settling from a Card Network (as defined in Section A(2) below) and SPUKL to your Bank Account.  In providing our Service, SPUKL – which is authorised as an electronic money institution by the U.K. Financial Conduct Authority – will provide regulated payment services under this Agreement.
 
-[Stripe Connect](https://stripe.com/<%= @country.downcase %>/legal#use-of-stripe-connect-and-stripe-relay) enables you to work with various platform providers to help manage your Stripe Account, provide ancillary services, or perform analytics using your data from your Stripe Account.  [Stripe Relay](https://stripe.com/<%= @country.downcase %>/legal#use-of-stripe-connect-and-stripe-relay) provides you a mechanism for easily publishing your product data to various online channels. Each of these is discussed in more detail below.
+[Stripe Connect](https://stripe.com/{{country_code}}/legal#use-of-stripe-connect-and-stripe-relay) enables you to work with various platform providers to help manage your Stripe Account, provide ancillary services, or perform analytics using your data from your Stripe Account.  [Stripe Relay](https://stripe.com/{{country_code}}/legal#use-of-stripe-connect-and-stripe-relay) provides you a mechanism for easily publishing your product data to various online channels. Each of these is discussed in more detail below.
 
 ### 2. Payments Services
 
