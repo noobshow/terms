@@ -1,15 +1,15 @@
 <header id="prohibited_businesses">
-# Prohibited Businesses
-Last Updated: September 29, 2014. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a>.
+<h1>Prohibited Businesses</h1>
+<p>Last Updated: July 18, 2016. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a>.</p>
 </header>
 
 <section id="prohibited_list">
-<p>The following categories of businesses and business practices are prohibited from using the Stripe Service (“Prohibited Businesses”). Most Prohibited Business categories are imposed by Card Network rules or the requirements of our banking providers or processors. The types of businesses listed in the right column are representative, but not exhaustive. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please [contact us](mailto:support@stripe.com).</p>
+<p>The following categories of businesses and business practices are prohibited from using the Stripe Service (“Prohibited Businesses”). Prohibited Business categories may be imposed through Network Rules or the requirements of our Financial Services Providers. The types of businesses listed in the right column are representative, but not exhaustive. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please <a href="mailto:support@stripe.com">contact us</a>.</p>
 
-<p>By registering for Stripe, you are confirming that you will not use the Service to accept payments in connection with the following businesses, business activities or business practices.
-</p>
+<p><strong>By registering with us, you are confirming that you will not use the Service to accept payments in connection with the following businesses, business activities or business practices.</strong></p>
 
 <h2>Financial and professional services</h2>
+
 <table>
   <tr>
     <td style="width:30%;">
@@ -39,7 +39,7 @@ Last Updated: September 29, 2014. Previous versions and diffs are <a href="https
   </tr>
 </table>
 
-<h2>IP Infringement, regulated or illegal products and services</h2>
+##IP Infringement, regulated or illegal products and services
 <table>
   <tr>
     <td style="width:30%;">
@@ -84,7 +84,7 @@ Last Updated: September 29, 2014. Previous versions and diffs are <a href="https
 </table>
 
 
-<h2>Unfair, predatory, or deceptive practices</h2>
+##Unfair, predatory, or deceptive practices
 <table>
   <tr>
     <td style="width:30%;">
@@ -112,7 +112,7 @@ Last Updated: September 29, 2014. Previous versions and diffs are <a href="https
   </tr>
 </table>
 
-<h2>Products or services that are otherwise prohibited by our financial partners</h2>
+##Products or services that are otherwise prohibited by our financial partners
 <table>
   <tr>
     <td style="width:30%;">
