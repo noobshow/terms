@@ -1,67 +1,192 @@
 <header id="prohibited_businesses">
-# Prohibited Businesses
-Last Updated: October 15, 2013. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a>.
+<h1>Prohibited Businesses</h1>
+<p>Last Updated: July 18, 2016. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a>.</p>
 </header>
 
 <section id="prohibited_list">
-The following categories of businesses and business practices are prohibited from using the Stripe Service (“Prohibited Businesses”).   Most, although not all, of these Prohibited Business categories are imposed by Card Network rules or the requirements of our banking providers or processors.  If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please contact us.
+<p>The following categories of businesses and business practices are prohibited from using the Stripe Service (“Prohibited Businesses”). Prohibited Business categories may be imposed through Network Rules or the requirements of our Financial Services Providers. The types of businesses listed in the right column are representative, but not exhaustive. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please <a href="mailto:support@stripe.com">contact us</a>.</p>
 
-By registering for Stripe, you are confirming that you will not use the Service to accept payments in connection with the following businesses, business activities or business practices:
+<p><strong>By registering with us, you are confirming that you will not use the Service to accept payments in connection with the following businesses, business activities or business practices.</strong></p>
 
-1. Online or other non-face-to-face tobacco, e-cigarette sales, or related items (such as personal vaporizers or e-juice)
-1. Weapons and munitions
-1. Virtual currency that can be monetized, re-sold or converted to physical or digital products or services or otherwise exit the virtual world
-1. Sexually-oriented or pornographic products or services
-1. Marijuana dispensaries and related businesses
-1. Door-to-door sales
-1. Offering substantial rebates or special incentives to the cardholder subsequent to the original purchase
-1. Negative response marketing
-1. Engaging in deceptive marketing practices
-1. Sharing cardholder information with another merchant for payment of up-sell or cross-sell product or service
-1. Evading Card Network’s chargeback monitoring programs
-1. Engaging in any form of licensed or unlicensed aggregation or factoring
-1. Airlines
-1. Age verification
-1. Age restricted products or services
-1. Bail bonds
-1. Bankruptcy lawyers
-1. Bidding fee auctions
-1. Collection agencies
-1. Chain letters
-1. Check cashing, wire transfers, or money orders
-1. Counterfeit products
-1. Currency exchanges or dealers
-1. Embassies, foreign consulates, or other foreign governments
-1. Firms selling business opportunities, investment opportunities, mortgage consulting or reduction, credit counseling, repair or protection, or real estate purchases with no money down
-1. Credit card and identity theft protection
-1. Cruise lines
-1. Essay mills
-1. Flea markets
-1. Drug paraphernalia
-1. Extended warranties
-1. Psychic services
-1. “Get rich quick” schemes
-1. Gambling (including but not limited to lotteries, Internet gaming, contests, sweepstakes, or offering of prizes as an inducement to purchase products or services)
-1. Sports forecasting or odds making
-1. Illegal products or services
-1. Mail-order brides
-1. Money transmitters or money service businesses
-1. Multi-level marketing or pyramid schemes
-1. Online or other non-face-to-face pharmacies or pharmacy referral services
-1. Prepaid phone cards, phone services or cell phones
-1. Pseudo pharmaceuticals
-1. Quasi-cash or stored value
-1. Securities brokers
-1. Shipping or forwarding brokers
-1. Substances designed to mimic illegal drugs
-1. Telemarketing
-1. Telecommunications equipment and telephone sales
-1. Timeshares
-1. Centralized travel reservation services or travel clubs
-1. Personal computer technical support
-1. Selling video game or virtual world credits (unless you are the operator of the video game or virtual world)
-1. Selling social media activity, such as Twitter followers, Facebook likes, or YouTube views
-1. Any product or service that infringes upon the copyright, trademark, or trade secrets of any third party
-1. Any product, service or activity that is deceptive, unfair, predatory, or prohibited by one or more Card Networks
-1. Funding any of the items included on this Prohibited Businesses list
+<h2>Financial and professional services</h2>
+<table>
+  <tr>
+    <td style="width:30%;">
+      Investment &amp; credit services
+    </td>
+    <td>
+      Securities brokers; mortgage consulting or debt reduction services; credit counselling or repair; real estate opportunities; lending instruments
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Money and legal services
+    </td>
+    <td>
+      Money transmitters, check cashing, wire transfers, money orders; currency exchanges or dealers; bail bonds; collections agencies; law firms collecting funds for any purpose other than to pay fees owed to the firm for services provided by the firm (e.g., firms cannot use Stripe to hold client funds, collection or settlement amounts, disputed funds, etc.)
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Virtual currency or stored value
+    </td>
+    <td>
+      Virtual currency that can be monetized, resold, or converted to physical or digital products and services or otherwise exit the virtual world (e.g., Bitcoin); sale of stored value or credits maintained, accepted and issued by anyone other than the seller
+    </td>
+  </tr>
+</table>
+
+<h2>IP Infringement, regulated or illegal products and services</h2>
+<table>
+  <tr>
+    <td style="width:30%;">
+      Intellectual property or proprietary rights infringement
+    </td>
+    <td>
+      Sales, distribution, or access to counterfeit music, movies, software, or other licensed materials without the appropriate authorization from the rights holder; any product or service that directly infringes or facilitates infringement upon the trademark, patent, copyright, trade secrets, or proprietary or privacy rights of any third party; use of Stripe intellectual property without express consent from Stripe; use of the Stripe name or logo including use of Stripe trade or service marks inconsistent with the <a href="/marks/terms">Stripe Marks Usage Agreement</a>, or in a manner that otherwise harms Stripe or the Stripe brand; any action that implies an untrue endorsement by or affiliation with Stripe
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Counterfeit or unauthorized goods
+    </td>
+    <td>
+      Unauthorized sale or resale of brand name or designer products or services; sale of goods or services that are illegally imported or exported
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Gambling
+    </td>
+    <td>
+      Lotteries; bidding fee auctions; sports forecasting or odds making; fantasy sports leagues with cash prizes; internet gaming; contests; sweepstakes; games of chance
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Regulated products and services
+    </td>
+    <td>
+      Marijuana dispensaries and related businesses; sale of tobacco, e-cigarettes, and e-liquid; online pharmacies; age restricted goods or services; weapons and munitions; gunpowder and other explosives; fireworks and related goods; toxic, flammable, and radioactive materials; products and services with varying legal status on a state-by-state basis
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Adult content and services
+    </td>
+    <td>
+      Pornography and other obscene materials (including literature, imagery and other media); sites offering any sexually-related services such as prostitution, escorts, pay-per view, adult live chat features
+    </td>
+  </tr>
+</table>
+
+
+<h2>Unfair, predatory, or deceptive practices</h2>
+<table>
+  <tr>
+    <td style="width:30%;">
+      Get rich quick schemes
+    </td>
+    <td>
+      Investment opportunities or other services that promise high rewards
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Mug shot publication or pay-to-remove sites
+    </td>
+    <td>
+      Platforms that facilitate the publication and removal of content (such as mug shots), where the primary purpose of posting such content is to cause or raise concerns of reputational harm
+    </td>
+  </tr>
+  <tr>
+    <td>
+      No-value-added services
+    </td>
+    <td>
+      Sale or resale of a service without added benefit to the buyer; resale of government offerings without authorization or added value; sites that we determine in our sole discretion to be unfair, deceptive, or predatory towards consumers
+    </td>
+  </tr>
+</table>
+
+<h2>Products or services that are otherwise prohibited by our financial partners</h2>
+<table>
+  <tr>
+    <td style="width:30%;">
+      Aggregation
+    </td>
+    <td>
+      Engaging in any form of licensed or unlicensed aggregation of funds owed to third parties, factoring, or other activities intended to obfuscate the origin of funds
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Drug paraphernalia
+    </td>
+    <td>
+      Any equipment designed for making or using drugs, such as bongs, vaporizers, and hookahs
+    </td>
+  </tr>
+  <tr>
+    <td>
+      High risk businesses
+    </td>
+    <td>
+      Bankruptcy lawyers; computer technical support; psychic services; travel reservation services and clubs; airlines; cruises; timeshares; prepaid phone cards, phone services, and cell phones; telemarketing, telecommunications equipment and telephone sales; drop shipping; forwarding brokers; negative response marketing; credit card and identity theft protection; the use of credit to pay for lending services; any businesses that we believe poses elevated financial risk, legal liability, or violates card network or bank policies
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Multi-level marketing
+    </td>
+    <td>
+      Pyramid schemes, network marketing, and referral marketing programs
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Pseudo pharmaceuticals
+    </td>
+    <td>
+      Pharmaceuticals and other products that make health claims that have not been approved or verified by the applicable local and/or national regulatory body
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Social media activity
+    </td>
+    <td>
+      Sale of Twitter followers, Facebook likes, YouTube views, and other forms of social media activity
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Substances designed to mimic illegal drugs
+    </td>
+    <td>
+      Sale of a legal substance that provides the same effect as an illegal drug (e.g., salvia, kratom)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Video game or virtual world credits
+    </td>
+    <td>
+      Sale of in-game currency unless the merchant is the operator of the virtual world
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Use of Stripe in a manner inconsistent with its intended use or as expressly prohibited in the Terms of Service
+    </td>
+    <td>
+      Use of Stripe principally as a virtual terminal (e.g., submitting card transactions by manually inputting card information); processing where there is no bona fide good or service sold, or donation accepted; card testing; evasion of card network chargeback monitoring programs; sharing cardholder information with another merchant for payment cross-sell product or service
+    </td>
+  </tr>
+</table>
+
+<p>If you have any questions about supported businesses, don’t hesitate to <a href="/contact">get in touch</a>.</p>
+
 </section>
