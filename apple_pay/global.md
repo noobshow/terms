@@ -14,6 +14,7 @@ Please read the following Apple Pay Platform Web Merchant Terms and Conditions c
 These Terms and Conditions set forth the rights and obligations of Apple and You as they relate to Your use of the Apple Pay Platform to conduct transactions from or through Your Websites. These Terms and Conditions may be modified by Apple from time to time, and Your continued use of the Apple Pay Web APIs and Apple Pay Platform will be deemed acceptance of such updated Terms and Conditions.
 
 ## 1. Accepting these Terms and Conditions; Definitions
+
 ### 1.1 Acceptance
 In order to use the Apple Pay Web APIs and Apple Pay Platform, You must first accept these Terms and Conditions. If You do not or cannot accept these Terms and Conditions, You are not permitted to use the Apple Pay Web APIs or Apple Pay Platform. Do not download or use the Apple Pay Web APIs or Apple Pay Platform in that case. You accept and agree to the terms of these Terms and Conditions on Your own behalf and/or on behalf of Your company, organization, educational institution, or agency, instrumentality, as its authorized legal representative, by using, or continuing to use, the Apple Pay Web APIs or Apple Pay Platform.
 
