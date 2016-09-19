@@ -1,11 +1,9 @@
-<section id="details">
-
 <header id="caagmt">
 # Stripe Connected Account Agreement
 Last Updated: September 15, 2016.
 </header>
 
-<article>
+<section>
 # About Stripe Connect – Connected Accounts
 
 Thank you for using [Stripe Connect](https://stripe.com/connect).  Stripe Connect allows third-party platform providers to help you create and administer your Stripe account, and may provide additional services directly to you or your customers.  This agreement governs your use of Stripe Connect and describes how a platform provider may help you manage your Stripe account.  Any platform provider that uses Stripe to accept payments or manage your Stripe account must inform you that it does so.
@@ -65,5 +63,4 @@ Section 5 and all provisions giving rise to continuing obligations will survive 
 
 Thank you and welcome to Stripe Connect!
 
-</article>
 </section>

@@ -1,11 +1,9 @@
-<section id="details">
-
 <header id="cpagmt">
 # Stripe Connect Platform Agreement
 Last Updated: September 16, 2016.
 </header>
 
-<article>
+<section>
 # About Stripe Connect – Connect Platform
 
 Thank you for using [Stripe Connect](https://stripe.com/connect).  Stripe Connect lets platform providers like you enable customers to use Stripe for accepting payments and lets you manage certain aspects of your customers’ Stripe accounts, including initiating charges or refunds, handling of disputes, and other functions available through Stripe Connect.  You must inform any of your customers that use Stripe Connect to accept payments or permit you to manage their account that they are doing so.
@@ -122,7 +120,6 @@ Sections 7 through 10 and all provisions giving rise to continuing obligations (
 
 Thank you and welcome to Stripe Connect!
 
-</article>
 </section>
 
 
