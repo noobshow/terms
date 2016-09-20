@@ -221,7 +221,7 @@ If you engage in Transactions with Customers who are individuals (i.e. consumers
 To use some of the Payment Services, you must agree to additional terms of service ("Payment Addenda") that may be between you and one or more of Stripe, a Stripe affiliate, or a Financial Services Provider. Payment Addenda may also identify unique terms and conditions for specific payment methods or networks. By using the Payment Services, you consent to the following Payment Addenda (including those that separately bind you with Financial Services Providers) incorporated into this Agreement:
 
 * [Wells Fargo Addendum](/wells-fargo/legal)
-* [American Express Addendum](/amex/legal)
+* [American Express Addendum](/amex-express-checkout/legal)
 
 We may add or remove Payment Addenda, Financial Services Providers, or payment methods at any time.
 
