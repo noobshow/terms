@@ -567,7 +567,11 @@ By authorizing an application to link to your Stripe account (a “Partner Appli
 
 Once you have authorised a Partner Application it will continue to have access to your Stripe account and be authorised as described in these Stripe Connect User Terms until you specifically withdraw your authorization by changing the settings in your Stripe account dashboard.
 
-# Direct Debit Request Service Agreement &mdash; Debiting your account
+</section>
+
+<section>
+    
+## Direct Debit Request Service Agreement &mdash; Debiting your account {#direct-debit}
 
 In the event that the net activity in your account on a day is negative or Stripe needs you to fund your account for any other reason relating to these Terms, you authorise and request Stripe to debit your Bank Account by using the Bulk Electronic Clearing System (BECS).
 
