@@ -1,6 +1,6 @@
 <header id="caagmt">
 # Stripe Connected Account Agreement
-Last Updated: September 15, 2016.
+Last Updated: September 28, 2016.
 </header>
 
 <section>
@@ -24,7 +24,7 @@ By using Stripe Connect, including the Services, you expressly agree to abide by
 
 ###2. Stripe Connect – Your Connected Account 
 
-Stripe Connect allows Connect Platforms to help you integrate Services into your site or application, and manage your Connected Account.  When you sell your goods or services, or receive bona fide charitable donations through a Connect Platform that uses the Services, the Connect Platform may agree to perform obligations on your behalf, such as web development or hosting services, customer service, processing of refunds, handling consumer complaints, or other Activity.  The specific things that a Connect Platform is agreeing to do for you, if any, are determined by your agreement with that Connect Platform.  Stripe is not a Connect Platform, and only provides the Servicess described in this Connected Account Agreement and the Stripe Services Agreement.
+Stripe Connect allows Connect Platforms to help you integrate Services into your site or application, and manage your Connected Account.  When you sell your goods or services, or receive bona fide charitable donations through a Connect Platform that uses the Services, the Connect Platform may agree to perform obligations on your behalf, such as web development or hosting services, customer service, processing of refunds, handling consumer complaints, or other Activity.  The specific things that a Connect Platform is agreeing to do for you, if any, are determined by your agreement with that Connect Platform.  Stripe is not a Connect Platform, and only provides the Services described in this Connected Account Agreement and the Stripe Services Agreement. You do, however, appoint Stripe as one of your payments agents for the limited purposes of directing, receiving, holding and settling payment card proceeds to you, and you agree that Stripe’s receipt of payment processing proceeds satisfies your customers’ obligations to make payment to you.
 
 Through Stripe Connect, you can delegate the creation and management of portions of your Connected Account to a Connect Platform.  You consent to Stripe's disclosure of Data (which may include your name and address, and information regarding the transactions that you process through the Services) to the Connect Platform, Financial Services Providers, and our service providers to facilitate the provision of Services to you through Stripe Connect.  You also consent to Stripe’s use of information provided to Stripe or collected by us as part of providing the Services for our internal analyses and fraud monitoring.  For more information regarding Stripe's use of your data, please review [Stripe’s Privacy Policy](https://stripe.com/privacy).
 
@@ -39,8 +39,6 @@ Your Connect Platform may choose to allow you to receive payment processing proc
 ###4. Relationship to Connect Platforms
 
 As part of your use of Stripe Connect, you understand and agree that Stripe and the Connect Platform will share some Data about you and Activity on your Connected Account.  This may include information you provide to create your Connected Account to Stripe or the Connect Platform, or information about transactions submitted by your customers to Stripe.  Connect Platforms will never have access to full credit card information provided by your customers.  You understand and agree that Connect Platforms and Stripe can share such Data to provide services to you.
-
-You designate the Connect Platform as your agent for the limited purpose of processing or accepting payments on your behalf (as a merchant payee) pursuant to a preexisting contract between you and the Connect Platform.  You understand and agree that the Connect Platform may provide instructions regarding the delivery of funds to you for the sale of goods or services, or receipt of bona fide charitable donations.
 
 The pricing for your use of the Services with a Connect Platform will depend on your agreement with the Connect Platform.  Pricing from the Connect Platform may include fees for your use of the Connect Platform’s services that are separate from fees owed for the Services.  Stripe will receive fees for your use of the Services.  The fees for the Services will not exceed the amounts [posted on our web site](https://stripe.com/pricing).  In addition, the Connect Platform may charge you fees for the services it provides you.  You agree that Stripe will have the right to deduct both Stripe’s fees for Services and the Connect Platform fees specified to us by the Connect Platform.  Stripe does not control and is not responsible for Connect Platform fees charged to you, which are based on your agreement with and use of the Connect Platform.  All fees charged to you should be made clear to you in your agreement with each Connect Platform.
 
