@@ -3,7 +3,7 @@
 Last Updated: August 29, 2016.
 </header>
 
-<article>
+<section>
 
 Stripe Atlas is a program designed to support global entrepreneurs by facilitating access to the building blocks of a global Internet or e-commerce business, including, (1) creation of a U.S. business entity by Rocket Lawyer Incorporated ("Rocket Lawyer"), (2) establishment of a U.S. bank account with Silicon Valley Bank (the "Bank"), (3) payment processing services provided through Stripe, Inc. ("Stripe"), (4) access to U.S. tax and legal information and resources from PricewaterhouseCoopers ("PwC") and Orrick, Herrington & Sutcliffe LLP ("Orrick"), and (5) other financial services and tools as the program’s ecosystem of partners and collaborators grows over time. 
 
@@ -137,5 +137,5 @@ Either party may commence arbitration by providing to JAMS and the other party t
 
 **f. Entire Agreement:** This Agreement constitutes the entire agreement between you and us with respect to the Stripe Atlas Service. Except where expressly stated in a separate agreement duly executed by us, if there is any conflict between this Agreement and any other agreement related to the Stripe Atlas Service, this Agreement will prevail. These terms and conditions describe our entire liability to you and set forth your exclusive remedies with respect to the Stripe Atlas Service. If any provision of this Agreement (or portion thereof) is held to be invalid or unenforceable under applicable law, then it should be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
 
-</article>
+</section>
 
