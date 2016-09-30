@@ -1,6 +1,6 @@
 <header id="tos">
 # Términos de Servicio  &mdash; México
-Última Actualización: el 18 de marzo de 2015. Las versiones anteriores y sus modificaciones están [disponibles aquí](https://github.com/stripe/terms).
+Última Actualización: el 18 de marzo de 2015.
 </header>
 
 <section>

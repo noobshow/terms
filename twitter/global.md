@@ -1,6 +1,6 @@
 <header>
 # Twitter Buy Now Program
-Last Updated: September 8, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: September 8, 2015.
 </header>
 
 <section>
@@ -813,17 +813,20 @@ describe and market the goods and services offered:
 </tbody>
 </table>
 
-*Fraud and Disputes Policy*
-===========================
+</section>
+
+<section>
+    
+## Fraud and Disputes Policy
 
 The below policy covers Merchant responsibility in the event of
 fraudulent transactions and customer disputes:
 
-## Fraudulent Transactions ##
+### Fraudulent Transactions ###
 
 Twitter will occasionally reject orders when it has reason to suspect unauthorized or fraudulent transactions. However, it is ultimately the merchant’s responsibility to review all transactions for fraud and to verify suspicious orders. At the minimum, the merchant should investigate instances of: AVS or CVV failures, multiple orders with the same shipping address but different emails or billing zip codes, billing and shipping zip code mismatch, and orders with high dollar amounts.
 
-## Disputes ##
+### Disputes ###
 
 Twitter will communicate to its users that the Twitter Buy Now program only facilitates orders between the customer and the merchant, and all disputes should be directed to the merchant. In the case of a customer dispute, the merchant is responsible for responding in a timely and effective manner. Failure to resolve disputes or an excessive amount of disputes may result in termination from the program.
 

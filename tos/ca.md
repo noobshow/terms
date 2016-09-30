@@ -1,6 +1,6 @@
 <header id="tos">
 # Services Agreement &mdash; Canada
-Last Updated: October 23, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: October 23, 2015.
 </header>
 
 <section>
@@ -370,12 +370,8 @@ These Terms and Conditions constitute a legal agreement (“Agreement”) betwee
 	Except where otherwise agreed upon in writing between you and Stripe, you are bound by this Agreement on the date your account was opened with Stripe.  You may close your account and terminate this Agreement at anytime, and there is no fee to do so.  Pricing can be found on our [pricing webpage](https://stripe.com/ca/pricing).
 </section>
 
-
-<header id="applications">
-# Installing Applications on your Stripe Account
-</header>
-
 <section>
+# Installing Applications on your Stripe Account
 
 These terms only apply to you if you authorize another application to connect to your Stripe account.
 

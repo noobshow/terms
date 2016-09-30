@@ -1,6 +1,6 @@
 <header id="tos">
 # 利用規約 &mdash; 日本
-最新更新日: 2016年9月20日 旧版からの変更点は[こちら](https://github.com/stripe/terms/blob/master/tos/jp.md)でご確認できます。
+最新更新日: 2016年9月20日
 </header>
 
 <section class="tos">

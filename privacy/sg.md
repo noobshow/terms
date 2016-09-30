@@ -1,6 +1,6 @@
 <header>
 <h1>Privacy Policy &mdash; Singapore</h1>
-<p>This policy was last updated on October 9, 2015. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a></p>
+<p>This policy was last updated on October 9, 2015.</p>
 </header>
 <section>
 <h2>Welcome to Stripe!</h2>

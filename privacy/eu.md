@@ -1,6 +1,6 @@
 <header id="privacy">
 # Privacy Policy &mdash; {{country_name}}
-This policy was last updated on December 9, 2015. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a>
+This policy was last updated on December 9, 2015.
 </header>
 
 <section>

@@ -1,6 +1,6 @@
 <header id="prohibited_businesses">
 # Prohibited Businesses — Hong Kong
-Last Updated: April 26, 2016. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a>.
+Last Updated: April 26, 2016.
 </header>
 
 <section id="prohibited_list">

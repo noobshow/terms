@@ -1,6 +1,6 @@
 <header id="br_tos">
 # Services Agreement &mdash; Brazil
-Last Updated: May 10, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms). Para sua conveniência, incluímos a [tradução em Português](#br_tos_port) abaixo dos Termos de Uso.
+Last Updated: May 10, 2016. Para sua conveniência, incluímos a [tradução em Português](#br_tos_port) abaixo dos Termos de Uso.
 </header>
 
 <section>
@@ -415,12 +415,8 @@ Any tolerance, forbearance, partial enforcement or concession between the partie
 
 </section>
 
-<header id="br_tos_port">
+<section>
 # Termos do Serviço &mdash; Brasil
-
-</header>
-
-<article>
 
 Estes Termos e Condições constituem um contrato legal (“Contrato” ou “Contrato com Estabelecimento”) entre o empresário individual, pessoa jurídica ou organização comercial listada como “Estabelecimento” na página de registro no Serviço (algumas vezes designada “você”, “seu” ou “usuário”), a Stripe Brasil Participações Ltda. (“Stripe”), na capacidade de agente da Elavon, e a Elavon do Brasil Soluções de Pagamento S.A. (“Elavon”), na capacidade de adquirente. Você deverá ler, compreender e aceitar todas as condições estabelecidas neste Contrato e nas demais políticas incorporadas ao presente instrumento por referência antes de seu registro como usuário do Serviço (conforme definição abaixo).
 
@@ -829,4 +825,4 @@ A nulidade ou invalidade de qualquer disposição do Contrato não implicará a 
 
 Qualquer tolerância, liberalidade, execução parcial ou concessão entre as partes serão sempre consideradas mera liberalidades, e não implicarão em renúncia ou perda de qualquer direito, faculdade, privilégio, prerrogativa ou poderes outorgados (inclusive mandato) nem implicarão em novação, aditamento, leniência, alteração ou redução de direitos e obrigações delas decorrentes.
 
-</article>
+</section>

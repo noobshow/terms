@@ -1,6 +1,6 @@
 <header id="tos">
 # Services Agreement &mdash; Singapore
-Last Updated: August 4, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms/blob/master/SG.md).
+Last Updated: August 4, 2016.
 </header>
 
 <section>
@@ -366,11 +366,8 @@ The parties hereby acknowledge that they have required this Agreement and all re
 
 </section>
 
-<header id="applications">
-# Installing Applications on your Stripe Account
-</header>
-
 <section>
+# Installing Applications on your Stripe Account
 
 These terms only apply to you if you authorize another application to connect to your Stripe Account.
 

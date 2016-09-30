@@ -1,6 +1,6 @@
 <header id="nz_services_agmt">
 # Stripe Services Agreement &mdash; New Zealand
-Last Updated: April 25, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: April 25, 2016.
 </header>
 
 <section>

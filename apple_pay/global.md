@@ -1,6 +1,6 @@
 <header>
 # Apple Pay on the Web Addendum
-Last Updated: September 12, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: September 12, 2016.
 </header>
 
 <section>
@@ -253,3 +253,5 @@ These Terms and Conditions constitute the entire agreement between the parties w
 
 ## Exhibit A - Apple Marks
 All use of the Apple Marks under these Terms and Conditions can be found at: https://developer.apple.com/apple-pay/Apple-Pay-Identity-Guidelines.pdf.
+
+</section>

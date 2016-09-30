@@ -1,9 +1,9 @@
-<header id="tos">
+<header id="marks">
 # Stripe Marks Usage Agreement
-Last Updated: July 18, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: July 18, 2016.
 </header>
 
-<section id="details">
+<section>
 This Stripe Marks Usage Agreement (“Agreement”) provides the legal terms governing your use of the Stripe name, logo, or other registered or unregistered Stripe trademarks and service marks owned by Stripe (“Stripe Marks”) to let your customers know that Stripe (“we”, “us”, “our”) provides services for your business. You use of services provided by Stripe is governed by the [Stripe Services Agreement](https://stripe.com/legal) (“Services Agreement”).
 
 **You may not use any Stripe Marks unless you agree to abide by all of the terms and conditions in this Agreement.**

@@ -1,6 +1,6 @@
 <header id="tos">
 # Stripe Checkout User Terms of Service &mdash; {{country_name}}
-Last Updated: December 15, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: December 15, 2015.
 </header>
 
 <section>
