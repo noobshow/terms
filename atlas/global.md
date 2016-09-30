@@ -1,5 +1,3 @@
-go<section id="details">
-
 <header id="atlas_agmt">
 # Stripe Atlas Agreement
 Last Updated: August 29, 2016.
