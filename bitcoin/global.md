@@ -1,6 +1,6 @@
 <header>
 # Stripe Bitcoin Addendum
-Last Updated: September 29, 2014. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: September 29, 2014.
 </header>
 
 <section>

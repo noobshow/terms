@@ -1,6 +1,6 @@
 <header>
 <h1>Privacy Policy &mdash; Hong Kong</h1>
-<p>This policy was last updated on April 12, 2016. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a></p>
+<p>This policy was last updated on April 12, 2016.</p>
 </header>
 <section>
 <h2>Overview</h2>

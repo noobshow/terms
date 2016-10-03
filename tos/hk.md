@@ -1,6 +1,6 @@
 <header id="tos">
 # Services Agreement &mdash; Hong Kong
-Last Updated: April 12, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms/blob/master/HK.md).
+Last Updated: April 12, 2016.
 </header>
 
 <section>
@@ -397,11 +397,8 @@ The parties hereby acknowledge that they have required this Agreement and all re
 
 </section>
 
-<header id="applications">
-# Installing Applications on your Stripe Account
-</header>
-
 <section>
+# Installing Applications on your Stripe Account
 
 These terms only apply to you if you authorize another application to connect to your Stripe Account.
 

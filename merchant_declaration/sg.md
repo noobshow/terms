@@ -1402,6 +1402,9 @@ __Submission:__ The process of sending Batch deposits to us for processing, elec
 
 __Summary Adjustment:__ An adjustment to your Submission and/or Settlement Accounts in order to correct errors.
 
+</section>
+<section>
+
 # PRIVACY STATEMENT AND CONSENT
 
 By entering the Merchant Declaration and Agreement, you agree to the uses and disclosures of your personal information as set out in this Privacy Statement and Consent, which forms part of the Merchant Agreement.

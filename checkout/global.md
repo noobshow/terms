@@ -1,6 +1,6 @@
 <header id="tos">
 # Stripe Checkout User Terms of Service
-Last Updated: June 18, 2013. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: June 18, 2013. 
 </header>
 
 <section>

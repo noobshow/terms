@@ -1,6 +1,6 @@
 <header id="prohibited_businesses">
 # 禁止業種
-最新更新日: 2016年1月26日 旧版からの変更点は[こちら](https://github.com/stripe/terms)でご確認できます。
+最新更新日: 2016年1月26日
 </header>
 
 <section id="prohibited_list">

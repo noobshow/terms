@@ -1,6 +1,6 @@
 <header>
 <h1>Privacy Policy — Australia</h1>
-<p>This policy was last updated on May 23, 2014. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a></p>
+<p>This policy was last updated on May 23, 2014.</p>
 </header>
 <section>
 <h2>Welcome to Stripe!</h2>

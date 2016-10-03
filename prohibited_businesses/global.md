@@ -1,6 +1,6 @@
 <header id="prohibited_businesses">
-<h1>Prohibited Businesses</h1>
-<p>Last Updated: July 18, 2016. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a>.</p>
+<h1>Prohibited Businesses &mdash; {{country_name}}</h1>
+<p>Last Updated: July 18, 2016.</p>
 </header>
 
 <section id="prohibited_list">

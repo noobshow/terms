@@ -1,6 +1,6 @@
 <header>
 <h1>Aviso de Privacidad — México</h1>
-<p>Última Actualización: el 24 de abril de 2015. Las versiones anteriores y sus modificaciones están [disponibles aquí](https://github.com/stripe/terms).</p>
+<p>Última Actualización: el 24 de abril de 2015.</p>
 </header>
 <section>
 <h2>¡Bienvenido a Stripe!</h2>

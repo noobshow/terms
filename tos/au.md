@@ -1,6 +1,6 @@
 <header id="tos">
 # Services Agreement &mdash; Australia
-Last Updated: July 17, 2015. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: July 17, 2015.
 </header>
 
 <section>
@@ -30,6 +30,8 @@ Stripe pays you for your transactions (minus any fees), at a schedule communicat
 
 National Australia Bank Limited (“NAB”) or Stripe may suspend or terminate this agreement at any time (especially if you are in breach of this agreement or are breaking the law). You can also terminate anytime. Termination is effective immediately. Termination does not alter your liability for processed payments or related chargebacks. This section also includes all the extra legal stuff they make us add (e.g. indemnification, warranties, assignment). <a href="#section_d" class="arrow">Complete details</a>
 
+</section>
+<section>
 # Merchant Services Agreement
 
 The Terms and Conditions described here constitute a legal agreement between the entity listed as the “Merchant” on the Service registration page (sometimes referred to as “you,” “your”, or “user”), Stripe Payments Australia Pty Limited (“Stripe”) and the National Australia Bank Limited ("NAB"). Stripe and NAB are collectively also referred to as “we”, “our” or “us”).
@@ -817,12 +819,9 @@ Unless they are defined differently in context, the following words have these m
     The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Victoria and its phone number is 13 22 65. NAB discloses that: (a) it is the only entity approved to extend acceptance of Visa and MasterCard products directly to you; (b) it must be a principal to this Agreement; (c) it is responsible for educating you on pertinent Visa and MasterCard rules with which you must comply, but this information may be provided to you by Stripe; (d) it is responsible for and must provide settlement funds to Stripe; and (e) it is responsible for all funds held in reserve that are derived from foreign currency settlement.
 
 </section>
-
-<header id="applications">
-# Installing Applications on your Stripe Account
-</header>
-
 <section>
+
+# Installing Applications on your Stripe Account
 
 These terms only apply to you if you authorise another application to connect to your Stripe account.
 

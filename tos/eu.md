@@ -1,6 +1,6 @@
 <header id="tos">
 # Services Agreement &mdash; {{country_name}}
-Last Updated: May 6, 2016. Previous versions and diffs are [available here](https://github.com/stripe/terms).
+Last Updated: May 6, 2016.
 </header>
 
 <section>

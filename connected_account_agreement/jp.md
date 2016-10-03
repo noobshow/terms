@@ -1,7 +1,6 @@
 <header id="caagmt">
 # Stripe Connectアカウント契約
-
-最新更新日: 2016年4月18日 旧版からの変更点は[こちら](https://github.com/stripe/terms)でご確認できます。
+最新更新日: 2016年4月18日
 </header>
 
 <section>

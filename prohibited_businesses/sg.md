@@ -1,6 +1,6 @@
 <header id="prohibited_businesses">
 # Prohibited Businesses — Singapore
-Last Updated: October 27, 2015. Previous versions and diffs are <a href="https://github.com/stripe/terms">available here</a>.
+Last Updated: October 27, 2015.
 </header>
 
 <section id="prohibited_list">
