@@ -1,9 +1,6 @@
-<header>
-# BACS Direct Debit Request Service Agreement
-Last Updated: September 27, 2016.
-</header>
-
 <section>
+
+## BACS Direct Debit Request Service Agreement {#direct-debit}
     
 ### 1. Debiting your account
 
