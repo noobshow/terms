@@ -1,6 +1,6 @@
 <header id="wf_addendum">
 # Wells Fargo Financial Services Terms
-Last Updated: July 18, 2016.
+Last Updated: October 7, 2016.
 </header>
 
 <section>
@@ -19,7 +19,7 @@ Wells Fargo is not responsible for the provision of any Services by Stripe or yo
 
 ### 2. Compliance with Network Rules
 
-Where you use the Payment Services to accept Charges from payment cards, you will comply with the Network Rules and limitations on use identified in Agreement, including the Network Rules applicable to acceptance of MasterCard and Visa branded payment cards. These include guidelines, monitoring programs, and activity reporting (including excessive credits, chargebacks, or deposit). Under the Network Rules, certain activity may subject you to chargebacks, fees, fines, settlement delays, withholdings, audits of your processing activity, or termination of this Wells Fargo Addendum. Without limiting the foregoing, you specifically agree to:
+Where you use the Payment Services to accept Charges from payment cards, you will comply with the Network Rules and limitations on use identified in Agreement, including the Network Rules applicable to acceptance of MasterCard, Discover and Visa branded payment cards. These include guidelines, monitoring programs, and activity reporting (including excessive credits, chargebacks, or deposit). Under the Network Rules, certain activity may subject you to chargebacks, fees, fines, settlement delays, withholdings, audits of your processing activity, or termination of this Wells Fargo Addendum. Without limiting the foregoing, you specifically agree to:
 
 **a.** Only submit transactions authorized by the cardholder;
 
@@ -50,7 +50,7 @@ You authorize Stripe to initiate holds, receipts, and disbursements of funds on 
 
 **a.** You authorize Stripe to provide any Data, including User Data or Payment Data, to Wells Fargo to (i) provide the services described in this Wells Fargo Addendum to you, (ii) comply with its legal and regulatory obligations, and (iii) perform underwriting and risk review, including verification that you are legally permitted to transact and receive funds. Where required to comply with our legal, payment network, or regulatory obligations, Wells Fargo may provide any Data to law enforcement, payment networks or regulators (as the case may be).
 
-**b.** You agree that you will not (i) use the Payment Data for any purpose other than to support Payment Services, (ii) use the Payment Data for any purpose that you know or should know to be fraudulent or in violation of any Network Rules, (iii) sell, purchase, provide or exchange in any manner or disclose Payment Data to anyone other than Wells Fargo, Visa, or MasterCard (as applicable); or in response to a government request. Further, you agree that you will at all times comply with the Payment Card Industry Standards (“PCI Standards” including, without limitation, PCI-DSS) with respect to Payment Data and will indemnify and hold Wells Fargo harmless for any violation or breach of the PCI Standards, including but not limited to, any fines, fees or assessments by any Networks imposed upon you, Wells Fargo, or Stripe.
+**b.** You agree that you will not (i) use the Payment Data for any purpose other than to support Payment Services, (ii) use the Payment Data for any purpose that you know or should know to be fraudulent or in violation of any Network Rules, (iii) sell, purchase, provide or exchange in any manner or disclose Payment Data to anyone other than Wells Fargo, Visa, Discover or MasterCard (as applicable); or in response to a government request. Further, you agree that you will at all times comply with the Payment Card Industry Standards (“PCI Standards” including, without limitation, PCI-DSS) with respect to Payment Data and will indemnify and hold Wells Fargo harmless for any violation or breach of the PCI Standards, including but not limited to, any fines, fees or assessments by any Networks imposed upon you, Wells Fargo, or Stripe.
 
 ###4. Term and Termination
 
@@ -96,8 +96,9 @@ The failure of Wells Fargo to assert any of its rights under this Wells Fargo Ad
 
 You may contact Wells Fargo by mailing 1200 Montego, Walnut Creek, CA 94598 or by calling 1-800-451-5817.
 
-**a. Important Wells Fargo Disclosures:** Wells Fargo discloses that (i) it is the only entity approved to extend acceptance of Visa and MasterCard products directly to you; (ii) it must be a principal to this Wells Fargo Addendum; (iii) it is responsible for educating you on pertinent Visa and MasterCard rules with which you must comply, but this information may be provided to you by Stripe; (iv) subject to this Wells Fargo Addendum, it is responsible for and must provide settlement funds to you; and (v) it is responsible for all funds held in reserve that are derived from settlement prior to funding you.
+**a. Important Wells Fargo Disclosures:** Wells Fargo discloses that (i) it is the only entity approved to extend acceptance of Visa, Discover and MasterCard products directly to you under this Wells Fargo Addendum; (ii) it must be a principal to this Wells Fargo Addendum; (iii) it is responsible for educating you on pertinent Visa, Discover and MasterCard rules with which you must comply, but this information may be provided to you by Stripe; (iv) subject to this Wells Fargo Addendum, it is responsible for and must provide settlement funds to you; and (v) it is responsible for all funds held in reserve that are derived from settlement prior to funding you.
 
-**b. Your Responsibilities:** You agree that, at all times throughout the term of this Wells Fargo Addendum, you will (i) comply with data security and storage obligations in using and maintaining Payment Data; (ii) maintain fraud and chargebacks rates acceptable under the Network Rules; (iii) review and understand the terms of this Wells Fargo Addendum; and (iv) comply with Network Rules, including but not limited to those provided by Visa and MasterCard.
+**b. Your Responsibilities:** You agree that, at all times throughout the term of this Wells Fargo Addendum, you will (i) comply with data security and storage obligations in using and maintaining Payment Data; (ii) maintain fraud and chargebacks rates acceptable under the Network Rules; (iii) review and understand the terms of this Wells Fargo Addendum; and (iv) comply with Network Rules, including but not limited to those provided by Visa, Discover and MasterCard.
 
 </section>
+

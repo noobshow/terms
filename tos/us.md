@@ -1,6 +1,6 @@
 <header id="tos">
 #  Stripe Services Agreement &mdash; United States
-Last Updated: July 18, 2016.
+Last Updated: October 7, 2016.
 </header>
 
 <section>
@@ -161,7 +161,7 @@ We may provide Product Data through the Dashboard to the Apps connected to your 
 
 You affirm that you will not knowingly publish any false or misleading Product Data, or use Stripe Relay to sell or attempt to sell any illegal products or services through the Apps, and that you are solely responsible for production, fulfillment, shipping, and provision of any ancillary services related to Transactions you receive through your use of Stripe Relay.
 
-**c. Additional Services:** From time to time we may offer you additional features or services that may be subject to additional or different terms of service. You may not use these additional services unless you agree to the applicable agreement or addendum for those services.
+**c. Additional Services:** From time to time we may offer you additional features or services that may be subject to additional or different terms of service. You may not use these additional services unless you agree to the applicable agreement or terms for those services.
 
 We may also provide you access to services identified as "beta" or pre-release services. You understand that these services are still in development, may contain bugs or errors, may be feature incomplete, may materially change prior to a full commercial launch, or may never be released commercially. We provide beta services AS IS, and without warranty of any kind, and your use of, or reliance on beta services is at your own risk.
 
@@ -169,7 +169,7 @@ We may also provide you access to services identified as "beta" or pre-release s
 
 ### 1. Payment Services Overview
 
-Stripe provides you Payment Services through various Financial Services Providers, including Stripe Payments Company ("SPC"). Payment Services allow you to accept payment from your Customers for Transactions. We may limit or refuse to process Charges (as defined below) for any Prohibited Businesses, or for Charges submitted in violation of this Agreement. To use the Payment Services, you must also accept separate agreements with the Financial Services Providers indicated in Section 5. This Agreement incorporates the Financial Services Provider agreements as addenda.
+Stripe provides you Payment Services through various Financial Services Providers, including Stripe Payments Company ("SPC"). Payment Services allow you to accept payment from your Customers for Transactions. We may limit or refuse to process Charges (as defined below) for any Prohibited Businesses, or for Charges submitted in violation of this Agreement. To use the Payment Services, you must also accept separate agreements with the Financial Services Providers and payment method providers as described in Section 5. 
 
 The following terms used in this section relate to your use of Payment Services:
 
@@ -187,7 +187,7 @@ The following terms used in this section relate to your use of Payment Services:
 
 "Fine" means any fines, levies, or other charges imposed by us or a Financial Services Provider caused by your violation of Laws or this Agreement, or as permitted by Network Rules.
 
-"Network Rules" means the guidelines, bylaws, rules, and regulations imposed by the Financial Services Providers that operate payment networks supported by Stripe (including the payment card network operating rules for Visa, MasterCard, or the American Express networks; and the NACHA operating rules governing the ACH network).
+"Network Rules" means the guidelines, bylaws, rules, and regulations imposed by the Financial Services Providers that operate payment networks supported by Stripe (including the payment card network operating rules for Visa, MasterCard, Discover or the American Express networks; and the NACHA operating rules governing the ACH network).
 
 ### 2. Registering for Use of Payment Services
 
@@ -216,18 +216,15 @@ You may use some Payment Services to receive recurring or subscription payments 
 
 If you engage in Transactions with Customers who are individuals (i.e. consumers), you specifically agree to provide consumers disclosures required by Law, and to not engage in unfair, deceptive, or abusive acts or practices (UDAAP).
 
-### 5. Other Financial Services Providers
+### 5. Financial Services Providers
 
-To use some of the Payment Services, you must agree to additional terms of service ("Payment Addenda") that may be between you and one or more of Stripe, a Stripe affiliate, or a Financial Services Provider. Payment Addenda may also identify unique terms and conditions for specific payment methods or networks. By using the Payment Services, you consent to the following Payment Addenda (including those that separately bind you with Financial Services Providers) incorporated into this Agreement:
+To use the Payment Services, you must agree to additional terms of service between you and one or more of Stripe, a Stripe affiliate, or a Financial Services Provider (“Financial Services Terms”). In addition, unique terms and conditions may also apply specific payment methods or networks (“Payment Terms”). By using the Payment Services, you agree to the Financial Services Terms and applicable Payment Terms as set out on our [legal page](http://www.stripe.com/legal) (including those that separately bind you with Financial Services Providers or payment method providers). An example of the Financial Services Terms is the [Wells Fargo Addendum](/wells-fargo/legal).
 
-* [Wells Fargo Addendum](/wells-fargo/legal)
-* [American Express Addendum](/amex-express-checkout/legal)
-
-We may add or remove Payment Addenda, Financial Services Providers, or payment methods at any time.
+We may add or remove Financial Services Providers or payment methods at any time. The Financial Service Terms and Payment Terms may also be amended from time to time. Your continuing use of the Payment Services constitutes your consent and agreement to such additions, removals and amendments.
 
 ### 6. Specific Payment Methods
 
-**a. Payment Cards:** When accepting payment card payments, you must comply with all Network Rules applicable to merchants, including the Network Rules provided by [Visa](http://usa.visa.com/merchants/operations/op_regulations.html), [MasterCard](http://www.mastercard.com/us/merchant/support/rules.html), and [American Express](https://www209.americanexpress.com/merchant/services/en_US/merchant-regulations). These Network Rules state that you may only accept payment using payment cards for bona fide legal commercial transactions, may only use payment network trademarks or service marks consistent with the Network Rules, and may not discriminate by card type or charge surcharges for acceptance of payment cards. The payment card networks may amend the Network Rules at any time without notice to you, and Stripe reserves the right to change the Payment Services for payment card processing at any time to comply with the Network Rules. We may share the information you provide to us that we use to identify the nature of the products or services with Financial Services Providers, including assigning your business activities to a particular payment network merchant category code (MCC).
+**a. Payment Cards:** When accepting payment card payments, you must comply with all Network Rules applicable to merchants, including the Network Rules provided by [Visa](http://usa.visa.com/merchants/operations/op_regulations.html), [MasterCard](http://www.mastercard.com/us/merchant/support/rules.html), [American Express](https://www209.americanexpress.com/merchant/services/en_US/merchant-regulations), and Discover (please [contact Discover](https://www.discover.com/contact-us/) for a copy). These Network Rules state that you may only accept payment using payment cards for bona fide legal commercial transactions, may only use payment network trademarks or service marks consistent with the Network Rules, and may not discriminate by card type or charge surcharges for acceptance of payment cards. The payment card networks may amend the Network Rules at any time without notice to you, and Stripe reserves the right to change the Payment Services for payment card processing at any time to comply with the Network Rules. We may share the information you provide to us that we use to identify the nature of the products or services with Financial Services Providers, including assigning your business activities to a particular payment network merchant category code (MCC).
 
 Customers typically raise payment card network Disputes (i.e. chargebacks) when a merchant fails to provide the product or service to the Customer, or where the payment card account holder did not authorize the Charge. High chargeback rates (typically those exceeding 1%) may result in your inability to use the Payment Services. Failure to timely and effectively manage Disputes with your Customers may ultimately result in your inability to accept payment cards for your business.
 
@@ -243,7 +240,7 @@ Any Disputes or unauthorized Charges using the ACH network may result in your in
 
 ### 7. Transfers and Transfer Schedule
 
-**a. Transfers For Your Payout Account:** Transfers may initiated by you to or from your Stripe Account to or from the account with a Financial Services Provider that you designate in the Dashboard (the "Payout Account"). A Positive balance in your Stripe Account will result in a Transfer to your Payout Account and negative balance in your Stripe Account will result in a Transfer from your Payout Account. All Transfers to your Payout Account will exclude Fees, Fines, and amounts owed to us for any reason. You affirm that you are authorized to initiate Transfers to and from the Payout Account.
+**a. Transfers For Your Payout Account:** Transfers may be initiated by you to or from your Stripe Account to or from the account with a Financial Services Provider that you designate in the Dashboard (the "Payout Account"). A Positive balance in your Stripe Account will result in a Transfer to your Payout Account and negative balance in your Stripe Account will result in a Transfer from your Payout Account. All Transfers to your Payout Account will exclude Fees, Fines, and amounts owed to us for any reason. You affirm that you are authorized to initiate Transfers to and from the Payout Account.
 
 The term "Payout Schedule" refers to the time it takes for us to initiate a Transfer Payout Account. Stripe may require a holding period before making an initial Transfer to the Payout Account. After the initial Transfer, we will credit funds to the Payout Account according to the Payout Schedule; however, please be aware that Financial Services Providers, including the institution holding the Payout Account, may delay Transfers for any reason. We are not responsible for any action taken by the institution holding the Payout Account to not credit the Payout Account or to otherwise not make funds available to you as you expected.
 
@@ -406,6 +403,7 @@ This Agreement and all policies and procedures that are incorporated by referenc
 
 ### 13. Survival
 
-All provisions of this Agreement that give rise to a party’s ongoing obligation will survive termination of this Agreement, including but not limited to Sections A.3 ("Your Relationship with Your Customers"), A.6 ("Taxes and Other Expenses"), A.7 ("Service Limitations, Prohibited Activities, and Security Controls"), A.8 ("Suspicion of Unauthorized or Illegal Use"), A.9 ("Disclosures and Notices; Electronic Signature Consent"), A.10.b ("Effects of Termination"), B.2 ("Ownership of Stripe IP"), C.6 ("Specific Payment Methods"), C.7 ("Transfers and Transfer Schedule"), C.8 ("Clearing Funds and Reserves"), C.9 ("Security Interests, Collection, and Set-Off Rights"), C.10 ("Reconciliation and Error Notification"), C.11 ("Dormant Accounts"), D.3 ("Security and Fraud Controls"), D.4 ("Your Use of Data with Stripe Connect and Stripe Relay"), D.5 ("Transfer of Payment Data upon Termination"), E.4 ("No Agency; Third-Party Services"), E.5 ("Force Majeure"), E.6 ("Your Liability for Third-Party Claims Against Us"), E.7 ("Representations and Warranties"), E.8 ("No Warranties"), E.9 ("Limitation of Liability"), E.10 ("Responding to Legal Process"), E.11 ("Dispute Resolution; Agreement to Arbitrate"), E.12 ("Entire Agreement"), and E.13 ("Survival"); and any related terms in the Payment Addenda.
+All provisions of this Agreement that give rise to a party’s ongoing obligation will survive termination of this Agreement, including but not limited to Sections A.3 ("Your Relationship with Your Customers"), A.6 ("Taxes and Other Expenses"), A.7 ("Service Limitations, Prohibited Activities, and Security Controls"), A.8 ("Suspicion of Unauthorized or Illegal Use"), A.9 ("Disclosures and Notices; Electronic Signature Consent"), A.10.b ("Effects of Termination"), B.2 ("Ownership of Stripe IP"), C.6 ("Specific Payment Methods"), C.7 ("Transfers and Transfer Schedule"), C.8 ("Clearing Funds and Reserves"), C.9 ("Security Interests, Collection, and Set-Off Rights"), C.10 ("Reconciliation and Error Notification"), C.11 ("Dormant Accounts"), D.3 ("Security and Fraud Controls"), D.4 ("Your Use of Data with Stripe Connect and Stripe Relay"), D.5 ("Transfer of Payment Data upon Termination"), E.4 ("No Agency; Third-Party Services"), E.5 ("Force Majeure"), E.6 ("Your Liability for Third-Party Claims Against Us"), E.7 ("Representations and Warranties"), E.8 ("No Warranties"), E.9 ("Limitation of Liability"), E.10 ("Responding to Legal Process"), E.11 ("Dispute Resolution; Agreement to Arbitrate"), E.12 ("Entire Agreement"), and E.13 ("Survival"); and any related terms in the Payment Terms and Financial Services Terms.
 
 </section>
+
