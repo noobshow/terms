@@ -38,7 +38,7 @@ Your bank may:
 
 (c) Change its current fees for this service in force from time to time.
 
-***Privacy***
+**Privacy**
 
 Information relating to this Direct Debit authority will be treated according to [Stripe's Privacy Policy](https://stripe.com/privacy).
 
