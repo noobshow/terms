@@ -1,6 +1,6 @@
 <section>
 
-# Direct Debit Authority &mdash; New Zealand
+# Direct Debit Authority &mdash; New Zealand {#direct-debit}
 
 In the event that the net activity in your account on a day is negative or Stripe needs you to fund your account for any other reason relating to the Agreement, you authorise and request Stripe to use Direct Debit to debit your bank account. Direct debit requests will be initiated by Stripe (Authorisation Code: 0228196). You acknowledge and accept that your bank accepts this authority on the conditions set out below.
 
