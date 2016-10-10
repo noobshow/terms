@@ -36,6 +36,7 @@ Where you use the Payment Services to accept Charges from payment cards, you wil
 **g.** Prohibit use of payment cards for disbursement of cash (except as permitted by the Network Rules);
 
 **h.** Comply with the security obligations identified in the Agreement, including compliance with PCI-DSS and only using cardholder data as permitted, and will certify such compliance upon request, and not permit or promote fraudulent use of payment cards or cardholder data;
+
 **i. ** Make clear to Customers that they are transacting with you prior to, during, and after the transaction, including providing clear statement descriptors;
 
 **j.** Use all reasonable methods to resolve disputes with your customers, including those resulting a chargeback, and not attempt to recharge a customer for the transaction unless authorized by the Customer; and
