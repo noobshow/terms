@@ -60,6 +60,10 @@ In consideration of their mutual promises the Parties (each of you, FDMS and Str
 
 Entry by you and Stripe into the Stripe Services Agreement shall be deemed to constitute entry by you and Stripe into this Merchant Declaration and Agreement. Acceptance of a transaction from you shall be deemed to constitute entry by FDMS into this Merchant Declaration and Agreement and the FDMS Agreement and the Settlement Account Nomination. Entry by You into this Merchant Declaration and Agreement shall be deemed to constitute entry by You into the FDMS Agreement and the Settlement Account Nomination.
 
+</section>
+
+<section>
+
 # Settlement Account Nomination {#nomination}
 
 This Settlement Account Nomination is made with respect to the FDMS Agreement between FDMS and you for the provision of merchant acquiring services and for you to receive payment facilities and services on the terms set out in the FDMS Agreement. By entering this Settlement Account Nomination, you are:
@@ -72,7 +76,7 @@ This Settlement Account Nomination is made with respect to the FDMS Agreement be
 
 4. Acknowledging that payment of the Net Settlement Funds into the Settlement Accounts maintained by Earthport PLC shall constitute complete, full and final settlement of our obligations to pay Settlement Funds to your nominated Settlement Accounts, and our obligation to settle transactions acquired by you in accordance with and pursuant to the terms of the FDMS Agreement;
 
-NOTE TO MERCHANT: BY REQUIRING FDMS TO SETTLE TO EARTHPORT PLC AT THE SETTLEMENT ACCOUNTS, YOU ACKNOWLEDGE THAT YOU ARE ASSUMING THE FULL RISKS OF THE SETTLEMENT ACCOUNTS. YOU UNDERSTAND THAT THERE ARE ADDITIONAL RISKS THAT YOU ARE ASSUMING IN ASKING US TO DEPOSIT INTO THE SETTLEMENT ACCOUNTS. YOU HEREBY ACKNOWLEDGE THAT FDMS HAS NO LIABILITY TO YOU IF EARTHPORT PLC FAILS TO OPERATE THE SETTLEMENT ACCOUNTS PROPERLY. YOU CONFIRM THAT IT IS NOT A CONDITION OF SERVICE THAT FDMS SETTLES TO EARTHPORT PLC AT THE SETTLEMENT ACCOUNTS.
+    NOTE TO MERCHANT: BY REQUIRING FDMS TO SETTLE TO EARTHPORT PLC AT THE SETTLEMENT ACCOUNTS, YOU ACKNOWLEDGE THAT YOU ARE ASSUMING THE FULL RISKS OF THE SETTLEMENT ACCOUNTS. YOU UNDERSTAND THAT THERE ARE ADDITIONAL RISKS THAT YOU ARE ASSUMING IN ASKING US TO DEPOSIT INTO THE SETTLEMENT ACCOUNTS. YOU HEREBY ACKNOWLEDGE THAT FDMS HAS NO LIABILITY TO YOU IF EARTHPORT PLC FAILS TO OPERATE THE SETTLEMENT ACCOUNTS PROPERLY. YOU CONFIRM THAT IT IS NOT A CONDITION OF SERVICE THAT FDMS SETTLES TO EARTHPORT PLC AT THE SETTLEMENT ACCOUNTS.
 
 5. Appointing Earthport PLC as your agent, for the settlement and receipt of all settlement funds relating to and in connection with the FDMS Agreement into the above nominated Settlement Accounts;
 
