@@ -7,13 +7,13 @@ Last Updated: October 17, 2016.
 
 This addendum to the [Stripe Services Agreement](/legal) constitutes a legal agreement (referred to below as the &quot;Terms&quot;) between you, Stripe, and NAB Australia Bank Limited (&quot;NAB&quot;).
 
-These Terms provide additional terms applicable to the Payment Services provided under the Stripe Services Agreement.   **You must accept all of the terms and conditions of these Terms to use the Payment Services provided by Stripe via NAB.  To the extent applicable to you, these Terms also govern the use of the FX Payment Service that is provided directly by NAB.**
+These Terms provide additional terms applicable to the Payment Services provided under the Stripe Services Agreement. **You must accept all of the terms and conditions of these Terms to use the Payment Services provided by Stripe via NAB.  To the extent applicable to you, these Terms also govern the use of the FX Payment Service that is provided directly by NAB.**
 
-When your customer pays you through Stripe, he or she has the option of paying you through a funding source offered on the Stripe website including a Card Scheme funded payment.  Since you may be the recipient of a Card Scheme funded payment, you are required to enter into a direct contractual relationship with a bank that is a member of the Card Schemes.  However, by using the Payment Services, you are not establishing a depository or other account with NAB.  NAB is not responsible for the provision of any services by Stripe or your use of the services for your business.  NAB is also not responsible for providing customer service to you to resolve any issues you may have related to your use of the Payment Services.  You are solely responsible for providing support to your customers for all issues related to your products and services.
+When your customer pays you by using the Payment Services, he or she has the option of paying you through a funding source offered on the Stripe website including a Card Scheme funded payment.  Since you may be the recipient of a Card Scheme funded payment, you are required to enter into a direct contractual relationship with a bank that is a member of the Card Schemes.  However, by using the Payment Services, you are not establishing a depository or other account with NAB.  NAB is not responsible for the provision of any services by Stripe or your use of the services for your business.  NAB is also not responsible for providing customer service to you to resolve any issues you may have related to your use of the Payment Services.  You are solely responsible for providing support to your customers for all issues related to your products and services.
 
 ### 1. Definitions
 
-1.1        Unless the contrary intention appears, the following words have these meanings in these Terms.  Any terms used but not defined in these Terms will have the meaning provided in the Stripe Services Agreement:
+1.1        Unless the contrary intention appears, the following words have these meanings in these Terms.  Any terms used but not defined in these Terms will have the meaning provided in the Stripe Services Agreement.
 
 **Banking Day** means a day on which banks are open for general banking business in Melbourne Australia except for Saturdays, Sundays and National Public Holidays in Australia.
 
@@ -23,7 +23,7 @@ When your customer pays you through Stripe, he or she has the option of paying y
 
 **Cardholder** means the Person in whose name the Card has been issued.
 
-**Chargeback** is the reversal of a sales transaction.
+**Chargeback** or **Chargedback** is the reversal of a sales transaction.
 
 **Card** means a card that has been designated by the issuer as a Visa or MasterCard card or a card issued by any other Card Scheme which you have agreed to accept and NAB has agreed to process under these Terms.
 
@@ -82,7 +82,7 @@ When your customer pays you through Stripe, he or she has the option of paying y
 
 (f)        the decision whether to approve your application is at NAB&#39;s sole discretion and the reason for any decision which is made may not be given to You;
 
-(g)        an approval by NAB is specific to Stripe providing Payment Services to you and does not in any way constitute a representation by NAB that you will able to use the services of another payment service provider or of NAB directly should you cease using Stripe&#39;s Payment Services for any reason; and
+(g)        an approval by NAB is specific to Stripe providing Payment Services to you and does not in any way constitute a representation by NAB that you will be able to use the services of another payment service provider or of NAB directly should you cease using Stripe&#39;s Payment Services for any reason; and
 
 (h)        any information obtained by NAB during its assessment of an application under clause 2(a) is and remains confidential to NAB and will not be shared with You.  NAB is bound by Card Scheme Rules and all correspondence and discussions between Card Schemes and NAB are confidential as between NAB and the Card Schemes; and
 
@@ -104,23 +104,23 @@ When your customer pays you through Stripe, he or she has the option of paying y
 
 3.1        You:
 
- **(a)** must promptly notify Stripe of any change to Your financial position which may affect Your ability to perform Your obligations under these Terms; and
+(a) must promptly notify Stripe of any change to Your financial position which may affect Your ability to perform Your obligations under these Terms; and
 
- **(b)** promptly notify Stripe of any change in your place of business; and
+(b) promptly notify Stripe of any change in your place of business; and
 
-**(c)** must not change Your business name or ownership of Your business without giving Stripe prior notice and not substantially change the type of goods and services You sell without our prior written consent; and
+(c) must not change Your business name or ownership of Your business without giving Stripe prior notice and not substantially change the type of goods and services You sell without our prior written consent; and
 
-**(d)** only submit a sales transaction where You are the supplier of the goods and/or services; and
+(d) only submit a sales transaction where You are the supplier of the goods and/or services; and
 
-**(e)** not submit transactions on behalf of a third party.  For the avoidance of doubt, this includes submitting transactions for goods or services sold on another Person&#39;s website; and
+(e) not submit transactions on behalf of a third party.  For the avoidance of doubt, this includes submitting transactions for goods or services sold on another Person&#39;s website; and
 
-**(f)** must allow the employees, contractors or agents of NAB or those of any Card Scheme reasonable access to Your premises during normal business hours to check Your compliance with these Terms, the Data Security Standards or for the purposes of the relevant Card Scheme Rules; and
+(f) must allow the employees, contractors or agents of NAB or those of any Card Scheme reasonable access to Your premises during normal business hours to check Your compliance with these Terms, the Data Security Standards or for the purposes of the relevant Card Scheme Rules; and
 
-**(g)** must provide Stripe and NAB with all information and assistance reasonably required to perform their obligations and to deal with any queries in relation to the Payment Services; and
+(g) must provide Stripe and NAB with all information and assistance reasonably required to perform their obligations and to deal with any queries in relation to the Payment Services; and
 
-**(h)** must comply with all applicable Card Scheme Rules and Relevant Laws and contractual requirements in accepting Card payments and performing Your obligations under these Terms; and
+(h) must comply with all applicable Card Scheme Rules and Relevant Laws and contractual requirements in accepting Card payments and performing Your obligations under these Terms; and
 
-**(i)** must observe and implement the fraud prevention procedures set out in the manuals, guides or directions provided to You, unless otherwise mutually agreed to by the parties.
+(i) must observe and implement the fraud prevention procedures set out in the manuals, guides or directions provided to You, unless otherwise mutually agreed to by the parties.
 
 **Data Security Standards**
 
@@ -130,11 +130,11 @@ When your customer pays you through Stripe, he or she has the option of paying y
 
 (b) You must not store the personal identification number (PIN) or sensitive authentication data after authorization (even if encrypted); and
 
-(c) if  NAB tells You that You must comply with the Payment Card Industry Data Security Standards, You must, at Your cost, successfully complete the protocols for PCIDSS within the time frame stipulated by NAB or the Card Schemes.  You acknowledge and agree that if You fail to do so: (i) Stripe or NAB may terminate the Payment Services or NAB Services; and (ii) You are liable for any fine imposed upon NAB by the Card Schemes as a result of Your failure to comply; and (iii) You are liable for any fines or penalties which the Card Schemes levy in the event that You suffer a Card data compromise incident, and have not complied with the PCIDSS Accreditation program; and
+(c) if NAB tells You that You must comply with the Payment Card Industry Data Security Standards, You must, at Your cost, successfully complete the protocols for PCI-DSS within the time frame stipulated by NAB or the Card Schemes.  You acknowledge and agree that if You fail to do so: (i) Stripe or NAB may terminate the Payment Services or NAB Services; and (ii) You are liable for any fine imposed upon NAB by the Card Schemes as a result of Your failure to comply; and (iii) You are liable for any fines or penalties which the Card Schemes levy in the event that You suffer a Card data compromise incident, and have not complied with the PCI-DSS Accreditation program; and
 
 (d) NAB is obliged to report all Data Breach events to Card Schemes, law enforcement agencies and/or Australian regulators.  You grant irrevocable and enduring consent for NAB to release details of any such Data Breach to the aforementioned bodies; and
 
- (e)if You have suffered a Data Breach: (i)You must give NAB and its agents full access to Your systems and databases to facilitate a forensic analysis to ascertain (A) what Card data has been compromised; and (B) what weaknesses in the system permitted the unauthorised access to the data base; and (C) whether Card data was created, deleted, altered, copied or manipulated in any manner; and (ii) all costs of the forensic analysis must be paid by You; and (iii) in order to continue processing Card transactions, You must undergo a full Payment Card Industry Data Security Standard (&quot;PCIDSS&quot;) accreditation.  All costs of this accreditation exercise must be paid by You.
+ (e) if You have suffered a Data Breach: (i) You must give NAB and its agents full access to Your systems and databases to facilitate a forensic analysis to ascertain (A) what Card data has been compromised; and (B) what weaknesses in the system permitted the unauthorised access to the data base; and (C) whether Card data was created, deleted, altered, copied or manipulated in any manner; and (ii) all costs of the forensic analysis must be paid by You; and (iii) in order to continue processing Card transactions, You must undergo a full Payment Card Industry Data Security Standard (&quot;PCI-DSS&quot;) accreditation.  All costs of this accreditation exercise must be paid by You.
 
 **Your duties to Cardholders**
 
@@ -220,7 +220,7 @@ When your customer pays you through Stripe, he or she has the option of paying y
 
 4.3        You must provide NAB with reasonable access to view, monitor and audit the pages of Your web site.
 
-4.4        Your web site payments page must be protected by Secure Sockets Layer or any other form of security method approved in writing by us.
+4.4        Your web site payments page must be protected by Secure Sockets Layer or any other form of security method approved in writing by Us.
 
 4.5        You must ensure that the name of your web site either corresponds with or otherwise connects with the name appearing on cardholder statements to enable customers to identify you without confusion.
 
@@ -240,7 +240,7 @@ When your customer pays you through Stripe, he or she has the option of paying y
 
 (f)	give refunds for transactions by means of credit and not in cash or cheque; and
 
-(g)	if a transaction for a sale does not cover the full amount of the sale: (i) in the situation in which the Card is used to make a deposit or pay an instalment You may accept the Card in payment of all or part of the outstanding balance; and (ii) in any other circumstance You must obtain the balance due at the time the sale is completed in cash; and  
+(g)	if a transaction for a sale does not cover the full amount of the sale: (i) in the situation in which the Card is used to make a deposit or pay an instalment, You may accept the Card in payment of all or part of the outstanding balance; and (ii) in any other circumstance, You must obtain the balance due at the time the sale is completed in cash; and  
 
 (h)	not state or set a minimum or maximum amount for a Card transaction without our prior written consent; and
 
@@ -258,7 +258,7 @@ The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Vi
 
 ### 7.        FX Payment Service
 
-7.1        If you have selected to apply, and have been approved by NAB, to receive the FX Payment Service in respect of one or more Covered FX Currencies, you may offer your goods or services to be paid for in that Covered Currency or Covered Currencies on your website.
+7.1        If you have selected to apply, and have been approved by NAB, to receive the FX Payment Service in respect of one or more Covered Currencies, you may offer your goods or services to be paid for in that Covered Currency or Covered Currencies on your website.
 
 7.2        All card transaction amounts that are processed under the FX Payment Service will be automatically converted into Australian dollars (AUD) by NAB at a time and exchange rate determined by NAB and not by Stripe.
 
@@ -298,7 +298,7 @@ The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Vi
 
 (g)	the price charged for the goods or services is inflated to include an undisclosed surcharge for Card payments or the price charged for the goods or services is different for a transaction processed through this facility when compared with other available forms of payment; or
 
-(h)	another person has provided or is to provide the goods or services the subject of the transaction to a Cardholder; or
+(h)	another person has provided or is to provide the goods or services that are the subject of the transaction to a Cardholder; or
 
 (i)	You did not actually supply the goods or services to a genuine Cardholder as required by the terms of the transaction, or have indicated Your intention not to do so; or
 
@@ -318,7 +318,7 @@ The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Vi
 
 (q)	You cannot give a Transaction Receipt as required provided for herein; or
 
-(r)	for any other reason, the Cardholder is entitled under the Card Scheme Rules to a chargeback of the transaction; or
+(r)	for any other reason, the Cardholder is entitled under the Card Scheme Rules to a Chargeback of the transaction; or
 
 (s)	it is a remote transaction and You did not record the required details for the transaction.
 
@@ -332,13 +332,13 @@ The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Vi
 
 (a) refuse to accept a transaction if it is invalid or unacceptable, or may charge it back to You if it has already been processed, even if You have been given an authorisation; and
 
-(b) reverse a sales transaction as a chargeback, and debit Your account for the amount of the chargeback, for any of the reasons in clauses 8.1 and 8.2 and any other reason NAB notifies to You of from time to time; and
+(b) reverse a sales transaction as a Chargeback, and debit Your account for the amount of the Chargeback, for any of the reasons in clauses 8.1 and 8.2 and any other reason NAB notifies to You of from time to time; and
 
 (c) without limiting the above, delay, block, freeze or refuse to accept any transaction where NAB has reasonable grounds to believe that the transaction breaches Australian law or sanctions or the laws or sanctions of any other country.
 
 ### 9. Settlement and Transactions
 
-9.1        NAB will provide settlement on each business day for the gross amount of all funds received from the Card Schemes in respect of transactions processed under these Terms, less any chargebacks or refunds.
+9.1        NAB will provide settlement on each business day for the gross amount of all funds received from the Card Schemes in respect of transactions processed under these Terms, less any Chargebacks or refunds.
 
 9.2        You authorise and direct NAB to pay all amounts due to You under these Terms to Stripe, who You have appointed as Your agent for the purpose of receiving all settlement funds payable by NAB to You under these Terms.
 
@@ -376,7 +376,7 @@ The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Vi
 
 10.1        You acknowledge and agree that:
 
-(a)	the Card Scheme logos, names and holograms (“the Marks”) are owned solely and exclusively by the relevant Card Scheme; and
+(a)	the Card Scheme logos, names and holograms (the “Marks”) are owned solely and exclusively by the relevant Card Scheme; and
 
 (b)	You will not contest the ownership of the Marks for any reason; and
 
@@ -410,13 +410,13 @@ NAB does not make any warranties in respect of any of the services to be provide
 
 ### 13.        Exclusion of Liability
 
-To the maximum extent permitted by applicable law NAB is not liable to You or to any person for any act or omission (including negligence) of NAB that results in any direct or indirect loss (including loss of profits), damage, injury or inconvenience You suffer because of any service failure, including any unavailability of the service, any delays or any errors.  Under no circumstances will NAB be liable to You for any lost sales, revenue or profit or loss of custom due to any service failure which results in You being unable to promptly accept payments from Your customers.
+To the maximum extent permitted by applicable law, NAB is not liable to You or to any person for any act or omission (including negligence) of NAB that results in any direct or indirect loss (including loss of profits), damage, injury or inconvenience You suffer because of any service failure, including any unavailability of the service, any delays or any errors.  Under no circumstances will NAB be liable to You for any lost sales, revenue or profit or loss of customers due to any service failure which results in You being unable to promptly accept payments from Your customers.
 
 ### 14.        Termination and Suspension
 
 14.1        These Terms shall have the same effective date as the Stripe Services Agreement and shall continue so long as You use the Payment Services. These Terms will terminate automatically upon termination of the Stripe Services Agreement, except for those terms which are intended to survive termination.
 
-These Terms may be terminated at any time by NAB upon notice to You.  NAB or Stripe may suspend or terminate these Terms or suspend then terminate these Terms or any part of it at any time if:
+14.2	These Terms may be terminated at any time by NAB upon notice to You.  NAB or Stripe may suspend or terminate these Terms or suspend then terminate these Terms or any part of it at any time if:
 
 (a)	You are in material breach of these Terms and that breach is incapable of being cured;
 
@@ -440,7 +440,7 @@ These Terms may be terminated at any time by NAB upon notice to You.  NAB or Str
 
 (k)	Stripe is directed to do so by NAB or a Card Scheme for any reason.
 
-14.2        These Terms will terminate automatically and immediately if:
+14.3        These Terms will terminate automatically and immediately if:
 
 (a)	Stripe’s registration as a payment or member service provider or independent sales organisation with any Card Scheme is cancelled;
 
@@ -448,9 +448,9 @@ These Terms may be terminated at any time by NAB upon notice to You.  NAB or Str
 
 (c)	any other agreement that You have with Stripe in respect of Stripe’s payment processing services is terminated for any reason.
 
-14.3        You acknowledge that Stripe will disclose termination of these Terms for any reason to NAB and You authorise NAB to disclose to any Card Scheme advice of termination of these Terms and the reasons for the termination. You acknowledge that the information concerning termination of these Terms then becomes available to any member of the Card Schemes. This information, available to any member of the Card Schemes, may be used in assessing subsequent applications for merchant facilities.
+14.4        You acknowledge that Stripe will disclose termination of these Terms for any reason to NAB and You authorise NAB to disclose to any Card Scheme advice of termination of these Terms and the reasons for the termination. You acknowledge that the information concerning termination of these Terms then becomes available to any member of the Card Schemes. This information, available to any member of the Card Schemes, may be used in assessing subsequent applications for merchant facilities.
 
-14.4        This clause 14 survives termination of these Terms.
+14.5        This clause 14 survives termination of these Terms.
 
 ### 15. Assignment
 
@@ -492,7 +492,7 @@ We may vary these Terms on 30 days&#39; written notice to You.  Where any variat
 
 (c)	if sent by facsimile transmission, on the date the transmitting machine records transmission of the complete document;
 
-(d)	when the party sending the notice is the NAB or Stripe, if sent by email, at the time when the email enters Your information system.
+(d)	when the party sending the notice is NAB or Stripe, if sent by email, at the time when the email enters Your information system.
 
 19.3        The address, facsimile number or email address to be used for notices is the last address, facsimile number or email address advised by a party.  You must inform Stripe immediately of any change of Your address, facsimile number or email address.
 
