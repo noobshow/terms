@@ -1,5 +1,4 @@
 <article id="directdebit_au">
-
 ## Direct Debit Request Service Agreement
 
 ### Debiting your account
@@ -11,8 +10,11 @@ Transfers to your Bank Account will come from Stripe (Direct Entry User Number: 
 ### Your responsibilities
 
 It’s your responsibility to:
+
 1. Check whether or not your Bank Account can accept debit and credit transfers through BECS
+
 2. Ensure that your account has sufficient funds to allow for a debit transfer
+
 3. Check your bank statement account details and to verify that all amounts are correct
 
 If transfers are returned to Stripe by your bank, we may charge you a fee according to your Fee Schedule, in addition to any fees your bank may charge. If a debit transfer is returned to Stripe because your Bank Account has insufficient funds, it is your responsibility to fund the Bank Account so that we can re-process the debit transfer.
