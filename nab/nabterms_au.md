@@ -3,7 +3,7 @@
 Last Updated: October 17, 2016.
 </header>
 
-<article>
+<section>
 
 This addendum to the [Stripe Services Agreement](/legal) constitutes a legal agreement (referred to below as the &quot;Terms&quot;) between you, Stripe, and NAB Australia Bank Limited (&quot;NAB&quot;).
 
@@ -516,5 +516,5 @@ Any discretion conferred on NAB under these Terms will be exercised reasonably i
 
 NAB has adopted the Code of Banking Practice (&quot;Code&quot;). Relevant provisions of the Code apply to these merchant services if you are an individual or a small business customer of ours (as defined by the Code).  You can obtain a copy of the Code from NAB upon request.
 
-</article>
+</section>
 
