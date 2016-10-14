@@ -1,5 +1,5 @@
 <header id="stripe_services_agmt_au">
-# Stripe Services Agreement &mdash; <%= @country_name %>
+# Stripe Services Agreement &mdash; Australia
 Last Updated: October 17, 2016. 
 </header>
 
