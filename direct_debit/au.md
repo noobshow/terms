@@ -1,4 +1,4 @@
-<article id="directdebit_au">
+<section id="directdebit_au">
 ## Direct Debit Request Service Agreement
 
 ### Debiting your account
@@ -31,5 +31,5 @@ Stripe will provide you with at least 14 days’ notice before any changes to th
 
 Information relating to this Direct Debit Request Service Agreement is treated according to Stripe’s [Privacy Policy](https://stripe.com/<%= @country.downcase %>/privacy).
 
-</article>
+</section>
 
