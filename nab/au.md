@@ -1,4 +1,4 @@
-<header id=”nab_terms_au”>
+<header id="nab_terms_au">
 # National Australia Bank - Financial Services Terms
 Last Updated: October 17, 2016.
 </header>
