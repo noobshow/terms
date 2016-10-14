@@ -1,5 +1,5 @@
 <section id="directdebit_au">
-## Direct Debit Request Service Agreement
+## Direct Debit Request Service Agreement {#direct-debit}
 
 ### Debiting your account
 
