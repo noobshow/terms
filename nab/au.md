@@ -148,7 +148,7 @@ When your customer pays you by using the Payment Services, he or she has the opt
 
 (d)	must perform all obligations (including supplying all goods and/or services) to the Cardholder in connection with the sale; and 
 
-(e)	must not sell, purchase, provide or exchange any information or document relating to a Cardholder’s account number, or Card number, or a transaction, to any Person other than: (i) Stripe; (ii) NAB; (iii) the Card issuer; or (iv) as required by law; and if You do sell, purchase, provide or exchange any such information, You must do so in compliance with all Relevant Law including Privacy Law; and
+(e)	must not sell, purchase, provide or exchange any information or document relating to a Cardholder's account number, or Card number, or a transaction, to any Person other than: (i) Stripe; (ii) NAB; (iii) the Card issuer; or (iv) as required by law; and if You do sell, purchase, provide or exchange any such information, You must do so in compliance with all Relevant Law including Privacy Law; and
 
 (f)	must destroy any document that is no longer required to be retained by applicable law or Card Scheme rules, in a manner which makes the information unreadable; and
 
