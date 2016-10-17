@@ -214,7 +214,7 @@ When your customer pays you by using the Payment Services, he or she has the opt
 
 (i)	details of Your privacy policy and how You intend to deal with, or share, Personal Information obtained from and about the Cardholder; and
 
-(j)	a description of the measures You have to maintain the security of: (i) Cardholders’ account data; and (ii) any other information which, by notice, NAB requires You to display from time to time; and
+(j)	a description of the measures You have to maintain the security of: (i) Cardholders' account data; and (ii) any other information which, by notice, NAB requires You to display from time to time; and
 
 (k)	any other information required for the purpose of complying with Card Scheme rules.
 
@@ -250,7 +250,7 @@ When your customer pays you by using the Payment Services, he or she has the opt
 
 (k)	must not knowingly submit for processing any transaction that is illegal or that You should have known is illegal; and
 
-(l)	not infer from the fact that a Cardholder has been issued with a nominated Card, or that a transaction has been processed or an authorisation has been given, that NAB has guaranteed: (i) the Cardholder’s creditworthiness; or (ii) the correct identity of the Cardholder; or (iii) that the transaction is valid and acceptable and will not be subsequently charged back or reversed; or (iv) that You have complied with Your obligations under these Terms and You waive any right to claim that NAB does.
+(l)	not infer from the fact that a Cardholder has been issued with a nominated Card, or that a transaction has been processed or an authorisation has been given, that NAB has guaranteed: (i) the Cardholder's creditworthiness; or (ii) the correct identity of the Cardholder; or (iii) that the transaction is valid and acceptable and will not be subsequently charged back or reversed; or (iv) that You have complied with Your obligations under these Terms and You waive any right to claim that NAB does.
 
 ### 6. Card Network Disclosure
 
@@ -266,7 +266,7 @@ The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Vi
 
 (a)	the exchange rate used in the conversion of Covered Currency transaction amounts into AUD will be the rate that applies at the time that the currency exchange is booked by NAB, which may be up to two business days after the day that the card transaction was processed in the Covered Currency; 
 
-(b)	the conversion rate used by NAB to convert the Covered Currency to Australian dollars will be sourced from the traded “Reuters D2” offer rate at the time of booking the conversion and will include a margin to NAB. The margin at the time of preparation of this document is 1.8%. NAB may vary the margin upon 30 days notice to you, which may be provided via Stripe; 
+(b)	the conversion rate used by NAB to convert the Covered Currency to Australian dollars will be sourced from the traded "Reuters D2" offer rate at the time of booking the conversion and will include a margin to NAB. The margin at the time of preparation of this document is 1.8%. NAB may vary the margin upon 30 days notice to you, which may be provided via Stripe; 
 
 (c)	while NAB publishes daily indicative exchange rates on its website, the rates applicable to the FX Payment Service may differ from this rate; 
 
@@ -348,7 +348,7 @@ The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Vi
 
 (b)	NAB will not pay any amount owing to You in connection with transactions submitted by You to Stripe for processing under these Terms; and 
 
-(c)	payment of the settlement funds by NAB to Stripe in accordance with Your direction under clause 9.2 will satisfy NAB’s obligation to settle to You; and
+(c)	payment of the settlement funds by NAB to Stripe in accordance with Your direction under clause 9.2 will satisfy NAB's obligation to settle to You; and
 
 (d)	Stripe is responsible for disbursing any amounts received from NAB to You, in accordance with Your funding, reserve and payment arrangements with Stripe; and
 
@@ -366,17 +366,17 @@ The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Vi
 
 (k)	the amount of any payment request processed as a Card payment using the NAB Services will be paid to Stripe by NAB and will be credited to Your nominated account by Stripe under the terms of the Stripe Services Agreement; and
 
-(l)	Stripe is responsible for dealing with complaints or disputes relating to the Payment Services and You will refer any such complaints or disputes (“Dispute”) immediately to Stripe for resolution in accordance with Stripe’s dispute resolution procedures; and
+(l)	Stripe is responsible for dealing with complaints or disputes relating to the Payment Services and You will refer any such complaints or disputes ("Dispute") immediately to Stripe for resolution in accordance with Stripe's dispute resolution procedures; and
 
 (m)	You will provide all assistance reasonably required by Stripe to resolve a Dispute; and 
 
-(n)	NAB is not liable (including liability for negligence) for any loss or damage caused directly or indirectly to You by NAB’s provision, or failure to provide, the NAB Services to Stripe.
+(n)	NAB is not liable (including liability for negligence) for any loss or damage caused directly or indirectly to You by NAB's provision, or failure to provide, the NAB Services to Stripe.
 
 ### 10. Use of Card Scheme Logos and Trademarks
 
 10.1        You acknowledge and agree that:
 
-(a)	the Card Scheme logos, names and holograms (the “Marks”) are owned solely and exclusively by the relevant Card Scheme; and
+(a)	the Card Scheme logos, names and holograms (the "Marks") are owned solely and exclusively by the relevant Card Scheme; and
 
 (b)	You will not contest the ownership of the Marks for any reason; and
 
@@ -406,7 +406,7 @@ The NAB mailing address is National Australia Bank, 800 Bourke St, Docklands, Vi
 
 ### 12.        No Warranties by NAB
 
-NAB does not make any warranties in respect of any of the services to be provided under these Terms.  To the maximum extent permitted by law, any and all implied warranties are excluded.  In respect of any warranty which is unable to be excluded under any relevant law, NAB’s liability in respect of a breach of that warranty is limited to the re-supply of the services or the payment of the cost of having the services supplied again at NAB&#39;s discretion.
+NAB does not make any warranties in respect of any of the services to be provided under these Terms.  To the maximum extent permitted by law, any and all implied warranties are excluded.  In respect of any warranty which is unable to be excluded under any relevant law, NAB's liability in respect of a breach of that warranty is limited to the re-supply of the services or the payment of the cost of having the services supplied again at NAB&#39;s discretion.
 
 ### 13.        Exclusion of Liability
 
@@ -422,7 +422,7 @@ To the maximum extent permitted by applicable law, NAB is not liable to You or t
 
 (b)	You are in material breach of these Terms which is capable of remedy, but you fail to remedy the breach within 7 days of notice from Stripe or NAB requiring you to do so; or
 
-(c)	if in Stripe’s or NAB’s reasonable opinion, the processing of Your transactions exposes Stripe or NAB to risk; or
+(c)	if in Stripe's or NAB's reasonable opinion, the processing of Your transactions exposes Stripe or NAB to risk; or
 
 (d)	You are or have engaged in conduct which exposes Stripe or NAB to potential fines or penalties imposed under Relevant Law; or
 
@@ -442,11 +442,11 @@ To the maximum extent permitted by applicable law, NAB is not liable to You or t
 
 14.3        These Terms will terminate automatically and immediately if:
 
-(a)	Stripe’s registration as a payment or member service provider or independent sales organisation with any Card Scheme is cancelled;
+(a)	Stripe's registration as a payment or member service provider or independent sales organisation with any Card Scheme is cancelled;
 
-(b)	Stripe’s agreement with NAB for the provision of merchant services is terminated for any reason; or
+(b)	Stripe's agreement with NAB for the provision of merchant services is terminated for any reason; or
 
-(c)	any other agreement that You have with Stripe in respect of Stripe’s payment processing services is terminated for any reason.
+(c)	any other agreement that You have with Stripe in respect of Stripe's payment processing services is terminated for any reason.
 
 14.4        You acknowledge that Stripe will disclose termination of these Terms for any reason to NAB and You authorise NAB to disclose to any Card Scheme advice of termination of these Terms and the reasons for the termination. You acknowledge that the information concerning termination of these Terms then becomes available to any member of the Card Schemes. This information, available to any member of the Card Schemes, may be used in assessing subsequent applications for merchant facilities.
 
