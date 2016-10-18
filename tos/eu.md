@@ -1,6 +1,6 @@
 <header id="stripe_services_agmt">
 # Stripe Services Agreement &mdash; {{country_name}}
-Last Updated: October 24, 2016. 
+Last Updated: October 24, 2016
 </header>
 
 <article>
