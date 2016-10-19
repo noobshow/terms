@@ -1,6 +1,6 @@
 <header>
   <h1>Privacy Policy &mdash; {{country_name}}</h1>
-  <p>This policy was last updated on May 15, 2014.</p>
+  <p>This policy was last updated on October 20, 2016.</p>
 </header>
 <section>
   <h2>Welcome to Stripe!</h2>
@@ -17,8 +17,7 @@
     <li><a href='#4'>Choice and opt-out</a></li>
     <li><a href='#5'>Protection of information</a></li>
     <li><a href='#6'>Changes and notifications</a></li>
-    <li><a href='#7'>Safe Harbor Framework</a></li>
-    <li><a href='#8'>Contact us</a></li>
+    <li><a href='#7'>Contact us</a></li>
   </ol>
   <p>
     Please also review, if applicable, your <a href="https://stripe.com/terms">Terms of Service</a> agreement with Stripe, which shall govern in the event of any inconsistency with this Privacy Policy.
@@ -126,12 +125,9 @@
   <p>
     Stripe will provide you with disclosures and alerts regarding this Policy by posting them on our Website, by emailing the email address listed in your Stripe account, and/or by mailing to the physical address listed in your Stripe Account. You agree that electronic disclosures and notices have the same meaning and effect as if we had provided you with a paper copy. Such disclosures and notices in relation to this Policy shall be considered to be received by you within 24 hours of the time it is posted to our Website or emailed to you (unless we receive notice that the email was not delivered).
   </p>
-  <h2 id="7">7. Safe Harbor Framework</h2>
-  <p>
-    Stripe complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Stripe has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more about the Safe Harbor program, and view Stripe’s certification, by visiting <a href="http://www.export.gov/safeharbor/">export.gov</a>. If you have questions regarding Stripe’s Safe Harbor certification, please <a href="mailto:safeharbor@stripe.com">contact us</a>.
-  </p>
-  <h2 id="8">8. Contact us</h2>
+<h2 id="7">7. Contact us</h2>
   <p>
     If you have any questions or suggestions about this Privacy Policy or any of our privacy-related practices, please <a href="mailto:privacy@stripe.com">contact us</a>.
   </p>
 </section>
+
