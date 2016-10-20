@@ -5,7 +5,7 @@ Last Updated: October 17, 2016.
 
 <section>
 
-This addendum to the [Stripe Services Agreement](/legal) constitutes a legal agreement (referred to below as the &quot;Terms&quot;) between you, Stripe, and NAB Australia Bank Limited (&quot;NAB&quot;).
+This addendum to the [Stripe Services Agreement](/legal) constitutes a legal agreement (referred to below as the &quot;Terms&quot;) between you, Stripe, and National Australia Bank Limited (&quot;NAB&quot;).
 
 These Terms provide additional terms applicable to the Payment Services provided under the Stripe Services Agreement. **You must accept all of the terms and conditions of these Terms to use the Payment Services provided by Stripe via NAB.  To the extent applicable to you, these Terms also govern the use of the FX Payment Service that is provided directly by NAB.**
 
