@@ -3,7 +3,7 @@
 Last updated: October 24, 2016
 </header>
 
-<article>
+<section>
 
 This Valitor Group Services Addendum ("Valitor Addendum") to the Stripe Services Agreement ("Agreement") provides additional terms applicable to the Payment Services.  Any terms used but not defined in this Valitor Addendum will have the meaning provided in the Agreement. As used in this Valitor Addendum, "Valitor" will refer to the Valitor Group including Valitor hf. and all legal entities, which from time to time, (a) directly or indirectly control Valitor hf. (except Arion bank) or (b) are controlled directly or indirectly by Valitor hf. or by an entity under (a). As used in the preceding sentence, "control" means direct or indirect ownership of more than fifty percent of the nominal value of the issued equity share capital or of more than fifty percent of the shares entitling the holders to vote for the election of directors or persons performing similar functions or right by any other means, to elect or appoint directors or persons who collectively can exercise such control.
 
@@ -31,7 +31,7 @@ Where you use the Payment Services to accept Charges from payment cards, you wil
 
 **e.** Not impose surcharges or taxes (except where permitted by Law) and, where so done, you will only collect such amounts as part of the submitted Charge;
 
-**f.** Use Networks’ logos or marks in a manner permitted by the Network Rules;
+**f.** Use Networks' logos or marks in a manner permitted by the Network Rules;
 
 **g.** Prohibit use of payment cards for disbursement of cash (except as permitted by the Network Rules); 
 
@@ -51,7 +51,7 @@ You authorize Stripe to initiate holds, receipts, and disbursements of funds on 
 
 ### 4. Sharing of Data 
 
-**a.** You authorize Stripe to provide any Data, including User Data or Payment Data, to Valitor and its payment providers, the Networks, to credit reference agencies, fraud and AML screening agencies and other relevant governmental bodies to (i) provide the services described in this Valitor Addendum to you, (ii) comply with legal and regulatory obligations, and (iii) perform underwriting and risk review, including verification that you are legally permitted to transact and receive funds. Where required to comply with legal, Network, or regulatory obligations, Valitor may provide any Data to law enforcement, Networks or regulators (as the case may be). This authorization is provided in accordance with the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). 
+**a.** You authorize Stripe to provide any Data, including User Data or Payment Data, to Valitor and its payment providers, the Networks, to credit reference agencies, fraud and AML screening agencies and other relevant governmental bodies to (i) provide the services described in this Valitor Addendum to you, (ii) comply with legal and regulatory obligations, and (iii) perform underwriting and risk review, including verification that you are legally permitted to transact and receive funds. Where required to comply with legal, Network, or regulatory obligations, Valitor may provide any Data to law enforcement, Networks or regulators (as the case may be). This authorization is provided in accordance with the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). 
 
 **b.** You agree that you will not (i) use the Payment Data for any purpose other than to support Payment Services, (ii) use the Payment Data for any purpose that you know or should know to be fraudulent or in violation of any Network Rules, (iii) sell, purchase, provide or exchange in any manner or disclose Payment Data to anyone other than Valitor or the Networks (as applicable), or to a government authority in response to a valid government request. Further, you agree that you will at all times comply with the Payment Card Industry Standards ("PCI Standards" including, without limitation, PCI-DSS) with respect to Payment Data and will indemnify and hold Valitor harmless for any violation or breach of the PCI Standards, including but not limited to, any fines, fees or assessments by any Networks imposed upon you, Valitor, or Stripe. 
 
@@ -69,7 +69,7 @@ Notwithstanding the foregoing or anything to the contrary in the Agreement, you 
 
 ### 8. Disclaimer of Warranties
 
-ANY SERVICES DESCRIBED IN THIS VALITOR ADDENDUM ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, QUALITY, SUITABILTY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. ALL DISCLAIMERS OF WARRANTIES PROVIDED IN THE AGREEMENT WILL APPLY EQUALLY TO VALITOR AS THEY DO TO STRIPE. VALITOR (a) IS NOT RESPONSIBLE FOR YOUR OR STRIPE’S FAILURE TO PERFORM OBLIGATIONS UNDER THE AGREEMENT AND (b) DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY YOU, STRIPE, OR ANY THIRD PARTY.
+ANY SERVICES DESCRIBED IN THIS VALITOR ADDENDUM ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, QUALITY, SUITABILTY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. ALL DISCLAIMERS OF WARRANTIES PROVIDED IN THE AGREEMENT WILL APPLY EQUALLY TO VALITOR AS THEY DO TO STRIPE. VALITOR (a) IS NOT RESPONSIBLE FOR YOUR OR STRIPE'S FAILURE TO PERFORM OBLIGATIONS UNDER THE AGREEMENT AND (b) DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY YOU, STRIPE, OR ANY THIRD PARTY.
 
 ### 9. Limitations on Liability
 
@@ -77,7 +77,7 @@ In no event will the Valitor Entities be liable for any lost profits, lost reven
 
 Valitor assumes no liability or responsibility for any (a) personal injury or property damage, of any nature whatsoever, resulting from your access to or use of the Services; (b) any misuse of Services or Data; (c) any interruption or cessation of transmission to or from the Services; (d) any software bugs, viruses, or other harmful code that may be transmitted to or through the Services; (e) any errors, inaccuracies, or omissions in services or Data, or any loss or damage resulting therefrom, regardless of the manner of transmission; or (f) defamatory, offensive, or illegal conduct of any third party.
 
-Without limiting anything to the contrary, Valitor’s cumulative liability to you is limited to direct damages and in all events will not exceed in the aggregate amounts actually received by Valitor (including any fees paid to Valitor) for providing services to you during the three (3) month period immediately preceding the event that gives rise to the claim for liability.
+Without limiting anything to the contrary, Valitor's cumulative liability to you is limited to direct damages and in all events will not exceed in the aggregate amounts actually received by Valitor (including any fees paid to Valitor) for providing services to you during the three (3) month period immediately preceding the event that gives rise to the claim for liability.
 
 This limitation of liability section applies regardless of the legal theory that the claim is based, including without limitation contract, tort (including negligence), strict liability, or any other basis. The limitations apply even if Stripe or Valitor has been advised of the possibility of such damage.
 
@@ -97,10 +97,10 @@ The failure of Valitor to assert any of its rights under this Valitor Addendum w
  
 ### 13. Card Network Compliance and Disclosure
 
-Valitor’s head office address is Dalshraun 3, 220 Hafnarfjörður, Iceland and its phone number is +354 525 2000.
+Valitor's head office address is Dalshraun 3, 220 Hafnarfjörður, Iceland and its phone number is +354 525 2000.
 
 **a. Important Valitor Disclosures:** Valitor discloses that (i) either Valitor or any entity within Valitor Group is the only entity approved to extend acceptance of Visa and MasterCard products directly to you; (ii) it must be a principal to this Valitor Addendum; (iii) it is responsible for educating you on pertinent Network Rules with which you must comply, but this information may be provided to you by Stripe; (iv) subject to this Valitor Addendum, it is responsible for and must provide settlement funds to you and does so via Stripe; and (v) it is responsible for all funds held in reserve that are derived from settlement prior to funding you.
 
-**b. Your Responsibilities:** You agree that, at all times throughout the term of this Valitor Addendum, you will (i) comply with data security and storage obligations in using and maintaining Payment Data as requested by the Agreement, this Valitor Addendum and applicable Law, including but not limited to the GDPR (Regulation (EU) 2016/679); (ii) maintain fraud and chargeback rates acceptable under the Network Rules; (iii) review and understand the terms of this Valitor Addendum; and (iv) comply with Network Rules, including but not limited to those provided by Visa and MasterCard.
+**b. Your Responsibilities:** You agree that, at all times throughout the term of this Valitor Addendum, you will (i) comply with data security and storage obligations in using and maintaining Payment Data as requested by the Agreement, this Valitor Addendum and applicable Law, including but not limited to the GDPR (Regulation (EU) 2016/679); (ii) maintain fraud and chargeback rates acceptable under the Network Rules; (iii) review and understand the terms of this Valitor Addendum; and (iv) comply with Network Rules, including but not limited to those provided by Visa and MasterCard.
 
-</article>
+</section>
