@@ -13,4 +13,4 @@ These terms apply as between you and SPUKL with respect to the services that SPU
 
 Please note that all other parts of the Services will remain governed by the Agreement between you and Stripe Payments Europe, Ltd. 
 
-</article>
+</section>
