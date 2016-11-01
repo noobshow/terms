@@ -4,7 +4,7 @@
 </header>
 
 <section id="prohibited_list">
-<p>The following categories of businesses and business practices are prohibited from using the Stripe Service (“Prohibited Businesses”). Prohibited Business categories may be imposed through Network Rules or the requirements of our Financial Services Providers. The types of businesses listed in the right column are representative, but not exhaustive. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please <a href="mailto:support@stripe.com">contact us</a>.</p>
+<p>The following categories of businesses and business practices are prohibited from using the Stripe Service ("Prohibited Businesses"). Prohibited Business categories may be imposed through Network Rules or the requirements of our Financial Services Providers. The types of businesses listed in the right column are representative, but not exhaustive. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please <a href="mailto:support@stripe.com">contact us</a>.</p>
 
 <p><strong>By registering with us, you are confirming that you will not use the Service to accept payments in connection with the following businesses, business activities or business practices.</strong></p>
 
@@ -188,6 +188,6 @@
   </tr>
 </table>
 
-<p>If you have any questions about supported businesses, don’t hesitate to <a href="/contact">get in touch</a>.</p>
+<p>If you have any questions about supported businesses, don't hesitate to <a href="/contact">get in touch</a>.</p>
 
 </section>

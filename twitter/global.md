@@ -20,7 +20,7 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     common control with an entity referenced in this Agreement; (b)
     "**Approved End User Data**" means names, email addresses, order
     line item details and shipping addresses for the relevant end
-    users; (c) **"Buy Now Card"** means Twitter’s card software that
+    users; (c) **"Buy Now Card"** means Twitter's card software that
     enables in-Tweet purchase transactions on the Twitter Service; (d)
     **"Buy Now Program"** means the Twitter commerce program pursuant to
     which you can make products available for purchase in the Territory
@@ -36,10 +36,10 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     with the Buy Now Program. For clarity, Merchant Materials include
     all Merchant Content; (g) **"Merchant Platform"** means your
     e-commerce platform through which you offer and sell products; (h)
-    **"Stripe"** means Stripe, Inc., Twitter’s partner in administering
+    **"Stripe"** means Stripe, Inc., Twitter's partner in administering
     the Buy Now Program; (i) **"Territory"** means worldwide, where the
     Buy Now Program is available; (j) **"Twitter Commerce Policy"**
-    means Twitter’s policy regarding offering of products and services
+    means Twitter's policy regarding offering of products and services
     for sale through the Buy Now Program and related activity, as it may
     be updated from time to time by Twitter. The current version of the
     Twitter Commerce Policy is set forth below; (k) **"Twitter
@@ -91,7 +91,7 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
         sale via the Buy Now Program, and your activities in relation to
         such items, comply with the Twitter Commerce Policy. For
         clarity, any Buy Now Program Tweet that you promote shall
-        additionally be subject to Twitter’s then-current advertiser
+        additionally be subject to Twitter's then-current advertiser
         Master Services Agreement (found
         at https://ads.twitter.com/terms/us) (the "**MSA**") and ads
         policy (found at twitter.com/adspolicy) (the "**Twitter Ads
@@ -141,7 +141,7 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     to end users, provided that you: (x) have an end user privacy policy
     prominently posted on your website (and, as applicable, mobile site
     and/or mobile app) that is at least as protective of the Approved
-    End User Data as Twitter’s privacy policy (located at
+    End User Data as Twitter's privacy policy (located at
     <https://twitter.com/privacy>) is of user information, and clearly
     discloses to end users how their information is collected, used and
     shared and, at minimum, complies with all applicable laws, rules or
@@ -175,30 +175,30 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     personal data out of (a) the European Economic Area, or (b) a
     jurisdiction in which a Commission positive adequacy decision under
     Article 25(6) of Directive 95/46/EC is in force and covers such
-    a transfer. In such cases, TIC shall be the ‘data exporter’ and you
-    shall be the ‘data importer’ as defined in the Clauses, and for the
+    a transfer. In such cases, TIC shall be the 'data exporter' and you
+    shall be the 'data importer' as defined in the Clauses, and for the
     purposes of clause II(h) of the Clauses, you hereby select
     option (iii) and agree to be governed by and comply with the data
     processing principles set out in Annex A to the Clauses. For the
     purposes of Annex B to the Clauses, the following shall apply: (u)
-    ‘Data subjects’ shall mean the registered users of the Twitter
+    'Data subjects' shall mean the registered users of the Twitter
     Service or individuals whose personal data is comprised in the
-    Twitter Materials; (v) the ‘Purpose of the transfer(s)’ is the
-    performance of this Agreement; (w) the ‘Categories of data’ are
-    Twitter Materials; (x) the ‘Recipients’ are payment processors and
+    Twitter Materials; (v) the 'Purpose of the transfer(s)' is the
+    performance of this Agreement; (w) the 'Categories of data' are
+    Twitter Materials; (x) the 'Recipients' are payment processors and
     other third parties (if any) that receive any such Twitter Materials
-    in connection with this Agreement; (y) ‘Sensitive data’ shall mean
-    personal data regarding an individual’s racial or ethnic origin,
+    in connection with this Agreement; (y) 'Sensitive data' shall mean
+    personal data regarding an individual's racial or ethnic origin,
     political opinions, religious or philosophical beliefs, trade-union
     membership, health or sex life, criminal convictions or alleged
-    commission of an offence; and (z) the ‘contact points for data
-    protection enquiries’ are the relevant individuals with
+    commission of an offence; and (z) the 'contact points for data
+    protection enquiries' are the relevant individuals with
     responsibility for data privacy in each of Twitter and you.
 
-6.  **FEEDBACK.**  You may provide comments, feedback, ideas,
+6.  **FEEDBACK.**  You may provide comments, feedback, ideas,
     suggestions or other information to Twitter regarding the Twitter
     Service in the course of your participation in the Buy Now Program
-    (collectively "**Feedback**").  You hereby grant Twitter an
+    (collectively "**Feedback**").  You hereby grant Twitter an
     exclusive, perpetual, irrevocable, royalty-free, fully paid-up,
     worldwide right and license to copy, modify, create derivative works
     from, publicly display, disclose, distribute, license and
@@ -237,17 +237,17 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     Confidential Information of the other party only for the purpose of
     performing its obligations and exercising its rights under
     this Agreement. Notwithstanding the foregoing, the receiving party
-    shall not be obligated under this Section 7 with respect to
+    shall not be obligated under this Section 7 with respect to
     information that the receiving party can document through writing or
-    testimony: (v) is or has become readily publicly available through
-    no fault of the receiving party or its employees or agents; (w) is
+    testimony: (v) is or has become readily publicly available through
+    no fault of the receiving party or its employees or agents; (w) is
     received from a third party who is lawfully in possession of such
-    information and, to the receiving party’s knowledge, is not subject
+    information and, to the receiving party's knowledge, is not subject
     to any disclosure restrictions with respect to such information;
-    (x) is disclosed to a third party by the disclosing party without
-    restriction on disclosure; (y) was rightfully in the possession of
+    (x) is disclosed to a third party by the disclosing party without
+    restriction on disclosure; (y) was rightfully in the possession of
     the receiving party without restriction prior to its disclosure by
-    the disclosing party; or (z) was independently developed by
+    the disclosing party; or (z) was independently developed by
     employees or consultants of the receiving party without reliance on
     such Confidential Information. The receiving party may make
     disclosures required by law or court order provided the receiving
@@ -259,7 +259,7 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     indicating your acceptance of the Agreement, and (b) the date you
     begin using the Buy Now Program. At any time, for any or no reason,
     either party may terminate the Agreement by providing written notice
-    to the other party. At any time and at Twitter’s sole discretion,
+    to the other party. At any time and at Twitter's sole discretion,
     Twitter may update or modify the Buy Now Program features or
     functionality, or this Agreement, and your continued participation
     in the Buy Now Program will constitute your acceptance of such
@@ -283,7 +283,7 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     of the other party's Confidential Information or other materials to
     the extent that the Confidential Information is embedded in
     electronic data files or is otherwise not reasonably separable for
-    return or destruction; however, the other party’s Confidential
+    return or destruction; however, the other party's Confidential
     Information (and all copies thereof) will be, if technically
     possible, rendered such that it can no longer be used by such party.
 
@@ -373,9 +373,9 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     minimum, such documentation will address data security, endpoint
     security, security assessment program(s), access control policies,
     network/communication security and organization security. At
-    Twitter’s request after such documentation has been provided, you
+    Twitter's request after such documentation has been provided, you
     will make available members of your data security team (or, if you
-    don’t have a data security team, other knowledgeable personnel) to
+    don't have a data security team, other knowledgeable personnel) to
     respond to reasonable inquiries from Twitter related to data
     security matters.
 
@@ -393,8 +393,8 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
 15. **LIMITATION OF LIABILITY**. EXCEPT WITH RESPECT TO (I) BREACHES OF
     CONFIDENTIALITY OBLIGATIONS, (II) THE INDEMNITY OBLIGATIONS SET
     FORTH IN SECTION 14, AND (III) INFRINGEMENT OR MISAPPROPRIATION OF
-    THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS, UNDER NO
-    CIRCUMSTANCES WILL EITHER PARTY’S LIABILITY FOR ALL CLAIMS ARISING
+    THE OTHER PARTY'S INTELLECTUAL PROPERTY RIGHTS, UNDER NO
+    CIRCUMSTANCES WILL EITHER PARTY'S LIABILITY FOR ALL CLAIMS ARISING
     UNDER OR RELATING TO THIS AGREEMENT, REGARDLESS OF THE FORUM AND
     REGARDLESS OF WHETHER ANY ACTION OR CLAIM IS BASED ON CONTRACT,
     TORT, OR OTHERWISE, EXCEED THE AMOUNT PAID (OR, IN THE CASE OF YOUR
@@ -403,7 +403,7 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     LIMITATION OF LIABILITY IS CUMULATIVE AND NOT PER INCIDENT. EXCEPT
     WITH RESPECT TO (I) BREACHES OF CONFIDENTIALITY OBLIGATIONS, (II)
     THE INDEMNITY OBLIGATIONS SET FORTH IN SECTION 14, AND (III)
-    INFRINGEMENT OR MISAPPROPRIATION OF THE OTHER PARTY’S INTELLECTUAL
+    INFRINGEMENT OR MISAPPROPRIATION OF THE OTHER PARTY'S INTELLECTUAL
     PROPERTY RIGHTS, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE
     OTHER PARTY FOR ANY SPECIAL, INDIRECT, RELIANCE, INCIDENTAL,
     PUNITIVE OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR FOR ANY LOST OR
@@ -411,7 +411,7 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, EVEN IF SUCH
     PARTY HAS BEEN NOTIFIED OF THE POSSIBILITY THEREOF. THE FOREGOING
     LIMITATIONS, EXCLUSIONS AND DISCLAIMERS SHALL APPLY REGARDLESS
-    OF WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT,
+    OF WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT,
     WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR
     OTHERWISE, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE
     POSSIBILITY OF SUCH LOSS OR DAMAGE. INSOFAR AS APPLICABLE LAW
@@ -429,7 +429,7 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     except for your permitted use of the Buy Now Program in accordance
     with this Agreement, you may not make or issue any communications,
     press releases, or other public statements regarding this Agreement
-    or the matters herein without Twitter’s prior written approval.
+    or the matters herein without Twitter's prior written approval.
 
 17. **NOTICE.** Twitter may give notices to you by posting on the
     Twitter Service, or by email to the address provided by you. You
@@ -449,7 +449,7 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
     behalf of the other and the Agreement is not intended to benefit,
     nor will it be deemed to give rise to any rights in, any
     third party. Notwithstanding the foregoing, you acknowledge and
-    agree that Twitter’s Affiliates will be third-party beneficiaries to
+    agree that Twitter's Affiliates will be third-party beneficiaries to
     the Agreement and will be entitled to directly enforce, and rely
     upon, any provision in the Agreement, which confers a benefit on, or
     rights in favor of, them.
@@ -463,12 +463,12 @@ AGREEMENT, YOU AND THE ENTITY YOU REPRESENT ("YOU" OR "MERCHANT" OR
 
 20. **ASSIGNMENT.** You may not assign this Agreement or assign or
     delegate your rights or obligations under this Agreement without
-    Twitter’s prior written consent. Moreoveryou may not assign or
+    Twitter's prior written consent. Moreoveryou may not assign or
     transfer all or any part of this Agreement by operation of law,
     contract, merger (whether the party hereto is the surviving or
     disappearing entity), acquisition or sale of stock or assets,
     consolidation, dissolution, through government action or otherwise,
-    except with Twitter’s express written consent. Any assignment or
+    except with Twitter's express written consent. Any assignment or
     attempted assignment in violation of this subsection shall be null
     and void and of no force or effect.
 
@@ -525,11 +525,11 @@ Product Pages Program . Three separate policies comprise the Twitter
 Commerce Policy: (1) the Product Policy, which covers the merchandise or
 products a merchant is permitted to offer for sale through the Buy Now
 Program and/or the Product Pages Program (e.g. t-shirts, stickers, CDs,
-etc.);  (2) the Text and Image Policy, which covers the supporting text
+etc.);  (2) the Text and Image Policy, which covers the supporting text
 and images posted on the Twitter Service to describe and market
 merchandise or products sold through the Buy Now Program and/or the
 Product Pages Program; and (3) the Merchant Fraud and Dispute Policy,
-which covers a merchant’s responsibility in the event of fraudulent
+which covers a merchant's responsibility in the event of fraudulent
 transactions and merchant disputes.
 
 Products, card text and images used in or offered for sale through use
@@ -544,13 +544,13 @@ apply.
 If a product, card text, or image violates the Twitter Commerce Policy
 or, if applicable, the Twitter Ads Policies, Twitter may take
 appropriate action including but not limited to removal of the
-applicable Tweet and/or removal of the merchant’s access to the Buy Now
+applicable Tweet and/or removal of the merchant's access to the Buy Now
 Program and/or the Product Pages Program.
 
-Twitter’s [general rules](https://support.twitter.com/articles/18311)
+Twitter's [general rules](https://support.twitter.com/articles/18311)
 and[ Terms of Service](https://twitter.com/tos) also are applicable to
 use of the Twitter Service in connection with the Buy Now and Product
-Pages Programs and will be enforced.  
+Pages Programs and will be enforced.  
 
 Merchants must comply with all applicable laws and regulations including
 laws and regulations with regards to promoting and/or selling adult
@@ -566,7 +566,7 @@ services in the following categories:
 <thead>
 <tr class="header">
 <th align="left"><strong>Policy</strong></th>
-<th align="left"><strong>Policy  - Prohibited</strong></th>
+<th align="left"><strong>Policy  - Prohibited</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -575,7 +575,7 @@ services in the following categories:
 <td align="left"><p>Merchandise that contains images of people or representations of people (including cartoons) that display sexual body parts.</p>
 <ul>
 <li><p>Obscured images (e.g. pixelation or black bar) are permitted.</p></li>
-<li><p>Non-sexual nudity in fine art or medical drawings are permitted.  </p></li>
+<li><p>Non-sexual nudity in fine art or medical drawings are permitted.  </p></li>
 </ul>
 <p>Adult/pornographic magazines, books &amp; films</p>
 <p>Escort or prostitution services</p>
@@ -689,7 +689,7 @@ services in the following categories:
 </tr>
 <tr class="odd">
 <td align="left">Trade Restrictions</td>
-<td align="left">Goods and services sold by individuals identified on OFAC’s list of Specially Designated Nationals and Blocked Persons, and businesses and individuals subject to U.S. trade sanctions and other U.S. trade restrictions  </td>
+<td align="left">Goods and services sold by individuals identified on OFAC's list of Specially Designated Nationals and Blocked Persons, and businesses and individuals subject to U.S. trade sanctions and other U.S. trade restrictions  </td>
 </tr>
 <tr class="even">
 <td align="left">Travel services</td>
@@ -738,7 +738,7 @@ describe and market the goods and services offered:
 <thead>
 <tr class="header">
 <th align="left"><strong>Policy</strong></th>
-<th align="left"><strong>Policy  - Prohibited</strong></th>
+<th align="left"><strong>Policy  - Prohibited</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -747,7 +747,7 @@ describe and market the goods and services offered:
 <td align="left"><p>Images of people or representations of people that display sexual body parts are not permitted.</p>
 <ul>
 <li><p>Censored images (e.g. pixelation or black bar) are permitted.</p></li>
-<li><p>Non-sexual nudity in fine art or medical drawings are permitted.  </p></li>
+<li><p>Non-sexual nudity in fine art or medical drawings are permitted.  </p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -824,7 +824,7 @@ fraudulent transactions and customer disputes:
 
 ### Fraudulent Transactions ###
 
-Twitter will occasionally reject orders when it has reason to suspect unauthorized or fraudulent transactions. However, it is ultimately the merchant’s responsibility to review all transactions for fraud and to verify suspicious orders. At the minimum, the merchant should investigate instances of: AVS or CVV failures, multiple orders with the same shipping address but different emails or billing zip codes, billing and shipping zip code mismatch, and orders with high dollar amounts.
+Twitter will occasionally reject orders when it has reason to suspect unauthorized or fraudulent transactions. However, it is ultimately the merchant's responsibility to review all transactions for fraud and to verify suspicious orders. At the minimum, the merchant should investigate instances of: AVS or CVV failures, multiple orders with the same shipping address but different emails or billing zip codes, billing and shipping zip code mismatch, and orders with high dollar amounts.
 
 ### Disputes ###
 

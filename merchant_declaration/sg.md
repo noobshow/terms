@@ -7,11 +7,11 @@ In order to receive the services supplied by Stripe and First Data Merchant Serv
 
 ## RECITALS:
 
-(A) You applied to Stripe Payments Europe, Limited (a company incorporated under the laws of Ireland with registered number 513174 and having its registered office at c/o A&L Goodbody, IFSC, North Wall Quay, Dublin 1) (“Stripe”) to receive certain services related to payment execution processing (the “Stripe Services”) as set out in particular in the Stripe Merchant Terms of Service between You and Stripe dated on or about the date of this Merchant Declaration (the “Stripe Agreement”).
+(A) You applied to Stripe Payments Europe, Limited (a company incorporated under the laws of Ireland with registered number 513174 and having its registered office at c/o A&L Goodbody, IFSC, North Wall Quay, Dublin 1) ("Stripe") to receive certain services related to payment execution processing (the "Stripe Services") as set out in particular in the Stripe Merchant Terms of Service between You and Stripe dated on or about the date of this Merchant Declaration (the "Stripe Agreement").
 
-(B) In connection with the Stripe Services, First Data Merchant Solutions Private Limited (a company incorporated in Singapore whose company number is 200616768 and whose registered address is at 47 Scotts Road, #04-03 Goldbell Towers, Singapore, 228233) (“First Data Merchant Solutions”)) agrees to provide to You certain payment acquiring services (the “FDMS Services”) as set out in particular in the First Data Merchant Solutions merchant processing agreement between First Data Merchant Solutions and You attached hereto in the Annex (the “FDMS Agreement”) (Stripe and First Data Merchant Solutions collectively, the “Service Providers”).
+(B) In connection with the Stripe Services, First Data Merchant Solutions Private Limited (a company incorporated in Singapore whose company number is 200616768 and whose registered address is at 47 Scotts Road, #04-03 Goldbell Towers, Singapore, 228233) ("First Data Merchant Solutions")) agrees to provide to You certain payment acquiring services (the "FDMS Services") as set out in particular in the First Data Merchant Solutions merchant processing agreement between First Data Merchant Solutions and You attached hereto in the Annex (the "FDMS Agreement") (Stripe and First Data Merchant Solutions collectively, the "Service Providers").
 
-(C) This Merchant Declaration and Agreement governs how the Stripe Services and the FDMS Services (each a “Service” and collectively, the “Services”) are to be provided and to clarify the Parties’ rights and obligations under each of the Stripe Agreement and the FDMS Agreement (each an “Agreement” and collectively, the “Agreements”).
+(C) This Merchant Declaration and Agreement governs how the Stripe Services and the FDMS Services (each a "Service" and collectively, the "Services") are to be provided and to clarify the Parties' rights and obligations under each of the Stripe Agreement and the FDMS Agreement (each an "Agreement" and collectively, the "Agreements").
 In consideration of their mutual promises the Parties (each of You, First Data Merchant Solutions and Stripe) agree as follows:
 
 ### 1 GENERAL
@@ -103,7 +103,7 @@ Entry by Stripe into the Stripe Agreement shall be deemed to constitute entry by
 
 (xii) unless required or permitted by law, you must not impose or require the Cardholder to pay surcharge, commission, discount whether through any increase in price or otherwise, or any other term or condition whatsoever on any Cardholder desirous of using the Card.
 
-(c) Without prejudice to the generality of the aforesaid, you must not allow the use of the Card for transactions forbidden by the Card Association’s operating regulations including but not limited to:
+(c) Without prejudice to the generality of the aforesaid, you must not allow the use of the Card for transactions forbidden by the Card Association's operating regulations including but not limited to:
 
 (i) the use of the Card to refinance an existing debt or Cardholder;
 
@@ -157,7 +157,7 @@ You must not issue a credit which does not have a previous offsetting sale. Our 
 
 (a) By prior written notice we will designate a Floor Limit in respect of each service outlet or department of a service outlet operated by the Merchant and may similarly vary any such Floor Limit by giving a written notice in accordance with clause 10.6. In the absence of such notice the Floor Limit shall be non existing.
 
-(b) In the case of the Visa Electron Card, transactions must be on an “on-line” mode and Floor Limit shall be non existing.
+(b) In the case of the Visa Electron Card, transactions must be on an "on-line" mode and Floor Limit shall be non existing.
 
 ### 2.  INTENTIONALLY LEFT BLANK
 
@@ -175,7 +175,7 @@ You must not issue a credit which does not have a previous offsetting sale. Our 
 
 (i) we will initiate a credit into your Settlement Account no earlier than two (2) Business Days after the day the transactions are processed (which is the next Business Day if transactions are submitted before merchant cut-off); or
 
-(ii)  subject to clause 6.2 of Schedule 1, for CUP transactions, we have no liability to pay in respect of a transaction, and you have no right of demand and/or claim of payment and/or any other remedies, damages and/or compensation against us. We will notify you as soon as practicable (i) upon CUP’s refusal and/or delay in paying us for a transaction; and/or (ii) if we are not satisfied that all the information in relation to a transaction for which you claim payment accords with our own records.
+(ii)  subject to clause 6.2 of Schedule 1, for CUP transactions, we have no liability to pay in respect of a transaction, and you have no right of demand and/or claim of payment and/or any other remedies, damages and/or compensation against us. We will notify you as soon as practicable (i) upon CUP's refusal and/or delay in paying us for a transaction; and/or (ii) if we are not satisfied that all the information in relation to a transaction for which you claim payment accords with our own records.
 
 (d) We will not be liable for any delays in receipt of funds or errors in debit and credit entries caused by third parties such as an Association, your financial institution or any failure in an electronic funds transfer system or telephone lines or internet or due to or arising from any of the following events:
 
@@ -210,7 +210,7 @@ You agree that payment into your nominated Settlement Account constitutes full a
 
 (i) only use Cardholder information for the purposes of authorising, completing and settling Card transactions and resolving any Chargebacks;
 
-(ii)  not provide (other than to us or if required to do so by law), buy, sell or exchange a Cardholder’s name or information in any form;
+(ii)  not provide (other than to us or if required to do so by law), buy, sell or exchange a Cardholder's name or information in any form;
 
 (iii) use proper controls for all records containing Cardholder information, and limit access to selected Employees;
 
@@ -218,7 +218,7 @@ You agree that payment into your nominated Settlement Account constitutes full a
 
 (v) after the period you need to retain the records has ended, destroy the records and any information in a way that ensures any card details are unreadable; and
 
-(vi)  provide to us and/or an Association as relevant access to, inspection rights and to access to examine documents, instruments and notes (or any part thereof); and/or provide to us or our agent, the aforesaid documents, instruments and notes (or any part of them) for our own and the relevant Association’s use and verification and/or our account to Associations, for such period of time as we may deem fit at our absolute discretion, all from time to time and at any time. You will, upon our reasonable prior notice, provide to us all documents, instruments, notes, figures, data and information of whatsoever nature (including but not limited to the Credit Receipts, Sales Receipts and Merchant Deposit Slips) generated out of, evidencing, arising out of and/or in connection with a transaction as we may from time to time or at any time request at our absolute discretion.
+(vi)  provide to us and/or an Association as relevant access to, inspection rights and to access to examine documents, instruments and notes (or any part thereof); and/or provide to us or our agent, the aforesaid documents, instruments and notes (or any part of them) for our own and the relevant Association's use and verification and/or our account to Associations, for such period of time as we may deem fit at our absolute discretion, all from time to time and at any time. You will, upon our reasonable prior notice, provide to us all documents, instruments, notes, figures, data and information of whatsoever nature (including but not limited to the Credit Receipts, Sales Receipts and Merchant Deposit Slips) generated out of, evidencing, arising out of and/or in connection with a transaction as we may from time to time or at any time request at our absolute discretion.
 
 (c) You acknowledge that you do not own any information relating to and derived from Card transactions. During the term of this Agreement, you may only use, store, copy and disclose transaction data as necessary for the purposes of assisting us and the relevant Card Association to complete the transaction, supporting any loyalty program associated with the Card or Services, providing fraud control services or for purposes specifically required by law. If you use any third party to handle transaction data, you must ensure those third par ties handle that data in compliance with laws and this provision of this Merchant Agreement. You are responsible for the transaction data handling actions of your third party suppliers.
 
@@ -228,9 +228,9 @@ You agree that payment into your nominated Settlement Account constitutes full a
 
 (b) We will handle any information we collect about you, your directors, officers and principals in accordance with Privacy Laws, our privacy collection statements and privacy policies. We will implement all data security measures required by such laws and policies.
 
-(c) You, your directors, officers and principals acknowledge that information relating to you, your directors, officers and principals and your accounts and dealing relationships with us, including but not limited to details of your facilities, any security taken, transactions under taken and balances and positions with us, as well as information in your Merchant Processing Application Form (“Information”) is collected or held by us.
+(c) You, your directors, officers and principals acknowledge that information relating to you, your directors, officers and principals and your accounts and dealing relationships with us, including but not limited to details of your facilities, any security taken, transactions under taken and balances and positions with us, as well as information in your Merchant Processing Application Form ("Information") is collected or held by us.
 
-(d) The Information may be shared with our head office and any of its subsidiaries (including, representative and branch offices in any jurisdiction and our agent, contractor and its related entities in any jurisdiction (“Permitted Parties”) in connection with this Agreement and in accordance with our privacy collection statements and privacy policies, and you, your directors, officers and principals consent to such sharing of information.
+(d) The Information may be shared with our head office and any of its subsidiaries (including, representative and branch offices in any jurisdiction and our agent, contractor and its related entities in any jurisdiction ("Permitted Parties") in connection with this Agreement and in accordance with our privacy collection statements and privacy policies, and you, your directors, officers and principals consent to such sharing of information.
 
 (e) You authorise us, the Permitted Parties and our respective Employees and advisers to disclose Information to:
 
@@ -264,7 +264,7 @@ This clause shall survive termination or expiry of this Agreement.
 
 (a) You must pay us the fees for the Services as set out in the Merchant Processing Application Form, as well as any additional fees or pricing set out in this Agreement. Those fees are payable when the services are provided. You must also keep a bank account (Fees Account) (which may or may not be the same as your Settlement Account) at a financial institution, from which we may collect fees for the Services as set out in the Merchant Processing Application Form, as well as any additional fees or pricing set out in this Agreement. If you do not nominate in the Merchant Processing Application Form a Fees Account or if there are insufficient funds in the Fees Account from which to debit fees, the Settlement Account will be the Fees Account and you authorise us to collect fees from the Settlement Account. You agree to provide us a direct debit request to enable us to debit to the Fees Account fees for the Services as set out in the Merchant Processing Application Form, as well as any additional fees or pricing set out in this Agreement. You agree to reimburse us for the amount of any charges we incur as a result of any debit to the Fees Account being rejected.
 
-(b) The fees for Services may be adjusted by us upon 30 days’ notice:
+(b) The fees for Services may be adjusted by us upon 30 days' notice:
 
 (i) if the actual volume or average transaction size are not as expected or if you significantly alter your method of doing business; or
 
@@ -391,7 +391,7 @@ We may from time to time request security from one or more of you or a guarantor
 
 (i) there occurs irregular, invalid or illegal Card sales by you, excessive Chargebacks or any other circumstances which, in our sole discretion, may increase our exposure to financial or security risk;
 
-(ii)  we are notified that you or your directors appear in MasterCard’s Member Alert to Control High Risk (MATCH) list, or the equivalent list of any other Card Association;
+(ii)  we are notified that you or your directors appear in MasterCard's Member Alert to Control High Risk (MATCH) list, or the equivalent list of any other Card Association;
 
 (iii) there occurs any material adverse change in your business, financial condition, business procedures, prospects, goods or services;
 
@@ -412,7 +412,7 @@ We may from time to time request security from one or more of you or a guarantor
 
 (c) We may terminate this Agreement by prior written notice stipulating the date upon which termination to take effect, without us having to assign any reason for such termination.
 
-(d) You may terminate this Agreement on 30 days’ written notice to us if we notify you of a modification in the terms of this Agreement, which materially increases your obligations or diminishes your rights, and you provide notice of termination within 30 days. Please note that your continued use of our Services after that date will be deemed acceptance of the increased fees for Services or modification of the terms, throughout the remaining term of this Agreement.
+(d) You may terminate this Agreement on 30 days' written notice to us if we notify you of a modification in the terms of this Agreement, which materially increases your obligations or diminishes your rights, and you provide notice of termination within 30 days. Please note that your continued use of our Services after that date will be deemed acceptance of the increased fees for Services or modification of the terms, throughout the remaining term of this Agreement.
 
 (e) If this Agreement ends:
 
@@ -440,7 +440,7 @@ Any termination of this Agreement does not affect the rights and obligations of 
 
 10.1  Term
 
-This Agreement commences on the date of the first Card transaction on the Equipment or when it is signed by us, whichever is the earlier, and continues for 3 years (unless terminated earlier in accordance with this Agreement). After the 3 years, this Agreement will automatically continue for twelve (12) month periods until either you or we terminate it upon 30 days’ written notice to the other. Notwithstanding the foregoing, clause 5 commences on the date that you submit a completed Merchant Declaration and Agreement and survives termination of this Agreement.
+This Agreement commences on the date of the first Card transaction on the Equipment or when it is signed by us, whichever is the earlier, and continues for 3 years (unless terminated earlier in accordance with this Agreement). After the 3 years, this Agreement will automatically continue for twelve (12) month periods until either you or we terminate it upon 30 days' written notice to the other. Notwithstanding the foregoing, clause 5 commences on the date that you submit a completed Merchant Declaration and Agreement and survives termination of this Agreement.
 
 10.7  Consents
 
@@ -480,7 +480,7 @@ You represent to us the following:-
 
 (c) All information (including but not limited to your particulars and business set out in Merchant Declaration and Agreement) and all documents you have provided and will provide to us are true, complete and accurate.
 
-(d) In respect of participation for CUP Cards, you do not carry on any business under any capital project or company trading project, any business prohibited by the laws of the People’s Republic of China and/or the Hong Kong laws, and any business on gambling or otherwise affecting or prejudicing the morals and/or the orders of society; and
+(d) In respect of participation for CUP Cards, you do not carry on any business under any capital project or company trading project, any business prohibited by the laws of the People's Republic of China and/or the Hong Kong laws, and any business on gambling or otherwise affecting or prejudicing the morals and/or the orders of society; and
 
 All representations by you are deemed to be repeated on each day during the term of this Agreement.
 
@@ -497,7 +497,7 @@ You shall execute such other agreements as we may in our absolute discretion dee
 
 10.17 Indemnities and Expenses
 
-(a) You shall indemnify us and keep us indemnified against all losses, claims, demands, damages, proceedings, liabilities, costs (including all legal costs on a full indemnity basis) and expenses (“Losses”) incurred or suffered by us arising out of or in connection with any breach of any provision of this Agreement and/or the enforcement thereof and/or the payment of any Sales Receipt submitted to us.
+(a) You shall indemnify us and keep us indemnified against all losses, claims, demands, damages, proceedings, liabilities, costs (including all legal costs on a full indemnity basis) and expenses ("Losses") incurred or suffered by us arising out of or in connection with any breach of any provision of this Agreement and/or the enforcement thereof and/or the payment of any Sales Receipt submitted to us.
 
 (b) Without prejudice to the generality of the aforesaid indemnity, you hereby agree and undertake to indemnify us completely and absolutely, against all claims made against us concerning and arising out of:
 
@@ -561,7 +561,7 @@ __Change in Control:__ Any of the following:
 
 (d) a person who has not appointed or is not entitled to appoint a majority of directors to the board of directors of the Merchant on the date of commencement of this Agreement does, or becomes entitled to, appoint a majority of directors to the board of directors of the Merchant.
 
-For the purposes of the above definition “agrees” means an agreement which is written or oral, express or implied, conditional or unconditional and includes an obligation for a party to use its “best” or “reasonable” endeavours;
+For the purposes of the above definition "agrees" means an agreement which is written or oral, express or implied, conditional or unconditional and includes an obligation for a party to use its "best" or "reasonable" endeavours;
 
 __Chargeback:__ The reversal of a Sales Receipt (or other indicia of a Card transaction) and reversal of any associated credit to your Settlement Account because a Cardholder or Card Issuer disputes the transaction or which is required by the Association Rules or can be reversed under the Schedule 1 Operating Procedures.
 
@@ -571,7 +571,7 @@ __Charge Card Association:__ American Express Company, Diners Club International
 
 __Confidential Information:__ Any information relating to the business of FDMS or you or concerning the financial transactions or affairs or the identity of any of them or a Cardholder or the details of a Card transaction and any relevant Association Rules.
 
-__Credit Card:__ A valid Card bearing the service mark of Visa or MasterCard or CUP or JCB (and any other card agreed by the parties), the use of which accesses the Cardholder’s credit facility or a debit facility through one of the credit card schemes.
+__Credit Card:__ A valid Card bearing the service mark of Visa or MasterCard or CUP or JCB (and any other card agreed by the parties), the use of which accesses the Cardholder's credit facility or a debit facility through one of the credit card schemes.
 
 __Credit Receipt:__ A document (for CUP transactions in the form provided by FDMS from time to time) evidencing the return of merchandise by a Cardholder to a Merchant, or other refund made by the Merchant to the Cardholder.
 
@@ -579,7 +579,7 @@ __CUP Card Programme__ means the financial services Card programme administered 
 
 __Discount:__ The amount calculated in the manner and at the rate notified by us from time to time, which we are entitled to deduct from the value of the valid sales and cash out transactions presented to us in accordance with this Agreement, including terminal rental fees, prior to payment of the balance to You.
 
-__Debit Card:__ A valid Card the use of which accesses the Cardholder’s cheque or savings account facility made available by the Cardholder’s Issuer.
+__Debit Card:__ A valid Card the use of which accesses the Cardholder's cheque or savings account facility made available by the Cardholder's Issuer.
 
 __Employees:__ Employees, contractors, officers, agents and secondees.
 
@@ -614,9 +614,9 @@ __Insolvency Event:__ Any of the following:
 
 (a)- (f) above happens under the law of any applicable jurisdiction.
 
-__Issuer:__ Cardholder’s bank, or the bank which has issued a Card to an individual.
+__Issuer:__ Cardholder's bank, or the bank which has issued a Card to an individual.
 
-__Merchant:__ The party identified as “Merchant” on the Application. The words “you” and “your” refer to Merchant.
+__Merchant:__ The party identified as "Merchant" on the Application. The words "you" and "your" refer to Merchant.
 
 __Merchant Incentive__ means the amount if any specified in the Merchant Declaration and Agreement as an incentive for your participation in DCC.
 
@@ -631,7 +631,7 @@ __Privacy Law:__ Any statute, regulation, guideline or quasi legislative instrum
 __Sales Receipt:__ Evidence of a purchase of goods or services by a Cardholder from a Merchant using a Card, (regardless of whether the form of such evidence is in paper, electronic or otherwise) which conforms to Association Rules and unless otherwise indicated to the contrary, includes EDC Sales Receipt by which a party is bound and any industry code (whether voluntary or not) by which a party is bound.
 Schedule 1 to this document containing operational procedures, instructions and other directives relating to Card transactions, as amended from time to time.
 
-__Services:__ The activities undertaken by FDMS to authorise, process and settle all Credit Card transactions and Debit Card transactions under taken by Cardholders at the Merchant’s location(s) in the country specified in Part A of the Merchant Declaration and Agreement, and all other activities necessary for FDMS to perform the functions required by this Agreement for all other Cards covered by this Agreement (including where applicable, the provision and maintenance of Supplied Equipment).
+__Services:__ The activities undertaken by FDMS to authorise, process and settle all Credit Card transactions and Debit Card transactions under taken by Cardholders at the Merchant's location(s) in the country specified in Part A of the Merchant Declaration and Agreement, and all other activities necessary for FDMS to perform the functions required by this Agreement for all other Cards covered by this Agreement (including where applicable, the provision and maintenance of Supplied Equipment).
 
 __Settlement Account:__ Means the account referred to in clause 3(b).
 
@@ -646,11 +646,11 @@ __You, Your:__ The Merchant and where the context prescribes a procedure include
 
 ## PART A: CREDIT CARDS
 
-We provide processing services to facilitate the passage of your Sales Receipts back to the thousands of institutions who issue the MasterCard® and Visa® and CUP and JCB Cards carried by your customers. This part of the Operating Procedures describes the procedures and methods for submitting Credit Card transactions for payment, obtaining Authorisations, responding to Chargebacks and Media Retrieval requests, and other aspects of the operations of our services.
+We provide processing services to facilitate the passage of your Sales Receipts back to the thousands of institutions who issue the MasterCard&reg; and Visa&reg; and CUP and JCB Cards carried by your customers. This part of the Operating Procedures describes the procedures and methods for submitting Credit Card transactions for payment, obtaining Authorisations, responding to Chargebacks and Media Retrieval requests, and other aspects of the operations of our services.
 
 They seek to provide you with the principles for a sound Card program. They are designed to help you decrease your Chargeback liability and train your Employees.
 
-The Operating Procedures contained in this part focus primarily on the MasterCard, Visa Associations’ operating rules and regulations. In the event we provide Authorisation, processing or settlement of transactions involving Cards other than MasterCard and Visa, you should also consult those independent Card Issuers’ proprietary rules and regulations.
+The Operating Procedures contained in this part focus primarily on the MasterCard, Visa Associations' operating rules and regulations. In the event we provide Authorisation, processing or settlement of transactions involving Cards other than MasterCard and Visa, you should also consult those independent Card Issuers' proprietary rules and regulations.
 
 The requirements set out in these Operating Procedures will apply unless prohibited by law. You are responsible for following any additional or conflicting requirements imposed by the laws of the country specified in the Merchant Declaration and Agreement.
 
@@ -658,11 +658,11 @@ The requirements set out in these Operating Procedures will apply unless prohibi
 
 1.1 RECURRING TRANSACTION AND PREAUTHORISED ORDER REGULATIONS
 
-(a) If you process recurring transactions and charge a Cardholder’s account periodically for recurring goods or services (e.g., monthly insurance premiums, yearly subscriptions, annual membership fees, etc.), the Cardholder shall complete and deliver to you a written request for such goods or services to be charged to the Cardholder’s account. The written request must at least specify the transaction amounts, the frequency of recurring charges and the duration of time for which the Cardholder’s permission is granted.
+(a) If you process recurring transactions and charge a Cardholder's account periodically for recurring goods or services (e.g., monthly insurance premiums, yearly subscriptions, annual membership fees, etc.), the Cardholder shall complete and deliver to you a written request for such goods or services to be charged to the Cardholder's account. The written request must at least specify the transaction amounts, the frequency of recurring charges and the duration of time for which the Cardholder's permission is granted.
 
-(b) If the recurring transaction is renewed, the Cardholder must complete and deliver to you a subsequent request for the continuation of such goods or services to be charged to the Cardholder’s account. You must explain to the Cardholder how to stop receiving the goods and services. You may not complete a recurring transaction after receiving a cancellation notice from the Cardholder or Issuer or after a request for Authorisation has been denied.
+(b) If the recurring transaction is renewed, the Cardholder must complete and deliver to you a subsequent request for the continuation of such goods or services to be charged to the Cardholder's account. You must explain to the Cardholder how to stop receiving the goods and services. You may not complete a recurring transaction after receiving a cancellation notice from the Cardholder or Issuer or after a request for Authorisation has been denied.
 
-(c) You must obtain an Authorisation for each transaction and write “Recurring Transaction” (or “P.O.” for MasterCard transactions) on the Sales Receipt in lieu of the Cardholder’s signature.
+(c) You must obtain an Authorisation for each transaction and write "Recurring Transaction" (or "P.O." for MasterCard transactions) on the Sales Receipt in lieu of the Cardholder's signature.
 
 (d) A Recurring Transaction or Preauthorised Order may not include partial payments for goods or services purchased in a single transaction.
 
@@ -678,8 +678,8 @@ The following rules are requirements strictly enforced by Visa or MasterCard or 
 
 (b) You cannot establish procedures that discourage, favour or discriminate against the use of any particular Card.
 
-(c) You cannot require the Cardholder to supply any personal information (e.g., home or business phone number; home or business address; or driver’s licence number) unless instructed by the Call Centre operated by First Data Merchant
-Solutions Pte Limited (“Call Centre”), in which case you (and FDMS) must comply with Privacy Laws in your country. The exception to this is for a mail/telephone order or delivery-required transactions.
+(c) You cannot require the Cardholder to supply any personal information (e.g., home or business phone number; home or business address; or driver's licence number) unless instructed by the Call Centre operated by First Data Merchant
+Solutions Pte Limited ("Call Centre"), in which case you (and FDMS) must comply with Privacy Laws in your country. The exception to this is for a mail/telephone order or delivery-required transactions.
 
 (d) Any tax required to be collected must be included in the total transaction amount and not collected in cash.
 
@@ -709,13 +709,13 @@ You must not accept any direct payments from Cardholders for charges of merchand
 
 (a) Fraud-Prone Merchandise Tips:
 
-(i) Jewellery, video, stereo, computer and camera equipment, shoes and men’s clothing are typically fraud-prone because they can easily be resold.
+(i) Jewellery, video, stereo, computer and camera equipment, shoes and men's clothing are typically fraud-prone because they can easily be resold.
 
 (ii)  Be suspicious of high dollar amounts and transactions with more than one fraud-prone item, e.g., two VCRs, three gold chains, etc.
 
 (iii) If you suspect fraud, call the relevant customer care line. If the terminal does not display the Card number, call the FDMS POS Help Desk for terminal assistance.
 
-(b) Remember: An Authorisation code only indicates the availability of a Cardholder’s credit at the time of the transaction. It does not warrant that the person presenting the Card is the rightful Cardholder. If proper procedures are not followed at the time of the transaction, you are subject to a Chargeback and your account may be debited for the amount of the transaction.
+(b) Remember: An Authorisation code only indicates the availability of a Cardholder's credit at the time of the transaction. It does not warrant that the person presenting the Card is the rightful Cardholder. If proper procedures are not followed at the time of the transaction, you are subject to a Chargeback and your account may be debited for the amount of the transaction.
 
 (c) Card cancellation
 
@@ -723,15 +723,15 @@ From time to time we will issue instructions, through terminals and/or verbal an
 
 ### 2.  COMPLETION OF SALES AND CREDIT RECEIPTS
 
-(a) Internet transactions have a substantially higher risk of Chargeback. Since you will not have an imprinted or magnetically swiped transaction and you will not have the Cardholder’s signature on the Sales Receipt as you would in a face-to-face transaction, you will assume all risk associated with accepting a mail/ telephone/Internet order transaction. The following procedures, while they will not eliminate Chargebacks, are useful in reducing them:
+(a) Internet transactions have a substantially higher risk of Chargeback. Since you will not have an imprinted or magnetically swiped transaction and you will not have the Cardholder's signature on the Sales Receipt as you would in a face-to-face transaction, you will assume all risk associated with accepting a mail/ telephone/Internet order transaction. The following procedures, while they will not eliminate Chargebacks, are useful in reducing them:
 
 (i) Obtain the expiration date of Card.
 
-(ii)  You may not submit a transaction for processing until after the merchandise has been shipped or the service has been provided to the customer. (Visa will permit the immediate billing of merchandise manufactured to the customer’s specifications [i.e., special/custom orders] provided the Cardholder has been advised of the billing details.)
+(ii)  You may not submit a transaction for processing until after the merchandise has been shipped or the service has been provided to the customer. (Visa will permit the immediate billing of merchandise manufactured to the customer's specifications [i.e., special/custom orders] provided the Cardholder has been advised of the billing details.)
 
 (iii) Notify the Cardholder of delivery time frames, special handling or of a cancellation policy. Merchandise shipping dates must be within seven (7) days of the date Authorisation was obtained. If, after the order has been taken, additional delays will be incurred (e.g., out of stock), notify the Cardholder and re-Authorise the transaction.
 
-(iv)  You may not require a Cardholder to complete a postcard or other document that displays the Cardholder’s account number in clear view when mailed.
+(iv)  You may not require a Cardholder to complete a postcard or other document that displays the Cardholder's account number in clear view when mailed.
 
 (v) If you accept orders via the Internet, your web site must include all the following information in a prominent manner:
 
@@ -789,7 +789,7 @@ Following is important information regarding the protection of cardholder data. 
 
 (g) You must adhere to the PCI Security or other data security requirements found on either the Visa or MasterCard or CUP or JCB websites.
 
-4.2 VISA’S ACCOUNT INFORMATION SECURITY PROGRAM (“AIS”)
+4.2 VISA'S ACCOUNT INFORMATION SECURITY PROGRAM ("AIS")
 
 (a) Visa implemented AIS to protect Cardholder data. AIS applies to anyone who stores, processes or transmits Cardholder data. You must comply with the 12 basic AIS requirements shown below:
 
@@ -803,11 +803,11 @@ Following is important information regarding the protection of cardholder data. 
 
 (v) Use and regularly update anti-virus software.
 
-(vi)  Restrict access to data by business “need to know”.
+(vi)  Restrict access to data by business "need to know".
 
 (vii) Assign a unique ID to each person with computer access to data.
 
-(viii)  Don’t use vendor-supplied defaults for system passwords and other security parameters.
+(viii)  Don't use vendor-supplied defaults for system passwords and other security parameters.
 
 (ix)  Track access to data by unique ID.
 
@@ -817,7 +817,7 @@ Following is important information regarding the protection of cardholder data. 
 
 (xii) Restrict physical access to Cardholder information.
 
-(b) You should complete the AIS Self-Assessment Questionnaire, a copy of which can be obtained from Visa’s AIS website: http://www.visa-asia.com/ap/sea/merchants/riskmgmt/ais.shtml
+(b) You should complete the AIS Self-Assessment Questionnaire, a copy of which can be obtained from Visa's AIS website: http://www.visa-asia.com/ap/sea/merchants/riskmgmt/ais.shtml
 
 (c) You may have additional requirements, imposed at your expense, based on your transaction volume. These additional requirements may include, without limitation:
 
@@ -831,7 +831,7 @@ Following is important information regarding the protection of cardholder data. 
 
 5.1 GENERAL
 
-(a) You must obtain an Authorisation Approval Code from us for all transactions. Failure to obtain an Authorisation Approval Code for a sales transaction may result in a Chargeback and/or the termination of your Agreement. Authorisation Approval Codes can be obtained through your POS Terminal or a Voice Response Unit (“VRU”) or a Call Centre representative. Any fees related to Authorisations will be charged for a request for an Authorisation Approval Code, whether or not the transaction is approved.
+(a) You must obtain an Authorisation Approval Code from us for all transactions. Failure to obtain an Authorisation Approval Code for a sales transaction may result in a Chargeback and/or the termination of your Agreement. Authorisation Approval Codes can be obtained through your POS Terminal or a Voice Response Unit ("VRU") or a Call Centre representative. Any fees related to Authorisations will be charged for a request for an Authorisation Approval Code, whether or not the transaction is approved.
 
 (b) Do not attempt to obtain an Authorisation Approval Code provided by someone other than us. If a Cardholder or another service provider provides you with either an Authorisation number or with a telephone number for obtaining Authorisations, the Authorisation Approval Code you receive may not be valid. Even if the transaction is initially processed and funded, it may be charged back at a later date. Also, if you receive a purported Authorisation Approval Code from someone other than us, we will not have the supporting records and will be unable to verify that you received the Authorisation if that is later questioned in a Chargeback.
 
@@ -865,7 +865,7 @@ Late Submission of Sales or Credit Receipts may result in a Chargeback to you. I
 
 In respect of each completed Sales Receipt, provided that all the terms and conditions of this Agreement have been complied with by you, we will pay to you the transaction payment:-
 
-We will notify you as soon as practicable (i) upon CUP’s refusal and/or delay in paying us the transaction value (or any part thereof); and/or (ii) if we are not satisfied that all the information in relation to a transaction for which you claim payment accords with our own records.
+We will notify you as soon as practicable (i) upon CUP's refusal and/or delay in paying us the transaction value (or any part thereof); and/or (ii) if we are not satisfied that all the information in relation to a transaction for which you claim payment accords with our own records.
 
 
 6.3 ELECTRONIC MERCHANTS: DAILY BATCHING REQUIREMENTS & MEDIA SUBMISSION
@@ -906,7 +906,7 @@ We will notify you as soon as practicable (i) upon CUP’s refusal and/or delay 
 
 (i) Authorisation is not required for refunds.
 
-(j) You cannot intentionally submit a sale and an offsetting Credit at a later date solely for the purpose of debiting and crediting your own or a customer’s account.
+(j) You cannot intentionally submit a sale and an offsetting Credit at a later date solely for the purpose of debiting and crediting your own or a customer's account.
 
 (k) You are responsible for paying all refunds submitted to us on your merchant account. We assumes no responsibility for verifying any Credits or refunds.
 
@@ -916,7 +916,7 @@ We will notify you as soon as practicable (i) upon CUP’s refusal and/or delay 
 
 (a) No additional paperwork is necessary for an even exchange. Just follow your standard company policy.
 
-(b) For an uneven exchange, complete a Credit Receipt (follow the procedures outlined in Section 9.1) for the total amount of only the merchandise returned. The Cardholder’s account will be credited for that amount. Then, complete a new Sales Receipt for any new merchandise purchased.
+(b) For an uneven exchange, complete a Credit Receipt (follow the procedures outlined in Section 9.1) for the total amount of only the merchandise returned. The Cardholder's account will be credited for that amount. Then, complete a new Sales Receipt for any new merchandise purchased.
 
 ### 8 RETENTION OF RECORDS FOR RETRIEVALS AND CHARGEBACKS
 
@@ -944,7 +944,7 @@ Both the Cardholder and the Card Issuer have the right to question or dispute a 
 
 (i) Make a legible copy, centred on A4 paper (only one (1) Sales Receipt per page).
 
-(ii)  Write the ‘case number’ from the request for transaction documentation on each copy.
+(ii)  Write the 'case number' from the request for transaction documentation on each copy.
 
 (iii) If applicable, make copies of a hotel folio, car rental agreement, or mail/phone order form.
 
@@ -962,11 +962,11 @@ Both the Cardholder and the Card Issuer have the right to question or dispute a 
 
 (c) A handling fee may be charged by the Issuer and will be debited from your Settlement Account or settlement funds if, a transaction documentation request results from a difference in the following information on the Sales Receipt and the transmitted record: merchant name or an incorrect city, state, foreign country and/or transaction date.
 
-(d) You need to respond to all transaction documentation requests within the specified timeframe indicated on the request, or you may be without recourse of a Chargeback. You must respond to all requests related to fraud investigations. Subsequent Chargebacks for “non receipt of requested item relating to a transaction for fraud request” cannot be contested or represented.
+(d) You need to respond to all transaction documentation requests within the specified timeframe indicated on the request, or you may be without recourse of a Chargeback. You must respond to all requests related to fraud investigations. Subsequent Chargebacks for "non receipt of requested item relating to a transaction for fraud request" cannot be contested or represented.
 
 9.3 CHARGEBACK PROCESS
 
-(a) Regardless of whether you respond to a transaction documentation request, a Chargeback may be debited to your Settlement Account for numerous reasons (see below). If the Card Issuer submits a Chargeback, we will send you a Chargeback notification, which may also include a request for transaction documentation. Due to the short time requirements imposed by MasterCard and Visa and CUP and JCB, it is extremely important that you respond to a Chargeback notification and transaction documentation request within the time frame set out in the notification. Do not process a Credit transaction once a Chargeback is received; the Card Issuer will credit the Cardholder’s account (unless the Chargeback is reversed).
+(a) Regardless of whether you respond to a transaction documentation request, a Chargeback may be debited to your Settlement Account for numerous reasons (see below). If the Card Issuer submits a Chargeback, we will send you a Chargeback notification, which may also include a request for transaction documentation. Due to the short time requirements imposed by MasterCard and Visa and CUP and JCB, it is extremely important that you respond to a Chargeback notification and transaction documentation request within the time frame set out in the notification. Do not process a Credit transaction once a Chargeback is received; the Card Issuer will credit the Cardholder's account (unless the Chargeback is reversed).
 
 (b) If the information you provide is both timely and, in our sole discretion, sufficient to warrant a representment of the transaction and/or reversal of the Chargeback, we will do so on your behalf. However, representment and/or reversal is ultimately contingent upon the Card Issuer and/or Cardholder accepting the transaction under applicable Association guidelines. Representment or reversal is not a guarantee that the Chargeback has been resolved in your favour.
 
@@ -974,7 +974,7 @@ Both the Cardholder and the Card Issuer have the right to question or dispute a 
 
 (d) If MasterCard refuses to accept our representment, it may resubmit the Chargeback. In such event, we will debit your Settlement Account or settlement funds for the Chargeback. You authorise us to do this. However, if you feel strongly that that it is an invalid Chargeback, we may, on your behalf and at your request, submit the matter for arbitration before MasterCard. MasterCard may charge a fee for which you will be responsible. If a decision is made in favour of the Cardholder and/or Card Issuer, and the Chargeback is upheld, you will be responsible for all such fees and any other penalties imposed by MasterCard; such fees and penalties will be debited from your Settlement Account or settlement funds, in addition to the Chargeback.
 
-(e) If the Chargeback is not disputed within the applicable time limits set out by MasterCard or Visa regulations, reversal rights are lost. Our only alternative, on your behalf, is to attempt a “good faith collection” from the Card Issuer. This process can take from 30 to100 days. Good faith collections must meet the Card Issuer’s criteria (e.g., above a set dollar amount, usually your local currency equivalent of US$50; within a specified time limit; etc.). Sometimes Card Issuers will only accept good faith collections after assessing collection fees. A good faith collection is not a guarantee that any funds will be collected on your behalf. If the good faith collection case is accepted by the Card Issuer, you will receive the amount that we are able to recover from the Card Issuer (which may be reduced by fees Card Issuers sometimes impose for accepting good faith collection claims).
+(e) If the Chargeback is not disputed within the applicable time limits set out by MasterCard or Visa regulations, reversal rights are lost. Our only alternative, on your behalf, is to attempt a "good faith collection" from the Card Issuer. This process can take from 30 to100 days. Good faith collections must meet the Card Issuer's criteria (e.g., above a set dollar amount, usually your local currency equivalent of US$50; within a specified time limit; etc.). Sometimes Card Issuers will only accept good faith collections after assessing collection fees. A good faith collection is not a guarantee that any funds will be collected on your behalf. If the good faith collection case is accepted by the Card Issuer, you will receive the amount that we are able to recover from the Card Issuer (which may be reduced by fees Card Issuers sometimes impose for accepting good faith collection claims).
 
 (f) Association Rules and regulations require that a merchant must make a good faith attempt and be willing and able to resolve any disputes directly with the Cardholder. Due to Association Rules, you may not re-bill a Cardholder after a Chargeback is received for that transaction, even with Cardholder Authorisation.
 
@@ -1004,7 +1004,7 @@ The Following scenarios cold cause an Authorisation related Chargeback to occur 
 
  - Full Authorisation not obtained
 
- - Fraudulent transaction – no Authorisation
+ - Fraudulent transaction &mdash; no Authorisation
 
  - Fraudulent transaction prior to embossed valid date
 
@@ -1021,11 +1021,11 @@ To reduce your risk of receiving an Authorisation-related Chargeback:
 
 (i) Authorise all transactions and use the proper method of Authorisation.
 
-(ii)  A valid approval Authorisation response indicates the Card is valid and can be accepted for payment. An approval code is usually a 4-6 digit number, along with an Authorisation response of “approval.”
+(ii)  A valid approval Authorisation response indicates the Card is valid and can be accepted for payment. An approval code is usually a 4-6 digit number, along with an Authorisation response of "approval."
 
 (iii) A decline Authorisation response indicates the Card should not be accepted for payment. Request a different form of payment from the Cardholder or do not release the merchandise.
 
-(iv)  “Pick-up” Authorisation response from the Issuer indicates the Credit Card account number is lost or stolen.
+(iv)  "Pick-up" Authorisation response from the Issuer indicates the Credit Card account number is lost or stolen.
 
 The Credit Card should not be accepted for payment. Additionally, you can choose to retain the Credit Card and return it to the Acquirer for a reward. If you retain a JCB Card, you must return it to us as soon as possible, but in any case within 7 calendar days.
 
@@ -1047,7 +1047,7 @@ The following scenarios cold cause a cancellation and return related chargeback 
 
 To reduce your risk of receiving a cancellation and return related Chargeback:
 
-(i) For recurring transactions – ensure your customers are fully aware of the conditions of this type of transaction.
+(i) For recurring transactions &mdash; ensure your customers are fully aware of the conditions of this type of transaction.
 
 (ii)  Process Credits daily.
 
@@ -1057,7 +1057,7 @@ To reduce your risk of receiving a cancellation and return related Chargeback:
 
 (v) Do not continue to bill after proper cancellation or after receipt of Chargeback.
 
-(vi)  Ensure proper disclosure of your refund policy is on the Sales Receipt, the words “No Exchange, No REFUND,” etc. must be clearly printed on the Sales Receipt (or electronic equivalent, i.e., the receipt printed when a Card is swiped through a terminal) near or above the Cardholder’s signature.
+(vi)  Ensure proper disclosure of your refund policy is on the Sales Receipt, the words "No Exchange, No REFUND," etc. must be clearly printed on the Sales Receipt (or electronic equivalent, i.e., the receipt printed when a Card is swiped through a terminal) near or above the Cardholder's signature.
 
 (vii) Do not issue Credit in the form of a cheque.
 
@@ -1079,9 +1079,9 @@ The following scenarios could cause a fraud related Chargeback to occur
 
  - Counterfeit Transaction
 
- - Fraudulent transaction – no imprint obtained
+ - Fraudulent transaction &mdash; no imprint obtained
 
- - Fraudulent transaction – no signature obtained
+ - Fraudulent transaction &mdash; no signature obtained
 
  - Risk Identification Service
 
@@ -1220,7 +1220,7 @@ Occasionally, it is necessary to adjust the dollar amount of your summaries/Subm
 
  - The dollar amount is unreadable/illegible
 
- - The Cardholder’s account number is unreadable/illegible
+ - The Cardholder's account number is unreadable/illegible
 
  - Duplicate Sales Receipt submitted.
 
@@ -1238,7 +1238,7 @@ Occasionally, it is necessary to adjust the dollar amount of your summaries/Subm
 
  - Date of Sales/Credit
 
- - Cardholders’ account number, name and signature.
+ - Cardholders' account number, name and signature.
 
  - Total amount of the sale and description of goods and services
 
@@ -1292,7 +1292,7 @@ MasterCard and Visa and where relevant for your country CUP and JCB, have establ
 
 13.3  If you process or intend to process any transactions listed in clause 13.2 above, on execution of this Agreement and once annually during the Term, you must allow us to view all such information as we reasonably request in order to obtain a written opinion from an independent, reputable and qualified legal counsel that the business carried on by you complies with all laws applicable to you, any of your prospective customers, us, the card issuer or MasterCard. You acknowledge that you will not be permitted to process transactions until such time as this opinion has been provided to the satisfaction of MasterCard each year during the Term.
 
-13.4  In the event that we receive notification from MasterCard that you are alleged to have sold goods that infringe a third party’s intellectual property rights, we will notify you within five (5) business days of receiving such notice and you agree to provide us with all such information and records as are necessary to enable us to investigate the allegation and provide an appropriate response to both MasterCard and the person that alleged the infringement. You agree to indemnify us for all such loss and damage that we may sustain arising from or in connection with these allegations.
+13.4  In the event that we receive notification from MasterCard that you are alleged to have sold goods that infringe a third party's intellectual property rights, we will notify you within five (5) business days of receiving such notice and you agree to provide us with all such information and records as are necessary to enable us to investigate the allegation and provide an appropriate response to both MasterCard and the person that alleged the infringement. You agree to indemnify us for all such loss and damage that we may sustain arising from or in connection with these allegations.
 
 13.5  You acknowledge that we are required to regularly monitor your website to ensure that you are processing transactions in accordance with this Agreement, all applicable laws and Card Association Rules.
 
@@ -1365,15 +1365,15 @@ As used in this these Operating Procedures, terms defined in the General Terms h
 
 __Authorisation Approval Code:__ A number issued to a participating merchant by the Authorisation Centre which confirms the Authorisation for a sale or service.
 
-__Authorisation Centre:__ A department that electronically communicates a merchant’s request for Authorisation on Credit Card transactions to the Cardholder’s bank and transmits such Authorisation to the merchant via electronic equipment or by voice Authorisation.
+__Authorisation Centre:__ A department that electronically communicates a merchant's request for Authorisation on Credit Card transactions to the Cardholder's bank and transmits such Authorisation to the merchant via electronic equipment or by voice Authorisation.
 
-__Batch:__ A single Submission to us of a group of transactions for settlement. A Batch usually represents a day’s worth of transactions.
+__Batch:__ A single Submission to us of a group of transactions for settlement. A Batch usually represents a day's worth of transactions.
 
-__Card Validation Codes:__ A three-digit value printed in the signature panel of most Cards and a four-digit value printed in the front of an American Express Card. Visa’s Card Validation Code is known as CVV2; MasterCard’s Card Validation Code is known as CVC2. JCB’s Card Validation Code is known as CAV2. Card Validation Codes are used to deter fraudulent use of an account number in a non-face-to-face environment, (e.g. MOTOs and Internet orders), which must not be stored after Authorisation.
+__Card Validation Codes:__ A three-digit value printed in the signature panel of most Cards and a four-digit value printed in the front of an American Express Card. Visa's Card Validation Code is known as CVV2; MasterCard's Card Validation Code is known as CVC2. JCB's Card Validation Code is known as CAV2. Card Validation Codes are used to deter fraudulent use of an account number in a non-face-to-face environment, (e.g. MOTOs and Internet orders), which must not be stored after Authorisation.
 
 __General Terms:__ The terms and conditions set out in this document, as amended from time to time.
 
-__Imprinter:__ A manual or electric machine used to physically imprint the merchant’s name and ID number as well as the Cardholder’s name and Card number on Sales Receipts.
+__Imprinter:__ A manual or electric machine used to physically imprint the merchant's name and ID number as well as the Cardholder's name and Card number on Sales Receipts.
 
 __Media:__ The documentation of monetary transactions (i.e., Sales Receipts, Credit Receipts, computer printouts, etc.)
 
@@ -1381,20 +1381,20 @@ __Merchant Identification Card:__ A plastic embossed Card supplied to each merch
 
 __Merchant Account Number (Merchant Number):__ A number that numerically identifies each merchant, outlet, or line of business to us for accounting and billing purposes.
 
-__PAN Truncation:__ A procedure by which a Cardholder’s copy of a Sales or Credit Receipt will only reflect the first 6 and last 3 digits of the Card.
+__PAN Truncation:__ A procedure by which a Cardholder's copy of a Sales or Credit Receipt will only reflect the first 6 and last 3 digits of the Card.
 
 __PIN:__ A Personal Identification Number entered by the Cardholder to submit a Debit Card transaction.
 
 
-__Recurring Payment Indicator:__ A value used to identify transactions for which a consumer provides permission to a merchant to bill the consumer’s Card account at either a predetermined interval or as agreed by the Cardholder for recurring goods or services.
+__Recurring Payment Indicator:__ A value used to identify transactions for which a consumer provides permission to a merchant to bill the consumer's Card account at either a predetermined interval or as agreed by the Cardholder for recurring goods or services.
 
 __Referral:__ The message received from an Issuer requiring Authorisation to be obtained by means of a call to us or Voice Response Unit (VRU).
 
-__Resubmission:__ A resubmission of a debit transaction (at the Merchant’s risk) that the Merchant originally processed as a Store and Forward transaction but received a soft denial from the respective debit network.
+__Resubmission:__ A resubmission of a debit transaction (at the Merchant's risk) that the Merchant originally processed as a Store and Forward transaction but received a soft denial from the respective debit network.
 
 __Retrieval Request/Transaction Documentation Request:__ A request for documentation related to a Card transaction such as a copy of a Sales Receipt or other transaction source documents.
 
-__Sales/Credit Summary:__ The identifying form used by a paper Submission merchant to indicate a Batch of Sales Receipts and Credit Receipts (usually one day’s work).
+__Sales/Credit Summary:__ The identifying form used by a paper Submission merchant to indicate a Batch of Sales Receipts and Credit Receipts (usually one day's work).
 
 __Store and Forward:__ A transaction that has been authorised by a merchant when the merchant cannot obtain an Authorisation while the customer is present, typically due to a communications failure. The merchant will store the transaction electronically in their host system and retransmit the transaction when communications have been restored.
 
@@ -1414,17 +1414,17 @@ IMPORTANT:
 An individual who is an applicant, a proposed guarantor, a director of an applicant or guarantor company or account signatory must read this Statement. All Parts of this Statement apply to you.
 If a company is an applicant or is proposed as a guarantor, a copy of this Statement must be read by each director unless we agree to it being signed by an authorised representative of the company. Parts 1, 2 and 4 of this Statement apply to any authorised representative.
 
-This Statement explains how First Data Merchant Solutions (“us/we”) collect, use and disclose personal information. The uses and disclosures of personal information set out in this Privacy Statement and Consent remains subject to any prohibitions (except those capable of being overcome by consent) under laws applicable in the country corresponding to that in your trading address specified in Part A of the Merchant Processing Application Form or in your HQ / Corporate address specified in the same if your trading address is left blank.
+This Statement explains how First Data Merchant Solutions ("us/we") collect, use and disclose personal information. The uses and disclosures of personal information set out in this Privacy Statement and Consent remains subject to any prohibitions (except those capable of being overcome by consent) under laws applicable in the country corresponding to that in your trading address specified in Part A of the Merchant Processing Application Form or in your HQ / Corporate address specified in the same if your trading address is left blank.
 
-“Personal information” is information about or which identifies individuals and includes without limitation trading history information. It includes information obtained from any source. Credit information (see Part 3) is a sub-set of personal information.
+"Personal information" is information about or which identifies individuals and includes without limitation trading history information. It includes information obtained from any source. Credit information (see Part 3) is a sub-set of personal information.
 We will not use or disclose information collected about you otherwise than as set out in this Statement, for a purpose you would reasonably expect, a purpose required or authorised by law, or a purpose otherwise disclosed to, or authorised by, you.
 
 This Statement also contains your consent for us to send communications about products and services including commercial electronic messages.
 
-## PART 1 – Personal information about third parties
-You represent that, if at any time you supply us with personal information about another person (i.e. an individual – for example, a referee, a director, or a person to whom the payment is to be directed), you are authorised to do so and you agree to inform that person who we are, that we will use and disclose that personal information for the relevant purposes set out in Parts 2 and 3 below and that they can gain access to the information we hold about them in accordance with Part 4 below.
+## PART 1 &mdash; Personal information about third parties
+You represent that, if at any time you supply us with personal information about another person (i.e. an individual &mdash; for example, a referee, a director, or a person to whom the payment is to be directed), you are authorised to do so and you agree to inform that person who we are, that we will use and disclose that personal information for the relevant purposes set out in Parts 2 and 3 below and that they can gain access to the information we hold about them in accordance with Part 4 below.
 
-## PART 2 – Uses and disclosures of personal information
+## PART 2 &mdash; Uses and disclosures of personal information
 
 ### A.  Purposes for which we collect and use personal information:
 
@@ -1481,17 +1481,17 @@ You agree that we may receive personal information about you from, and disclose 
  - external payment systems operators and participants (e.g. credit card payment systems (e.g. Visa and MasterCard, CUP or JCB) or debit payment systems);
  - your and our insurers or prospective insurers and their underwriters;
 
- - any person considering purchasing a contract entered into by you from us and that person’s advisers, persons involved in assessing the risks and funding of the purchase and, after purchase, the purchaser and any manager on an ongoing basis;
+ - any person considering purchasing a contract entered into by you from us and that person's advisers, persons involved in assessing the risks and funding of the purchase and, after purchase, the purchaser and any manager on an ongoing basis;
 
  - any person to the extent necessary, in our view, in order to carry out any instruction you give to us;
 
 
-## PART 3 – What credit information can be disclosed?
+## PART 3 &mdash; What credit information can be disclosed?
 
 Relevant Laws may allow us to disclose certain credit information about you.
 Subject to restrictions under relevant laws in your country, the information about you that we disclose to credit reporting agencies is:
 
- - your identity particulars – including your name, sex, address (and the previous two addresses), date of birth, name of employer, and drivers licence number;
+ - your identity particulars &mdash; including your name, sex, address (and the previous two addresses), date of birth, name of employer, and drivers licence number;
 
  - the fact that you have applied for the services;
 
@@ -1499,7 +1499,7 @@ Subject to restrictions under relevant laws in your country, the information abo
 
  - repayments overdue by more than 60 days, and for which debt collection action has started;
 
- - dishonoured cheques – cheques drawn by you which have been dishonoured more than once, according to statutory limits applicable in the country corresponding to that in your Trading address specified in Part A of the Merchant
+ - dishonoured cheques &mdash; cheques drawn by you which have been dishonoured more than once, according to statutory limits applicable in the country corresponding to that in your Trading address specified in Part A of the Merchant
 Processing Application Form or in your HQ / Corporate address specified in the same if your Trading address is left blank.
 
  - that your overdue repayments have been paid; and

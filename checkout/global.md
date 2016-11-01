@@ -4,23 +4,23 @@ Last Updated: June 18, 2013.
 </header>
 
 <section>
-These Stripe Checkout User Terms of Service are a legal agreement between Stripe, Inc. (“Stripe,” “we” or “us”) and you, the user of the Stripe Checkout service (“you”).  By using the Stripe Checkout service, you agree to be bound by these terms and conditions.
+These Stripe Checkout User Terms of Service are a legal agreement between Stripe, Inc. ("Stripe," "we" or "us") and you, the user of the Stripe Checkout service ("you").  By using the Stripe Checkout service, you agree to be bound by these terms and conditions.
 
 1. ## General.
 
-    The Stripe Checkout service (“Stripe Checkout”) is technology that makes it easier for merchants on the Internet (“Merchants”) to collect payment from individuals like you.  Stripe Checkout also makes it easy for you to store a credit card or debit card (“Payment Credentials”) with Stripe for use across the websites of Merchants who’ve chosen to enable it.
+    The Stripe Checkout service ("Stripe Checkout") is technology that makes it easier for merchants on the Internet ("Merchants") to collect payment from individuals like you.  Stripe Checkout also makes it easy for you to store a credit card or debit card ("Payment Credentials") with Stripe for use across the websites of Merchants who've chosen to enable it.
 
 2. ## Using Stripe Checkout.
 
-    When you check out on the website of a Merchant that has Stripe Checkout enabled, we will ask you if you’d like us to remember you.  When you allow us to remember you, Stripe will store certain identifying information, such as a password, your email address, or your mobile phone number (“Stripe Credentials”), and your Payment Credentials.  The advantage of remembering you is that it will make your checkout quicker and easier if you come back to the same website, or to any of the other websites that use Stripe (a “Checkout Enabled Site”)--this can be especially handy when you’re on a mobile device or don’t have your credit card in front of you.
+    When you check out on the website of a Merchant that has Stripe Checkout enabled, we will ask you if you'd like us to remember you.  When you allow us to remember you, Stripe will store certain identifying information, such as a password, your email address, or your mobile phone number ("Stripe Credentials"), and your Payment Credentials.  The advantage of remembering you is that it will make your checkout quicker and easier if you come back to the same website, or to any of the other websites that use Stripe (a "Checkout Enabled Site")--this can be especially handy when you're on a mobile device or don't have your credit card in front of you.
 
-    If you elect to allow us to remember you, Stripe will use cookies to link your web browser to your Stripe Credentials and recognize when you return to a Checkout Enabled Site. If you come to a Checkout Enabled Site and we don’t recognize you (for example, because you’ve cleared your cookies, logged out, or you’re using a different device), we will provide a way for you to identify yourself and login via your Stripe Credentials (for example, by sending you a verification code via SMS text message). While you are logged in, Stripe will give you the ability to make purchases using your stored Payment Credentials. Stripe may also allow you to make a purchase with your Payment Credentials by sending a message directly from the email address or phone number stored as your Stripe Credentials (for example, to authorize a purchase via SMS).
+    If you elect to allow us to remember you, Stripe will use cookies to link your web browser to your Stripe Credentials and recognize when you return to a Checkout Enabled Site. If you come to a Checkout Enabled Site and we don't recognize you (for example, because you've cleared your cookies, logged out, or you're using a different device), we will provide a way for you to identify yourself and login via your Stripe Credentials (for example, by sending you a verification code via SMS text message). While you are logged in, Stripe will give you the ability to make purchases using your stored Payment Credentials. Stripe may also allow you to make a purchase with your Payment Credentials by sending a message directly from the email address or phone number stored as your Stripe Credentials (for example, to authorize a purchase via SMS).
 
-    If you send us text messages, or have us send you one, don’t forget that your carrier might charge you for that.
+    If you send us text messages, or have us send you one, don't forget that your carrier might charge you for that.
 
 3. ## Our Role.
 
-    Stripe Checkout is a way of storing your Payment Credentials, but it doesn’t change anything else about your relationship with the Merchant you’re paying or your bank or credit card company.  You are ultimately responsible for the purchases you make using Stripe Checkout.  Also, the Merchant is the one responsible for providing you the goods or services that you purchase using Stripe Checkout, not Stripe.  Stripe will use our reasonable efforts to keep your Payment Credentials secure.
+    Stripe Checkout is a way of storing your Payment Credentials, but it doesn't change anything else about your relationship with the Merchant you're paying or your bank or credit card company.  You are ultimately responsible for the purchases you make using Stripe Checkout.  Also, the Merchant is the one responsible for providing you the goods or services that you purchase using Stripe Checkout, not Stripe.  Stripe will use our reasonable efforts to keep your Payment Credentials secure.
 
 4. ## Making Changes.
 

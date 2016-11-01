@@ -8,7 +8,7 @@
 This Privacy Policy will help you understand what Personal Information Stripe collects; how it collects, holds, uses and discloses that information; and the purposes of collection and disclosure.
 </p>
 <p>
-<strong>Personal Information</strong> The term “Personal Information,” as used in this Policy, refers to any information (whether by itself or when linked with other information reasonably available to Stripe) that can be used to identify a specific person. Personal information does not include information that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.
+<strong>Personal Information</strong> The term "Personal Information," as used in this Policy, refers to any information (whether by itself or when linked with other information reasonably available to Stripe) that can be used to identify a specific person. Personal information does not include information that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.
 </p>
 <ol>
     <li><a href='#1'>Collection and use of your Personal Information</a></li>
@@ -23,10 +23,10 @@ This Privacy Policy will help you understand what Personal Information Stripe co
 
 <h2 id="1">1. Collection and use of your Personal Information</h2>
 <p>
-We collect Personal Information from our merchants that use our service to process customer payments (“Merchants”) and the Merchant's customers (“Checkout Users”) to enable us to provide our services. Our services comprise all software and services that we offer, including the Stripe Checkout form that may be made available on a Merchant's website, or other services that we offer through our website when you register for a Stripe account (collectively referred to as the "Services").
+We collect Personal Information from our merchants that use our service to process customer payments ("Merchants") and the Merchant's customers ("Checkout Users") to enable us to provide our services. Our services comprise all software and services that we offer, including the Stripe Checkout form that may be made available on a Merchant's website, or other services that we offer through our website when you register for a Stripe account (collectively referred to as the "Services").
 </p>
 <p>
-Broadly speaking, we collect information in three ways: (1) when you provide it directly to us, (2) when we obtain verification information about you or your company through trusted third parties (e.g. banks, credit bureaus), and (3) passively through technology such as “cookies” (cookie collection is described below in Section 2 Cookies and Web Server Logs). The types of Personal Information that we collect and our use of that information will depend on whether you are a Checkout User or Merchant.
+Broadly speaking, we collect information in three ways: (1) when you provide it directly to us, (2) when we obtain verification information about you or your company through trusted third parties (e.g. banks, credit bureaus), and (3) passively through technology such as "cookies" (cookie collection is described below in Section 2 Cookies and Web Server Logs). The types of Personal Information that we collect and our use of that information will depend on whether you are a Checkout User or Merchant.
 </p>
 
 <h3>Checkout Users</h3>
@@ -36,7 +36,7 @@ When you use a Merchant's website to make a purchase, the Merchant will collect 
 
 <h3>Merchants</h3>
 <p>
-When you visit the Stripe website, you have the ability to conduct a limited number of “test” transactions and experience our Services working – without registering for a Stripe account. To monitor these test transactions, we collect your IP address, information about your computer, and other standard web log information. We also collect your Personal Information and any credit card information you provide to conduct the test transactions. We will not use this information to target any advertisements to you. To gain full access to our website and Services, you must register for a Stripe account. When you register for an account, we collect the Personal Information you provide, such as the following:
+When you visit the Stripe website, you have the ability to conduct a limited number of "test" transactions and experience our Services working &mdash; without registering for a Stripe account. To monitor these test transactions, we collect your IP address, information about your computer, and other standard web log information. We also collect your Personal Information and any credit card information you provide to conduct the test transactions. We will not use this information to target any advertisements to you. To gain full access to our website and Services, you must register for a Stripe account. When you register for an account, we collect the Personal Information you provide, such as the following:
 </p>
 <ol>
   <li>Your name, company name, location, email address, phone number, and account password, to set up your account</li>
@@ -47,7 +47,7 @@ When you visit the Stripe website, you have the ability to conduct a limited num
 
 <h2 id="2">2. Cookies and Web Server Logs</h2>
 <p>
-We utilize “cookies” and other technologies to collect non-personally-identifiable information from our website and from other websites that use our Services. Where you request that your payment credentials be remembered by our checkout system, the cookies will also collect Personal Information about you. Information gathered through cookies and web-server log files may include information such as the date and time of visits, the pages viewed, IP addresses, links to/from any page, and time spent at our site.
+We utilize "cookies" and other technologies to collect non-personally-identifiable information from our website and from other websites that use our Services. Where you request that your payment credentials be remembered by our checkout system, the cookies will also collect Personal Information about you. Information gathered through cookies and web-server log files may include information such as the date and time of visits, the pages viewed, IP addresses, links to/from any page, and time spent at our site.
 </p>
 <p>
 We use cookie data to measure web traffic and usage activity on our website for purposes of monitoring, troubleshooting and improving our website and Services, to look for possible fraudulent activity, and to better understand the sources of traffic and transactions on our website and the websites of merchants that use our Services. Cookies also allow our servers to remember your account information for future visits and to provide personalized and streamlined information across related pages on our website and also across other websites or applications that use Services.
@@ -69,7 +69,7 @@ We may also disclose your Personal Information to law enforcement, government of
 
 <h2 id="4">4. Retention of your Personal Information</h2>
 <p>
-Stripe has a variety of obligations to retain the data that you provide us, both to ensure that transactions can be appropriately processed, settled, refunded or chargedback, to identify fraud, and also to comply with laws applicable to us and to our banking providers and credit card processors. Accordingly, even if you close your Stripe account we will retain certain information as necessary to meet our obligations. However, we will identify your account in our database as "inactive” or “closed".
+Stripe has a variety of obligations to retain the data that you provide us, both to ensure that transactions can be appropriately processed, settled, refunded or chargedback, to identify fraud, and also to comply with laws applicable to us and to our banking providers and credit card processors. Accordingly, even if you close your Stripe account we will retain certain information as necessary to meet our obligations. However, we will identify your account in our database as "inactive" or "closed".
 </p>
 <h2 id="5">5. Marketing and cookies opt-out</h2>
 <p>
@@ -90,7 +90,7 @@ Although no data transmission can be guaranteed to be 100% secure, we take reaso
 </p>
 <h2 id="7">7. Changes to this policy</h2>
 <p>
-We reserve the right to make changes to this Policy from time to time. Please review this Policy periodically to check for updates. If any changes are material and/or retroactive, we may provide additional notice and/or an opportunity to “opt-in,” as appropriate under the circumstances. We may also advise you of changes to this policy by emailing and/or mailing the revised policy to the addresses you provide us.
+We reserve the right to make changes to this Policy from time to time. Please review this Policy periodically to check for updates. If any changes are material and/or retroactive, we may provide additional notice and/or an opportunity to "opt-in," as appropriate under the circumstances. We may also advise you of changes to this policy by emailing and/or mailing the revised policy to the addresses you provide us.
 </p>
 <h2 id="8">8. Contact us - Access, Correction and Complaints</h2>
 <p>

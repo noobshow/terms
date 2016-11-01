@@ -21,7 +21,7 @@ This Privacy Policy will help you understand what Personal Data Stripe collects;
 </p>
 <h2>Personal Data</h2>
 <p>
-The term “Personal Data”, as used in this Policy, refers to any data (whether true or not, and whether by itself or when linked with other information that is accessible or likely to be accessible by Stripe) that can be used to identify an individual and which is subject to the data protection provisions of personal data legislation applicable to us. Personal Data does not include information that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person. In addition, data collected constituting an individual's name, position or title, business telephone number, business address, business electronic mail address or business fax number and any other similar information about you (not provided by the individual solely for his personal purposes) may constitute business contact information which we generally treat as falling outside the meaning of Personal Data.
+The term "Personal Data", as used in this Policy, refers to any data (whether true or not, and whether by itself or when linked with other information that is accessible or likely to be accessible by Stripe) that can be used to identify an individual and which is subject to the data protection provisions of personal data legislation applicable to us. Personal Data does not include information that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person. In addition, data collected constituting an individual's name, position or title, business telephone number, business address, business electronic mail address or business fax number and any other similar information about you (not provided by the individual solely for his personal purposes) may constitute business contact information which we generally treat as falling outside the meaning of Personal Data.
 </p>
 <p>
 This Privacy Policy will help you understand the following:
@@ -79,7 +79,7 @@ This Personal Data described above will be shared and disclosed only as describe
 </p>
 <h3>Website Visitors</h3>
 <p>To simply browse our Website, you are not required to provide any Personal Data. However, we may gather non-personally-identifiable information, as described directly above, solely for the purposes of monitoring and improving our Website and Services. We will not share this information with third parties or use it to target any advertisements to you.</p>
-<p>Our Website and Services are directed to the general public. We do not knowingly collect information from minors under 18 years of age or have any reasonable grounds for believing that minors under the age of 18 are accessing our Website or using our Services. If we learn that we have inadvertently collected Personal Data from a minor under age 18, we will delete that information as quickly as possible. If you believe that we might have any information from a minor under age 18, please contact us at <a href="mailto:privacy@stripe.com">privacy@stripe.com</a>.</p>
+<p>Our Website and Services are directed to the general public. We do not knowingly collect information from minors under 18 years of age or have any reasonable grounds for believing that minors under the age of 18 are accessing our Website or using our Services. If we learn that we have inadvertently collected Personal Data from a minor under age 18, we will delete that information as quickly as possible. If you believe that we might have any information from a minor under age 18, please contact us at <a href="mailto:privacy@stripe.com">privacy@stripe.com</a>.</p>
 <h2 id="3">3. Cookies and Web Server Logs</h2>
 <p>
 "Cookies" are a feature of web browser software that allows web servers to recognise the computer used to access a website. Cookies can remember what information a computer accessed on one web page to streamline activities on related web pages and to make the online experience easier and more personalised. Log files are used to monitor, measure, analyse, improve, and troubleshoot our Services.
@@ -123,7 +123,7 @@ We may also disclose your Personal Data to law enforcement, government officials
 In addition, in the event of a potential or actual merger, sale or acquisition, reorganisation, bankruptcy, or other similar events, certain information including Personal Data in our possession may be disclosed or transferred to and used by our successor, transferee or assign for the same purposes for which you have provided your consent to us for.
 </p>
 <p>
-Any sharing or disclosure of your Personal Data will be in compliance with data protection laws and regulations applicable to Stripe and Stripe’s business.
+Any sharing or disclosure of your Personal Data will be in compliance with data protection laws and regulations applicable to Stripe and Stripe's business.
 </p>
 <h2 id="5">5. Retention of your Personal Data</h2>
 <p>
