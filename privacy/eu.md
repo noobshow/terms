@@ -6,9 +6,9 @@ This policy was last updated on December 9, 2015.
 <section>
 ## Overview
 
-Stripe Inc. and all its subsidiaries and affiliates, including but not limited to Stripe Payments Europe Ltd (“SPEL” and, collectively with Stripe, Inc. and its other affiliates, “Stripe”, “we”, “our” or “us”) expects its employees, including those of its subsidiaries worldwide and third parties with whom Stripe does business, to maintain the highest standards of ethics and compliance with applicable laws and rules. Stripe is committed to the highest standards of privacy and data protection compliance and expects all its employees and management to adhere to these standards.
+Stripe Inc. and all its subsidiaries and affiliates, including but not limited to Stripe Payments Europe Ltd ("SPEL" and, collectively with Stripe, Inc. and its other affiliates, "Stripe", "we", "our" or "us") expects its employees, including those of its subsidiaries worldwide and third parties with whom Stripe does business, to maintain the highest standards of ethics and compliance with applicable laws and rules. Stripe is committed to the highest standards of privacy and data protection compliance and expects all its employees and management to adhere to these standards.
 
-Stripe operates an online payments platform that enables merchants and vendors to send and receive funds as payments for goods and services (“Merchants”). Our services comprise all software and services that we offer, including the Stripe Checkout form that may be made available on a Merchant's website, and other services that we offer through our website when you register for a Stripe account (collectively referred to as the "Services").
+Stripe operates an online payments platform that enables merchants and vendors to send and receive funds as payments for goods and services ("Merchants"). Our services comprise all software and services that we offer, including the Stripe Checkout form that may be made available on a Merchant's website, and other services that we offer through our website when you register for a Stripe account (collectively referred to as the "Services").
 
 We understand that privacy is important to our online visitors and users. We respect your privacy and will take all reasonable steps to safeguard and protect your information as if it was our own.
 
@@ -16,7 +16,7 @@ This Privacy Policy will help you understand what Personal Data Stripe collects;
 
 ## Personal Data
 
-The term “Personal Data”, as used in this Policy, refers to any data (whether by itself or when linked with other information in the possession of, or likely to come into the possession of, Stripe) that can be used to identify a specific living person. Personal Data does not include information that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.
+The term "Personal Data", as used in this Policy, refers to any data (whether by itself or when linked with other information in the possession of, or likely to come into the possession of, Stripe) that can be used to identify a specific living person. Personal Data does not include information that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.
 
 This Privacy Policy will help you understand the following:
 
@@ -27,12 +27,12 @@ This Privacy Policy will help you understand the following:
 * Retention of your Personal Data
 * Protection of Personal Data
 * Changes to this Policy
-* Access, Correction and Complaints – Contact Us
+* Access, Correction and Complaints &mdash; Contact Us
 
 Please also review, if applicable, your agreement with Stripe, including our Terms of Service that shall govern in the event of any inconsistency with this Privacy Policy.
 
 ## What does this Privacy Policy apply to?
-This Policy applies to the [stripe.com](https://stripe.com) website, including all subpages and successor pages (collectively referred to as the “Website”), and also applies to all Services that we offer.
+This Policy applies to the [stripe.com](https://stripe.com) website, including all subpages and successor pages (collectively referred to as the "Website"), and also applies to all Services that we offer.
 
 This Policy does not apply to any website, product or service of any third-party company even if the website links to (or from) our Website. Please always review the privacy practices of any third-party company before deciding whether to provide any information.
 
@@ -40,9 +40,9 @@ By using our Website or Services, you are accepting the practices described in t
 
 ## Collection and Use of your Personal Data
 
-We collect Personal Data from our Merchants and our Merchant's customers (“Checkout Users”) in order to enable us to provide our Services.
+We collect Personal Data from our Merchants and our Merchant's customers ("Checkout Users") in order to enable us to provide our Services.
 
-Broadly speaking, we collect information in three ways: (1) when you provide it directly to us, (2) when we obtain verification information about you or your company through trusted third parties (e.g. banks, credit bureaus), and (3) passively through technology such as “cookies” (cookie collection is described below in Section 3 (“Cookies and Web Server Logs”).
+Broadly speaking, we collect information in three ways: (1) when you provide it directly to us, (2) when we obtain verification information about you or your company through trusted third parties (e.g. banks, credit bureaus), and (3) passively through technology such as "cookies" (cookie collection is described below in Section 3 ("Cookies and Web Server Logs").
 
 The types of Personal Data that we collect and our use of that Personal Data will depend on whether you are a Checkout User or Merchant.
 
@@ -50,11 +50,11 @@ The types of Personal Data that we collect and our use of that Personal Data wil
 
 Checkout enables Merchants to collect payment information from Checkout Users for a number of payment methods. When you use a Merchant's website to make a purchase, the Merchant will collect your Personal Data and provide it to us. This Personal Data includes your payment card information, your email address, your mobile phone number, and billing and shipping address. We will use this Personal Data as part of the payment processing process. When you use Stripe Checkout on a Merchant's website to store your payment credentials, we will use the Personal Data disclosed to us by the Merchant to complete purchases that you choose to make on other websites or applications that also use Stripe Checkout, but only with your permission. Checkout Users can view our Privacy Policy via a hyperlink and are asked to confirm that their Personal Data be remembered.
 
-This Personal Data described above will be shared and disclosed only as described below in Section 4 (“Sharing and Disclosure of Personal Data”).
+This Personal Data described above will be shared and disclosed only as described below in Section 4 ("Sharing and Disclosure of Personal Data").
 
 ## Merchants
 
-When you visit our Website, you have the ability to conduct a limited number of live “test” transactions and experience our Services working without registering for a Stripe account. To monitor these test transactions, we collect your IP address, information about your computer, and other standard web log information. We also collect any Personal Data and credit card information that you provide to conduct the test transactions. We will not use this information to target any advertisements to you.
+When you visit our Website, you have the ability to conduct a limited number of live "test" transactions and experience our Services working without registering for a Stripe account. To monitor these test transactions, we collect your IP address, information about your computer, and other standard web log information. We also collect any Personal Data and credit card information that you provide to conduct the test transactions. We will not use this information to target any advertisements to you.
 
 To gain full access to our Website and Services, you must register for a Stripe account. When you register for an account, we collect the Personal Data you provide, such as the following:
 
@@ -65,7 +65,7 @@ To gain full access to our Website and Services, you must register for a Stripe 
 
 If you elect to not provide Personal Data in optional fields it may limit your ability to use our Services. We may retrieve additional Personal Data about you from third parties and other identification/verification services such as credit bureaus. In addition, we may collect Personal Data from you in other ways including emails, surveys, and other forms of communication. Once you begin using our Services through your Stripe account, we will keep records of your transactions and collect information of your other activities related to our Services.
 
-This Personal Data described above will be shared and disclosed only as described below in Section 4 (“Sharing and Disclosure of Personal Data”).
+This Personal Data described above will be shared and disclosed only as described below in Section 4 ("Sharing and Disclosure of Personal Data").
 
 ## Website Visitors
 
@@ -75,9 +75,9 @@ Our Website and Services are directed to the general public. We do not knowingly
 
 ## Cookies and Web Server Logs
 
-“Cookies” are a feature of web browser software that allows web servers to recognise the computer used to access a website. Cookies can remember what information a computer accessed on one web page to streamline activities on related web pages and to make the online experience easier and more personalised. Log files are used to monitor, measure, analyse, improve, and troubleshoot our Services.
+"Cookies" are a feature of web browser software that allows web servers to recognise the computer used to access a website. Cookies can remember what information a computer accessed on one web page to streamline activities on related web pages and to make the online experience easier and more personalised. Log files are used to monitor, measure, analyse, improve, and troubleshoot our Services.
 
-We utilise “cookies” and other technologies to collect non-personally-identifiable information from our Website and from other websites that use our Services. Where you request that your payment credentials be remembered by our checkout system, the cookies will also collect Personal Data about you. Information gathered through cookies and web-server log files may include information such as the date and time of visits, the pages viewed, IP addresses, links to/from any page, and time spent at our site.
+We utilise "cookies" and other technologies to collect non-personally-identifiable information from our Website and from other websites that use our Services. Where you request that your payment credentials be remembered by our checkout system, the cookies will also collect Personal Data about you. Information gathered through cookies and web-server log files may include information such as the date and time of visits, the pages viewed, IP addresses, links to/from any page, and time spent at our site.
 
 We use cookie data to measure web traffic and usage activity on our Website for purposes of monitoring, troubleshooting and improving our Website and Services, to look for possible fraudulent activity, and to better understand the sources of traffic and transactions on our Website and the websites of Merchants that use our Services. Cookies also allow our servers to remember your account information for future visits and to provide personalised and streamlined information across related pages on our Website and also across other websites or applications that use our Services. You can choose to disable cookies for our Website but this may limit your ability to use our Website and Services.
 
@@ -111,7 +111,7 @@ Any sharing or disclosure of your Personal Data will be in compliance with appli
 
 Personal Data that we collect and use for any purpose or purposes shall not be retained for longer than is necessary for that purpose or those purposes. This includes the Personal Data of Checkout Users.
 
-Stripe has a variety of obligations to retain the data that you provide us, both to ensure that transactions can be appropriately processed, settled, refunded or charged back, to identify fraud, and also to comply with laws applicable to us and to our banking providers and credit card processors. Accordingly, even if you close your Stripe account we will retain certain information as necessary to meet our obligations. However, we will identify your account in our database as "inactive” or “closed".
+Stripe has a variety of obligations to retain the data that you provide us, both to ensure that transactions can be appropriately processed, settled, refunded or charged back, to identify fraud, and also to comply with laws applicable to us and to our banking providers and credit card processors. Accordingly, even if you close your Stripe account we will retain certain information as necessary to meet our obligations. However, we will identify your account in our database as "inactive" or "closed".
 
 ## Protection of Personal Data
 
@@ -125,9 +125,9 @@ Stripe maintains strict administrative, technical and physical procedures to pro
 
 ## Changes to this Policy
 
-We reserve the right to make changes to this Policy from time to time. Please review this Policy periodically to check for updates. If any changes are material and/or retroactive, we may provide additional notice and/or an opportunity to “opt-in,” as appropriate under the circumstances. We may also advise you of changes to this policy by emailing and/or mailing the revised policy to any addresses you provide us.
+We reserve the right to make changes to this Policy from time to time. Please review this Policy periodically to check for updates. If any changes are material and/or retroactive, we may provide additional notice and/or an opportunity to "opt-in," as appropriate under the circumstances. We may also advise you of changes to this policy by emailing and/or mailing the revised policy to any addresses you provide us.
 
-## Access, Correction and Complaints – Contact Us
+## Access, Correction and Complaints &mdash; Contact Us
 
 Merchants can update their account information by signing on to our [Website](https://stripe.com) with their Stripe account.
 
@@ -174,7 +174,7 @@ Strictly necessary cookies: These cookies are necessary in order for you to move
   </tbody>
 </table>
 
-Functionality: Functionality cookies record information about choices you’ve made and allow us to tailor the Website to you.
+Functionality: Functionality cookies record information about choices you've made and allow us to tailor the Website to you.
 
 <table>
   <thead>

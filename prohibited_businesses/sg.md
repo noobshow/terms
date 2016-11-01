@@ -4,7 +4,7 @@ Last Updated: October 27, 2015.
 </header>
 
 <section id="prohibited_list">
-<p>The following categories of businesses and business practices are prohibited from using the Stripe Service (“Prohibited Businesses”). Most Prohibited Business categories are imposed by Card Network rules or the requirements of our banking providers or processors. The types of businesses listed in the right column are representative, but not exhaustive. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please [contact us](mailto:support@stripe.com).</p>
+<p>The following categories of businesses and business practices are prohibited from using the Stripe Service ("Prohibited Businesses"). Most Prohibited Business categories are imposed by Card Network rules or the requirements of our banking providers or processors. The types of businesses listed in the right column are representative, but not exhaustive. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please [contact us](mailto:support@stripe.com).</p>
 
 <p>By registering for Stripe, you are confirming that you will not use the Service to accept payments in connection with the following businesses, business activities or business practices.
 </p>
@@ -219,6 +219,6 @@ Last Updated: October 27, 2015.
   </tr>
 </table>
 
-<p>If you have any questions about supported businesses, don’t hesitate to <a href="/contact">get in touch</a>.</p>
+<p>If you have any questions about supported businesses, don't hesitate to <a href="/contact">get in touch</a>.</p>
 
 </section>

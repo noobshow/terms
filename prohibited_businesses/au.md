@@ -4,7 +4,7 @@ Last Updated: May 26, 2014.
 </header>
 
 <section id="prohibited_list">
-There are certain categories of businesses and business practices for which the Payment Service cannot be used (“Prohibited Businesses”). Most, although not all, of these Prohibited Business categories are imposed by Card Scheme rules or the requirements of our banking providers or processors. We maintain a list here. By registering for Stripe, you confirm that you will not use the Payment Service to accept payments in connection with any of the Prohibited Business. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please [contact Stripe](mailto:support@stripe.com).
+There are certain categories of businesses and business practices for which the Payment Service cannot be used ("Prohibited Businesses"). Most, although not all, of these Prohibited Business categories are imposed by Card Scheme rules or the requirements of our banking providers or processors. We maintain a list here. By registering for Stripe, you confirm that you will not use the Payment Service to accept payments in connection with any of the Prohibited Business. If you are uncertain as to whether your business is a Prohibited Business, or have questions about how these requirements apply to you, please [contact Stripe](mailto:support@stripe.com).
 
 By accepting this Agreement you confirm that you will satisfy these requirements.
 
@@ -12,8 +12,8 @@ By accepting this Agreement you confirm that you will satisfy these requirements
 1. Offering substantial rebates or special incentives to the Cardholder subsequent to the original purchase
 1. Negative response marketing
 1. Engaging in deceptive marketing practices
-1. Sharing Cardholder’s data with another merchant for payment of up-sell or cross-sell product or service
-1. Evading Card Scheme’s chargeback monitoring programs
+1. Sharing Cardholder's data with another merchant for payment of up-sell or cross-sell product or service
+1. Evading Card Scheme's chargeback monitoring programs
 1. Engaging in any form of licensed or unlicensed aggregation or factoring
 1. Airlines
 1. Age verification
@@ -35,7 +35,7 @@ By accepting this Agreement you confirm that you will satisfy these requirements
 1. Drug paraphernalia
 1. Extended warranties
 1. Fortune tellers
-1. “Get rich quick” schemes
+1. "Get rich quick" schemes
 1. Gambling (including but not limited to lotteries, Internet gaming, contests, sweepstakes, or offering of prizes as an inducement to purchase goods or services)
 1. Sports forecasting or odds making
 1. Illegal products or services

@@ -9,13 +9,13 @@ In order to receive the services supplied by Stripe and FDMS, you agree to and a
 
 ## RECITALS:
 
-(A) You have contracted with Stripe Payments Europe Limited, a company incorporated under the laws of Ireland with registered number 513174 and having its registered office at c/o A&L Goodbody, IFSC, North Wall Quay, Dublin (“Stripe”) to receive certain services related to payment execution processing (the “Stripe Services”) as set out in particular in the [Stripe Services Agreement](https://stripe.com/hk/legal) between You and Stripe.
+(A) You have contracted with Stripe Payments Europe Limited, a company incorporated under the laws of Ireland with registered number 513174 and having its registered office at c/o A&L Goodbody, IFSC, North Wall Quay, Dublin ("Stripe") to receive certain services related to payment execution processing (the "Stripe Services") as set out in particular in the [Stripe Services Agreement](https://stripe.com/hk/legal) between You and Stripe.
 
-(B) You wish to use via the Stripe Services, certain payment acquiring services (the “FDMS Services”) with respect to Visa and MasterCard Card transactions, to be provided by First Data Merchant Solutions (Hong Kong) Private Limited, a company incorporated under the laws of Hong Kong under registration number 1042361 and having its registered office at Suite 1802-04, Level 18 Dorset House, Taikoo Place, 979 King’s Road, Island East, Hong Kong) (“FDMS”)) and FDMS agrees to provide to you the FDMS Services on the terms as set out in this Merchant Declaration and the [FDMS Agreement](https://stripe.com/files/legal/FDMS_Agreement.pdf).
+(B) You wish to use via the Stripe Services, certain payment acquiring services (the "FDMS Services") with respect to Visa and MasterCard Card transactions, to be provided by First Data Merchant Solutions (Hong Kong) Private Limited, a company incorporated under the laws of Hong Kong under registration number 1042361 and having its registered office at Suite 1802-04, Level 18 Dorset House, Taikoo Place, 979 King's Road, Island East, Hong Kong) ("FDMS")) and FDMS agrees to provide to you the FDMS Services on the terms as set out in this Merchant Declaration and the [FDMS Agreement](https://stripe.com/files/legal/FDMS_Agreement.pdf).
 
-(C) You wish FDMS to settle funds for transactions successfully acquired via the FDMS Services to the accounts in the name of Earthport PLC used by Stripe to make subsequent onward settlement to you (in order to enable Stripe to provide consolidated settlement and reconciliation reporting to you as part of the Stripe Services) and for that reason you wish to agree to the terms of the settlement account nomination set out in [Settlement Account Nomination](#nomination) (Stripe and FDMS are, collectively, the “Service Providers”).
+(C) You wish FDMS to settle funds for transactions successfully acquired via the FDMS Services to the accounts in the name of Earthport PLC used by Stripe to make subsequent onward settlement to you (in order to enable Stripe to provide consolidated settlement and reconciliation reporting to you as part of the Stripe Services) and for that reason you wish to agree to the terms of the settlement account nomination set out in [Settlement Account Nomination](#nomination) (Stripe and FDMS are, collectively, the "Service Providers").
 
-(D) This Merchant Declaration and Agreement governs how the Stripe Services and the FDMS Services (each a “Service” and collectively, the “Services”) are to be provided and to clarify the Parties’ rights and obligations under each of the Stripe Services Agreement and the FDMS Agreement with respect to the FDMS Services (each an “Agreement” and collectively, the “Agreements”).
+(D) This Merchant Declaration and Agreement governs how the Stripe Services and the FDMS Services (each a "Service" and collectively, the "Services") are to be provided and to clarify the Parties' rights and obligations under each of the Stripe Services Agreement and the FDMS Agreement with respect to the FDMS Services (each an "Agreement" and collectively, the "Agreements").
 
 In consideration of their mutual promises the Parties (each of you, FDMS and Stripe) agree as follows:
 
@@ -33,7 +33,7 @@ In consideration of their mutual promises the Parties (each of you, FDMS and Str
 
 2.1.3 All communication relating to the Agreements shall be between You and Stripe directly and shall not be between You and FDMS including communications relating to fees, chargebacks, other debits, and disputes. Agreements between You and Stripe relating to fees, chargebacks, other debits, disputes or other operational aspects of the FDMS Services will take precedence over the terms of the FDMS Agreement.
 
-2.1.4 FDMS shall settle net amounts due to you with Earthport PLC in the accounts designated in the settlement account nomination in accordance with Stripe’s instructions and on behalf of Stripe. You hereby acknowledge that FDMS shall not be liable to You for funds settled with Earthport PLC.
+2.1.4 FDMS shall settle net amounts due to you with Earthport PLC in the accounts designated in the settlement account nomination in accordance with Stripe's instructions and on behalf of Stripe. You hereby acknowledge that FDMS shall not be liable to You for funds settled with Earthport PLC.
 
 2.2 As between you and Stripe with respect to the Stripe Services should any provision of the FDMS Agreement conflict with a provision of the Stripe Services Agreement, the Stripe Services Agreement shall prevail.
 2.3 For the avoidance of doubt any obligation to provide the Services shall be subject at all times to satisfactory completion of Know Your Customer (KYC) and compliance checks by Stripe and FDMS in accordance with their regulatory requirements.
@@ -72,7 +72,7 @@ This Settlement Account Nomination is made with respect to the FDMS Agreement be
 
 2. Confirming that the FDMS Agreement is incorporated by reference into this Settlement Account Nomination;
 
-3. Authorising FDMS with respect to funds received by FDMS or its bank from the card associations in respect of transactions processed on your behalf under the FDMS Agreement (“Settlement Funds”) to pay the balance of the Settlement Funds after deduction of certain charges, deductions and withholdings permitted under the Stripe Services Agreement and the FDMS Agreement (the “Net Settlement Funds”) to Earthport PLC (your agent mentioned in item 5 below) whom you have appointed to receive the Net Settlement Funds on your behalf into settlement accounts in the name of Earthport PLC (the “Settlement Accounts”).
+3. Authorising FDMS with respect to funds received by FDMS or its bank from the card associations in respect of transactions processed on your behalf under the FDMS Agreement ("Settlement Funds") to pay the balance of the Settlement Funds after deduction of certain charges, deductions and withholdings permitted under the Stripe Services Agreement and the FDMS Agreement (the "Net Settlement Funds") to Earthport PLC (your agent mentioned in item 5 below) whom you have appointed to receive the Net Settlement Funds on your behalf into settlement accounts in the name of Earthport PLC (the "Settlement Accounts").
 
 4. Acknowledging that payment of the Net Settlement Funds into the Settlement Accounts maintained by Earthport PLC shall constitute complete, full and final settlement of our obligations to pay Settlement Funds to your nominated Settlement Accounts, and our obligation to settle transactions acquired by you in accordance with and pursuant to the terms of the FDMS Agreement;
 
@@ -88,7 +88,7 @@ This Settlement Account Nomination is made with respect to the FDMS Agreement be
 
 9. Indemnifying FDMS and keeping us indemnified against all losses, claims, demands, damages, proceedings, liabilities, costs (including all legal costs on a full indemnity basis) and expenses incurred or suffered by us arising out of or in connection with this Settlement Account Nomination;
 
-10. Acknowledging that FDMS may terminate this Settlement Account Nomination at any time by giving you 30 days’ prior written notice of such termination without having to assign any reason; and
+10. Acknowledging that FDMS may terminate this Settlement Account Nomination at any time by giving you 30 days' prior written notice of such termination without having to assign any reason; and
 
 11. Acknowledging that in the event you decide to terminate the appointment of Earthport PLC as your agent for the settlement and receipt of all settlement funds relating to or in connection with the FDMS Agreement into the above nominated Settlement Accounts, FDMS reserves the right to amend/increase its pricings or fees for the provision of merchant acquiring services under the FDMS Agreement.
 

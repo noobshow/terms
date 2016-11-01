@@ -4,7 +4,7 @@
 
 In the event that the net activity in your account on a day is negative or Stripe needs you to fund your account for any other reason relating to the Agreement, you authorise and request Stripe to use Direct Debit to debit your bank account. Direct debit requests will be initiated by Stripe (Authorisation Code: 0228196). You acknowledge and accept that your bank accepts this authority on the conditions set out below.
 
-If you’d like details in advance of transfers (both debits and credits), Stripe offers this as a service that you can subscribe to via the Stripe management dashboard.
+If you'd like details in advance of transfers (both debits and credits), Stripe offers this as a service that you can subscribe to via the Stripe management dashboard.
 
 This authority does not act as an assignment or agreement.
 
