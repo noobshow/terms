@@ -206,7 +206,7 @@ Last Updated: October 27, 2015.
       Any product or service that provides peripheral support of any products or services deemed illegal in Singapore
     </td>
     <td>
-      Sale of ads for any products or services deemed illegal in Singapore; sales of products that faciliate payments to any of these products or services
+      Sale of ads for any products or services deemed illegal in Singapore; sales of products that facilitate payments to any of these products or services
     </td>
   </tr>
   <tr>
