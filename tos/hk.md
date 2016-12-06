@@ -1,6 +1,6 @@
 <header id="tos">
 # Services Agreement &mdash; Hong Kong
-Last Updated: April 12, 2016.
+Last Updated: December 5, 2016.
 </header>
 
 <section>
@@ -14,7 +14,7 @@ Below is a quick description of the main sections of this Agreement, but there a
 
 ## The Stripe Service
 
-We provide you with software and a service to process your online credit and debit card payments; we will respect and protect your privacy, data and personal information. You run your business, service your customers, protect your customers' data, report & pay taxes, and observe all laws, rules, and regulations. <a href="#section_a" class="arrow">Complete details</a>
+We provide you with software and a service to process your online credit and debit card payments; we will respect and protect your privacy, data and personal information. You run your business, service your customers, protect your customers' data, report &amp; pay taxes, and observe all laws, rules, and regulations. <a href="#section_a" class="arrow">Complete details</a>
 
 ## Registering for Stripe
 
@@ -30,7 +30,7 @@ We can terminate this Agreement for any reason or at any time (especially if you
 
 ## Stripe Services Agreement
 
-These Terms and Conditions constitute a legal agreement ("Agreement") between the sole proprietor or business entity or business organization listed as the "Merchant" on the Service registration page (sometimes referred to as "you," "your", "user"), and Stripe Payments Europe, Limited ("Stripe") (sometimes referred to as "we," "our" or "us"). You may request a copy of this Agreement, and the other terms or documents incorporated in it by reference, at any time during the term of this Agreement.
+These Terms and Conditions constitute a legal agreement ("Agreement") between the sole proprietor or business entity or business organization listed as the "Merchant" on the Service registration page (sometimes referred to as "you," "your", "user"), and Stripe Payments Europe, Limited ("Stripe"), which includes certain affiliates, where applicable (sometimes referred to as "we," "our" or "us"). You may request a copy of this Agreement, and the other terms or documents incorporated in it by reference, at any time during the term of this Agreement.
 
 Stripe's merchant support email address is support@stripe.com.
 
@@ -40,7 +40,6 @@ Stripe's merchant support email address is support@stripe.com.
 
 Our Service helps you accept and process credit card, debit card and other types of card payments (collectively "cards" or "Cards", each a "card" or "Card") from your customers (each, a "customer" or a "Cardholder") in exchange for your products and services. In providing our Service, we will be acting as a technology service provider. Stripe is not a bank or a money services business and Stripe does not offer banking, exchange or remittances services as regulated by the Hong Kong Monetary Authority or the Customs and Excise Department. We do not assume any liability for the products or services purchased using our Service. You will be required to register for a service account to use Stripe ("Stripe Account") (see Registering for Stripe). Your Stripe Account allows you to review card transactions that are in process of settling from a Card Network (as defined in Section A(2) below) and us to your specified bank account.
 
-<a href="#connect">Stripe Connect</a> enables you to work with various platform providers to help manage your account, provide ancillary services, or perform analytics using your data from your Stripe Account. <a href="#relay">Stripe Relay</a> provides you a mechanism for easily publishing your product data to various online channels. Each of these is discussed in more detail below.
 
 ### 2. Our Software
 
@@ -48,13 +47,13 @@ We provide the Stripe application programming interfaces (collectively, "API") a
 
 ### 3. Authorization for Handling of Funds
 
-By accepting this Agreement, you acknowledge that certain specified entities may hold, receive, and disburse funds on your behalf when such funds from your card transactions settle from the Card Networks. You specifically acknowledge that First Data Merchant Solutions (Hong Kong) Private Limited, a private limited liability company incorporated in Hong Kong with registered number 1042361 and whose registered office is at Suite 1802-04, Level 18 Dorset House, Taikoo Place , 979 King's Road, Island East, Hong Kong (the "Designated Bank") and Earthport plc, a public listed company incorporated and domiciled in England and quoted on AIM, having its registered office at 21 New Street, London, EC2M 4TP, United Kingdom ("Earthport") may provide services in order for your card transaction settlement funds to be held, received and disbursed to you and the timing of such disbursements. You also acknowledge that the Designated Bank may hold settlement funds in a deposit account on trust on your behalf pending disbursement of the funds to you in accordance with the terms of this Agreement. You authorize us to provide our Service through which we will be acting as a technology service provider to the Designated Bank and Earthport.
+By accepting this Agreement, you acknowledge that certain entities designated by Stripe, or Stripe itself, may hold, receive, and disburse funds on your behalf when such funds from your card transactions settle from the Card Networks, and you specifically consent to us transferring such funds between such entities prior to the funds being disbursed to you. You. You acknowledge that First Data Merchant Solutions (Hong Kong) Private Limited, a private limited liability company incorporated in Hong Kong with registered number 1042361 and whose registered office is at Suite 1802-04, Level 18 Dorset House, Taikoo Place , 979 King's Road, Island East, Hong Kong or alternatively, an entity designated by Stripe (each, the “Designated Bank”, as applicable) and Earthport plc, a public listed company incorporated and domiciled in England and quoted on AIM, having its registered office at 21 New Street, London, EC2M 4TP, United Kingdom ("Earthport") may provide services in order for your card transaction settlement funds to be held, received and disbursed to you and the timing of such disbursements. You also acknowledge that the Designated Bank may hold settlement funds in a deposit account on trust on your behalf pending disbursement of the funds to you in accordance with the terms of this Agreement. You authorize us to provide our Service through which we will be acting as a technology service provider to the Designated Bank and Earthport.
 
 You agree you are not entitled to any interest associated with the settlement funds held in the deposit account pending settlement to your specified bank settlement account and you may not assign any right or interest in those funds or the deposit account. From time to time, we may make available to you information in the management dashboard area of the Stripe Service regarding anticipated settlement amounts that have been received by the Designated Bank on your behalf from the Card Networks and are being held pending settlement. This settlement information does not constitute a deposit or other obligation owed by Stripe to you. This settlement information reflected in the Stripe management dashboard is for reporting and informational purposes only, and you are not entitled to, and have no ownership or other rights in settlement funds, until such funds are to be credited to your specified bank settlement account in accordance with the Payout Schedule (as defined in Section C(3) below) and subject to the other terms of this Agreement (including, without limitation, regarding deductions for Fees (Section C(9)), the Reserve Account (Section C(11)) and Chargebacks, Reversals and Claims (each such term as defined in Section D(6) below)). Your authorizations set forth herein will remain in full force and effect until your Stripe Account is closed or terminated as provided in Section D.
 
 ### 4. Payment Methods
 
-The Service supports most issued cards with a Card Network logo including credit, debit, pre-paid, or gift cards. Stripe will only process card transactions that have been authorized by the applicable Card Network or card issuer. You are solely responsible for verifying the identity of users and the eligibility of each presented payment card used to purchase your products and services, Stripe does not guarantee or assume any liability for transactions authorized and completed which may later be reversed or charged back (see Chargebacks in Section C(6) below). You are solely responsible for all reversed or charged back transactions, regardless of the reason for, or timing of, the reversal or chargeback. Please see Section C(7) below regarding your right to contest Chargebacks. Stripe may add or remove one or more types of cards as a supported payment card subject to Section D(11) below.
+The Service supports most issued cards with a Card Network logo including credit, debit, pre-paid, or gift cards. Stripe will only process card transactions that have been authorized by the applicable Card Network or card issuer. You are solely responsible for verifying the identity of users and the eligibility of each presented payment card used to purchase your products and services, Stripe does not guarantee or assume any liability for transactions authorized and completed which may later be reversed or charged back (see Chargebacks in Section C(6) below). You are solely responsible for all reversed or charged back transactions, regardless of the reason for, or timing of, the reversal or chargeback. Please see Section C(7) below regarding your right to contest Chargebacks. Stripe may add or remove one or more types of cards as a supported payment card at any time without prior notice to you.
 
 ### 5. Merchant Support
 
@@ -241,21 +240,21 @@ At any point, Stripe, the Designated Bank, Earthport or the Card Networks may de
 
 ### 9. Stripe Fees
 
-You agree to pay the fees assessed by us to you for providing the Service described in this Agreement ("Fees"). These Fees will be calculated pursuant to the <a href="https://stripe.com/pricing">Fee Schedule</a> linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, subject to a two (2) months' notice period to you. You are also obligated to pay all taxes and other charges imposed by any governmental authority, including without limitation any goods or services tax (including VAT), on the Service provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
+You agree to pay the fees assessed by us to you for providing the processing and other services described in this Agreement ("Fees"). These Fees will be calculated pursuant to the <a href="https://stripe.com/pricing">Fee Schedule</a> linked to and incorporated into this Agreement by reference. We reserve the right to revise our Fees at any time, subject to a two (2) months' notice period to you. You are also obligated to pay all taxes and other charges imposed by any governmental authority, including without limitation any goods or services tax (including VAT), on the Service provided under this Agreement. If you are tax-exempt, you will provide us with an appropriate certificate or other evidence of tax exemption that is satisfactory to us.
 
 You acknowledge that you are also responsible for any penalties or fines imposed on Stripe or directly to you by any Card Network or financial institution as a result of your activities.
 
 ### 10. Our Collection Rights
 
-To the extent permitted by law, we may collect any obligations you owe us under this Agreement by deducting the corresponding amounts from the Reserve Account or from funds payable to you arising from the settlement of card transactions. Fees will be assessed at the time a transaction is processed and will be first deducted from the settlement funds received for such transactions. If the settlement amounts or Reserve Account are not sufficient to meet your obligations to us, we may charge or debit the Bank Account registered in your Stripe Account for any amounts owed to us. Your failure to fully pay amounts that you owe us on demand will be a material breach of this Agreement. You will be liable for our costs associated with collection in addition to the amount owed, including without limitation legal fees and expenses, costs of any arbitration or court proceeding, collection agency fees, and any applicable interest.
+To the extent permitted by law, we may collect any obligations you owe us under this Agreement by deducting the corresponding amounts from the Reserve Account or from funds payable to you arising from the settlement of card transactions. Fees will be assessed at the time a transaction is processed and will be first deducted from the funds received for such transactions. If the settlement amounts or Reserve Account are not sufficient to meet your obligations to us, we may charge or debit the Bank Account registered in your Stripe Account for any amounts owed to us. Your failure to fully pay amounts that you owe us on demand will be a material breach of this Agreement. You will be liable for our costs associated with collection in addition to the amount owed, including without limitation legal fees and expenses, costs of any arbitration or court proceeding, collection agency fees, and any applicable interest.
 
 Additionally, we may require a personal guarantee from a principal of a business for funds owed under this Agreement. If we require a personal guarantee we will specifically inform you.
 
 ### 11. Reserves
 
-Funds held in reserves are amounts of money set aside by Stripe in an account maintained by it to cover Chargebacks, refunds, or other payment obligations under this Agreement (a "Reserve Account"). Stripe, in its sole discretion, will set the terms of the Reserve Account and notify you of such terms, which may require that a certain amount (including the full amount) of the settlement funds received for card transactions we process for you is held for a period of time or that additional amounts are held in Reserve Account. Stripe, in its sole discretion, may elect to change the terms of the Reserve Account at any time for any reason based on your payment processing history or as requested by the Designated Bank or Earthport.
+Funds held in reserves are amounts of money set aside by Stripe in an account maintained by it to cover Chargebacks, refunds, or other payment obligations under this Agreement (a "Reserve Account"). Stripe, in its sole discretion, will set the terms of the Reserve Account and notify you of such terms, which may require that a certain amount (including the full amount) of the funds received for card transactions we process for you is held for a period of time or that additional amounts are held in Reserve Account. Stripe, in its sole discretion, may elect to change the terms of the Reserve Account at any time for any reason based on your payment processing history or as requested by the Designated Bank or Earthport.
 
-Stripe may fund the Reserve Account by means of: (i) any settlement funds payouts made or due to you for card transactions submitted to the Service, or (ii) amounts available in your Bank Account by means of a debit to that Bank Account, or (iv) other sources of funds associated with your Stripe Account; or (iv) requesting that you provide funds to Stripe for deposit to the Reserve Account. You agree you are not entitled to any interest on the funds held in the Reserve Account, that you have no right to direct that account and that you may not assign any interest in those funds or that account.
+Stripe may fund the Reserve Account by means of: (i) any funds payouts made or due to you for card transactions submitted to the Service, or (ii) amounts available in your Bank Account by means of a debit to that Bank Account, or (iv) other sources of funds associated with your Stripe Account; or (iv) requesting that you provide funds to Stripe for deposit to the Reserve Account. You agree you are not entitled to any interest on the funds held in the Reserve Account, that you have no right to direct that account and that you may not assign any interest in those funds or that account.
 
 ### 12. Security Interest
 
@@ -397,19 +396,4 @@ The parties hereby acknowledge that they have required this Agreement and all re
 
 </section>
 
-<section>
-# Installing Applications on your Stripe Account
 
-These terms only apply to you if you authorize another application to connect to your Stripe Account.
-
-By authorizing another application to link to your Stripe Account, you agree to be bound by these Stripe Connect User Terms as well as the [Stripe Services Agreement](#tos). You specifically agree as follows:
-
-## 1. Application Permissions
-
-By authorizing an application to link to your Stripe Account (a "Partner Application") you are authorizing Stripe to permit the Partner Application to (a) access your Stripe Account and Data, (b) create charges and customers in your Stripe Account, and (c) deduct amounts (for example, fees and charges) from the amount that would otherwise be payable to you from transactions occurring in connection with the Partner Application ("Partner Fees"). Any Partner Fees will be in addition to Stripe's own Fees and charges.
-
-## 2. Duration
-
-Once you have authorized a Partner Application it will continue to have access to your Stripe Account and be authorized as described in these Stripe Connect User Terms until you specifically withdraw your authorization by changing the settings in your Stripe Account dashboard.
-
-</section>
