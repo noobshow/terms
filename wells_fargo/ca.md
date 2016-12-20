@@ -1,6 +1,6 @@
 <header id="wf_addendum">
 # Wells Fargo Financial Services Terms
-Last Updated: December ___, 2016.
+Last Updated: December 21, 2016.
 </header>
 
 <section>
@@ -99,8 +99,8 @@ The parties hereby acknowledge that they have required this Addendum and all rel
 
 ### 13. Card Network Compliance and Disclosure
 
-You may contact Wells Fargo by mailing 3200-40 King Street, Toronto, ON M5H 3Y2
-or by calling ________.
+You may contact Wells Fargo by mailing 40 King Street West, Suite 3200, Toronto, ON M5H 3Y2, Canada
+or by calling (800) 451-5817.
 
 **a. Important Wells Fargo Disclosures:** Wells Fargo discloses that (i) it is the only entity approved to extend acceptance of Visa, and MasterCard products directly to you under this Wells Fargo Addendum; (ii) it must be a principal to this Wells Fargo Addendum; (iii) it is responsible for educating you on pertinent Visa, and MasterCard rules with which you must comply, but this information may be provided to you by Stripe; (iv) subject to this Wells Fargo Addendum, it is responsible for and must provide settlement funds to you; and (v) it is responsible for all funds held in reserve that are derived from settlement prior to funding you.
 
