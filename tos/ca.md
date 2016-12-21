@@ -433,7 +433,7 @@ Stripe has established a process for managing potential Code compliance violatio
 * Business address with territory specified
 * Name and email address of administrator on your Stripe account
 * General summary of your complaint and, if you have any supporting documents, please provide them upon response from our Support team.
- * Identify one or more of the following elements of Code that the complaint pertains to: 
+* Identify one or more of the following elements of Code that the complaint pertains to: 
 
 Element 1: Transparency and Disclosure Element; Element 2: Notice of fee increase or new fee Element;  Element 3: Contract Cancellation; Element 4: No Obligation Acceptance;  Element 5: Payment Method Discount Element; 10: Negative Option Acceptance; Element 11: Contactless Payments; 12: Renewal and Cancellation Disclosure; Element 13: Complaint Handling Process
  
