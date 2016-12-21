@@ -29,7 +29,7 @@ Stripe will provide you with at least 14 days' notice before any changes to this
 
 ### Privacy
 
-Information relating to this Direct Debit Request Service Agreement is treated according to Stripe's [Privacy Policy](https://stripe.com/<%= @country.downcase %>/privacy).
+Information relating to this Direct Debit Request Service Agreement is treated according to Stripe's [Privacy Policy](https://stripe.com/{{country_code}}/privacy).
 
 </section>
 
