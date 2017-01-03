@@ -224,7 +224,7 @@ If you engage in Transactions with Customers who are individuals (i.e. consumers
  
 Your use of the Payment Services is subject to additional terms that apply between you and one or more of Stripe, a Stripe affiliate, or a Financial Services Provider ("Financial Services Terms"). In addition, unique terms and conditions may also apply to specific payment methods or networks ("Payment Terms"). By using the Payment Services, you agree to the Financial Services Terms and applicable Payment Terms as set out on our [legal page](http://www.stripe.com/legal) (including those that separately bind you with Financial Services Providers or payment method providers).
 
-The Wells Fargo Services Addendum (link) between Wells Fargo Bank, N.A., Canadian Branch, Stripe and you  are the current Financial Services Terms applicable to the Payment Services.
+The [Wells Fargo Services Addendum](https://stripe.com/wells-fargo/legal) between Wells Fargo Bank, N.A., Canadian Branch, Stripe and you  are the current Financial Services Terms applicable to the Payment Services.
  
 We may add or remove Financial Services Providers or payment methods at any time. The Financial Service Terms and Payment Terms may also be amended from time to time. Your continuing use of the Payment Services constitutes your consent and agreement to such additions, removals and amendments.
  
