@@ -4,17 +4,17 @@ Payment Terms are terms that apply to the use of Payment Methods. You can decide
 
 ## Payment Methods
 
-[Bitcoin](LINK)
-[Apple Pay on the Web](LINK)
-[Amex Checkout](LINK)
-[Giropay](LINK)
-[iDEAL](LINK)
-[SOFORT](LINK)
-[Bancontact](LINK)
-[EPS (E-PAYMENT STANDARD)](LINK)
-[Multibanco](LINK)
-[SEPA Direct Debit](LINK)
-[SEPA Credit Transfers](LINK)
+* [Bitcoin](LINK)
+* [Apple Pay on the Web](LINK)
+* [Amex Checkout](LINK)
+* [Giropay](LINK)
+* [iDEAL](LINK)
+* [SOFORT](LINK)
+* [Bancontact](LINK)
+* [EPS (E-PAYMENT STANDARD)](LINK)
+* [Multibanco](LINK)
+* [SEPA Direct Debit](LINK)
+* [SEPA Credit Transfers](LINK)
 
 The above list is not an exhaustive list of the Payment Methods offered by Stripe, and there are Payment Methods for which there are no separate Payment Terms.
 
@@ -35,7 +35,7 @@ Some Payment Methods require the re-direction of the Customer to an online banki
 [Giropay](https://www.giropay.de) is an internet-based payment method available for Customers in Germany, in which information on the payee and the intended use from a retailer’s shop system is automatically entered into the Customer's online banking page. The Giropay system provides the payee with a confirmation statement concerning the completion of the online transfer. This confirmation statement is combined with a payment guarantee issued by the Customer's bank.
 When asking for the sort code and further Customer information (such as account number and Customer name), you must ensure the following notice is included within your payment process in a manner which is unambiguously and easily recognizable by Customers:
 
-“By entering your Customer information (such as name, sort code and account number) you (the Customer) agree that this information is given voluntarily.”
+> “By entering your Customer information (such as name, sort code and account number) you (the Customer) agree that this information is given voluntarily.”
 
 The payment guarantee made by a participating bank in relation to Giropay is limited to an amount of EUR 10,000 per transaction, even if the transaction is for a higher amount. You may make a guarantee claim if the relevant payment amount has not been credited to your Stripe Account balance within five (5) banking days. Guarantee claims must be made within six (6) weeks of the transaction date.
 
@@ -51,13 +51,13 @@ The payment guarantee made by a participating bank in relation to Giropay is lim
 
 You:
 
-a) may only integrate and use SOFORT in the manner prescribed by SOFORT and communicated to you by Stripe from to time;
+1. may only integrate and use SOFORT in the manner prescribed by SOFORT and communicated to you by Stripe from to time;
 
-b) may use SOFORT trademarks, logos, graphics and banners as part of your integration, provided that you do so without making any modifications, and that you cease all use upon termination of this Agreement; 
+2. may use SOFORT trademarks, logos, graphics and banners as part of your integration, provided that you do so without making any modifications, and that you cease all use upon termination of this Agreement; 
 
-c) must not offer SOFORT via a link which is sent to Customers via email; and
+3. must not offer SOFORT via a link which is sent to Customers via email; and
 
-d) may not use SOFORT for establishing the identity of a person or his or her age. You will be liable for any fines, penalties or costs incurred if you contravene this prohibition.
+4. may not use SOFORT for establishing the identity of a person or his or her age. You will be liable for any fines, penalties or costs incurred if you contravene this prohibition.
 
 
 # Bancontact
@@ -66,15 +66,15 @@ d) may not use SOFORT for establishing the identity of a person or his or her ag
 
 You:
 
-a) may only integrate and use Bancontact in the manner communicated to you by Stripe from to time; and
+1. may only integrate and use Bancontact in the manner communicated to you by Stripe from to time; and
 
-b) may use Bancontact trademarks, logos, graphics and banners as part of your integration, provided that you do so without making any modifications, and that you cease all use upon termination of this Agreement.
+2. may use Bancontact trademarks, logos, graphics and banners as part of your integration, provided that you do so without making any modifications, and that you cease all use upon termination of this Agreement.
 
 In deciding to integrate Bancontact, you understand and accept that:
 
-a) execution of a Bancontact transfer, as well as the ability of a Customer to cancel or revoke a transfer, is contingent upon the then current terms and conditions of the Customer’s bank; and
+1. execution of a Bancontact transfer, as well as the ability of a Customer to cancel or revoke a transfer, is contingent upon the then current terms and conditions of the Customer’s bank; and
 
-b) Bancontact is not available for all Belgium bank accounts.
+2. Bancontact is not available for all Belgium bank accounts.
 
 
 # EPS (E-PAYMENT STANDARD)
@@ -93,9 +93,9 @@ You may use Multibanco trademarks, logos, graphics and banners as part of your i
 
 In deciding to integrate Mulitbanco, you understand and accept that:
 
-a) the execution of the transfer, as well as the ability for a Customer to cancel or revoke a transfer, is contingent upon the then current terms and conditions of the Customer's bank; and
+1. the execution of the transfer, as well as the ability for a Customer to cancel or revoke a transfer, is contingent upon the then current terms and conditions of the Customer's bank; and
 
-b) Multibanco is not a guaranteed payment method, and is not available for all Portuguese bank accounts.
+2. Multibanco is not a guaranteed payment method, and is not available for all Portuguese bank accounts.
 
 
 # SEPA Direct Debit
