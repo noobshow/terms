@@ -9,16 +9,16 @@ Payment Terms are terms that apply to the use of Payment Methods. You can decide
 ## Payment Methods
 
 * [Bitcoin](/bitcoin/legal)
-* [Apple Pay on the Web](LINK)
-* [Amex Checkout](LINK)
-* [Giropay](LINK)
-* [iDEAL](LINK)
-* [SOFORT](LINK)
-* [Bancontact](LINK)
-* [EPS (E-PAYMENT STANDARD)](LINK)
-* [Multibanco](LINK)
-* [SEPA Direct Debit](LINK)
-* [SEPA Credit Transfers](LINK)
+* [Apple Pay on the Web](/apple-pay/legal)
+* [Amex Checkout](/amex-express-checkout/legal)
+* [Giropay](/giropay/legal)
+* [iDEAL](/ideal/legal)
+* [SOFORT](/sofort/legal)
+* [Bancontact](/bancontact/legal)
+* [EPS (E-PAYMENT STANDARD)](/eps/legal)
+* [Multibanco](/multibanco/legal)
+* [SEPA Direct Debit](/sepa-direct-debit/legal)
+* [SEPA Credit Transfers](/sepa-credit-transfers/legal)
 
 The above list is not an exhaustive list of the Payment Methods offered by Stripe, and there are Payment Methods for which there are no separate Payment Terms.
 
@@ -28,7 +28,7 @@ Payment Method availability also varies by geography. Depending on your location
 
 Payment Methods are sourced from various providers, and each provider controls the terms that apply to its Payment Method. As a consequence, the terms and [Documentation](https://stripe.com/docs) applicable to a Payment Method are subject to change at any time, and it is your responsibility to periodically review the terms and Documentation in order to ensure that you are aware of, and comply with, the applicable requirements.
 
-Stripe may add or remove Payment Methods at any time. Before doing so, Stripe will provide you with prior notice, except where Stripe is required by a third party (such as the Payment Method provider) to cease offering the payment method.
+Stripe may add or remove Payment Methods at any time. If Stripe removes a Payment Method, Stripe will provide you with notice prior to the removal becoming effective for you, except where Stripe is required by a third party (such as the Payment Method provider) to cease offering the payment method.
 
 ## Redirection to online banking pages
 
