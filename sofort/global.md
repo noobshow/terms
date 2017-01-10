@@ -1,4 +1,4 @@
-<header id="stripe">
+<header id="sofort">
 </header>
 <section>
 # SOFORT 
