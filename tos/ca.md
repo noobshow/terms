@@ -79,7 +79,7 @@ You are solely responsible for providing support to Customers regarding Transact
  
 ### 6. Taxes and Other Expenses
  
-You are solely responsible (i) for determining what, if any, Ttaxes  apply to your Transactions; and (ii) assessing, collecting, reporting, or remitting Taxes to the appropriate tax authority. We are not obligated to nor will we determine the applicability of any Taxes, or calculate, collect, report, or remit any Taxes to any tax authority arising from any Transaction, but we may withhold any amounts that we deem appropriate to cover such Taxes if we cannot validate any tax-related identification information you provide us. We may send documents to you and tax authorities for Transactions processed using the Services. You agree that we may send you any tax-related information electronically.
+You are solely responsible (i) for determining what, if any, Taxes apply to your Transactions; and (ii) assessing, collecting, reporting, or remitting Taxes to the appropriate tax authority. We are not obligated to nor will we determine the applicability of any Taxes, or calculate, collect, report, or remit any Taxes to any tax authority arising from any Transaction, but we may withhold any amounts that we deem appropriate to cover such Taxes if we cannot validate any tax-related identification information you provide us. We may send documents to you and tax authorities for Transactions processed using the Services. You agree that we may send you any tax-related information electronically.
  
 ### 7. Service Limitations, Prohibited Activities, and Security Controls
  
