@@ -1,7 +1,7 @@
 <header id="stripe">
+# Multibanco
 </header>
 <section>
-# Multibanco
 
 [Multibanco](https://www.multibanco.pt/) is a Portuguese interbank network and a provider of Internet banking services.
 

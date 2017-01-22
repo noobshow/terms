@@ -1,9 +1,9 @@
 <header id="SEPA Direct Debit">
+# SEPA Direct Debit
 </header>
 <section>
-# SEPA Direct Debit
 
-SEPA Direct Debit (“SDD”) allows you to collect funds from bank accounts at authorised credit institutions located within the Single Euro Payments Area. 
+SEPA Direct Debit ("SDD") allows you to collect funds from bank accounts at authorised credit institutions located within the Single Euro Payments Area. 
 
 SDD is facilitated by means of a Customer mandate through which the Customer authorizes you to debit his or her account. You may only submit a SDD debit for collection if you have obtained a valid SDD mandate from the Customer. You must ensure that the Customer has accepted the SDD mandate and the information stated in the mandate.
 
