@@ -1,6 +1,6 @@
 <header id="stripe">
 # Payment Terms
-Last updated: January 11, 2017
+Last updated: January 23, 2017
 </header>
 <section>
 
