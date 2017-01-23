@@ -1,7 +1,7 @@
 <header id="stripe">
+# SEPA Credit Transfers
 </header>
 <section>
-# SEPA Credit Transfers
 
 SEPA Credit Transfers allow you to initiate payments to accounts with banks that are situated within the Single Euro Payments Area. 
 

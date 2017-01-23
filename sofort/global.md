@@ -1,7 +1,7 @@
 <header id="sofort">
+# SOFORT 
 </header>
 <section>
-# SOFORT 
 
 [SOFORT](https://www.sofort.com) is a system which enables Customers to execute online bank transfers through their own banks. 
 

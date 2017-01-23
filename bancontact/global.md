@@ -1,7 +1,7 @@
 <header id="bancontact">
+# Bancontact
 </header>
 <section>
-# Bancontact
 
 [Bancontact](https://www.bancontact.com) is a system which enables Customers in Belgium to initiate an online bank transfer in real time using their Bancontact debit cards.
 
@@ -13,7 +13,7 @@ You:
 
 In deciding to integrate Bancontact, you understand and accept that:
 
-1. execution of a Bancontact transfer, as well as the ability of a Customer to cancel or revoke a transfer, is contingent upon the then current terms and conditions of the Customer’s bank; and
+1. execution of a Bancontact transfer, as well as the ability of a Customer to cancel or revoke a transfer, is contingent upon the then current terms and conditions of the Customer's bank; and
 
 2. Bancontact is not available for all Belgium bank accounts.
 </section>
