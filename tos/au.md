@@ -1,6 +1,6 @@
 <header id="stripe_services_agmt_au">
 # Stripe Services Agreement &mdash; Australia
-Last Updated: October 17, 2016. 
+Last Updated: January 24, 2017. 
 </header>
 
 <section>
