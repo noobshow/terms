@@ -29,8 +29,6 @@ This Privacy Policy will help you understand the following:
 * Changes to this Policy
 * Access, Correction and Complaints &mdash; Contact Us
 
-Please also review, if applicable, your agreement with Stripe, including our Terms of Service that shall govern in the event of any inconsistency with this Privacy Policy.
-
 ## What does this Privacy Policy apply to?
 This Policy applies to the [stripe.com](https://stripe.com) website, including all subpages and successor pages (collectively referred to as the "Website"), and also applies to all Services that we offer.
 

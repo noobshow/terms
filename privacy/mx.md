@@ -20,9 +20,6 @@ Esta Política de Privacidad le ayudará a entender lo siguiente:
 <li><a href='#7'>Marco Puerto Seguro </a></li>
 <li><a href='#8'>Contáctenos</a></li>
 </ol>
-<p>
-Por favor también revise, en su caso, su convenio de <a href="https://stripe.com/terms">Términos del Servicio</a> con Stripe, mismo que prevalecerá en caso de cualquier incongruencia con esta Política de Privacidad.
-</p>
 <h2 id="1">1. ¿Cuál es el objeto de esta Política de Privacidad?</h2>
 <p>
 Stripe Payment México, S. de R.L. de C.V. ("Stripe") es la entidad encargada de la protección de sus datos personales. Esta Política aplica a la sitio web stripe.com, incluyendo toda subpágina y cualquier página subsiguiente (colectivamente, el "Sitio Web"), y también aplica a todo programa y servicio que ofrecemos, incluyendo el formato de Stripe Checkout (Mostrador Stripe) del cual se podrá disponer en una página de terceros, y otros servicios que ofrecemos a través nuestro Sitio Web cuando se inscriba en una cuenta de Stripe (colectivamente, los "Servicios").
