@@ -19,9 +19,7 @@
     <li><a href='#6'>Changes and notifications</a></li>
     <li><a href='#7'>Contact us</a></li>
   </ol>
-  <p>
-    Please also review, if applicable, your <a href="https://stripe.com/terms">Terms of Service</a> agreement with Stripe, which shall govern in the event of any inconsistency with this Privacy Policy.
-  </p>
+
   <h2 id="1">1. What does this Privacy Policy apply to?</h2>
   <p>
     {{us_address}} This Policy applies to the stripe.com website, including all subpages and successor pages (collectively referred to as the "Website"), and also applies to all software and services that we offer, including the Stripe Checkout form that may be made available on a third-party website, or other services that we offer through our Website when you register for a Stripe account (collectively referred to as the "Services").

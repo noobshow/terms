@@ -36,9 +36,6 @@ This Privacy Policy will help you understand the following:
 <li><a href='#7'>Changes to this Policy</a></li>
 <li><a href='#8'>Access, Correction and Complaints &mdash; Contact Us</a></li>
 </ol>
-<p>
-Please also review, if applicable, your agreement with Stripe, including our <a href="https://stripe.com/terms">Terms of Service</a> that shall govern in the event of any inconsistency with this Privacy Policy.
-</p>
 <h2 id="1">1. What does this Privacy Policy apply to?</h2>
 <p>
 This Policy applies to Personal Data collected through the stripe.com website, including all subpages and successor pages (collectively referred to as the "Website"), and also applies to all Personal Data collected in the course of the Services that we offer.
