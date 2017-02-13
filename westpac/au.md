@@ -1,6 +1,6 @@
 <header id="westpac_addendum">
 # Westpac Banking Corporation - Financial Services Terms
-Last Updated: January 24, 2017.
+Last Updated: February 13, 2017.
 </header>
 
 <section>
@@ -102,6 +102,16 @@ The failure of Westpac to assert any of its rights under this Westpac Addendum, 
 ### 11. Funds Settlement; Contact
 
 You acknowledge that any financial transactions processed through the Payment Services under this Westpac Addendum will be settled by Westpac exclusively with Stripe. Stripe will be solely responsible for settlement of funds to you and you must raise any dispute about such settlement with Stripe.
+
+You may contact Westpac:
+ 
+By mail: Westpac Banking Corporation, GPO Box 5265, Sydney NSW 2001
+
+E-mail: Go to the website westpac.com.au and click on ‘Contact Us’.
+
+Fax: 1300 655 858
+
+Telephone: 1300 130 467
 
 ### 12. Governing Law
 
