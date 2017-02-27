@@ -1,6 +1,6 @@
 <header id="stripe_services_agmt">
 # Stripe Services Agreement &mdash; {{country_name}}
-Last Updated: December 21, 2016.
+Last Updated: February 28, 2016.
 </header>
  
 <section>
@@ -26,7 +26,7 @@ Schedule](https://stripe.com/{{country_code}}/pricing).
 
 <table class="alternate">
     <tr>
-        <td>Date of Contract</td>
+        <td style="width:100px">Date of Contract</td>
         <td>The Agreement is effective upon the date you agree to it (by electronically indicating acceptance) and continues so long as you use the Service or until terminated by Stripe.</td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ Schedule](https://stripe.com/{{country_code}}/pricing).
     </tr>
     <tr>
         <td>Transaction return policy</td>
-        <td>To learn more about how to issue refunds and fees assessed, please visit: <a href="https://support.stripe.com/questions/how-do-i-issue-refunds">https://support.stripe.com/questions/how-do-i-issue-refunds</a></td>
+        <td>To learn how to issue refunds and about the fees associated with refunds, please visit: <a href="https://support.stripe.com/questions/how-do-i-issue-refunds">https://support.stripe.com/questions/how-do-i-issue-refunds</a></td>
     </tr>
     <tr>
         <td>Code of Conduct</td>
