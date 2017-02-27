@@ -26,7 +26,7 @@ Schedule](https://stripe.com/{{country_code}}/pricing).
 
 <table class="alternate">
     <tr>
-        <td style="width:100px">Date of Contract</td>
+        <td style="width:25%">Date of Contract</td>
         <td>The Agreement is effective upon the date you agree to it (by electronically indicating acceptance) and continues so long as you use the Service or until terminated by Stripe.</td>
     </tr>
     <tr>
