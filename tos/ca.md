@@ -12,6 +12,124 @@ This Stripe Services Agreement ("Agreement") is a legal agreement between Stripe
 If you do not understand any of the terms of this Agreement, please [contact us](/contact) before using the Services.
 
 **You may not access or use any Services unless you agree to abide by all of the terms and conditions in this Agreement.**
+
+### Required Regulatory Disclosures
+
+We are required by law to provide to you at the
+beginning of our agreement with you boxes that contain a summary of
+certain information from the agreement and disclosure of our fees. This
+information is described in more detail in the body of the agreement and
+our fees are also set out in the [Fee
+Schedule](https://stripe.com/{{country_code}}/pricing).
+
+<h4>Information Summary Box</h4>
+
+<table class="reference">
+    <tr>
+        <td>Date of Contract</td>
+        <td>The Agreement is effective upon the date you agree to it (by electronically indicating acceptance) and continues so long as you use the Service or until terminated by Stripe.</td>
+    </tr>
+    <tr>
+        <td>Acquirer</td>
+        <td>Stripe Payments Canada, Ltd.<br>
+        <a href="mailto:info@stripe.com">info@stripe.com</a><br>
+<a href="https://support.stripe.com/email/login">https://support.stripe.com/email/login</a></td>
+    </tr>
+    <tr>
+        <td>Cancellation of contract and any applicable penalties</td>
+        <td>You may terminate this Agreement by closing your Stripe account at any time by following the instructions on our website in your Account Profile. We may terminate this Agreement and close your Stripe account at any time for any reason effective upon providing you notice in accordance with this Agreement.  There are no penalties for termination.  However, termination does not alter your liability for processed payments or related chargebacks.</td>
+    </tr>
+    <tr>
+        <td>Complaint handling procedures</td>
+        <td>Merchant complaints should be submitted to Stripe Support.  Our complaint handling process is accessible at <a href="https://support.stripe.com">https://support.stripe.com</a>.</td>
+    </tr>
+    <tr>
+        <td>Transaction return policy</td>
+        <td>[[WHAT GOES HERE?]]</td>
+    </tr>
+    <tr>
+        <td>Code of Conduct</td>
+        <td>The Code of Conduct for the Credit and Debit Card Industry is available at the <a href="https://www.canada.ca/en/financial-consumer-agency.html">FCAC's website</a>.</td>
+    </tr>
+    <tr>
+        <td>Statements</td>
+        <td>Your transaction history will be available to you on your dashboard when you login to your Stripe account on our <a href="https://dashboard.stripe.com/login?redirect=https%3A%2F%2Fsupport.stripe.com%2F">website</a>.</td>
+    </tr>
+</table>
+
+<h4>Fee Disclosure Box</h4>
+
+<table>
+    <tr>
+        <th>Payment Card Type</th>
+        <th>Processing Method: Card-Not-Present
+This means that the card was not electronically read. Generally, the card information is manually key-entered (e.g. online payment).</th>
+    </tr>
+    <tr>
+        <td>Visa Classic</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>Visa Infinite</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>Visa Infinite Privilege </td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>Visa Business</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>Visa Prepaid</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>Visa Debit</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>Visa International Cards</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>MasterCard Classic</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>MasterCard World</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>MasterCard World Elite</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>MasterCard Business</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>MasterCard Debit</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>MasterCard Prepaid</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>MasterCard International Cards</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>American Express</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+    <tr>
+        <td>Successful charge presented in USD</td>
+        <td>2.9% + CA$0.30</td>
+    </tr>
+</table>
  
 ## Section A: General Terms {#section_a}
  
