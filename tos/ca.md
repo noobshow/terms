@@ -45,7 +45,7 @@ Schedule](https://stripe.com/{{country_code}}/pricing).
     </tr>
     <tr>
         <td>Transaction return policy</td>
-        <td>[[WHAT GOES HERE?]]</td>
+        <td>To learn more about how to issue refunds and fees assessed, please visit: <a href="https://support.stripe.com/questions/how-do-i-issue-refunds">https://support.stripe.com/questions/how-do-i-issue-refunds</a></td>
     </tr>
     <tr>
         <td>Code of Conduct</td>
@@ -59,13 +59,13 @@ Schedule](https://stripe.com/{{country_code}}/pricing).
 
 <h3>Fee Disclosure Box</h3>
 
+"Card-Not-Present" means that the card was not electronically 
+read. Generally, the card information is manually key-entered (e.g. online payment).
+
 <table class="alternate">
     <tr>
         <th>Payment Card Type</th>
-        <th>Processing Method: Card-Not-Present<br>
-This means that the card was not electronically<br>
-read. Generally, the card information<br>
-is manually key-entered (e.g. online payment).</th>
+        <th>Processing Method: Card-Not-Present<</th>
     </tr>
     <tr>
         <td>Visa Classic</td>
