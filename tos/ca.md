@@ -13,18 +13,18 @@ If you do not understand any of the terms of this Agreement, please [contact us]
 
 **You may not access or use any Services unless you agree to abide by all of the terms and conditions in this Agreement.**
 
-### Required Regulatory Disclosures
+## Required Regulatory Disclosures
 
 We are required by law to provide to you at the
-beginning of our agreement with you boxes that contain a summary of
+beginning of our agreement with boxes that contain a summary of
 certain information from the agreement and disclosure of our fees. This
 information is described in more detail in the body of the agreement and
 our fees are also set out in the [Fee
 Schedule](https://stripe.com/{{country_code}}/pricing).
 
-<h4>Information Summary Box</h4>
+<h3>Information Summary Box</h3>
 
-<table class="reference">
+<table class="alternate">
     <tr>
         <td>Date of Contract</td>
         <td>The Agreement is effective upon the date you agree to it (by electronically indicating acceptance) and continues so long as you use the Service or until terminated by Stripe.</td>
@@ -57,13 +57,15 @@ Schedule](https://stripe.com/{{country_code}}/pricing).
     </tr>
 </table>
 
-<h4>Fee Disclosure Box</h4>
+<h3>Fee Disclosure Box</h3>
 
-<table>
+<table class="alternate">
     <tr>
         <th>Payment Card Type</th>
-        <th>Processing Method: Card-Not-Present
-This means that the card was not electronically read. Generally, the card information is manually key-entered (e.g. online payment).</th>
+        <th>Processing Method: Card-Not-Present<br>
+This means that the card was not electronically<br>
+read. Generally, the card information<br>
+is manually key-entered (e.g. online payment).</th>
     </tr>
     <tr>
         <td>Visa Classic</td>
