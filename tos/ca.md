@@ -65,7 +65,7 @@ read. Generally, the card information is manually key-entered (e.g. online payme
 <table class="alternate">
     <thead>    
         <tr>
-            <th style="width:25%;">Payment Card Type</th>
+            <th>Payment Card Type</th>
             <th>Processing Method: Card-Not-Present</th>
         </tr>
     </thead>
