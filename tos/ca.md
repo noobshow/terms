@@ -63,74 +63,78 @@ Schedule](https://stripe.com/{{country_code}}/pricing).
 read. Generally, the card information is manually key-entered (e.g. online payment).
 
 <table class="alternate">
-    <tr>
-        <th>Payment Card Type</th>
-        <th>Processing Method: Card-Not-Present<</th>
-    </tr>
-    <tr>
-        <td>Visa Classic</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>Visa Infinite</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>Visa Infinite Privilege </td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>Visa Business</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>Visa Prepaid</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>Visa Debit</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>Visa International Cards</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>MasterCard Classic</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>MasterCard World</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>MasterCard World Elite</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>MasterCard Business</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>MasterCard Debit</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>MasterCard Prepaid</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>MasterCard International Cards</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>American Express</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
-    <tr>
-        <td>Successful charge presented in USD</td>
-        <td>2.9% + CA$0.30</td>
-    </tr>
+    <thead>    
+        <tr>
+            <th style="width:25%;">Payment Card Type</th>
+            <th>Processing Method: Card-Not-Present</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Visa Classic</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>Visa Infinite</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>Visa Infinite Privilege </td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>Visa Business</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>Visa Prepaid</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>Visa Debit</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>Visa International Cards</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>MasterCard Classic</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>MasterCard World</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>MasterCard World Elite</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>MasterCard Business</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>MasterCard Debit</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>MasterCard Prepaid</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>MasterCard International Cards</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>American Express</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+        <tr>
+            <td>Successful charge presented in USD</td>
+            <td>2.9% + CA$0.30</td>
+        </tr>
+    </tbody>
 </table>
  
 ## Section A: General Terms {#section_a}
