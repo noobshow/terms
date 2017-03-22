@@ -1,6 +1,6 @@
 <header id="stripe_services_agmt">
 # Stripe Services Agreement &mdash; {{country_name}}
-Last Updated: April 1, 2016
+Last Updated: April 1, 2017
 </header>
 
 <section>
@@ -61,9 +61,9 @@ Stripe provides Services to you but we have no way of knowing if any particular 
 
 ### 4. Fees and Fines
 
-Stripe will provide the Services to you at the rates and for the fees ("Fees") described in the [Fee Schedule](https://stripe.com/{{country_code}}/pricing), linked here and incorporated into this Agreement. The Fees include charges for Transactions (such as processing a payment) and for other events connected with your Stripe Account (such as handling a disputed charge). We may revise the Fees at any time. However, we will provide you with at least upon 30 days’ advance notice before revisions become applicable to you (or a longer period of notice if this is required by applicable Law).
+Stripe will provide the Services to you at the rates and for the fees ("Fees") described in the [Fee Schedule](https://stripe.com/{{country_code}}/pricing), linked here and incorporated into this Agreement. The Fees include charges for Transactions (such as processing a payment) and for other events connected with your Stripe Account (such as handling a disputed charge). We may revise the Fees at any time. However, we will provide you with at least 30 days’ advance notice before revisions become applicable to you (or a longer period of notice if this is required by applicable Law).
 
-We may charge additional Fees for cross-border transactions and foreign exchange services. In addition to the Fees, you are also responsible for any penalties or fines imposed on you or Stripe by Stripe, Stripe Affiliates, any bank, money services business, payment network, financial institution or other financial intermediary (each a "Financial Services Provider") resulting from your use of Payment Services in a manner not permitted by this Agreement or a Financial Services Provider's rules and regulations.  
+We may charge additional Fees for cross-border transactions and foreign exchange services. In addition to the Fees, you are also responsible for any penalties or fines imposed in relation to your Stripe Account by Stripe, Stripe Affiliates, any bank, money services business, payment network, financial institution or other financial intermediary (each a "Financial Services Provider") resulting from your use of Payment Services in a manner not permitted by this Agreement or a Financial Services Provider's rules and regulations.  
 
 You request a complete blending of Fees for payment card processing for all merchant services charges (MSC) for all payment card brands and categories irrespective of the underlying differences in interchange fees. If you do not understand the Fee Schedule or you have a question about Fees, or wish to receive unblended rates for payment card processing, please [contact us](https://stripe.com/help/contact).
 
@@ -101,7 +101,7 @@ We may refuse, condition, or suspend any Transactions that we believe (i) may vi
 
 **b. Methods of Delivery:** You agree that Stripe can provide Notices regarding the Services to you through our website or through the Dashboard (as defined below), or by mailing Notices to the email or physical addresses identified in your Stripe Account. Notices may include notifications about your Stripe Account, changes to the Services, or other information we are required to provide to you. You also agree that electronic delivery of a Notice has the same legal effect as if we provided you with a physical copy. We will consider a Notice to have been received by you within 24 hours of the time a Notice is either posted to our website or emailed to you.
 
-**c. SMS and Text Messages:** You authorise us to provide Notices to you via text message to allow us to verify your or your Representative's control over your Stripe Account (such as through two-step verification), and to provide you with other critical information about your Stripe Account. Standard text or data charges may apply to such Notices. Where offered, you may disable text message notifications in the Dashboard by responding to any such message with "STOP", or by following instructions provided in the message. However, by disabling text messaging, you may be disabling important Security Controls.
+**c. SMS and Text Messages:** You authorise us to provide Notices to you via text message to allow us to verify your or your Representative's control over your Stripe Account (such as through two-step verification), and to provide you with other critical information about your Stripe Account. Standard text or data charges may apply to such Notices. Where offered, you may disable text message notifications in the Dashboard by responding to any such message with "STOP", or by following instructions provided in the message. However, by disabling text messaging, you may be disabling important Security Controls on your Stripe Account and may increase the risk of loss to your business.
 
 **d. Requirements for Delivery:** It should come as no surprise to you that you will need a computer or mobile device, Internet connectivity, and an updated browser to access your Dashboard and review the Notices provided to you. If you are having problems viewing or accessing any Notices, please [contact us](https://stripe.com/help/contact) and we can find another means of delivery.
 
@@ -173,23 +173,25 @@ We may also provide you access to services identified as "beta" or pre-release s
 
 Stripe provides you Payment Services directly or through various Financial Services Providers. Payment Services allow you to accept payment from your Customers for Transactions. We may limit or refuse to process Charges (as defined below) for any Prohibited Businesses, or for Charges submitted in violation of this Agreement. To use the Payment Services, you must also accept separate agreements with the Financial Services Providers as described in Section 5. 
 
+Some of the Payment Services offered by Stripe are services that may only be provided by an authorised payment services provider or electronic money institution ("Authorised Payment Services"). To the extent that you acquire Authorised Payment Services, the services will be provided by Stripe Payments UK, Ltd., and the [Authorised Payment Services](https://stripe.com/spukl/legal) terms will apply.
+
 The following terms used in this section relate to your use of Payment Services:
 
 "Charge" means a credit or debit instruction to capture funds from an account that a Customer maintains with a bank or other financial institution in connection with a Transaction.
 
-"Refund" means an instruction initiated by you to return funds to a Customer for an existing Charge.
-
 "Dispute" means an instruction initiated by a Customer with a Financial Services Provider or us to return funds for an existing Charge (including a chargeback on a payment card network; or dispute on a debit network).
-
-"Reversal" means an instruction initiated by a Financial Services Provider or us to return funds for an existing Charge. Reversals may result from (i) invalidation of a charge by a Financial Services Provider; (ii) funds settled to you in error or without authorisation; and (iii) submission of a Charge in violation of Network Rules, or where submission of the Charge or your use of Payment Services violates this Agreement.
-
-"Return" means an instruction initiated by you, a Customer, or a Financial Services Provider to return funds unrelated to an existing Charge.
-
-"Transfer" means an instruction to credit funds to or debit funds from an account you designate with a Financial Services Provider.
 
 "Fine" means any fines, levies, or other charges imposed by us or a Financial Services Provider caused by your violation of Laws or this Agreement, or as permitted by Network Rules.
 
 "Network Rules" means the guidelines, bylaws, rules, and regulations imposed by the Financial Services Providers and payment method providers that operate payment methods and networks supported by Stripe (including the payment card network operating rules for Visa, MasterCard, or the American Express networks; and the BACS, CHAPs, and SEPA operating rules).
+
+"Refund" means an instruction initiated by you to return funds to a Customer for an existing Charge.
+
+"Return" means an instruction initiated by you, a Customer, or a Financial Services Provider to return funds unrelated to an existing Charge.
+
+"Reversal" means an instruction initiated by a Financial Services Provider or us to return funds for an existing Charge. Reversals may result from (i) invalidation of a charge by a Financial Services Provider; (ii) funds settled to you in error or without authorisation; and (iii) submission of a Charge in violation of Network Rules, or where submission of the Charge or your use of Payment Services violates this Agreement.
+
+"Transfer" means an instruction to credit funds to or debit funds from an account you designate with a Financial Services Provider.
 
 ### 2. Registering for Use of Payment Services
 
@@ -199,7 +201,7 @@ Stripe is not a bank and we do not accept deposits, provide loans or extend cred
 
 ### 3. Processing Transactions, Disputes, Refunds, Reversals
 
-You may only submit Charges through the Payment Services that are authorised by your Customers. To enable us to process Transactions for you, you authorise and direct Financial Services Providers to receive and pay any funds owed to you through the Payment Services, and you will appoint Stripe as your agent for purposes of providing the Payment Services to you. We will promptly update your Stripe Account balance to reflect any Transaction proceeds that we receive on your behalf. 
+You may only submit Charges through the Payment Services that are authorised by your Customers. To enable us to process Transactions for you, you authorise and direct Financial Services Providers to receive and pay any funds owed to you through the Payment Services, and you appoint Stripe as your agent for the purpose of facilitating your receipt of the Payment Services. We will promptly update your Stripe Account balance to reflect any Transaction proceeds that we receive on your behalf. 
 
 Except where Stripe and a Customer have otherwise agreed, you maintain the direct relationship with your Customers and are responsible for: (i) acquiring appropriate consent to submit Charges through the Payment Services on their behalf; (ii) providing confirmation or receipts to Customers for each Charge; (iii) verifying Customers' identities; and (iv) determining a Customer's eligibility and authority to complete Transactions. However, even authorised Transactions may be subject to a Dispute. Stripe is not responsible for or liable to you for authorised and completed Charges that are later the subject of a Dispute, Refund, or Reversal, are submitted without authorisation or in error, or violate any Laws.
 
@@ -228,8 +230,6 @@ We may add or remove Financial Services Providers or payment methods at any time
 
 You authorise us to instruct Financial Services Providers to hold, receive, and disburse funds on your behalf; and to instruct such Financial Services Providers as to how and when funds are transferred to you. You also authorise us to designate which Financial Services Providers may hold settlement funds, on deposit and in trust, pending transfer of funds to you in accordance with the terms of this Agreement. A clearing account through which funds are settled will be maintained by a Financial Services Provider, and transfers to you from this account will be a full and final payment by the Financial Services Provider to you.
 
-Some of the Payment Services offered by Stripe are services that may only be provided by an authorised payment services provider or electronic money institution ("Authorised Payment Services"). To the extent that you acquire Authorised Payment Services, the services will be provided by Stripe Payments UK, Ltd., and the [Authorised Payment Services](https://stripe.com/spukl/legal) terms will apply.
-
 ### 6. Specific Payment Methods
 
 When accepting payment card payments, you must comply with all Network Rules applicable to merchants, including the Network Rules provided by [Visa](http://usa.visa.com/merchants/operations/op_regulations.html), [MasterCard](http://www.mastercard.com/us/merchant/support/rules.html), and [American Express](https://www.americanexpress.com/uk/content/merchant/downloads.html?inav=gb_business_merch_support_dwnld).
@@ -247,6 +247,8 @@ If you misuse the Payment Services for payment card transactions or engage in ac
 ### 7. Transfers and Payout Schedule
 
 **a. Transfers For Your Payout Account:** Transfers may be initiated by you to or from your Stripe Account to or from the account with a Financial Services Provider that you designate in the Dashboard (the "Payout Account"). A Positive balance in your Stripe Account will result in a Transfer to your Payout Account and negative balance in your Stripe Account will result in a Transfer from your Payout Account. All Transfers to your Payout Account will exclude Fees, Fines, and amounts owed to us for any reason. You affirm that you are authorised to initiate Transfers to and from the Payout Account.
+
+We may offer you the ability to have funds settled to your Payout Account in a currency different from the one in which you accepted payment from a customer (“Multi-Currency Processing”). To use this service, you must provide us with a valid Payout Account for each currency for which you request settlement, based on our list of available settlement currencies. We may add or remove currencies from our list of available settlement currencies at any time. If you use Multi-Currency Processing, we will identify at the time of charge (for example, through the API), the conversion rate that will apply to the charge. If you refund a charge, the conversion rate that will apply will be the rate in effect at the time of the refund, not the charge.  By submitting a charge or refund for processing you will be deemed to have accepted the rate. You may choose not to use the Multi-Currency Processing service at any time. You may also change the Payout Account information or other settings associated with your use of Multi-Currency Processing, but any such changes will only affect subsequent charges.
 
 The term "Payout Schedule" refers to the time it takes for us to initiate a Transfer to your Payout Account. Your Payout Schedule is specified in the Dashboard. Stripe may require a holding period before making an initial Transfer to the Payout Account. After the initial Transfer, we will credit funds to the Payout Account according to the Payout Schedule; however, please be aware that Financial Services Providers, including the institution holding the Payout Account, may delay Transfers for any reason. We are not responsible for any action taken by the institution holding the Payout Account to not credit the Payout Account or to otherwise not make funds available to you as you expected.
 
