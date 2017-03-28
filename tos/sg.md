@@ -104,7 +104,7 @@ We may refuse, condition, or suspend any Transactions that we believe: (i) may v
  
 **e. Withdrawing Consent:** Due to the nature of the Services, you will not be able to begin using the Services without agreeing to electronic delivery of Notices. However, you may choose to withdraw your consent to receive Notices electronically by terminating your Stripe Account.
  
-###10. Termination {#termination}
+### 10. Termination {#termination}
  
 **a. Term and Termination:** This Agreement is effective upon the date you first access or use the Services and continues until terminated by you or Stripe. You may terminate this Agreement by closing your Stripe Account at any time by opening [the data tab in your account settings](https://dashboard.stripe.com/login?redirect=%2Faccount%2Fdata), selecting "close my account" and ceasing to use the Service. If you use the Services again or register for another Stripe Account, you are consenting to this Agreement. We may terminate this Agreement or close your Stripe Account at any time for any reason by providing you Notice. We may suspend your Stripe Account and your ability to access funds in your Stripe Account, or terminate this Agreement, if (i) we determine in our sole discretion that you are ineligible for the Services because of significant fraud or credit risk, or any other risks associated with your Stripe Account; (ii) you use the Services in a prohibited manner or otherwise do not comply with any of the provisions of this Agreement; or (iii) any Law or Financial Services Provider requires us to do so.
  
