@@ -73,7 +73,7 @@ Stripe has a variety of obligations to retain the data that you provide us, both
 </p>
 <h2 id="5">5. Marketing and cookies opt-out</h2>
 <p>
-We may occasionally email you with information about offers or new services. If you do not wish to receive this marketing material then please email support@stripe.com. You can also opt out of these email communications by replying with unsubscribe in the subject line, or via an unsubscribe link included in such communications. However, you will continue to receive certain email communications related to your account and your relationship with Stripe.
+We may occasionally email you with information about offers or new services. If you do not wish to receive this marketing material then please email [support@stripe.com](mailto:support@stripe.com). You can also opt out of these email communications by replying with unsubscribe in the subject line, or via an unsubscribe link included in such communications. However, you will continue to receive certain email communications related to your account and your relationship with Stripe.
 </p>
 <p>
 If you wish to opt out of having cookies set on your browser (as described above in Section 3), the only way to ensure that this happens is to manage the settings on your web browser to delete all cookies and disallow further acceptance of cookies. Some aspects of our service may not work properly if you do so. You may also consider visiting aboutcookies.org, which provides helpful information about cookies.
