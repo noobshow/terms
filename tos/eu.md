@@ -3,7 +3,7 @@
 Last Updated: April 4, 2017
 </header>
 
-<article>
+<section>
 
 Welcome to Stripe.
 
@@ -424,4 +424,4 @@ This Agreement and all policies and procedures that are incorporated by referenc
 
 All provisions of this Agreement that give rise to a party's ongoing obligation will survive termination of this Agreement, including but not limited to Sections A.3 ("Your Relationship with Your Customers"), A.6 ("Taxes and Other Expenses"), A.7 ("Service Limitations, Prohibited Activities, and Security Controls"), A.8 ("Suspicion of Unauthorised or Illegal Use"), A.9 ("Disclosures and Notices; Electronic Signature Consent"), A.10.b ("Effects of Termination"), B.2 ("Ownership of Stripe IP"), C.6 ("Specific Payment Methods"), C.7 ("Transfers and Payout Schedule"), C.8 ("Clearing Funds and Reserves"), C.9 ("Security Interests, Collection, and Set-Off Rights"), C.10 ("Reconciliation and Error Notification"), C.11 ("Dormant Accounts"), D.3 ("Security and Fraud Controls"), D.4 ("Your Use of Data with Stripe Connect and Stripe Relay"), D.5 ("Transfer of Payment Data upon Termination"), E.4 ("No Agency; Third-Party Services"), E.5 ("Force Majeure"), E.6 ("Your Liability for Third-Party Claims Against Us"), E.7 ("Representations and Warranties"), E.8 ("No Warranties"), E.9 ("Limitation of Liability"), E.10 ("Responding to Legal Process"), E.11 ("Dispute Resolution; Agreement to Arbitrate"), E.12 ("Entire Agreement"), and E.13 ("Survival"); and any related terms in the Agreement.
 
-</article>
+</section>
