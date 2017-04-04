@@ -16,7 +16,7 @@ You acknowledge that this authority will remain in full force and effect in resp
 
 **Inquiries, Errors, and Disputes**
 
-If you believe there has been an error in debiting your account, you should notify Stripe at support@stripe.com. If there has been an error, Stripe will arrange with your bank to adjust your account and Stripe will notify you of the amount of the adjustment. If Stripe does not find an error, it will respond to your query with evidence of the correctness of the transfer.
+If you believe there has been an error in debiting your account, you should notify Stripe at [support@stripe.com](mailto:support@stripe.com). If there has been an error, Stripe will arrange with your bank to adjust your account and Stripe will notify you of the amount of the adjustment. If Stripe does not find an error, it will respond to your query with evidence of the correctness of the transfer.
 
 **Your bank**
 

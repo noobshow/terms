@@ -32,7 +32,7 @@ We can terminate this Agreement for any reason or at any time (especially if you
 
 These Terms and Conditions constitute a legal agreement ("Agreement") between the sole proprietor or business entity or business organization listed as the "Merchant" on the Service registration page (sometimes referred to as "you," "your", "user"), and Stripe Payments Europe, Limited ("Stripe"), which includes certain affiliates, where applicable (sometimes referred to as "we," "our" or "us"). You may request a copy of this Agreement, and the other terms or documents incorporated in it by reference, at any time during the term of this Agreement.
 
-Stripe's merchant support email address is support@stripe.com.
+Stripe's merchant support email address is [support@stripe.com](mailto:support@stripe.com).
 
 <h2 id="section_a">Section A: Stripe Services</h2>
 
@@ -59,7 +59,7 @@ The Service supports most issued cards with a Card Network logo including credit
 
 Stripe will provide you with merchant support to help resolve any issues relating to your use of Stripe, your card payment processing and use of our software, and the distribution of funds to your specified bank settlement account. You, and you alone, are responsible for providing service to your customers for any and all issues related to your products and services, including but not limited to issues arising from the processing of customers' cards through the Service.
 
-Stripe's merchant support email address is support@stripe.com.
+Stripe's merchant support email address is [support@stripe.com](mailto:support@stripe.com).
 
 ### 6. Taxes
 

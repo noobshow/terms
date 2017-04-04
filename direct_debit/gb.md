@@ -34,7 +34,7 @@ If you receive a refund you are not entitled to, you must pay it back when Strip
 
 ### 4. Inquiries, Errors, and Disputes
 
-If you believe there has been an error in debiting your account, you should [notify us](support@stripe.com). You can also notify your own Bank.
+If you believe there has been an error in debiting your account, you should [notify us](mailto:support@stripe.com). You can also notify your own Bank.
 
 If there has been an error, we'll arrange with your bank to adjust your account and we'll notify you of the amount of the adjustment.
 
