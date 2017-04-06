@@ -108,7 +108,7 @@ You may use the Stripe Atlas Service for the purposes described in this Agreemen
 
 ### 8. Limitations of Liability
 
-We are not responsible for and disclaim all liability for your, your employees’, and your agents’: (i) acts or omissions in providing products or services to your customers, or accurately describing such products or services, (ii) compliance or failure to comply with applicable Laws and obligations related to your business, and (iii) providing customer service, notifications, or receipts, handling refunds or consumer complaints, or taking other actions related to your business.
+**We are not responsible for and disclaim all liability for your, your employees’, and your agents’: (i) acts or omissions in providing products or services to your customers, or accurately describing such products or services, (ii) compliance or failure to comply with applicable Laws and obligations related to your business, and (iii) providing customer service, notifications, or receipts, handling refunds or consumer complaints, or taking other actions related to your business.**
 
 **In no event will any Indemnitee be liable for any lost profits or any indirect, punitive, incidental, special, consequential, or exemplary damages arising out of, or in connection with, or relating to this Agreement, the Stripe Atlas Service, or any other Service, including without limitation the use of, inability to use, or unavailability of Services.  Under no circumstances will any Indemnitee be responsible for any damage, loss, or injury resulting from hacking, tampering, or other unauthorized access or use of the Stripe Atlas Service, other Services, your Stripe account, or information that you provide.** 
 
