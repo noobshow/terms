@@ -7,7 +7,7 @@ Last Updated: April 5, 2017.
 
 Stripe Atlas is a program designed to support global entrepreneurs by facilitating access to the building blocks of a global Internet or e-commerce business, including: (i) creation of a U.S. business entity by Rocket Lawyer Incorporated ("Rocket Lawyer") or another business formation partner as we may designate from time to time ("Incorporation Service"), (ii) establishment of a U.S. bank account ("Deposit Account") with Silicon Valley Bank or another bank that you may designate from time to time (the "Bank"), (iii) payment processing services provided through Stripe, Inc. ("Stripe"), (iv) access to U.S. tax and legal information from partners including PricewaterhouseCoopers ("PwC"), Orrick, Herrington & Sutcliffe LLP ("Orrick") and any other tax and legal partners that we may designate from time to time ("Tax Partners" and "Legal Partners"), and (v) other services and tools as the program's network of partners and collaborators grows over time. 
 
-# Stripe Atlas Agreement
+## General terms
 
 This Stripe Atlas Agreement ("Agreement") is a contract between the legal entity formed pursuant to your participation in Stripe Atlas ("Legal Entity"), as well as the founder and/or promoter of such entity in his or her individual capacity ("Founder")(Collectively, Founder and Legal Entity are referred to as "you", "your", or "user"), Stripe, and Stripe GEP, Inc. ("SGEP"). Collectively Stripe and SGEP are referred to as "we", "our", or "us".  
 
