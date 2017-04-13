@@ -12,6 +12,7 @@ This Stripe Services Agreement ("Agreement") is a legal agreement between Stripe
 If you do not understand any of the terms of this Agreement, please [contact us](/contact) before using the Services.
  
 **You may not access or use any Services unless you agree to abide by all of the terms and conditions in this Agreement.**
+
 ## Section A: General Terms {#section_a}
  
 ### 1. Overview of this Agreement
