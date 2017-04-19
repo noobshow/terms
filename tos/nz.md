@@ -1,6 +1,6 @@
 <header id=”stripe_services_agmt”>
 # Stripe Services Agreement &mdash; {{country_name}}
-Last Updated: April 17, 2017.
+Last Updated: April 19, 2017.
 </header>
  
 <article>
@@ -272,7 +272,6 @@ To the extent possible, we prefer to identify the necessity for a Reserve in adv
 **b. Collection and Set-Off Rights:** You agree to pay all amounts owed to us and to our affiliates on demand. Where possible, we will first attempt to collect or set-off balances in your Stripe Accounts from your use of the Payment Services or from funds that we hold in Reserve. However, we may collect any obligations you owe us under this Agreement from any Payout Account associated with your Stripe Account or any commonly-owned Stripe Account by deducting or setting-off the corresponding amounts from the funds owed to you through your use of the Payment Services, or through a direct debit from any Payout Account identified in your Stripe Account or a commonly-owned Stripe Account. Your failure to pay amounts owed to us or to our affiliates under this Agreement is a breach and you will be liable for any costs we incur during collection in addition to the amount you owe. Collection costs may include, attorneys’ fees and expenses, costs of any arbitration or court proceeding, collection agency fees, any applicable interest, and any other related cost.
  
 In certain circumstances, we may require a personal, parent or other guarantee (a "Guarantee") from a user’s principal, owner, or other guarantor. A Guarantee consists of a legally binding promise by an individual or an entity to pay any amounts the user owes in the event that the user is unable to pay. If we require you to provide us with a Guarantee, we will specifically inform you of the amount of, and the reasons for the Guarantee. If you are unable to provide such a Guarantee when required, you will not be permitted to use the Services.
-
 
 ### 10. Reconciliation and Error Notification
  
