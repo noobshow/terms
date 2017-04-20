@@ -121,11 +121,11 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
 <tr>
 <td>Google</td>
 <td>Used for analytics and service improvement</td>
-<td>tools.google.com/dlpage/gaoptout </td>
+<td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
 </tr><tr>
 <td>Mixpanel</td>
 <td>Used for analytics and service improvement</td>
-<td>mixpanel.com/optout</td>
+<td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
 </table>
 
 </section>
