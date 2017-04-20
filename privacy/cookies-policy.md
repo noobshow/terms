@@ -4,6 +4,7 @@ Last updated: April 20, 2017
 </header>
 
 <section>
+
 Cookies are small text files that are stored in a computer’s web browser memory. They help website providers with things like understanding how people use a website, remembering a User’s login details, and storing website preferences. This page explains how we use cookies and other similar technologies to help us ensure that our Services function properly, prevent fraud and other harm, and analyze and improve the Services in accordance with our [Privacy Policy](https://stripe.com/privacy).  Any capitalized term used and not otherwise defined below has the meaning assigned to it in the Privacy Policy.
 
 ### 1. How We Use Cookies. 
@@ -39,12 +40,12 @@ Your web browser may allow You to change Your cookie preferences, including to d
 * Opera: http://www.opera.com/help/tutorials/security/cookies/
 
 
-
-
-4. Cookie Table
+### 4. Cookie Table
 
 Cookies that we commonly use are listed below. This list is not exhaustive, but describes the main reasons we typically set cookies. 
-Stripe cookies
+
+#### Stripe cookies
+
 Cookie Name
 Purpose
 Persistent or session 
@@ -84,7 +85,9 @@ checkout-test-session, checkout-dashboard-session
 Associates a device with a "Remember Me" Checkout account
 Persistent 
 
-Third party cookies
+#### Third party cookies
+
+<table>
 Cookie Name
 Purpose
 Opt out link
@@ -94,9 +97,6 @@ tools.google.com/dlpage/gaoptout
 Mixpanel
 Used for analytics and service improvement
 mixpanel.com/optout
-
-
-
-
+</table>
 
 </section>
