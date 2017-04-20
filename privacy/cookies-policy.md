@@ -113,15 +113,19 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
 #### Third party cookies
 
 <table>
-Cookie Name
-Purpose
-Opt out link
-Google
-Used for analytics and service improvement
-tools.google.com/dlpage/gaoptout 
-Mixpanel
-Used for analytics and service improvement
-mixpanel.com/optout
+<tr>
+<th>Cookie Name</th>
+<th>Purpose</th>
+<th>Opt out link</th>
+</tr>
+<tr>
+<td>Google</td>
+<td>Used for analytics and service improvement</td>
+<td>tools.google.com/dlpage/gaoptout </td>
+</tr><tr>
+<td>Mixpanel</td>
+<td>Used for analytics and service improvement</td>
+<td>mixpanel.com/optout</td>
 </table>
 
 </section>
