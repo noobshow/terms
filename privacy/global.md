@@ -4,6 +4,7 @@ Last updated: April 20, 2017
 </header>
 
 <section>
+
 ### Welcome to Stripe!
 
 Privacy and online safety are important to Stripe. We offer a software platform and services for helping run an internet business. We collect data about businesses and their customers ("**Data**") when they use the platform, the services, and our websites (collectively, "**Services**"). This privacy policy describes how we collect, use and disclose Data. 
@@ -20,37 +21,33 @@ The collection and use of data from a variety of sources is essential to our abi
 
 **a. Personal Data.** We call Data that identifies, or that could reasonably be used to identify, You as an individual **"Personal Data"**. We collect Personal Data in different ways. For example, we collect Personal Data when a business registers for a Stripe account, a Customer makes payments or conducts transactions through a User’s website or application, a person responds to Stripe emails or surveys, or when a Customer uses the “Remember Me” feature of Stripe Checkout. We also receive Personal Data from other sources, such as our partners, financial service providers, identity verification services, and publicly available sources. Personal Data does not include Data that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.  The Personal Data that we may collect includes:
 
-<ul>
-<li>**Contact details**, such as name, postal address, telephone number, email address;
-<li>**Financial and transaction Data**, such as credit or debit card number, and bank account information; and
-<li>**Other Personal Data**, such as date of birth, SSN or EIN.
-</ul>
+
+* **Contact details**, such as name, postal address, telephone number, email address;
+* **Financial and transaction Data**, such as credit or debit card number, and bank account information; and
+* **Other Personal Data**, such as date of birth, SSN or EIN.
+
 
 **b. Other Data.** We call Data other than Personal Data **"Other Data"**. We collect Other Data through a variety of sources. One of our sources for Other Data is cookies and other technologies that record Data about the use of our websites, websites that implement our Services, and the use of our Services generally. Other Data that we may collect include: 
 
-<ul>
-<li>**Browser and device data**, such as IP address, device type, operating system and Internet browser type, screen resolution, operating system name and version, device manufacturer and model, language, plug-ins, add-ons and the version of the Services You are using;
-<li>**Transaction data**, such as purchases, purchase amount, date of purchase, and payment method; 
-<li>**Cookie and tracking technology data**, such as time spent on the Services, pages visited, language preferences, and other anonymous traffic data; and
-<li>Company data, such as a company’s legal structure, product and service offerings, jurisdiction, company records, and information submitted through the [Stripe Atlas](https://stripe.com/atlas) service.
-<ul>
+* **Browser and device data**, such as IP address, device type, operating system and Internet browser type, screen resolution, operating system name and version, device manufacturer and model, language, plug-ins, add-ons and the version of the Services You are using;
+* **Transaction data**, such as purchases, purchase amount, date of purchase, and payment method; 
+* **Cookie and tracking technology data**, such as time spent on the Services, pages visited, language preferences, and other anonymous traffic data; and
+* **Company data**, such as a company’s legal structure, product and service offerings, jurisdiction, company records, and information submitted through the [Stripe Atlas](https://stripe.com/atlas) service.
 
 ### 3. How We Use Data
 
 **a. Personal Data.** We and our service providers use Personal Data to: (i) provide the Services; (ii) detect and prevent fraud; (iii) mitigate financial loss or other harm to Users, Customers, and Stripe; and (iv) promote, analyze and improve our products, systems, and tools. Examples of how we may use Personal Data include: 
 
-<ul>
-<li>To verify an identity for compliance purposes;
-<li>To evaluate an application to use our Services;
-<li>To conduct manual or systematic monitoring for fraud and other harmful activity;
-<li>To respond to inquiries, send service notices and provide customer support;
-<li>To process a payment with Stripe Checkout, communicate regarding a payment, and provide related customer service;
-<li>For audits, regulatory purposes, and compliance with industry standards;
-<li>To develop new products;
-<li>To send marketing communications;
-<li>To improve or modify our Services; and
-<li>To conduct aggregate analysis and develop business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of, our business. 
-</ul>
+* To verify an identity for compliance purposes;
+* To evaluate an application to use our Services;
+* To conduct manual or systematic monitoring for fraud and other harmful activity;
+* To respond to inquiries, send service notices and provide customer support;
+* To process a payment with Stripe Checkout, communicate regarding a payment, and provide related customer service;
+* For audits, regulatory purposes, and compliance with industry standards;
+* To develop new products;
+* To send marketing communications;
+* To improve or modify our Services; and
+* To conduct aggregate analysis and develop business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of, our business. 
 
 **b. Other Data.** We may use Other Data for a range of different purposes, provided we comply with applicable law and our contractual commitments. In some countries (for example, European Economic Area countries), local legal regimes may require us to treat some or all of Other Data as “personal data” under applicable data protection laws. Where this is the case, we will process Other Data only for the same purposes as Personal Data under this privacy policy. 
 
