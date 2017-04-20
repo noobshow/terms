@@ -1,6 +1,7 @@
 <header>
 <h1>Cookies and Similar Technologies</h1>
 Last updated: April 20, 2017
+
 </header>
 
 <section>
@@ -46,44 +47,68 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
 
 #### Stripe cookies
 
-Cookie Name
-Purpose
-Persistent or session 
-accounts
-Lists User accounts 
-Persistent
-livemode
-Determines dashboard User mode
-Session 
-stripe.csrf
-Prevents cross site request forgery
-Session
-session
-Provides a unique session identifier for dashboard Users
-Persistent
-machine_identifier
-Provides a unique session identifier for authentication
-
-
-Persistent 
-viewedApplePay
-Retains ApplePay settings
-Persistent 
-country
-Sets a country code as determined by IP address
-Persistent 
-lang
-Sets a language code
-Persistent 
-last-used-checkout-name
-Customizes content for Checkout Users
-Session
-cid
-Sets a value to track User metrics
-Persistent
-checkout-test-session, checkout-dashboard-session
-Associates a device with a "Remember Me" Checkout account
-Persistent 
+<table>
+ <tr>
+    <th>Cookie Name</th>
+    <th>Purpose</th> 
+    <th>Persistent or session </th>
+  </tr>
+  <tr>
+    <td>accounts</td>
+    <td>Lists User accounts</td> 
+    <td>Persistent</td>
+  </tr>
+  <tr>
+    <td>livemode</td>
+    <td>Determines dashboard User mode</td>
+    <td>Session </td>
+  </tr>
+  <tr>
+    <td>stripe.csrf</td>
+    <td>Prevents cross site request forgery</td>
+    <td>Session</td>
+    </tr>
+  <tr>
+    <td>session</td>
+    <td>Provides a unique session identifier for dashboard Users</td>
+    <td>Persistent</td>
+    </tr>
+  <tr>
+    <td>machine_identifier</td>
+    <td>Provides a unique session identifier for authentication</td>
+    <td>Persistent </td>
+    </tr>
+    <tr>
+<td>viewedApplePay</td>
+<td>Retains ApplePay settings</td>
+<td>Persistent </td>
+    </tr>
+  <tr>
+<td>country</td>
+<td>Sets a country code as determined by IP address</td>
+<td>Persistent </td>
+    </tr>
+  <tr>
+<td>lang</td>
+<td>Sets a language code</td>
+<td>Persistent </td>
+    </tr>
+  <tr>
+<td>last-used-checkout-name</td>
+<td>Customizes content for Checkout Users</td>
+<td>Session</td>
+    </tr>
+  <tr>
+<td>cid</td>
+<td>Sets a value to track User metrics</td>
+<td>Persistent</td>
+    </tr>
+  <tr>
+<td>checkout-test-session, checkout-dashboard-session</td>
+<td>Associates a device with a "Remember Me" Checkout account</td>
+<td>Persistent </td>
+</tr>
+</table>
 
 #### Third party cookies
 
