@@ -1,51 +1,62 @@
-
+<header>
 <h1>Privacy Policy – Worldwide</h1>
-Last updated: [__]
+Last updated: April 20, 2017
+</header>
 
-Welcome to Stripe!
+<section>
+### Welcome to Stripe!
 
-Privacy and online safety are important to Stripe. We offer a software platform and services for helping      run an internet business. We collect data about businesses and their customers (“Data”) when they use the platform, the services, and our websites (collectively, “Services”). This privacy policy describes how we collect, use and disclose Data. 
+Privacy and online safety are important to Stripe. We offer a software platform and services for helping run an internet business. We collect data about businesses and their customers ("**Data**") when they use the platform, the services, and our websites (collectively, "**Services**"). This privacy policy describes how we collect, use and disclose Data. 
 
-In this privacy policy, we sometimes refer to “You”. “You” may be a visitor to one of our websites, a user of one or more of our Services (“User”), or a customer of a User (“Customer”). We’ll do our best to clarify who we are referring to at various points in the policy. This policy does not apply to third-party websites, products, or services even if they link to our Services, and You should consider the privacy practices of those third-parties carefully. If You disagree with the practices described in this policy, You should (a) take the necessary steps to remove cookies from Your computer after leaving our website, and (b) discontinue Your use of our Services. Finally, we have also put together a Cookie Policy that describes in detail how we use cookies and similar technologies.
+In this privacy policy, we sometimes refer to "You". “**You**” may be a visitor to one of our websites, a user of one or more of our Services (**"User"**), or a customer of a User (**"Customer"**). We’ll do our best to clarify who we are referring to at various points in the policy. This policy does not apply to third-party websites, products, or services even if they link to our Services, and You should consider the privacy practices of those third-parties carefully. If You disagree with the practices described in this policy, You should (a) take the necessary steps to remove cookies from Your computer after leaving our website, and (b) discontinue Your use of our Services. Finally, we have also put together a [Cookie Policy](https://stripe.com/cookies-policy) that describes in detail how we use cookies and similar technologies.
 
-Overview
+### 1. Overview
 
-The Data we collect depends on how our Services are used. Sometimes we receive Data directly, such as when a Stripe account is created, test transactions are submitted through our website, the Stripe Checkout form is used, or we receive an email. Other times, we get Data by recording interactions with our Services by, for example, using technologies like cookies and web beacons. We also get Data from third parties, like our financial partners or identity verification services. 
+The Data we collect depends on how our Services are used. Sometimes we receive Data directly, such as when a Stripe account is created, test transactions are submitted through our website, the [Stripe Checkout](https://stripe.com/checkout) form is used, or we receive an email. Other times, we get Data by recording interactions with our Services by, for example, using technologies like cookies and web beacons. We also get Data from third parties, like our financial partners or identity verification services. 
 
 The collection and use of data from a variety of sources is essential to our ability to provide our Services -- and to help keep the Services safe. Data is critical in helping us to increase the safety of Your online payments, and reduce the risk of fraud, money laundering and other harmful activity.
 
-Data We Collect
+### 2. Data We Collect
 
-Personal Data. We call Data that identifies, or that could reasonably be used to identify, You as an individual “Personal Data”. We collect Personal Data in different ways. For example, we collect Personal Data when a business registers for a Stripe account, a Customer makes payments or conducts transactions through a User’s website or application, a person responds to Stripe emails or surveys, or when a Customer uses the “Remember Me” feature of Stripe Checkout. We also receive Personal Data from other sources, such as our partners, financial service providers, identity verification services, and publicly available sources. Personal Data does not include Data that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.  The Personal Data that we may collect includes:
-Contact details, such as name, postal address, telephone number, email address;
-Financial and transaction Data, such as credit or debit card number, and bank account information; and
-Other Personal Data, such as date of birth, SSN or EIN.
+**a. Personal Data.** We call Data that identifies, or that could reasonably be used to identify, You as an individual **"Personal Data"**. We collect Personal Data in different ways. For example, we collect Personal Data when a business registers for a Stripe account, a Customer makes payments or conducts transactions through a User’s website or application, a person responds to Stripe emails or surveys, or when a Customer uses the “Remember Me” feature of Stripe Checkout. We also receive Personal Data from other sources, such as our partners, financial service providers, identity verification services, and publicly available sources. Personal Data does not include Data that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.  The Personal Data that we may collect includes:
 
-Other Data. We call Data other than Personal Data “Other Data”. We collect Other Data through a variety of sources. One of our sources for Other Data is cookies and other technologies that record Data about the use of our websites, websites that implement our Services, and the use of our Services generally. Other Data that we may collect include: 
-Browser and device data, such as IP address, device type, operating system and Internet browser type, screen resolution, operating system name and version, device manufacturer and model, language, plug-ins, add-ons and the version of the Services You are using;
-Transaction data, such as purchases, purchase amount, date of purchase, and payment method; 
-Cookie and tracking technology data, such as time spent on the Services, pages visited, language preferences, and other anonymous traffic data; and
-Company data, such as a company’s legal structure, product and service offerings, jurisdiction, company records, and information submitted through the Stripe Atlas service.
+<ul>
+<li>**Contact details**, such as name, postal address, telephone number, email address;
+<li>**Financial and transaction Data**, such as credit or debit card number, and bank account information; and
+<li>**Other Personal Data**, such as date of birth, SSN or EIN.
+</ul>
 
-How We Use Data
-Personal Data. We and our service providers use Personal Data to: (i) provide the Services; (ii) detect and prevent fraud; (iii) mitigate financial loss or other harm to Users, Customers, and Stripe; and (iv) promote, analyze and improve our products, systems, and tools. Examples of how we may use Personal Data include: 
+**b. Other Data.** We call Data other than Personal Data **"Other Data"**. We collect Other Data through a variety of sources. One of our sources for Other Data is cookies and other technologies that record Data about the use of our websites, websites that implement our Services, and the use of our Services generally. Other Data that we may collect include: 
 
+<ul>
+<li>**Browser and device data**, such as IP address, device type, operating system and Internet browser type, screen resolution, operating system name and version, device manufacturer and model, language, plug-ins, add-ons and the version of the Services You are using;
+<li>**Transaction data**, such as purchases, purchase amount, date of purchase, and payment method; 
+<li>**Cookie and tracking technology data**, such as time spent on the Services, pages visited, language preferences, and other anonymous traffic data; and
+<li>Company data, such as a company’s legal structure, product and service offerings, jurisdiction, company records, and information submitted through the [Stripe Atlas](https://stripe.com/atlas) service.
+<ul>
 
-To verify an identity for compliance purposes;
-To evaluate an application to use our Services;
-To conduct manual or systematic monitoring for fraud and other harmful activity;
-To respond to inquiries, send service notices and provide customer support;
-To process a payment with Stripe Checkout, communicate regarding a payment, and provide related customer service;
-For audits, regulatory purposes, and compliance with industry standards;
-To develop new products;
-To send marketing communications;
-To improve or modify our Services; and
-To conduct aggregate analysis and develop business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of, our business.  
+### 3. How We Use Data
 
-b. Other Data. We may use Other Data for a range of different purposes, provided we comply with applicable law and our contractual commitments. In some countries (for example, European Economic Area countries), local legal regimes may require us to treat some or all of Other Data as “personal data” under applicable data protection laws. Where this is the case, we will process Other Data only for the same purposes as Personal Data under this privacy policy. 
+**a. Personal Data.** We and our service providers use Personal Data to: (i) provide the Services; (ii) detect and prevent fraud; (iii) mitigate financial loss or other harm to Users, Customers, and Stripe; and (iv) promote, analyze and improve our products, systems, and tools. Examples of how we may use Personal Data include: 
 
+<ul>
+<li>To verify an identity for compliance purposes;
+<li>To evaluate an application to use our Services;
+<li>To conduct manual or systematic monitoring for fraud and other harmful activity;
+<li>To respond to inquiries, send service notices and provide customer support;
+<li>To process a payment with Stripe Checkout, communicate regarding a payment, and provide related customer service;
+<li>For audits, regulatory purposes, and compliance with industry standards;
+<li>To develop new products;
+<li>To send marketing communications;
+<li>To improve or modify our Services; and
+<li>To conduct aggregate analysis and develop business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of, our business. 
+</ul>
 
-How We Disclose Data. Stripe does not sell or rent Personal Data to marketers or unaffiliated third parties. We share Your Personal Data with trusted third parties, including:
+**b. Other Data.** We may use Other Data for a range of different purposes, provided we comply with applicable law and our contractual commitments. In some countries (for example, European Economic Area countries), local legal regimes may require us to treat some or all of Other Data as “personal data” under applicable data protection laws. Where this is the case, we will process Other Data only for the same purposes as Personal Data under this privacy policy. 
+
+### 4. How We Disclose Data. 
+
+Stripe does not sell or rent Personal Data to marketers or unaffiliated third parties. We share Your Personal Data with trusted third parties, including:
 To Stripe Affiliates. We share Data with entities worldwide that we control, are controlled by us, or are under our common control, to provide our Services. Stripe, Inc. is the party responsible for overall management and use of the Data by these affiliated parties; 
 To Stripe Service Providers. We share Data with service providers who help us provide the Services. Service providers help us with things like payment processing (i.e., banks, credit bureaus, payment method providers), website hosting, data analysis, information technology and related infrastructure, customer service, email delivery, Stripe Atlas, and auditing;
 To Our Users. We share Data with Users (such as merchants and application providers) as necessary to process payments or provide the Services. For example, we share Data with Users about purchases made by their Customers through the Stripe payment processing services;
@@ -77,6 +88,6 @@ Stripe, Inc.
 San Francisco, CA 94107
 Attention: Stripe Legal
 Sensitive Information. Because email communications are not always secure, please do not include credit card or other sensitive Data (such as racial or ethnic origin, political opinions, religion, health, or the like) in Your emails to us.
-
+</section>
 
 
