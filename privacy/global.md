@@ -55,7 +55,7 @@ The collection and use of data from a variety of sources is essential to our abi
 
 Stripe does not sell or rent Personal Data to marketers or unaffiliated third parties. We share Your Personal Data with trusted third parties, including:
 
-**.a To Stripe Affiliates.** We share Data with entities worldwide that we control, are controlled by us, or are under our common control, to provide our Services. Stripe, Inc. is the party responsible for overall management and use of the Data by these affiliated parties; 
+**a. To Stripe Affiliates.** We share Data with entities worldwide that we control, are controlled by us, or are under our common control, to provide our Services. Stripe, Inc. is the party responsible for overall management and use of the Data by these affiliated parties; 
 
 **b. To Stripe Service Providers.** We share Data with service providers who help us provide the Services. Service providers help us with things like payment processing (i.e., banks, credit bureaus, payment method providers), website hosting, data analysis, information technology and related infrastructure, customer service, email delivery, Stripe Atlas, and auditing;
 
