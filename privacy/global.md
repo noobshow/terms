@@ -1,6 +1,6 @@
 <header>
-<h1>Privacy Policy – Worldwide</h1>
-Last updated: April 20, 2017
+<h1>Privacy Policy --- Worldwide</h1>
+Last updated: April 24, 2017
 </header>
 
 <section>
@@ -9,7 +9,7 @@ Last updated: April 20, 2017
 
 Privacy and online safety are important to Stripe. We offer a software platform and services for helping run an internet business. We collect data about businesses and their customers ("**Data**") when they use the platform, the services, and our websites (collectively, "**Services**"). This privacy policy describes how we collect, use and disclose Data. 
 
-In this privacy policy, we sometimes refer to "You". “**You**” may be a visitor to one of our websites, a user of one or more of our Services (**"User"**), or a customer of a User (**"Customer"**). We’ll do our best to clarify who we are referring to at various points in the policy. This policy does not apply to third-party websites, products, or services even if they link to our Services, and You should consider the privacy practices of those third-parties carefully. If You disagree with the practices described in this policy, You should (a) take the necessary steps to remove cookies from Your computer after leaving our website, and (b) discontinue Your use of our Services. Finally, we have also put together a [Cookie Policy](https://stripe.com/cookies-policy) that describes in detail how we use cookies and similar technologies.
+In this privacy policy, we sometimes refer to "You". "**You**" may be a visitor to one of our websites, a user of one or more of our Services (**"User"**), or a customer of a User (**"Customer"**). We'll do our best to clarify who we are referring to at various points in the policy. This policy does not apply to third-party websites, products, or services even if they link to our Services, and You should consider the privacy practices of those third-parties carefully. If You disagree with the practices described in this policy, You should (a) take the necessary steps to remove cookies from Your computer after leaving our website, and (b) discontinue Your use of our Services. Finally, we have also put together a [Cookie Policy](https://stripe.com/cookies-policy) that describes in detail how we use cookies and similar technologies.
 
 ### 1. Overview
 
@@ -19,7 +19,7 @@ The collection and use of data from a variety of sources is essential to our abi
 
 ### 2. Data We Collect
 
-**a. Personal Data.** We call Data that identifies, or that could reasonably be used to identify, You as an individual **"Personal Data"**. We collect Personal Data in different ways. For example, we collect Personal Data when a business registers for a Stripe account, a Customer makes payments or conducts transactions through a User’s website or application, a person responds to Stripe emails or surveys, or when a Customer uses the “Remember Me” feature of Stripe Checkout. We also receive Personal Data from other sources, such as our partners, financial service providers, identity verification services, and publicly available sources. Personal Data does not include Data that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.  The Personal Data that we may collect includes:
+**a. Personal Data.** We call Data that identifies, or that could reasonably be used to identify, You as an individual **"Personal Data"**. We collect Personal Data in different ways. For example, we collect Personal Data when a business registers for a Stripe account, a Customer makes payments or conducts transactions through a User's website or application, a person responds to Stripe emails or surveys, or when a Customer uses the "Remember Me" feature of Stripe Checkout. We also receive Personal Data from other sources, such as our partners, financial service providers, identity verification services, and publicly available sources. Personal Data does not include Data that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.  The Personal Data that we may collect includes:
 
 
 * **Contact details**, such as name, postal address, telephone number, email address;
@@ -32,7 +32,7 @@ The collection and use of data from a variety of sources is essential to our abi
 * **Browser and device data**, such as IP address, device type, operating system and Internet browser type, screen resolution, operating system name and version, device manufacturer and model, language, plug-ins, add-ons and the version of the Services You are using;
 * **Transaction data**, such as purchases, purchase amount, date of purchase, and payment method; 
 * **Cookie and tracking technology data**, such as time spent on the Services, pages visited, language preferences, and other anonymous traffic data; and
-* **Company data**, such as a company’s legal structure, product and service offerings, jurisdiction, company records, and information submitted through the [Stripe Atlas](https://stripe.com/atlas) service.
+* **Company data**, such as a company's legal structure, product and service offerings, jurisdiction, company records, and information submitted through the [Stripe Atlas](https://stripe.com/atlas) service.
 
 ### 3. How We Use Data
 
@@ -49,7 +49,7 @@ The collection and use of data from a variety of sources is essential to our abi
 * To improve or modify our Services; and
 * To conduct aggregate analysis and develop business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of, our business. 
 
-**b. Other Data.** We may use Other Data for a range of different purposes, provided we comply with applicable law and our contractual commitments. In some countries (for example, European Economic Area countries), local legal regimes may require us to treat some or all of Other Data as “personal data” under applicable data protection laws. Where this is the case, we will process Other Data only for the same purposes as Personal Data under this privacy policy. 
+**b. Other Data.** We may use Other Data for a range of different purposes, provided we comply with applicable law and our contractual commitments. In some countries (for example, European Economic Area countries), local legal regimes may require us to treat some or all of Other Data as "personal data" under applicable data protection laws. Where this is the case, we will process Other Data only for the same purposes as Personal Data under this privacy policy. 
 
 ### 4. How We Disclose Data. 
 
@@ -61,7 +61,7 @@ Stripe does not sell or rent Personal Data to marketers or unaffiliated third pa
 
 **c. To Our Users.** We share Data with Users (such as merchants and application providers) as necessary to process payments or provide the Services. For example, we share Data with Users about purchases made by their Customers through the Stripe payment processing services;
 
-**d. To Authorized Third Parties.** We share data with parties directly authorized by a User to receive Data, such as when a User authorizes a third party application provider to access the User’s Stripe account using [Stripe Connect](https://stripe.com/connect). The use of Data by an authorized third party is subject to the third party’s privacy policy;
+**d. To Authorized Third Parties.** We share data with parties directly authorized by a User to receive Data, such as when a User authorizes a third party application provider to access the User's Stripe account using [Stripe Connect](https://stripe.com/connect). The use of Data by an authorized third party is subject to the third party's privacy policy;
 
 **e. To Third Parties.** We will share Data with third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings); and
 
@@ -75,7 +75,7 @@ We use reasonable organizational, technical and administrative measures to prote
 
 We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to You when You access our websites, based on Data relating to Your access to and use of our websites on any of Your devices, as well as Data received from third parties. To do so, these companies may place or recognize a unique cookie, or similar tracking technology, on Your browser (including the use of pixel tags). They may also use these technologies, along with data they collect about Your online use, to recognize You across the devices You use, such as a mobile phone and a laptop, and to make decisions about the advertisements You see. If You would like more information about this practice, and to learn how to opt out of behavioral advertising delivered by Network Advertising Initiative member companies in desktop and mobile browsers on the particular device on which You are accessing this Privacy Policy, please visit the [Network Advertising Initative](http://www.networkadvertising.org/managing/opt_out.asp) and [Digital Advertising Alliance](http://www.aboutads.info/).  
 
-You may download the [AppChoices app](http://youradchoices.com/appchoices) to opt out in mobile apps. In order to understand and improve the effectiveness of our advertising, we may also use web beacons, cookies, and other technologies to identify the fact that You have visited our website or seen one of our advertisements, and we may provide that Data to one or more third party advertising networks. The Data we provide may include the time and date of Your visit to our website, pages viewed, links clicked and other information that does not disclose your ‘real world’ identity. Those advertising networks may recognize the web beacon or cookie associated with Your visit to our website when You visit other websites on which they serve advertising, and they may make decisions about the advertisements You see based on it. We may choose to work with Google AdWords, Doubleclick, AdRoll or other advertising networks. Each of these companies has its own privacy policy, which we encourage You to review. For more information about advertising and tracking online, visit the [Network Advertising Initiative](https://www.networkadvertising.org/). This website allows consumers to “opt out” of the behavioral advertising delivered by member companies. To learn more about the cookies that may be served through our Services, and how you can control our use of cookies, please see our [Cookie Policy](https://stripe.com/cookies-policy). At present, there is no industry standard for recognizing Do Not Track browser signals, so we do not respond to them.
+You may download the [AppChoices app](http://youradchoices.com/appchoices) to opt out in mobile apps. In order to understand and improve the effectiveness of our advertising, we may also use web beacons, cookies, and other technologies to identify the fact that You have visited our website or seen one of our advertisements, and we may provide that Data to one or more third party advertising networks. The Data we provide may include the time and date of Your visit to our website, pages viewed, links clicked and other information that does not disclose your 'real world' identity. Those advertising networks may recognize the web beacon or cookie associated with Your visit to our website when You visit other websites on which they serve advertising, and they may make decisions about the advertisements You see based on it. We may choose to work with Google AdWords, Doubleclick, AdRoll or other advertising networks. Each of these companies has its own privacy policy, which we encourage You to review. For more information about advertising and tracking online, visit the [Network Advertising Initiative](https://www.networkadvertising.org/). This website allows consumers to "opt out" of the behavioral advertising delivered by member companies. To learn more about the cookies that may be served through our Services, and how you can control our use of cookies, please see our [Cookie Policy](https://stripe.com/cookies-policy). At present, there is no industry standard for recognizing Do Not Track browser signals, so we do not respond to them.
 
 ### 7. Choice and Access. 
 
@@ -101,11 +101,11 @@ Our services are global and Data (including Personal Data) may be stored and pro
 
 ### 11. Stripe as a Data Processor. 
 
-We may collect, use and disclose certain Personal Data about Customers when acting as the User’s service provider. Our Users are responsible for making sure that the Customer’s privacy rights are respected, including ensuring appropriate disclosures about third party data collection and use. To the extent that we are acting as a User’s data processor, we will process Personal Data in accordance with the terms of our agreement with the User and the User’s lawful instructions.
+We may collect, use and disclose certain Personal Data about Customers when acting as the User's service provider. Our Users are responsible for making sure that the Customer's privacy rights are respected, including ensuring appropriate disclosures about third party data collection and use. To the extent that we are acting as a User's data processor, we will process Personal Data in accordance with the terms of our agreement with the User and the User's lawful instructions.
 
 ### 12. Updates to this Privacy Policy and Notifications.
 
-We may change this Privacy Policy. The “Last updated” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised.  Any changes are effective when we post the revised Privacy Policy on the Services.  
+We may change this Privacy Policy. The "Last updated" legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised.  Any changes are effective when we post the revised Privacy Policy on the Services.  
 
 We may provide You with disclosures and alerts regarding the Privacy Policy or Personal Data collected by posting them on our website and, if you are a User, by contacting You through your Stripe Dashboard, email address and/or the physical address listed in Your Stripe account.  You agree that electronic disclosures and notices have the same meaning and effect as if we had provided You with hard copy disclosures. Disclosures and notices in relation to this Privacy Policy or Personal Data shall be considered to be received by You within 24 hours of the time they are posted to our website or, in the case of Users, sent to through one of means listed in this paragraph. 
 

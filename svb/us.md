@@ -30,7 +30,7 @@ d.	Not establish minimum or maximum amounts (except as permitted by the Network 
 
 e.	Not impose surcharges or taxes (except where permitted by Law and the Network Rules) and, where so done, you will only collect such amounts as part of the submitted Charge;
 
-f.	Use Networks’ logos or marks in a manner permitted by the Network Rules;
+f.	Use Networks' logos or marks in a manner permitted by the Network Rules;
 
 g.	Prohibit use of payment cards for disbursement of cash (except as permitted by the Network Rules);
 
@@ -48,7 +48,7 @@ You authorize Stripe to instruct SVB on how and when Transfers of funds received
 
 ### 4. Sharing of Data
 
-a.	You authorize Stripe and SVB to provide any Data, including User Data or Payment Data, to each other to (i) provide the services described in the Stripe Services Addendum or this SVB Addendum to you, (ii) comply with its legal and regulatory obligations, and (iii) perform underwriting and risk review, including verification that you are legally permitted to transact and receive funds. This includes sharing information you previously provided to SVB (or Stripe) and information about SVB’s (or Stripe’s) experience with you, such as termination of this SVB Addendum by SVB and the reasons for such termination.  Where required to comply with our legal, payment network, or regulatory obligations, SVB may provide any Data to law enforcement, payment networks or regulators (as the case may be). 
+a.	You authorize Stripe and SVB to provide any Data, including User Data or Payment Data, to each other to (i) provide the services described in the Stripe Services Addendum or this SVB Addendum to you, (ii) comply with its legal and regulatory obligations, and (iii) perform underwriting and risk review, including verification that you are legally permitted to transact and receive funds. This includes sharing information you previously provided to SVB (or Stripe) and information about SVB's (or Stripe's) experience with you, such as termination of this SVB Addendum by SVB and the reasons for such termination.  Where required to comply with our legal, payment network, or regulatory obligations, SVB may provide any Data to law enforcement, payment networks or regulators (as the case may be). 
 
 b.	SVB may use Payment Data that is anonymized and aggregated with other merchants' transaction data for internal purposes and to provide you, other merchants, and third parties with analytic products and services. 
 
@@ -82,7 +82,7 @@ Notwithstanding the foregoing or anything to the contrary in the Agreement, you 
 
 ### 8. Disclaimer of Warranties
 
-ANY SERVICES DESCRIBED IN THIS SVB ADDENDUM ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, QUALITY, SUITABILTY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.  ALL DISCLAIMERS OF WARRANTIES PROVIDED IN THE AGREEMENT WILL APPLY EQUALLY TO SVB ENTITIES AS THEY DO TO STRIPE.  SVB ENTITIES (a) ARE NOT RESPONSIBLE FOR YOUR OR STRIPE’S FAILURE TO PERFORM OBLIGATIONS UNDER THE AGREEMENT AND (b) DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY YOU, STRIPE, OR ANY THIRD PARTY.
+ANY SERVICES DESCRIBED IN THIS SVB ADDENDUM ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, QUALITY, SUITABILTY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.  ALL DISCLAIMERS OF WARRANTIES PROVIDED IN THE AGREEMENT WILL APPLY EQUALLY TO SVB ENTITIES AS THEY DO TO STRIPE.  SVB ENTITIES (a) ARE NOT RESPONSIBLE FOR YOUR OR STRIPE'S FAILURE TO PERFORM OBLIGATIONS UNDER THE AGREEMENT AND (b) DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY YOU, STRIPE, OR ANY THIRD PARTY.
 
 ### 9. Limitations on Liability
 
@@ -90,7 +90,7 @@ In no event will SVB Entities be liable for any lost profits, lost revenue, lost
 
 The SVB Entities assume no liability or responsibility for any (a) personal injury or property damage, of any nature whatsoever, resulting from your access to or use of the Services; (b) any misuse of Services or Data; (c) any interruption or cessation of transmission to or from the Services; (d) any software bugs, viruses, or other harmful code that may be transmitted to or through the Services; (e) any errors, inaccuracies, or omissions in services or Data, or any loss or damage resulting therefrom, regardless of the manner of transmission; or (f) defamatory, offensive, or illegal conduct of any third party.
 
-Without limiting anything to the contrary, the SVB Entities’ cumulative liability to you is limited to direct damages and in all events will not exceed in the aggregate the lesser of (i) $10,000 or (ii) amounts actually received by SVB (including any fees paid to SVB) for providing services to you during the three (3) month period immediately preceding the event that gives rise to the claim for liability.
+Without limiting anything to the contrary, the SVB Entities' cumulative liability to you is limited to direct damages and in all events will not exceed in the aggregate the lesser of (i) $10,000 or (ii) amounts actually received by SVB (including any fees paid to SVB) for providing services to you during the three (3) month period immediately preceding the event that gives rise to the claim for liability.
 
 This limitation of liability section applies regardless of the legal theory that the claim is based, including without limitation contract, tort (including negligence), strict liability, or any other basis.  The limitations apply even if Stripe or SVB has been advised of the possibility of such damage.
 
@@ -98,7 +98,7 @@ The foregoing will apply to the fullest extent permitted by law in the applicabl
 
 ### 10. United States Only Services; No Illegal Activities 
 
-You may not use any services offered by SVB from, or on behalf of persons or entities (a) in a country embargoed by the United States or (b) blocked or denied by the United States government.  You further acknowledge and agree that you will not use your merchant account and/or the Services for illegal transactions, for example, those prohibited by the Unlawful Internet Gambling Enforcement Act, 31 U.S.C. Section 5361 et seq., as may be amended from time to time, or those involving any Person listed on the U.S. Department of Treasury, Office of Foreign Assets Control, Specially Designated Nationals and Blocked Persons List (available at www.treas.gov/ofac) or the U.S. Department of State’s Terrorist Exclusion List (available at www.state.gov) or the processing and acceptance of transactions in certain jurisdictions pursuant to 31 CFR Part 500 et seq. and other laws enforced by the Office of Foreign Assets Control ("OFAC") or in connection with illegal activity of any kind.  Unless otherwise explicitly stated, Services are solely for use by individuals, companies, or other entities located (as defined under applicable law and Network rules) in the United States, Puerto Rico, and the U.S. Virgin Islands.
+You may not use any services offered by SVB from, or on behalf of persons or entities (a) in a country embargoed by the United States or (b) blocked or denied by the United States government.  You further acknowledge and agree that you will not use your merchant account and/or the Services for illegal transactions, for example, those prohibited by the Unlawful Internet Gambling Enforcement Act, 31 U.S.C. Section 5361 et seq., as may be amended from time to time, or those involving any Person listed on the U.S. Department of Treasury, Office of Foreign Assets Control, Specially Designated Nationals and Blocked Persons List (available at www.treas.gov/ofac) or the U.S. Department of State's Terrorist Exclusion List (available at www.state.gov) or the processing and acceptance of transactions in certain jurisdictions pursuant to 31 CFR Part 500 et seq. and other laws enforced by the Office of Foreign Assets Control ("OFAC") or in connection with illegal activity of any kind.  Unless otherwise explicitly stated, Services are solely for use by individuals, companies, or other entities located (as defined under applicable law and Network rules) in the United States, Puerto Rico, and the U.S. Virgin Islands.
 
 ### 11. Dispute Resolution
 
