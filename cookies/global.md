@@ -34,11 +34,11 @@ Cookies play an important role in helping us provide personal, effective and saf
 
 Your web browser may allow You to change Your cookie preferences, including to delete and disable Stripe cookies. Please consult the help section of Your web browser or follow the links below to understand Your options, but please note that if You choose to disable the cookies, some features of our website or Services may not operate as intended. 
 
-* Chrome: https://support.google.com/chrome/answer/95647?hl=en
-* Explorer: https://support.microsoft.com/en-us/products/windows?os=windows-10
-* Safari: https://support.apple.com/kb/PH5042?locale=en_US
-* Firefox: http://support.mozilla.org/es/products/firefox/cookies
-* Opera: http://www.opera.com/help/tutorials/security/cookies/
+* Chrome: <a href="https://support.google.com/chrome/answer/95647?hl=en">https://support.google.com/chrome/answer/95647?hl=en</a>
+* Explorer: <a href="https://support.microsoft.com/en-us/products/windows?os=windows-10">https://support.microsoft.com/en-us/products/windows?os=windows-10</a>
+* Safari: <a href="https://support.apple.com/kb/PH5042?locale=en_US">https://support.apple.com/kb/PH5042?locale=en_US</a>
+* Firefox: <a href="http://support.mozilla.org/es/products/firefox/cookies">http://support.mozilla.org/es/products/firefox/cookies</a>
+* Opera: <a href="http://www.opera.com/help/tutorials/security/cookies/">http://www.opera.com/help/tutorials/security/cookies/</a>
 
 
 ### 4. Cookie Table
