@@ -47,12 +47,15 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
 
 #### Stripe cookies
 
-<table>
- <tr>
+<table class="alternate">
+  <thead>
+  <tr>
     <th>Cookie Name</th>
     <th>Purpose</th> 
     <th>Persistent or session </th>
   </tr>
+  </thead>
+  <tbody>    
   <tr>
     <td>accounts</td>
     <td>Lists User accounts</td> 
@@ -108,16 +111,20 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
 <td>Associates a device with a "Remember Me" Checkout account</td>
 <td>Persistent </td>
 </tr>
+  </tbody>
 </table>
 
 #### Third party cookies
 
-<table>
+<table class="alternate">
+<thead>
 <tr>
 <th>Cookie Name</th>
 <th>Purpose</th>
 <th>Opt out link</th>
 </tr>
+</thead>
+<tbody>  
 <tr>
 <td>Google</td>
 <td>Used for analytics and service improvement</td>
@@ -126,6 +133,7 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
 <td>Mixpanel</td>
 <td>Used for analytics and service improvement</td>
 <td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+</tbody>
 </table>
 
 </section>
