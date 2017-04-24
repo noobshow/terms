@@ -36,8 +36,8 @@ Your web browser may allow You to change Your cookie preferences, including to d
 
 * Chrome: <a href="https://support.google.com/chrome/answer/95647?hl=en">https://support.google.com/chrome/answer/95647?hl=en</a>
 * Explorer: <a href="https://support.microsoft.com/en-us/products/windows?os=windows-10">https://support.microsoft.com/en-us/products/windows?os=windows-10</a>
-* Safari: <a href="https://support.apple.com/kb/PH5042?locale=en_US">https://support.apple.com/kb/PH5042?locale=en_US</a>
-* Firefox: <a href="http://support.mozilla.org/es/products/firefox/cookies">http://support.mozilla.org/es/products/firefox/cookies</a>
+* Safari: <a href="https://support.apple.com/kb/PH21411">https://support.apple.com/kb/PH21411</a>
+* Firefox: <a href="https://support.mozilla.org/products/firefox/cookies">https://support.mozilla.org/products/firefox/cookies</a>
 * Opera: <a href="http://www.opera.com/help/tutorials/security/cookies/">http://www.opera.com/help/tutorials/security/cookies/</a>
 
 
