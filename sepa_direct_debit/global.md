@@ -11,7 +11,7 @@ You may only collect SDD debits in compliance with the rules and regulations of 
 
 Prior to submitting an SDD debit for collection, you must send a Pre-Notification e-mail to the Customer that sets out the date on which the Customer's account will be debited, the debit amount, the mandate ID (reference number) and creditor identifier.
 
-You are responsible for providing the correct direct debit data. Should a SDD debit be reversed, or should a SDD debit fail due to reasons attributable to you – in particular due to insufficient credit or incorrect account information – you are fully liable to pay the outstanding amount, as well as any applicable reversal fees, any applicable third party fees of the bank holding the account, and any handling fees.
+You are responsible for providing the correct direct debit data. Should a SDD debit be reversed, or should a SDD debit fail due to reasons attributable to you --- in particular due to insufficient credit or incorrect account information --- you are fully liable to pay the outstanding amount, as well as any applicable reversal fees, any applicable third party fees of the bank holding the account, and any handling fees.
 
 You acknowledge that SDD is not a guaranteed payment method, and there is a risk of failed payments and Disputes. You are not permitted to resubmit the same SDD debit for failed payments or Disputes.
 

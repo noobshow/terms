@@ -107,7 +107,7 @@ You may contact Westpac:
  
 By mail: Westpac Banking Corporation, GPO Box 5265, Sydney NSW 2001
 
-E-mail: Go to the website westpac.com.au and click on ‘Contact Us’.
+E-mail: Go to the website westpac.com.au and click on 'Contact Us'.
 
 Fax: 1300 655 858
 
