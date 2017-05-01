@@ -5,15 +5,15 @@ Last Updated: May 1, 2017.
 
 <section>
 
-This Peoples Trust Services Addendum (“Peoples Trust Addendum”) to the Stripe Services Agreement (“Agreement”) provides additional terms applicable to the Payment Services.  Any terms used but not defined in this Peoples Trust Addendum will have the meaning provided in the Agreement.
+This Peoples Trust Services Addendum ("Peoples Trust Addendum") to the Stripe Services Agreement ("Agreement") provides additional terms applicable to the Payment Services.  Any terms used but not defined in this Peoples Trust Addendum will have the meaning provided in the Agreement.
 
-This Peoples Trust Addendum constitutes a legal agreement between you, Stripe, and Peoples Trust Company (“Peoples Trust”). In order to use the Payment Services provided through your Agreement with Stripe, you understand that Stripe or Peoples Trust may enforce any provisions of the Agreement that relate to your use of Payment Services provided in conjunction with Peoples Trust. Stripe or Peoples Trust may also terminate this Peoples Trust Addendum at any time, which may limit or terminate your ability to use Payment Services.
+This Peoples Trust Addendum constitutes a legal agreement between you, Stripe, and Peoples Trust Company ("Peoples Trust"). In order to use the Payment Services provided through your Agreement with Stripe, you understand that Stripe or Peoples Trust may enforce any provisions of the Agreement that relate to your use of Payment Services provided in conjunction with Peoples Trust. Stripe or Peoples Trust may also terminate this Peoples Trust Addendum at any time, which may limit or terminate your ability to use Payment Services.
 
 **You must accept all of the terms and conditions of this Addendum to use Services provided by Stripe. If you do not accept them, you may not use the Payment Services under this Peoples Trust Addendum.**
 
 ### 1. Purpose of this Addendum
 
-When your customer pays you through Stripe, they have the option of paying you through a funding source offered on the Stripe website including a credit or debit card funded payment. Since you may be the recipient of a credit or debit card funded payment, Visa U.S.A., Inc. and Visa International (“Visa”) and MasterCard International Incorporated (“MasterCard”)(collectively, the “Networks”) require that you enter into a direct contractual relationship with a bank that is a member of the Networks. However, by using Payment Services you are not establishing a depository or other account with Peoples Trust.
+When your customer pays you through Stripe, they have the option of paying you through a funding source offered on the Stripe website including a credit or debit card funded payment. Since you may be the recipient of a credit or debit card funded payment, Visa U.S.A., Inc. and Visa International ("Visa") and MasterCard International Incorporated ("MasterCard")(collectively, the "Networks") require that you enter into a direct contractual relationship with a bank that is a member of the Networks. However, by using Payment Services you are not establishing a depository or other account with Peoples Trust.
 
 Peoples Trust is not responsible for the provision of any Payment Services by Stripe or your use of the Payment Services for your business. Peoples Trust is also not responsible for providing customer service to you to resolve any issues you may have related to your use of the Payment Services; however you may contact Peoples Trust at the address set forth in Section 13, in the event that you are unable to resolve any complaints directly with Stripe. You are solely responsible for providing support to your Customers for all issues related to your products and services.
 
@@ -33,7 +33,7 @@ Without limiting the foregoing, you specifically agree to:
 
 **e.** Not impose surcharges or taxes (except where permitted by Law) and, where so done, you will only collect such amounts as part of the submitted Charge;
 
-**f.** Use Networks’ logos or marks in a manner permitted by the Network Rules;
+**f.** Use Networks' logos or marks in a manner permitted by the Network Rules;
 
 **g.** Prohibit use of payment cards for disbursement of cash (except as permitted by the Network Rules);
 
@@ -63,11 +63,11 @@ In addition to the representations and warranties made in the Agreement, you rep
 
 ### 6. Indemnification
 
-Notwithstanding the foregoing or anything to the contrary in the Agreement, you agree to defend, indemnify, and hold harmless Peoples Trust, and their respective employees, directors, agents, subcontractors and affiliates (collectively “Peoples Trust Entities”) from and against any claim, suit, demand, loss, liability, damage, action, or proceeding arising out of or relating to (a) your breach of any provision of the Agreement or this Peoples Trust Addendum; (b) your use of the Payment Services; (c) your obligations to pay fees or fines to Stripe, your Customers, Financial Services Providers, or third parties; (d) negligence or willful misconduct of your employees, contractors, or agents; and (e) all third-party indemnity obligations Peoples Trust incurs as a direct or indirect result of your acts or omissions (including indemnification of any payment card network, card issuer, or intermediary bank).
+Notwithstanding the foregoing or anything to the contrary in the Agreement, you agree to defend, indemnify, and hold harmless Peoples Trust, and their respective employees, directors, agents, subcontractors and affiliates (collectively "Peoples Trust Entities") from and against any claim, suit, demand, loss, liability, damage, action, or proceeding arising out of or relating to (a) your breach of any provision of the Agreement or this Peoples Trust Addendum; (b) your use of the Payment Services; (c) your obligations to pay fees or fines to Stripe, your Customers, Financial Services Providers, or third parties; (d) negligence or willful misconduct of your employees, contractors, or agents; and (e) all third-party indemnity obligations Peoples Trust incurs as a direct or indirect result of your acts or omissions (including indemnification of any payment card network, card issuer, or intermediary bank).
 
 ### 7. Disclaimer of Warranties
 
-ANY SERVICES DESCRIBED IN THIS PEOPLES TRUST ADDENDUM ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, QUALITY, SUITABILTY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. ALL DISCLAIMERS OF WARRANTIES PROVIDED IN THE AGREEMENT WILL APPLY EQUALLY TO PEOPLES TRUST ENTITIES AS THEY DO TO STRIPE. PEOPLES TRUST ENTITIES (a) ARE NOT RESPONSIBLE FOR YOUR OR STRIPE’S FAILURE TO PERFORM OBLIGATIONS UNDER THE AGREEMENT AND (b) DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY YOU, STRIPE, OR ANY THIRD PARTY.
+ANY SERVICES DESCRIBED IN THIS PEOPLES TRUST ADDENDUM ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, QUALITY, SUITABILTY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. ALL DISCLAIMERS OF WARRANTIES PROVIDED IN THE AGREEMENT WILL APPLY EQUALLY TO PEOPLES TRUST ENTITIES AS THEY DO TO STRIPE. PEOPLES TRUST ENTITIES (a) ARE NOT RESPONSIBLE FOR YOUR OR STRIPE'S FAILURE TO PERFORM OBLIGATIONS UNDER THE AGREEMENT AND (b) DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY YOU, STRIPE, OR ANY THIRD PARTY.
 
 ### 8. Limitations on Liability
 
@@ -75,7 +75,7 @@ In no event will Peoples Trust Entities be liable for any lost profits, lost rev
 
 Peoples Trust Entities assume no liability or responsibility for any (a) personal injury or property damage, of any nature whatsoever, resulting from your access to or use of the Payment Services; (b) any misuse of Payment Services or Data; (c) any interruption or cessation of transmission to or from the Payment Services; (d) any software bugs, viruses, or other harmful code that may be transmitted to or through the Payment Services; (e) any errors, inaccuracies, or omissions in services or Data, or any loss or damage resulting therefrom, regardless of the manner of transmission; or (f) defamatory, offensive, or illegal conduct of any third party.
 
-Without limiting anything to the contrary, the Peoples Trust Entities’ cumulative liability to you is limited to direct damages and in all events will not exceed in the aggregate amounts actually received by Peoples Trust (including any fees paid to Peoples Trust) for providing services to you during the three (3) month period immediately preceding the event that gives rise to the claim for liability.
+Without limiting anything to the contrary, the Peoples Trust Entities' cumulative liability to you is limited to direct damages and in all events will not exceed in the aggregate amounts actually received by Peoples Trust (including any fees paid to Peoples Trust) for providing services to you during the three (3) month period immediately preceding the event that gives rise to the claim for liability.
 
 This limitation of liability section applies regardless of the legal theory on which the claim is based, including without limitation contract, tort (including negligence), strict liability, or any other basis. The limitations apply even if Stripe or Peoples Trust has been advised of the possibility of such damage.
 
@@ -95,7 +95,7 @@ The failure of Peoples Trust to assert any of its rights under this Peoples Trus
 
 ### 12. Language 
 
-The parties hereby acknowledge that they have required this Addendum and all related documents to be drawn up in the English language.  Les parties reconnaissent avoir demandé que le présent contrat ainsi que tous les documents qui s’y rattachent soient rédigés en langue anglaise.
+The parties hereby acknowledge that they have required this Addendum and all related documents to be drawn up in the English language.  Les parties reconnaissent avoir demandé que le présent contrat ainsi que tous les documents qui s'y rattachent soient rédigés en langue anglaise.
 
 ### 13. Network Compliance and Disclosure
 
