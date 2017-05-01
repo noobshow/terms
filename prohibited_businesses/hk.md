@@ -1,5 +1,5 @@
 <header id="prohibited_businesses">
-# Prohibited Businesses — Hong Kong
+# Prohibited Businesses --- Hong Kong
 Last Updated: April 26, 2016.
 </header>
 

@@ -1,5 +1,5 @@
 <header id="prohibited_businesses">
-# Prohibited Businesses — Australia
+# Prohibited Businesses --- Australia
 Last Updated: May 26, 2014.
 </header>
 

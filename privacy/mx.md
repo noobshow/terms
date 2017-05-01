@@ -1,5 +1,5 @@
 <header>
-<h1>Aviso de Privacidad — México</h1>
+<h1>Aviso de Privacidad --- México</h1>
 <p>Última Actualización: el 24 de abril de 2015.</p>
 </header>
 <section>
