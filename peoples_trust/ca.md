@@ -1,6 +1,6 @@
 <header id="pt_addendum">
 # Peoples Trust Financial Services Terms
-Last Updated: April 14, 2017.
+Last Updated: May 1, 2017.
 </header>
 
 <section>
