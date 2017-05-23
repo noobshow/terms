@@ -19,11 +19,11 @@ You represent to Stripe that all of the information that you provide to us direc
  
 Please read this Connected Account Agreement carefully. To the extent that there is a conflict between the Stripe Services Agreement and this Connected Account Agreement related to your use of Stripe Connect, this Connected Account Agreement will prevail.
  
-###2. Stripe Connect &mdash; Your Stripe Account
+### 2. Stripe Connect &mdash; Your Stripe Account
  
 Stripe Connect allows Connect Platforms to help you use the Services, which may include the ability for you to receive payments for goods and services, or to receive charitable or campaign donations.  A Connect Platform may help you to create your Stripe Account, or to integrate your existing Stripe Account with the Connect Platform. A Connect Platform may also conduct Activity on your behalf, provided that it does so in accordance with Your Platform Agreement. You should read Your Platform Agreement carefully in order to understand the nature of the Platform Services and the Activity that a Connect Platform may conduct on your behalf. Stripe is not a Connect Platform, and only provides the Services described in this Connected Account Agreement and the Stripe Services Agreement. 
  
-###3. Your Obligations
+### 3. Your Obligations
  
 You are solely responsible for, and Stripe disclaims all liability for, the provision of any goods or services sold to your customers or users as part of your use of the Services, and any obligations you may owe to your customers or users.  While you may agree to share some liability with a Connect Platform, you are always financially liable to Stripe for Disputes (including chargebacks), Refunds, and any fines that arise from your use of the Services.  These obligations are described in more detail in [Section C of the Stripe Services Agreement](https://stripe.com/legal#section_c).
  
@@ -31,17 +31,17 @@ Depending on the Connect Platform, you may have access to directly manage your S
  
 Depending on your location, a Connect Platform may allow you to receive payment processing proceeds via settlement into a bank account connected to your debit card ("Instant Payout").  Your Connect Platform should let you know if there is a fee associated with your use of Instant Payouts.  When Instant Payouts is used, Stripe will attempt to settle payment processing proceeds within minutes of receiving the payout request. Depending on your bank, it may take up to two business days for your payment processing proceeds to settle via Instant Payouts.  Stripe and your Connect Platform reserve the right to change or suspend Instant Payouts to you at any time, including (a) due to pending, anticipated, or excessive Disputes, Chargebacks, Refunds, or Reversals; (b) in the event of suspected or actual fraudulent, illegal or other malicious activity; or (c) where we are required by Law or court order.
  
-###4. Relationship to Connect Platforms
+### 4. Relationship to Connect Platforms
  
 You understand and agree that Connect Platforms and Stripe may share Your Data in order to facilitate your use of Stripe Connect or the Platform Services. Where Stripe receives Your Data from Connect Platforms, Stripe may use the Data in accordance with the Stripe Services Agreement and the [Stripe Privacy Policy](https://stripe.com/privacy).
 
 The pricing for your use of the Services with a Connect Platform will depend on your agreement with the Connect Platform. Stripe does not control and is not responsible for Connect Platform fees charged to you, which should be made clear to you in Your Platform Agreement. Stripe’s standard fees for the Services are [posted on our web site](https://stripe.com/pricing), although Stripe may have agreed fees with a Connect Platform that are different from these amounts. Stripe’s fees will either be disclosed to you separately, or will be consolidated with the fees for the Platform Services. Stripe will have the right to deduct from your Stripe Account balance both Stripe's fees for Services and the Platform Services fees specified to us by the Connect Platform.  If your Stripe Account balance becomes negative, you authorize Stripe to debit the amount owed from your Payout Account.  If you believe that fees have been incorrectly deducted, or that your Connect Platform has not properly disclosed its fees to you, please [contact us](https://stripe.com/contact).
  
-###5. Limitations on Stripe's Liability
+### 5. Limitations on Stripe's Liability
  
 Stripe is not responsible for the acts or omissions of any Connect Platform in providing services to you or your customers, or for any non-compliance by a Connect Platform with the terms of Your Platform Agreement. Stripe is also not responsible for your obligations to your customers (including to properly describe and deliver the goods or services being sold to your customers).  You are solely responsible for, and Stripe expressly disclaims all liability for, your compliance with applicable laws and obligations related to your provision of the goods or services to your customers, or receipt of charitable donations.  This may include providing customer service, notification and handling refunds or consumer complaints, provision of receipts, registering your legal entity, or other actions not related to the Services.  You agree to indemnify Stripe for any losses we incur based on your failure to properly describe or deliver goods or services, or comply with your legal or contractual obligations to your customers.
  
-###6. Other General Legal Terms
+### 6. Other General Legal Terms
  
 **a. Term, Termination, and the Effects of Termination:**  The term of this Connected Account Agreement will begin when you register your Stripe Account with a Connect Platform and will end when terminated by you or by Stripe, as described in this Connected Account Agreement.  You may terminate this Connected Account Agreement at any time by providing notice to Stripe and immediately ceasing your use of Stripe Connect.  However, if you commence using Stripe Connect again, you are consenting to this Connected Account Agreement.  Stripe may terminate this Connected Account Agreement (a) where you are in breach of this Connected Account Agreement and fail to cure the breach upon 30 days' notice by Stripe (such notice and cure period only being required if curing the breach is feasible); or (b) upon 120 days' notice for any reason. Stripe may also terminate this Connected Account Agreement immediately if you are the subject of any voluntary or involuntary bankruptcy or insolvency petition or proceeding, or if Stripe determines that you are engaged in activity that fails to comply with applicable law or causes a significant risk of reputational harm to Stripe.
  
