@@ -1,9 +1,10 @@
 <header id="cpagmt">
 # Stripe Connect Platform Agreement
-Last Updated: May insert, 2017.
+Last Updated: May 24, 2017.
 </header>
  
 <section>
+
 Thank you for integrating [Stripe Connect](https://stripe.com/connect), software services that enable payment processing and related functions for multi-sided marketplaces and other electronic commerce platforms. 
  
 ## Stripe Connect Platform Agreement
@@ -36,9 +37,7 @@ You consent to Stripe's disclosure of information about you and your Platform to
  
 **d. Instant Payouts:** Depending on your location and the location of your Connected Accounts, you may be able to offer your Connected Accounts the ability to receive payment processing proceeds via accelerated settlement into a bank account linked to a Connected Account's debit card ("Instant Payout"). When Instant Payouts is used, Stripe will attempt to settle payment processing proceeds within minutes of receiving the payout request. Prior to enabling an Instant Payout, you must determine, using the Stripe APIs, whether or not same-day availability of funds is enabled for the debit card by the card issuing bank. If same-day funds availability is not enabled, you may only activate the Instant Payout if you have clearly and conspicuously disclosed this fact to the Connected Account. Your marketing of the Instant Payout functionality to Connected Accounts must clearly and conspicuously disclose the fees (if any) you intend to apply for Instant Payouts, as well as the fact that, for certain recipient banks, some Instant Payouts may not settle within minutes, and instead may take longer to be credited to the relevant bank account.
  
-**e. Limitations:** 
- 
-You and Stripe are independent entities, and this Connect Platform Agreement does not create any partnership, agency, or employment relationship between you and Stripe, or the employees or agents of either party. You may not, and may not attempt to, make any representation, warranty or commitment on behalf of Stripe. You may not use any Stripe logo, or trade or service mark in a manner inconsistent with the [Stripe Marks Usage Agreement](https://stripe.com/terms/marks).
+**e. Limitations:** You and Stripe are independent entities, and this Connect Platform Agreement does not create any partnership, agency, or employment relationship between you and Stripe, or the employees or agents of either party. You may not, and may not attempt to, make any representation, warranty or commitment on behalf of Stripe. You may not use any Stripe logo, or trade or service mark in a manner inconsistent with the [Stripe Marks Usage Agreement](https://stripe.com/terms/marks).
  
 You may not use Stripe Connect: (a) to access any Connected Account Data or conduct any Activity, or attempt to do either, for which a Connected Account has not given you express authorization or for which such authorization has been withdrawn; (b) for any fraudulent, unlawful, deceptive, or abusive purposes, or in any manner harmful to, or intended to harm, a Connected Account, Stripe, or any third party; or (c) to circumvent Stripe's intended limitations for any feature of Stripe Connect or in a manner inconsistent with the [Stripe Connect documentation](https://stripe.com/docs/connect). 
  
@@ -90,19 +89,19 @@ Stripe agrees to defend, indemnify, and hold you harmless from and against any c
  
 In addition to the representations and warranties of the Stripe Services Agreement, you represent and warrant to Stripe that you will (a) obtain authorization from the Connected Account for all Activity initiated on its behalf, and for the use of any Connected Account Data obtained through or used with Stripe Connect, by you, your employees, and your agents; (b) dutifully comply with the onboarding obligations described in this Connect Platform Agreement; and (c) not use Stripe Connect or knowingly permit the use of Services by Connected Accounts in a manner that is fraudulent, unlawful, deceptive or abusive.
  
-* To the maximum extent permitted by law, except as expressly provided in this Connect Platform Agreement, Stripe provides Stripe Connect to you on an "as is" "as available" basis, without any warranties, express, implied, or statutory. 
+**To the maximum extent permitted by law, except as expressly provided in this Connect Platform Agreement, Stripe provides Stripe Connect to you on an "as is" "as available" basis, without any warranties, express, implied, or statutory.**
  
 ### 9. Limitations of Liability
  
 Stripe is not responsible for and disclaims all liability for your, your employees', and your agents' (a) acts or omissions in providing Platform Services to your Platform Merchants (including Connected Accounts), which includes delivery of goods or services to your Platform Merchants' customers or any other third parties, or properly describing Platform Services; (b) compliance with applicable laws and obligations related to your offering or providing Platform Services; and (c) providing customer service, notifications, receipts, handling refunds or consumer complaints, or taking other actions related the Platform Service.
  
-* In no event will a Disclaiming Entity be liable for any lost profits, or any indirect, punitive, incidental, special, consequential, or exemplary damages arising out of, in connection with, or relating to this Connect Platform Agreement or Stripe Connect, including the use of, inability to use, or unavailability of Stripe Connect or the Services.
+**In no event will a Disclaiming Entity be liable for any lost profits, or any indirect, punitive, incidental, special, consequential, or exemplary damages arising out of, in connection with, or relating to this Connect Platform Agreement or Stripe Connect, including the use of, inability to use, or unavailability of Stripe Connect or the Services.**
  
-* The Disclaiming Entities have no liability or responsibility for any (a) personal injury or property damage, of any nature whatsoever, resulting from use of Stripe Connect or the Services; (b) damage, loss, or injury resulting from hacking, tampering, or other unauthorized access to, or use of, Stripe Connect, including any unauthorized access to or use of third-party servers used in connection with Stripe Connect or the Services and/or any personal information stored therein; (c) interruption or cessation of Stripe Connect; (d) software bugs, viruses, trojan horses, or other harmful code that may be transmitted to or through Stripe Connect; (e) errors, inaccuracies, or omissions of information, or any damages or losses incurred as a result of such errors inaccuracies or omissions, resulting from the use of Stripe Connect; (f) information that is transmitted using Stripe Connect that is defamatory, offensive, or illegal; and/or (g) conduct of any third party.
+** The Disclaiming Entities have no liability or responsibility for any (a) personal injury or property damage, of any nature whatsoever, resulting from use of Stripe Connect or the Services; (b) damage, loss, or injury resulting from hacking, tampering, or other unauthorized access to, or use of, Stripe Connect, including any unauthorized access to or use of third-party servers used in connection with Stripe Connect or the Services and/or any personal information stored therein; (c) interruption or cessation of Stripe Connect; (d) software bugs, viruses, trojan horses, or other harmful code that may be transmitted to or through Stripe Connect; (e) errors, inaccuracies, or omissions of information, or any damages or losses incurred as a result of such errors inaccuracies or omissions, resulting from the use of Stripe Connect; (f) information that is transmitted using Stripe Connect that is defamatory, offensive, or illegal; and/or (g) conduct of any third party.**
  
-* Without limiting the foregoing provisions of this Section 9, the Disclaiming Entities' cumulative liability to you in connection with Stripe Connect (including under this Connect Platform Agreement) will be limited to direct damages and in all events will not exceed in the aggregate the amount of fees paid by you to Stripe during the three (3) month period immediately preceding the event giving rise to the claim for liability.
+** Without limiting the foregoing provisions of this Section 9, the Disclaiming Entities' cumulative liability to you in connection with Stripe Connect (including under this Connect Platform Agreement) will be limited to direct damages and in all events will not exceed in the aggregate the amount of fees paid by you to Stripe during the three (3) month period immediately preceding the event giving rise to the claim for liability.**
  
-* This limitation of liability section applies to the maximum extent permitted by law, and applies regardless of the legal theory on which the claim is based, including contract, tort (including negligence, product liability, or otherwise), strict liability, or any other basis. The limitations apply even if the Disclaiming Entities have been advised of the possibility of such damage.
+** This limitation of liability section applies to the maximum extent permitted by law, and applies regardless of the legal theory on which the claim is based, including contract, tort (including negligence, product liability, or otherwise), strict liability, or any other basis. The limitations apply even if the Disclaiming Entities have been advised of the possibility of such damage.**
  
 ### 10. Other General Legal Terms
  
