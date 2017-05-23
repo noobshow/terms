@@ -1,6 +1,6 @@
 <header id="caagmt">
 # Stripe Connected Account Agreement
-Last Updated: May 25, 2017.
+Last Updated: May 24, 2017.
 </header>
  
 <section>
