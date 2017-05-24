@@ -1,6 +1,6 @@
 <header id="caagmt">
 # Stripe Connected Account Agreement
-Last Updated: May 24, 2017.
+Last Updated: May 25, 2017.
 </header>
  
 <section>
@@ -35,7 +35,7 @@ Depending on your location, a Connect Platform may allow you to receive payment 
  
 You understand and agree that Connect Platforms and Stripe may share Your Data in order to facilitate your use of Stripe Connect or the Platform Services. Where Stripe receives Your Data from Connect Platforms, Stripe may use the Data in accordance with the Stripe Services Agreement and the [Stripe Privacy Policy](https://stripe.com/privacy).
 
-The pricing for your use of the Services with a Connect Platform will depend on your agreement with the Connect Platform. Stripe does not control and is not responsible for Connect Platform fees charged to you, which should be made clear to you in Your Platform Agreement. Stripe’s [standard fees](https://stripe.com/pricing) for the Services are posted on our web site, although Stripe may have agreed fees with a Connect Platform that are different from these amounts. Stripe’s fees will either be disclosed to you separately, or will be consolidated with the fees for the Platform Services. Stripe will have the right to deduct from your Stripe Account balance both Stripe's fees for Services and the Platform Services fees specified to us by the Connect Platform.  If your Stripe Account balance becomes negative, you authorize Stripe to debit the amount owed from your Payout Account.  If you believe that fees have been incorrectly deducted, or that your Connect Platform has not properly disclosed its fees to you, please [contact us](https://stripe.com/contact).
+The pricing for your use of the Services with a Connect Platform will depend on your agreement with the Connect Platform. Stripe does not control and is not responsible for Connect Platform fees charged to you, which should be made clear to you in Your Platform Agreement. Stripe's [standard fees](https://stripe.com/pricing) for the Services are posted on our web site, although Stripe may have agreed fees with a Connect Platform that are different from these amounts. Stripe's fees will either be disclosed to you separately, or will be consolidated with the fees for the Platform Services. Stripe will have the right to deduct from your Stripe Account balance both Stripe's fees for Services and the Platform Services fees specified to us by the Connect Platform.  If your Stripe Account balance becomes negative, you authorize Stripe to debit the amount owed from your Payout Account.  If you believe that fees have been incorrectly deducted, or that your Connect Platform has not properly disclosed its fees to you, please [contact us](https://stripe.com/contact).
  
 ### 5. Limitations on Stripe's Liability
  
