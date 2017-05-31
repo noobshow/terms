@@ -1,6 +1,6 @@
 <header id ="cpagmt"> 
 # Contratto Stripe per piattaforme Connect
-Ultimo aggiornamento: 1 de giugno de 2017.
+Ultimo aggiornamento: 1 giugno de 2017.
 </header>
  
 <section>
