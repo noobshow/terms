@@ -1,5 +1,5 @@
 <header>
-<h1>Privacy Policy --- Worldwide</h1>
+<h1>Politique de confidentialité --- Tous pays</h1>
 
 For your convenience, we have included a French version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Par souci de simplicité et à seul titre informatif, nous avons inclus une version française de cette page. Les parties reconnaissent avoir demandé que cette page ainsi que tous les documents qui s’y rattachent soient rédigés en langue anglaise.
 
