@@ -1,5 +1,13 @@
+<header id="stripe_services_agmt">
+# Stripe Services Agreement &mdash; {{country_name}}
+
+For your convenience, we have included an Italian version of our terms on this page for informational purposes only. The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. Per vostra convenienza, alleghiamo una versione dei nostri termini in italiano. Questa pagina è a scopo puramente informativo.Le parti riconoscono che hanno ricevuto questo Contratto e tutta la documentazione relativa redatti dall'inglese.
+
 Data ultimo aggiornamento: 1 giugno 2017
 
+</header>
+
+<article>
 Benvenuti sul sito Stripe.
 
 Il presente Contratto di Servizi Stripe (il "Contratto") è un contratto legale tra Payments Europe, Ltd. ("Stripe" o "noi" o “ci”) e l’entità, il soggetto o la persona ("voi", "vostro", o "utente") che si registra alla pagina Account Stripe per ricevere servizi di pagamento, analisi dei dati web, benchmarking, ed altri eventuali servizi commerciali offerti da Stripe e dalle sue affiliate (ciascuno, un "Servizio"). Il presente Contratto descrive i termini e le condizioni che si applicano alla fruizione da parte vostra dei Servizi.
