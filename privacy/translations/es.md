@@ -1,9 +1,7 @@
 <header>
 <h1>Política de privacidad  --- Internacional</h1>
 
-For your convenience, we have included a Spanish version of our terms on this page for informational purposes only. The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. 
-
-Para su conveniencia, hemos incluido una versión en español de nuestros términos y condiciones a modo informativo. Las partes están de acuerdo que el presente Contrato y todos los documentos relacionados se elaboren en el idioma inglés.
+For your convenience, we have included a Spanish version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Para su conveniencia, hemos incluido una versión en español de esta página a modo informativo. Las partes están de acuerdo que esta página y todos los documentos relacionados se elaboren en el idioma inglés.
 
 Última actualización: 1 de junio de 2017.
 </header>
