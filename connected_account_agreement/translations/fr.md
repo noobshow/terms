@@ -1,8 +1,70 @@
-FRENCH
+<header id="caagmt">
+# Accord sur le compte connecté Stripe
+Dernière mise à jour : 1 Juin 2017.
+</header>
+ 
+<section>
+Nous vous remercions d'avoir choisi d'utiliser [Stripe Connect](https://stripe.com/connect). Le présent accord régit votre utilisation de Stripe Connect, et décrit comment vous et votre (vos) fournisseur(s) tiers de plateforme pouvez utiliser Stripe Connect afin de vous permettre d’utiliser les services de Stripe, qui comprennent la possibilité d’accepter des paiements pour des biens ou services, ou de recevoir des dons de bienfaisance, ainsi que d’autres services connexes.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Accord sur le Compte Connecté Stripe
+
+Le présent Accord sur le Compte Connecté Stripe (« Accord sur le Compte Connecté ») est un accord entre vous, étant la personne ou l’entité légale (y compris les entreprises individuelles) que vous identifiez auprès de Stripe comme titulaire du Compte Stripe à intégrer aux fournisseurs tiers de plateforme utilisant Stripe Connect (« Plateforme(s) Connect »). Vous consentez expressément aux termes et conditions du présent accord sur le compte connecté, de l’[Accord sur les Services Stripe](https://stripe.com/legal), et à toute mise à jour ou modification occasionnelle de l’un de ces documents par Stripe.
+
+Nous utilisons un nombre de termes définis dans le présent Accord sur le Compte Connecté. Les « Services de Plateforme » font référence aux produits et services que vous recevez d’une Plateforme Connect, avec ou sans frais. Dans les Services de Plateforme qu’une Plateforme Connect peut accepter de fournir, il y a par exemple le développement web ou les services d’hébergement, le service client, le traitement des remboursements, et la gestion des réclamations client. Votre accord avec une Plateforme Connect pour la prestation de Services de plateforme est « votre Accord avec la Plateforme ». Les actions soumises par vos soins ou en votre nom en utilisant Stripe Connect sont appelées « Activité », et ceci inclut le lancement de Transactions (y compris les Frais) et les Remboursements, la gestion des Litiges (y compris les débits compensatoires) ainsi que d’autres caractéristiques comme décrit dans la [documentation Stripe Connect](https://stripe.com/connect/docs), et « Vos Données » font référence aux données à votre sujet, à votre Activité sur votre Compte Stripe, et à vos Transactions. 
+Pour tous les autres termes portant une majuscule qui ne sont pas définis dans le présent Accord sur la Plateforme Connect (soit en ligne soit par lien hypertexte), les définitions applicables sont exposées dans l’Accord sur les Services Stripe.
+
+Vous déclarez à Stripe que toute l’information que vous nous fournissez directement ou via une Plateforme Connect est exacte et complète, et que vous êtes habilité à accepter le présent Accord sur le Compte Connecté.
+
+### 1. Liens avec d’Autres Accords
+ 
+Veuillez lire attentivement le présent Accord sur le Compte Connecté. Dans le cas où il y a conflit entre l’Accord sur les Services Stripe et le présent Accord sur le Compte Connecté concernant votre utilisation de Stripe Connect, le présent Accord sur le Compte Connecté prévaut.
+
+###2. Stripe Connect &mdash; Votre Compte Stripe
+ 
+Stripe Connect permet aux Plateformes Connect de vous aider à utiliser les Services, ce qui peut inclure la possibilité pour vous d’accepter des paiements pour des biens ou services, ou de recevoir des dons de bienfaisance ou contributions politiques. Une Plateforme Connect peut vous aider à créer un Compte Stripe, ou à intégrer votre Compte Stripe existant à une Plateforme Connect. Une Plateforme Connect peut également réaliser des activités en votre nom, dans la mesure où cela est effectué conformément à votre Accord avec la Plateforme. Veuillez lire attentivement votre Accord avec la Plateforme afin de comprendre la nature des Services de la Plateforme et des Activités qu’une Plateforme Connect peut effectuer en votre nom. Stripe n’est pas une Plateforme Connect, et ne fournit que les Services décrits dans le présent Accord sur le Compte Connecté et dans l’Accord sur les Services Stripe. 
+ 
+
+###3. Vos obligations
+ 
+Vous êtes l’unique responsable, et Stripe décline toute responsabilité, pour la prestation de tout bien ou service vendu à vos clients ou utilisateurs dans le cadre de votre utilisation des Services, et pour toute obligation due à vos clients ou utilisateurs. Alors que vous pouvez convenir de partager certaines parts de responsabilité avec une Plateforme Connect, vous êtes toujours responsable financièrement envers Stripe pour les Litiges (y compris les débits compensatoires), Remboursements, et tout amende pouvant découler de votre utilisation des Services. Ces obligations sont décrites plus en détail dans [la Section C de l’Accord sur les Services Stripe](https://stripe.com/legal#section_c).
+
+Selon la Plateforme Connect, vous pouvez avoir un accès pour gérer directement votre Compte Stripe via le [tableau de bord Stripe](https://dashboard.stripe.com). Si un tel accès est mis à votre  disposition, vous êtes tenu responsable de toutes les actions prises sur votre Compte Stripe via le tableau de bord Stripe, y compris le lancement de Remboursements ou la modification d’informations bancaires.
+
+Selon l’endroit où vous vous trouvez, une Plateforme Connect peut vous permettre de recevoir des recettes provenant du traitement de paiements via un règlement sur compte bancaire lié à votre carte de débit (« Versement Immédiat »).
+
+Votre plateforme Connect doit vous informer en cas de frais associés à votre utilisation des Versements Immédiats. Quand le système de Versements Immédiats est utilisé, Stripe essaiera d’effectuer les règlements des transactions relatives à des paiements dans les minutes qui suivent la requête de versement. Selon votre banque, cela peut prendre jusqu’à deux jours ouvrés pour le règlement des transactions via le système de Versements Immédiats. Stripe et votre plateforme Connect se réservent le droit de modifier ou de suspendre les Versements Immédiats dans votre cas à tout moment, y compris (a) lors de litiges, débits compensatoires, remboursements ou annulations en cours, anticipés ou excessifs ; (b) dans le cas d’une activité suspectée comme ou avérée frauduleuse, illégale ou autre acte malveillant ; ou (c) lorsque la loi ou une ordonnance judiciaire nous y oblige. 
+
+###4. Liens avec les Plateformes Connect
+ 
+Vous comprenez et convenez que les Plateformes Connect et Stripe peuvent partager Vos Données afin de faciliter votre utilisation de Stripe Connect ou des Services de la Plateforme. Lorsque Stripe reçoit Vos Données de la part de Plateformes Connect, Stripe peut utiliser ces Données conformément à l’Accord sur les Services Stripe et à la [Politique de Confidentialité Stripe](https://stripe.com/privacy).
+
+La tarification pour votre utilisation des Services avec une Plateforme Connect dépend de votre accord avec cette Plateforme Connect. Stripe ne contrôle ni n’est responsable des frais d’une Plateforme Connect qui vous sont imputés, et qui devraient vous être clairement stipulés dans Votre accord avec la Plateforme. La tarification standard de Stripe pour les Services est [disponible sur notre site internet](https://stripe.com/pricing), même si Stripe peut s’être accordé sur des montants de frais différents avec une Plateforme Connect.
+Les frais demandés par Stripe vous seront notifiés séparément, ou bien ils seront agrégés avec les frais de Services de la Plateforme. Stripe aura le droit de déduire du solde de votre compte Stripe les frais demandés par Stripe pour les Services ainsi que les frais de Services de la Plateforme qui nous seront spécifiés par la Plateforme Connect. Si le solde de votre compte Stripe devient négatif, vous autorisez Stripe à débiter le montant dû de votre compte de versements. Si vous pensez que des frais ont été débités par erreur ou pour un montant incorrect, ou que votre Plateforme Connect ne vous a pas promptement notifié des frais, veuillez [nous contacter](https://stripe.com/contact).
+ 
+ 
+###5. Limites de la responsabilité de Stripe
+ 
+Stripe n’est pas responsable des actes ou omissions de toute Plateforme Connect dans le cadre de la prestation de services auprès de vous ou de vos clients, ou pour tout non-respect des termes de votre Accord à propos de la Plateforme de la part d’une Plateforme Connect. Stripe n’est également pas responsable de vos obligations envers vos clients (y compris la bonne description et la bonne distribution des biens ou services vendus à vos clients). Vous êtes l’unique responsable, et Stripe décline expressément toute responsabilité, de votre conformité avec les lois en vigueur et vos obligations concernant la fourniture de biens ou services à vos clients, ou la réception de dons de bienfaisance. Ceci peut inclure l’offre d’un service client, la notification et la gestion de remboursements ou de réclamations client, la fourniture de reçus, l’enregistrement de votre entité légale, ou toute autre action non liée aux Services. Vous acceptez d’indemniser Stripe pour toute perte que nous pouvons subir en conséquence de votre manquement à vos obligations de décrire et de distribuer de façon appropriée des biens ou services, ou du non-respect de vos obligations légales ou contractuelles envers vos clients.   
+
+###6. Autres Conditions Générales Juridiques
+ 
+**a. Durée, Résiliation et Effets de la Résiliation:** Le présent Accord sur le Compte Connecté prend effet dès lors que vous enregistrez votre Compte Stripe avec une Plateforme Connect et prendra fin lorsqu’il sera résilié par vous ou par Stripe, comme décrit dans le présent accord sur le Compte Connecté. Vous pouvez résilier le présent Accord sur le Compte Connecté à tout moment en remettant une notification à Stripe et en cessant immédiatement votre utilisation de Stripe Connect. Toutefois si vous recommencez à utiliser Stipe Connect, vous consentez à nouveau au présent Accord sur le Compte Connecté. Stripe peut résilier le présent Accord sur le Compte Connecté (a) lorsque vous êtes en infraction avec le présent Accord sur le Compte Connecté et que vous ne parvenez pas à résoudre l’infraction après un préavis de 30 jours notifié par Stripe (un tel préavis et une telle période de résolution ne sont nécessaires que si la résolution de l’infraction est possible) ; ou (b) avec un préavis de 120 jours quel que soit le motif. Stripe peut également résilier le présent Accord sur le Compte Connecté immédiatement si vous êtes le sujet d’une faillite volontaire ou involontaire ou d’une requête ou procédure d’insolvabilité, ou si Stripe détermine que vous êtes engagé dans des activités non conformes aux lois en vigueur ou qui risquent significativement de porter atteinte à la réputation de Stripe. 
+
+La Section 5 et toutes les dispositions donnant lieu à des obligations continues demeureront en vigueur après la résiliation du présent Accord sur le Compte Connecté. Comme mentionné ci-dessus, l’Accord sur les Services Stripe régit votre utilisation des Services, donc la résiliation du présent Accord sur le Compte Connecté n’entraînera pas immédiatement la résiliation de l’Accord sur les Services Stripe. Toutes les obligations dans l’Accord sur les Services Stripe seront résiliées uniquement conformément en vigueur avec les conditions générales de l’Accord sur les Services Stripe. La résiliation de l’Accord sur les Services Stripe aura pour conséquence la résiliation automatique du présent Accord sur le Compte Connecté.
+
+**b. Loi applicable, Litiges, et Interprétation:** Les dispositions des lois en vigueur  applicables à l’accord sur les Services Stripe (juridiction), la localisation des procès et litiges (lieu), et toute méthode pour la résolution des litiges sont intégrées dans le présent Accord sur le Compte Connecté par renvoi. Les titres sont inclus uniquement à des fins pratiques, et ne doivent pas être considérés dans l’interprétation du présent Accord sur le Compte Connecté. Aucune disposition du présent Accord sur le Compte Connecté ne sera interprétée en défaveur d'une partie du fait que cette partie l'a rédigé. Sauf indication contraire, le mot « y compris » signifie « y compris, mais sans s’y limiter ». Le présent Accord sur le Compte Connecté ne limite aucun droit d’exécution dont Stripe peut disposer dans le cadre du secret commercial, des droits d’auteur, de brevets ou d’autres lois. Le retard ou le manquement de Stripe à affirmer tout droit ou toute disposition dans le cadre du présent Accord sur le Compte Connecté ne constituera pas une dérogation à ce droit ou à cette disposition. Aucune renonciation à l’égard de toute condition du présent Accord sur le Compte Connecté ne pourra être considérée comme une renonciation ultérieure ou continue de cette modalité ou de toute autre modalité.
+
+**c. Accord sur les Services Stripe:** La version de l’Accord sur les Services Stripe intégrée au présent Accord sur le Compte Connecté est la version applicable à la juridiction de votre Compte Stripe. Si le nom de votre juridiction n’apparaît pas dans le titre de la page accessible via le lien sur [l’Accord sur les Services Stripe](https://stripe.com/legal), veuillez [nous contacter](https://stripe.com/contact) et nous vous fournirons le lien adéquat. 
+
+**d. Droit d’Amender:**  Stripe peut amender le présent Accord sur le Compte Connecté à tout moment. Vous serez notifié des modifications par e-mail (qui peuvent provenir de Stripe ou d’une Plateforme Connect), via le tableau de bord Stripe, et/ou sur le site internet de Stripe. Vous convenez que toutes les modifications du présent Accord sur le Compte Connecté entreront en vigueur dans un délai de 7 joursaprès l’amendement fait par Stripe (ou, si une plus longue période est requise par la loi, après la période requise). Si vous choisissez de ne pas accepter les changements effectués au présent Accord sur le Compte Connecté, vous devez (a) le notifier à Stripe et (b) immédiation cesser votre utilisation de Stripe Connect. Lorsque vous ne fournissez pas une telle notification avant que les amendements n’entrent en vigueur, et en continuant votre utilisation des Services, vous consentez aux divers amendements effectués à l’Accord sur le Compte Connecté.
+
+**e. Cession:**  Vous ne pouvez céder, ou tenter de céder le présent Accord sur le Compte Connecté sans le consentement express préalable de Stripe.
+
+**f. Accord complet:** Le présent Accord sur le Compte Connecté constitue l’accord complet entre vous et Stripe concernant Stripe Connect. Le présent Accord définit les recours exclusifs concernant Stripe Connect. Si toute disposition ou toute partie du présent Accord sur le Compte Connecté est déclarée invalide ou inapplicable par la loi en vigueur, elle sera modifiée et interprétée de sorte à accomplir au mieux les objectifs de la disposition initiale, et toutes les dispositions restantes continueront d’être pleinement en vigueur.    
+
+Merci et bienvenue chez Stripe Connect!
+ 
+</section>
+ 
+
