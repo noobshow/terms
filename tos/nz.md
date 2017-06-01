@@ -227,7 +227,7 @@ We may add or remove Financial Services Providers or payment methods at any time
   
 ### 6. Specific Payment Methods
 
-When accepting payment card payments, you must comply with all Network Rules applicable to merchants, including the Network Rules provided by [Visa](http://usa.visa.com/merchants/operations/op_regulations.html), [MasterCard](https://www.mastercard.co.nz/en-nz.html), and [American Express] (https://www.americanexpress.com/nz).
+When accepting payment card payments, you must comply with all Network Rules applicable to merchants, including the Network Rules provided by [Visa](http://usa.visa.com/merchants/operations/op_regulations.html), [MasterCard](https://www.mastercard.co.nz/en-nz.html), and [American Express](https://www.americanexpress.com/nz).
  
 The Network Rules state that you may only accept payments for bona fide legal commercial transactions, and may only use payment network trademarks or service marks consistent with the Network Rules. The Network Rules for card networks may also limit your ability to discriminate by card type or charge surcharges for acceptance of payment cards. 
 
