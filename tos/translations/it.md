@@ -1,5 +1,5 @@
 <header id="stripe_services_agmt">
-# Stripe Services Agreement &mdash; {{country_name}}
+# Contratto di Servizi Stripe &mdash; Italia
 
 For your convenience, we have included an Italian version of our terms on this page for informational purposes only. The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. Per vostra convenienza, alleghiamo una versione dei nostri termini in italiano. Questa pagina è a scopo puramente informativo.Le parti riconoscono che hanno ricevuto questo Contratto e tutta la documentazione relativa redatti dall'inglese.
 
