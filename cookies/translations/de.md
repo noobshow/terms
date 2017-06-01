@@ -1,8 +1,7 @@
 <header>
 <h1>Cookies und ähnliche Technologien</h1>
 
-For your convenience, we have included a German version of our terms on this page for informational purposes only. The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. Zu Ihrer Information haben wir eine deutsche Übersetzung dieser Seite vorgenommen.  Die Parteien stimmen hiermit zu, dass diese Seite und alle damit zusammenhängenden Unterlagen in englischer Sprache verfasst werden.
-
+For your convenience, we have included a German version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Zu Ihrer Information haben wir eine deutsche Übersetzung dieser Seite vorgenommen. Die Parteien stimmen hiermit zu, dass diese Seite und alle damit zusammenhängenden Unterlagen in englischer Sprache verfasst werden.
 </header>
 
 <section>
