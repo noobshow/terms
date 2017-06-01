@@ -50,57 +50,93 @@ Elenchiamo qui di seguito i cookie che utilizziamo comunemente. L’elenco che s
 
 #### Cookie Stripe
 
-Nome cookie
-Finalità
-Persistente o di sessione
-accounts
-Elenchi Account Utenti
-Persistente
-livemode
-Determina la modalità Utente nella dashboard
-Di sessione 
-stripe.csrf
-Previene contraffazione di richieste cross site
-Di sessione
-session
-Fornisce uno speciale identificatore di sessione per Utenti dashboard
-Persistente
-machine_identifier
-Fornisce uno speciale identificatore di sessione per autenticazione
-Persistente
-viewedApplePay
-Mantiene impostazioni ApplePay
-Persistente
-country
-Stabilisce un codice paese come determinato dall’indirizzo IP
-Persistente
-lang
-Stabilisce un codice lingua
-Persistente
-last-used-checkout-name
-Personalizza i contenuti per Utenti Checkout
-Di sessione
-cid
-Stabilisce un valore per controllare metriche Utente
-Persistente
-checkout-test-session, checkout-dashboard-session
-Associa un dispositivo con un Checkout account "Remember Me"
-Persistente 
+<table class="alternate">
+  <thead>
+  <tr>
+    <th>Nome cookie</th>
+    <th>Finalità</th> 
+    <th>Persistente o di sessione</th>
+  </tr>
+  </thead>
+  <tbody>    
+  <tr>
+    <td>accounts</td>
+    <td>Elenchi Account Utenti</td> 
+    <td>Persistente</td>
+  </tr>
+  <tr>
+    <td>livemode</td>
+    <td>Determina la modalità Utente nella dashboard</td>
+    <td>Di sessione </td>
+  </tr>
+  <tr>
+    <td>stripe.csrf</td>
+    <td>Previene contraffazione di richieste cross site</td>
+    <td>Di sessione</td>
+  </tr>
+  <tr>
+    <td>session</td>
+    <td>Fornisce uno speciale identificatore di sessione per Utenti dashboard</td>
+    <td>Persistente</td>
+    </tr>
+  <tr>
+    <td>machine_identifier</td>
+    <td>Fornisce uno speciale identificatore di sessione per autenticazione</td>
+    <td>Persistente</td>
+  </tr>
+  <tr>
+    <td>viewedApplePay</td>
+    <td>Mantiene impostazioni ApplePay</td>
+    <td>Persistente</td>
+  </tr>
+  <tr>
+    <td>country</td>
+    <td>Stabilisce un codice paese come determinato dall’indirizzo IP</td>
+    <td>Persistente</td>
+  </tr>
+  <tr>
+    <td>lang</td>
+    <td>Stabilisce un codice lingua</td>
+    <td>Persistente</td>
+  </tr>
+  <tr>
+    <td>last-used-checkout-name</td>
+    <td>Personalizza i contenuti per Utenti Checkout</td>
+    <td>Di sessione</td>
+  </tr>
+  <tr>
+    <td>cid</td>
+    <td>Stabilisce un valore per controllare metriche Utente</td>
+    <td>Persistente</td>
+  </tr>
+  <tr>
+    <td>checkout-test-session, checkout-dashboard-session</td>
+    <td>Associa un dispositivo con un Checkout account "Remember Me"</td>
+    <td>Persistente 
+  </tr>
+  </tbody>
+</table>
 
+#### Cookies di terze parti
 
-
-
-
-Cookies di terze parti
-Nome cookie
-Finalità
-Link opt out 
-Google
-Utilizzato per analisi dati web e miglioramento del servizio
-tools.google.com/dlpage/gaoptout
-Mixpanel
-Utilizzato per analisi dati web e miglioramento del servizio
-mixpanel.com/optout
-
-
-
+<table class="alternate">
+<thead>
+<tr>
+  <th>Nome cookie</th>
+  <th>Finalità</th>
+  <th>Link opt out </th>
+</tr>
+</thead>
+<tbody>  
+<tr>
+  <td>Google</td>
+  <td>Utilizzato per analisi dati web e miglioramento del servizio</td>
+  <td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
+</tr>
+<tr>
+  <td>Mixpanel</td>
+  <td>Utilizzato per analisi dati web e miglioramento del servizio</td>
+  <td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+</tr>
+</tbody>
+</table>
