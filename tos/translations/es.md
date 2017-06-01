@@ -1,6 +1,5 @@
-1 
 <header id="stripe_services_agmt">
-# Stripe Services Agreement _; {{country_name}}
+# Contrato de Servicios de Stripe &mdash; España
 
 For your convenience, we have included a Spanish version of our terms on this page for informational purposes only. The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. Para su conveniencia, hemos incluido una versión en español de nuestros términos y condiciones a modo informativo. Las partes están de acuerdo que el presente Contrato y todos los documentos relacionados se elaboren en el idioma inglés.
 
