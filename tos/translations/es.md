@@ -1,4 +1,4 @@
- 
+1 
 <header id="stripe_services_agmt">
 # Stripe Services Agreement _; {{country_name}}
 
@@ -8,7 +8,7 @@ For your convenience, we have included a Spanish version of our terms on this pa
 Última actualización: 1 de junio de 2017.
 </header>
  
-<article>
+<section>
  
 Bienvenido a Stripe.
  
@@ -428,5 +428,5 @@ El presente Contrato y todas las políticas y procedimientos que se incorporan p
  
 Todas las disposiciones del presente Contrato que dan lugar a la obligación continuada se mantendrán vigentes tras la resolución de este Contrato, incluyendo, a título meramente enunciativo y no limitativo, las Secciones A.3  ("Su Relación con sus Clientes"), A.6 ("Impuestos y otros Gastos"), A.7 ("Limitaciones al Servicio, actividades prohibidas y Controles de Seguridad"), A.8 ("Sospecha de uso no autorizado o ilegal"), A.9 ("Consignación de información y notificaciones; Consentimiento para la firma electrónica"), A.10.  ("Efectos de la resolución"), B.2 ("Titularidad de la IP de Stripe"), C.6 ("Medios de Pago específicos"), C.7 ("Transferencias y Calendario de Pagos"), C.8 ("Fondos de compensación y Reservas"), C.9 (" Garantías Reales, Cobros y Derechos de Compensación), C.10 ("Conciliación y notificación de errores"), C.11 (" Cuentas inactivas"), D.3 ("Seguridad y controles del fraude"), D.4 ("Uso por Usted de los Datos en Stripe Connect y Stripe Relay"), D.5 ("Transferencia de Datos de Pagos a la Resolución"), E. 4 ("Ausencia de relación de agencia; Servicios de Terceros"), E.5 ("Fuerza Mayor"), E.6 ("Su Responsabilidad respecto de Reclamaciones de Terceros contra nosotros"), E.7 ("Manifestaciones y Garantías"), E.8 ("Ausencia de garantías"), E.9 ("Limitación de responsabilidad"), E.10 ("Contestación a Notificaciones Procesales"), E. 11 ("Resolución de controversias; Acuerdo de arbitraje"), E. 2 ("Acuerdo íntegro"), y E.13 ("Disposiciones que permanecen vigentes"); y los términos relacionados contenidos en el Contrato.
  
-</article>
+</section>
  

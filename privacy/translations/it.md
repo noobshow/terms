@@ -1,12 +1,12 @@
-<intestazione>
+<header>
 <h1>Privacy Policy --- Globale</h1>
 
 For your convenience, we have included an Italian version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Per vostra convenienza, alleghiamo una versione di questa pagina in italiano. Questa pagina è a scopo puramente informativo. Le parti riconoscono che hanno ricevuto questa pagina e tutta la documentazione relativa redatti dall'inglese.
 
 Data ultimo aggiornamento: 1 giugno 2017.
-</intestazione>
+</header>
 
-<sezione>
+<section>
 
 ### Benvenuti sul sito Stripe!
 
@@ -124,7 +124,7 @@ Attenzione: Stripe Legal
 *Dati sensibili.* Dal momento che le comunicazioni inviate a mezzo email non sono sempre sicure, vi invitiamo a non includere nelle email che ci inviate Dati relativi a carte di credito o Dati sensibili (quali ad esempio origine razziale o etnica, opinioni politiche, convinzioni religiose, dati relativi alla salute o dati simili).
 
 *Per Utenti australiani.* Qualora non siate soddisfatti della nostra gestione di contestazioni da Voi sollevate ai sensi della presente privacy policy, vi invitiamo a contattare l’[Office of the Australian Information Commissioner](http://www.oaic.gov.au).
-</sezione>
+</section>
 
 
 

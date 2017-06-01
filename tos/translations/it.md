@@ -7,7 +7,7 @@ Data ultimo aggiornamento: 1 giugno 2017
 
 </header>
 
-<article>
+<section>
 Benvenuti sul sito Stripe.
 
 Il presente Contratto di Servizi Stripe (il "Contratto") è un contratto legale tra Payments Europe, Ltd. ("Stripe" o "noi" o “ci”) e l’entità, il soggetto o la persona ("voi", "vostro", o "utente") che si registra alla pagina Account Stripe per ricevere servizi di pagamento, analisi dei dati web, benchmarking, ed altri eventuali servizi commerciali offerti da Stripe e dalle sue affiliate (ciascuno, un "Servizio"). Il presente Contratto descrive i termini e le condizioni che si applicano alla fruizione da parte vostra dei Servizi.

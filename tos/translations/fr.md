@@ -6,7 +6,7 @@ For your convenience, we have included a French version of our terms on this pag
 Last Updated: 1 Juin 2017. 
 </header>
 
-<article>
+<section>
 
 Bienvenue chez Stripe.
 
@@ -424,5 +424,5 @@ Cet accord et toutes les politiques et procédures contenues par référence con
 
 Toutes les dispositions de cet accord qui met en exergue les obligations d’une partie survivront à la résiliation du présent accord, y compris mais sans s’y limiter les Sections A.3 ("Votre relation avec vos clients"), A.6 ("Taxes et autres dépenses"), A.7 ("Limitations de service, activités prohibées et contrôles de service"), A.8 ("Suspicion d’utilisation non autorisée ou illégale"), A.9 ("Communications et avis ; consentement à la signature électronique "), A.10.b ("Effets de la résiliation"), B.2 ("Propriété de Compte la PI Stripe "), C.6 ("Méthodes de paiement spécifiques"), C.7 ("Virements et échéancier des versements"), C.8 ("Fonds de compensation et Réserves"), C.9 ("Garanties de sûreté, Collecte, et droits de compensation"), C.10 ("Réconciliation et notification d’erreurs"), C.11 ("Comptes inactifs"), D.3 ("Contrôles de sécurité et de fraude"), D.4 ("Votre utilisation des données avec Stripe Connect et Stripe Relay"), D.5 ("Transfert de données de paiement à résiliation"), E.4 ("Pas d’agence; Services tiers "), E.5 ("Force Majeure"), E.6 ("Votre responsabilité pour réclamation de tiers à notre encontre "), E.7 ("Représentations et garanties"), E.8 ("Pas de garanties"), E.9 ("Limitation de responsabilité"), E.10 ("Réponse aux procédures légales"), E.11 ("Résolution des différends; Accord d’arbitrage "), E.12 ("Accord complet"), et E.13 ("Survie du contrat"); et toute condition associée dans le présent accord.
 
-</article>
+</section>
 

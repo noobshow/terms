@@ -6,7 +6,7 @@ For your convenience, we have included a German version of our terms on this pag
 Letzte Aktualisierung: 1 Juni 2017.
 </header>
  
-<article>
+<section>
  
 Willkommen bei Stripe.
  
@@ -427,5 +427,5 @@ Diese Vereinbarung und alle durch Bezugnahme darin aufgenommenen Grundsätze und
  
 Alle Bestimmungen dieser Vereinbarung, die zu einer dauerhaften Verpflichtung einer Partei führen, bleiben auch nach der Kündigung dieser Vereinbarung weiter bestehen, unter anderem einschließlich der Abschnitte A.3 ("Ihre Beziehung zu Ihren Kunden"), A.6 ("Steuern und sonstige Aufwendungen"), A.7 ("Leistungsbeschränkungen, untersagte Aktivitäten und Sicherheitskontrollen"), A.8 ("Verdacht auf nicht genehmigte oder rechtswidrige Nutzung"), A.9 ("Offenlegungen und Mitteilungen; Einwilligung durch elektronische Signatur"), A.10.b ("Auswirkungen der Kündigung"), B.2 ("Eigentum der Stripe-IP"), C.6 ("Besondere Zahlungsweisen"), C.7 ("Übertragungen und Auszahlungsplan"), C.8 ("Verrechnungsmittel und Reserven"), C.9 ("Sicherungsrechte, Einzugs- und Verrechnungsrechte"), C.10 ("Abstimmung und Fehlermeldung"), C.11 ("Inaktive Konten"), D.3 ("Sicherheits- und Betrugskontrollen"), D.4 ("Ihre Nutzung von Daten mit Stripe Connect und Stripe Relay"), D.5 ("Übertragung von Zahlungsdaten bei Kündigung"), E.4 ("Keine Vertretung; Leistungen Dritter"), E.5 ("Höhere Gewalt"), E.6 ("Ihre Haftung für Ansprüche Dritter gegen uns"), E.7 ("Erklärungen und Garantien"), E.8 ("Keine Garantien"), E.9 ("Haftungsbeschränkung"), E.10 ("Reaktion auf gerichtliche Ladung"), E.11 ("Streitbeilegung; Vereinbarung über Schiedsverfahren"), E.12 ("Gesamtvereinbarung") und E.13 ("Weiterbestehen") und damit verbundene Bestimmungen in der Vereinbarung.
  
-<article>
+<section>
 
