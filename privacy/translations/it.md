@@ -25,7 +25,7 @@ La raccolta e l’utilizzo di dati da una varietà di fonti sono per noi essenzi
 
 
 * **Contatti**, quali nome, indirizzo postale, numero di telefono, indirizzo email;
-* **Dati finanziari e relativi a transazioni **, quali numero di carta di credito o di addebito, estremi del conto; 
+* **Dati finanziari e relativi a transazioni**, quali numero di carta di credito o di addebito, estremi del conto; 
 * **Altri Dati Personali**, quali data di nascita, SSN (social security number, numero di previdenza sociale) o EIN (employer identification number, numero di identificazione presso il datore di lavoro).
 
 

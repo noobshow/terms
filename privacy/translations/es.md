@@ -25,7 +25,7 @@ La recopilación y utilización de datos de diversas fuentes es esencial para qu
  
  
 * **Información de contacto**, como el nombre, la dirección postal, el número de teléfono y la dirección de correo electrónico;
-* **Datos económicos y de transacción **, como el número de tarjetas de crédito o de débito, o información sobre cuentas bancarias; y
+* **Datos económicos y de transacción**, como el número de tarjetas de crédito o de débito, o información sobre cuentas bancarias; y
 * **Otros Datos Personales**, como la fecha de nacimiento, el número de la Seguridad Social o el EIN.
  
  

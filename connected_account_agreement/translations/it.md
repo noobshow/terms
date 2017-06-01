@@ -57,7 +57,7 @@ L'articolo 5 e tutte le clausole che danno vita a obblighi continuativi rimarran
  
 **e. Cessione:**  L'utente non può cedere o tentare di cedere il Contratto dell'Account collegato senza l'esplicito consenso preventivo di Stripe.
  
-**f. Clausola di esaustività:  Il presente Contratto dell'Account collegato costituisce l'intero accordo tra l'utente e Stripe per quanto attiene a Stripe Connect. Il presente contratto stabilisce gli esclusivi rimedi a disposizione dell'utente relativamente a Stripe Connect.  Nell'eventualità in cui una clausola del Contratto dell'Account collegato o una sua parte sia giudicata inefficace o inapplicabile secondo la legge vigente, essa sarà modificata e interpretata in modo da realizzare per quanto possibile lo scopo della clausola in questione, mentre le restanti clausole rimarranno pienamente efficaci.
+**f. Clausola di esaustività:**  Il presente Contratto dell'Account collegato costituisce l'intero accordo tra l'utente e Stripe per quanto attiene a Stripe Connect. Il presente contratto stabilisce gli esclusivi rimedi a disposizione dell'utente relativamente a Stripe Connect.  Nell'eventualità in cui una clausola del Contratto dell'Account collegato o una sua parte sia giudicata inefficace o inapplicabile secondo la legge vigente, essa sarà modificata e interpretata in modo da realizzare per quanto possibile lo scopo della clausola in questione, mentre le restanti clausole rimarranno pienamente efficaci.
  
 Grazie e benvenuto in Stripe Connect!
  

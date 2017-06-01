@@ -1,11 +1,11 @@
-<intestazione>
+<header>
 <h1>Cookie e Tecnologie Affini</h1>
 
 For your convenience, we have included an Italian version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Per vostra convenienza, alleghiamo una versione di questa pagina in italiano. Questa pagina è a scopo puramente informativo. Le parti riconoscono che hanno ricevuto questa pagina e tutta la documentazione relativa redatti dall'inglese.
 
-</intestazione>
+</header>
 
-<sezione>
+<section>
 
 I cookie sono piccoli file di testo che vengono salvati nella memoria del browser web di un computer. Essi aiutano i provider di siti web a capire ad esempio come viene utilizzato un sito, a ricordare i dati di login di un Utente e a memorizzare preferenze del sito. In questa pagina descriviamo come utilizziamo i cookie e altre tecnologie affini per essere in grado di garantire che i nostri Servizi funzionino correttamente, per prevenire frodi e altri danni, e per analizzare e migliorare i Servizi in conformità alla nostra [Privacy Policy](https://stripe.com/privacy). Tutti i termini utilizzati con l’iniziale maiuscola e non diversamente definiti qui di seguito hanno il significato ad essi attribuito nella Privacy Policy.
 
@@ -138,3 +138,4 @@ Elenchiamo qui di seguito i cookie che utilizziamo comunemente. L’elenco che s
 </tr>
 </tbody>
 </table>
+</section

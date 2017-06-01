@@ -13,7 +13,7 @@ Les cookies sont des petits fichiers texte stockés dans la mémoire du navigate
  
 Les cookies jouent un rôle important afin de nous aider à fournir des Services personnels, efficaces et sûrs. Nous utilisons des cookies sur notre site internet. Nous modifions les cookies périodiquement lorsque nous améliorons ou procédons à des ajouts sur nos Services, mais nous utilisons de manière générale les cookies aux fins suivantes :
  
-**a. Pour l’exercice de nos Services. ** Certains cookies sont essentiels à l’exercice de notre site internet et nos Services. Nous utilisons ces cookies de nombreuses façons, y compris :
+**a. Pour l’exercice de nos Services.** Certains cookies sont essentiels à l’exercice de notre site internet et nos Services. Nous utilisons ces cookies de nombreuses façons, y compris :
  
 * **Pour l’authentification.** Nous utilisons des cookies pour garder en mémoire Votre état de connexion afin que Vous n’ayez pas à Vous connecter lorsque Vous naviguez sur notre site ou Votre tableau de bord. Par exemple, lorsque Vous vous connectez à votre tableau de bord Stripe, nous utilisons un cookie afin que Vous n’ayez pas à Vous connecter à nouveau alors que Vous naviguez sur notre site. 
  

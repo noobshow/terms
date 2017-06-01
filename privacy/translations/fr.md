@@ -35,7 +35,7 @@ Les Données Personnelles n’incluent pas les Données qui ont été agrégées
  
 * **Données sur l’appareil et sur le navigateur**, telles que l’adresse IP, le type d’appareil, le type de système d’exploitation et le type de navigateur Internet, la résolution d’écran, le nom et la version du système d’exploitation, le fabricant de l’appareil et le modèle, la langue, les modules, les compléments et la version des Services que Vous utilisez ;
 * **Données transactionnelles**, telles que les types d’achats, les montants d’achats, les dates d’achats et les moyens de paiement ;
-* ** Les Cookies et les données issus de la technologie de traçage**, tels que le temps passé sur les Services, les pages visitées, les préférences de langue, et d’autres données de trafic anonymes ; et
+* **Les Cookies et les données issus de la technologie de traçage**, tels que le temps passé sur les Services, les pages visitées, les préférences de langue, et d’autres données de trafic anonymes ; et
 * **Les données d’entreprise**, telles que la structure légale d’une entreprise, les offres de produits et services, la juridiction, les dossiers de l’entreprise, et les informations soumises via le service [Stripe Atlas](https://stripe.com/atlas).
  
 ### 3. Comment nous utilisons les Données
