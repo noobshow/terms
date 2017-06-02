@@ -1,8 +1,7 @@
 <header id="caagmt">
 # Vereinbarung über durch Connect verbundene Konten von Stripe
 
-For your convenience, we have included a German version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Zu Ihrer Information haben wir eine deutsche Übersetzung dieser Seite vorgenommen. Die Parteien stimmen hiermit zu, dass diese Seite und alle damit zusammenhängenden Unterlagen in englischer Sprache verfasst werden.
-
+For your convenience, we have translated the English version of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die englische Version dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.
 </header>
  
 <section>
