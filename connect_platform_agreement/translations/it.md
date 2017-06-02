@@ -1,8 +1,7 @@
-<header id ="cpagmt"> 
+<header id ="translation"> 
 # Contratto Stripe per piattaforme Connect
 
-For your convenience, we have included an Italian version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Per vostra convenienza, alleghiamo una versione di questa pagina in italiano. Questa pagina è a scopo puramente informativo. Le parti riconoscono che hanno ricevuto questa pagina e tutta la documentazione relativa redatti dall'inglese.
-
+For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#stripe_services_agmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.
 </header>
  
 <section>
