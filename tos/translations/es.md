@@ -1,8 +1,7 @@
-<header id="stripe_services_agmt">
+<header id="translation">
 # Contrato de Servicios de Stripe &mdash; España
 
-For your convenience, we have included a Spanish version of our terms on this page for informational purposes only. The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. Para su conveniencia, hemos incluido una versión en español de nuestros términos y condiciones a modo informativo. Las partes están de acuerdo que el presente Contrato y todos los documentos relacionados se elaboren en el idioma inglés.
-
+For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into Spanish. This translation is for informational purposes only, and the definitive version of this page is the English version. Para su comodidad, hemos traducido la [versión inglesa](#stripe_services_agmt) de esta página a español. Hemos traducido esta página al castellano a modo informativo, la versión definitiva/oficial esta redactada en inglés.
 </header>
  
 <section>
