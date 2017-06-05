@@ -1,10 +1,13 @@
 <header id="translation">
 # Contratto dell'Account collegato con Stripe
-
-For your convenience, we have translated the [English version](#caagmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#caagmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.
 </header>
  
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#caagmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#caagmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.</p>
+</aside>
+
 Grazie per aver scelto [Stripe Connect](https://stripe.com/connect). Il presente contratto regola l'uso da parte dell'utente di Stripe Connect, e descrive in che modo l'utente e fornitori terzi di piattaforme possono usare Stripe Connect per consentire all'utente di usare i servizi di Stripe, ivi compresa la possibilità di accettare pagamenti per beni o servizi, o ricevere donazioni benefiche, nonché altri servizi correlati.
  
 ## Contratto dell'Account collegato con Stripe

@@ -1,11 +1,12 @@
 <header id="translation">
 # Accord de Services de Stripe &mdash; France
-
-For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into French. This translation is for informational purposes only, and the definitive version of this page is the English version. Par souci de simplicité, nous avons traduit cette [page de l’anglais](#stripe_services_agmt) au français. Cette traduction n’est disponible qu’à titre informatif : la version officielle est la version anglaise.
-
 </header>
 
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into French. This translation is for informational purposes only, and the definitive version of this page is the English version. Par souci de simplicité, nous avons traduit cette [page de l’anglais](#stripe_services_agmt) au français. Cette traduction n’est disponible qu’à titre informatif : la version officielle est la version anglaise.</p>
+</aside>
 
 Bienvenue chez Stripe.
 

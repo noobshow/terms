@@ -1,11 +1,13 @@
 <header id="translation">
 <h1>Cookies y tecnologías similares</h1>
-
-For your convenience, we have translated the [English version](#cagmt) of this page into Spanish. This translation is for informational purposes only, and the definitive version of this page is the English version. Para su comodidad, hemos traducido la [versión inglesa](#cagmt) de esta página a español. Hemos traducido esta página al castellano a modo informativo, la versión definitiva/oficial esta redactada en inglés.
 </header>
  
 <section>
  
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#cagmt) of this page into Spanish. This translation is for informational purposes only, and the definitive version of this page is the English version. Para su comodidad, hemos traducido la [versión inglesa](#cagmt) de esta página a español. Hemos traducido esta página al castellano a modo informativo, la versión definitiva/oficial esta redactada en inglés.</p>
+</aside>
+
 Las cookies son pequeños ficheros de texto que se almacenan en la memoria del navegador web de un ordenador. Ayudan a los proveedores de sitios web en actividades como comprender el modo de ayudar a las personas a utilizar el sitio web, recordar la información del usuario sobre el inicio de sesión y almacenar las preferencias del sitio web. En esta página se explica cómo utilizamos las cookies y otras tecnologías similares para ayudarnos a garantizar que nuestros Servicios funcionan correctamente, evitar el fraude y otros perjuicios, y analizar y mejorar los Servicios con arreglo a nuestra [Política de Privacidad](https://stripe.com/privacy). Los términos en letras mayúsculas utilizados y no definidos de otro modo más adelante tienen el significado asignado a los mismos en la Política de Privacidad.
  
 ### 1. Cómo utilizamos las cookies. 

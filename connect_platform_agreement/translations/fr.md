@@ -1,10 +1,13 @@
 <header id="translation">
 # Accord sur la Plateforme Connect Stripe
-
-For your convenience, we have translated the [English version](#cpagmt) of this page into French. This translation is for informational purposes only, and the definitive version of this page is the English version. Par souci de simplicité, nous avons traduit cette [page de l’anglais](#cpagmt) au français. Cette traduction n’est disponible qu’à titre informatif : la version officielle est la version anglaise.
 </header>
  
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#cpagmt) of this page into French. This translation is for informational purposes only, and the definitive version of this page is the English version. Par souci de simplicité, nous avons traduit cette [page de l’anglais](#cpagmt) au français. Cette traduction n’est disponible qu’à titre informatif : la version officielle est la version anglaise.</p>
+</aside>
+
 Nous vous remercions d'avoir choisi d'intégrer [Stripe Connect](https://stripe.com/connect); le logiciel de services qui permet le traitement des paiements et d’autres fonctions connexes pour des marchés multiples et autres plateformes de commerce électronique.  
 
 

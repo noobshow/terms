@@ -1,4 +1,4 @@
-<header id ="translation"> 
+<header id="translation"> 
 # Contratto Stripe per piattaforme Connect
 </header>
  

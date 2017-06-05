@@ -1,10 +1,13 @@
 <header id="translation">
 # Contrato de Cuenta Conectada de Stripe
-
-For your convenience, we have translated the [English version](#caagmt) of this page into Spanish. This translation is for informational purposes only, and the definitive version of this page is the English version. Para su comodidad, hemos traducido la [versión inglesa](#caagmt) de esta página a español. Hemos traducido esta página al castellano a modo informativo, la versión definitiva/oficial esta redactada en inglés.
 </header>
  
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#caagmt) of this page into Spanish. This translation is for informational purposes only, and the definitive version of this page is the English version. Para su comodidad, hemos traducido la [versión inglesa](#caagmt) de esta página a español. Hemos traducido esta página al castellano a modo informativo, la versión definitiva/oficial esta redactada en inglés.</p>
+</aside>
+
 Gracias por utilizar [Stripe Connect](https://stripe.com/connect). El presente contrato rige el uso que Usted haga de Stripe Connect, y describe la forma en que Usted y los terceros proveedores de plataformas podrán utilizar Stripe Connect para permitirle beneficiarse de los servicios de Stripe, lo que incluye la posibilidad de aceptar pagos por productos o servicios, o recibir donaciones caritativas, así como otros servicios relacionados.
  
 ## Contrato de Cuenta Conectada de Stripe

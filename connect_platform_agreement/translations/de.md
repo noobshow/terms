@@ -1,10 +1,13 @@
 <header id="translation">
 # Stripe Connect-Plattform-Vereinbarung
-
-For your convenience, we have translated the [English version](#cpagmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#cpagmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.
 </header>
  
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#cpagmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#cpagmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.</p>
+</aside>
+
 Vielen Dank für die Integration von [Stripe Connect](https://stripe.com/connect), Softwaredienste, die Zahlungsabwicklungs- und damit verbundene Funktionen für mehrseitige Marktplätze und sonstige elektronischen Handelsplattformen ermöglichen.
  
 ## Stripe Connect-Plattform-Vereinbarung

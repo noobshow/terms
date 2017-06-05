@@ -1,11 +1,13 @@
 <header id="translation">
 # Vereinbarung über Stripe-Leistungen &mdash; Deutschland
-
-For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#stripe_services_agmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.
 </header>
  
 <section>
  
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#stripe_services_agmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.</p>
+</aside>
+
 Willkommen bei Stripe.
  
 Diese Vereinbarung über Stripe-Leistungen ("Vereinbarung") ist ein rechtsgültiger Vertrag zwischen Stripe Payments Europe, Ltd. ("Stripe" oder "wir") und der juristischen oder natürlichen Person ("Sie" oder der "Nutzer"), die sich auf der Stripe-Kontoseite registriert hat, um bestimmte Zahlungs-, Analyse- und Benchmarkingleistungen und andere Unternehmensdienstleistungen zu erhalten, die von Stripe und seinen verbundenen Unternehmen angeboten werden können (jeweils eine "Leistung"). Diese Vereinbarung beschreibt die Geschäftsbedingungen, die für Ihre Inanspruchnahme der Leistungen gelten.
