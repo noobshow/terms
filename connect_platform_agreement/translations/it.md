@@ -1,10 +1,13 @@
 <header id ="translation"> 
 # Contratto Stripe per piattaforme Connect
-
-For your convenience, we have translated the [English version](#cpagmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#cpagmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.
 </header>
  
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#cpagmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#cpagmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.</p>
+</aside>
+
 Grazie per aver integrato [Stripe Connect](https://stripe.com/connect), servizi software che consentono l'elaborazione dei pagamenti e funzioni collegate per marketplace multi-sided e altre piattaforme di commercio elettronico. 
  
 ## Contratto Stripe per piattaforme Connect
