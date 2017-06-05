@@ -118,20 +118,22 @@ Sie können eventuell in Ihrem Webbrowser Ihre Cookie-Einstellungen ändern, als
 <table class="alternate">
 <thead>
 <tr>
-<th>Cookie Name</th>
-<th>Purpose</th>
-<th>Opt out link</th>
+  <th>Cookie Name</th>
+  <th>Purpose</th>
+  <th>Opt out link</th>
 </tr>
 </thead>
 <tbody>  
 <tr>
-<td>Google</td>
-<td>Used for analytics and service improvement</td>
-<td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
-</tr><tr>
-<td>Mixpanel</td>
-<td>Used for analytics and service improvement</td>
-<td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+  <td>Google</td>
+  <td>Used for analytics and service improvement</td>
+  <td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
+</tr>
+<tr>
+  <td>Mixpanel</td>
+  <td>Used for analytics and service improvement</td>
+  <td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+</tr>
 </tbody>
 </table>
 

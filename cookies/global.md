@@ -52,7 +52,7 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
   <tr>
     <th>Cookie Name</th>
     <th>Purpose</th> 
-    <th>Persistent or session </th>
+    <th>Persistent or session</th>
   </tr>
   </thead>
   <tbody>    
@@ -64,7 +64,7 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
   <tr>
     <td>livemode</td>
     <td>Determines dashboard User mode</td>
-    <td>Session </td>
+    <td>Session</td>
   </tr>
   <tr>
     <td>stripe.csrf</td>
@@ -75,42 +75,42 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
     <td>session</td>
     <td>Provides a unique session identifier for dashboard Users</td>
     <td>Persistent</td>
-    </tr>
+  </tr>
   <tr>
     <td>machine_identifier</td>
     <td>Provides a unique session identifier for authentication</td>
-    <td>Persistent </td>
-    </tr>
-    <tr>
-<td>viewedApplePay</td>
-<td>Retains ApplePay settings</td>
-<td>Persistent </td>
-    </tr>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>country</td>
-<td>Sets a country code as determined by IP address</td>
-<td>Persistent </td>
-    </tr>
+    <td>viewedApplePay</td>
+    <td>Retains ApplePay settings</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>lang</td>
-<td>Sets a language code</td>
-<td>Persistent </td>
-    </tr>
+    <td>country</td>
+    <td>Sets a country code as determined by IP address</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>last-used-checkout-name</td>
-<td>Customizes content for Checkout Users</td>
-<td>Session</td>
-    </tr>
+    <td>lang</td>
+    <td>Sets a language code</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>cid</td>
-<td>Sets a value to track User metrics</td>
-<td>Persistent</td>
-    </tr>
+    <td>last-used-checkout-name</td>
+    <td>Customizes content for Checkout Users</td>
+    <td>Session</td>
+  </tr>
   <tr>
-<td>checkout-test-session, checkout-dashboard-session</td>
-<td>Associates a device with a "Remember Me" Checkout account</td>
-<td>Persistent </td>
-</tr>
+    <td>cid</td>
+    <td>Sets a value to track User metrics</td>
+    <td>Persistent</td>
+  </tr>
+  <tr>
+    <td>checkout-test-session, checkout-dashboard-session</td>
+    <td>Associates a device with a "Remember Me" Checkout account</td>
+    <td>Persistent</td>
+  </tr>
   </tbody>
 </table>
 
@@ -119,20 +119,22 @@ Cookies that we commonly use are listed below. This list is not exhaustive, but 
 <table class="alternate">
 <thead>
 <tr>
-<th>Cookie Name</th>
-<th>Purpose</th>
-<th>Opt out link</th>
+  <th>Cookie Name</th>
+  <th>Purpose</th>
+  <th>Opt out link</th>
 </tr>
 </thead>
 <tbody>  
 <tr>
-<td>Google</td>
-<td>Used for analytics and service improvement</td>
-<td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
-</tr><tr>
-<td>Mixpanel</td>
-<td>Used for analytics and service improvement</td>
-<td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+  <td>Google</td>
+  <td>Used for analytics and service improvement</td>
+  <td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
+</tr>
+<tr>
+  <td>Mixpanel</td>
+  <td>Used for analytics and service improvement</td>
+  <td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+<tr>
 </tbody>
 </table>
 

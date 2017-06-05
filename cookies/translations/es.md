@@ -57,12 +57,12 @@ A continuación se enumeran las cookies que se utilizan con mayor frecuencia. Es
   </thead>
   <tbody>    
   <tr>
-    <td>cuentas</td>
+    <td>accounts</td>
     <td>Enumera las cuentas del Usuario </td> 
     <td> Persistente </td>
   </tr>
   <tr>
-    <td>Modo en vivo</td>
+    <td>livemode</td>
     <td>Determina el modo de dashboard del Usuario </td>
     <td>Sesión </td>
   </tr>
@@ -72,45 +72,45 @@ A continuación se enumeran las cookies que se utilizan con mayor frecuencia. Es
     <td>Sesión</td>
     </tr>
   <tr>
-    <td>sesión</td>
+    <td>session</td>
     <td>Proporciona un identificador de sesión único para los Usuarios de dashboard </td>
     <td> Persistente </td>
     </tr>
   <tr>
-    <td>identificador de ordenador</td>
-    <td>Proporciona un identificación de sesión único a efectos de autentificación </td>
-    <td>Permanente </td>
-    </tr>
-    <tr>
-<td>ver ApplePay</td>
-<td>Guarda las preferencias de ApplePay </td>
-<td>Persistente </td>
-    </tr>
+    <td>machine_identifier</td>
+    <td>Proporciona un identificación de sesión único a efectos de autentificación</td>
+    <td>Permanente</td>
+  </tr>
   <tr>
-<td>país</td>
-<td>Determina el código de país como determinado por dirección IP</td>
-<td> Persistente </td>
-    </tr>
+    <td>viewedApplePay</td>
+    <td>Guarda las preferencias de ApplePay</td>
+    <td>Persistente</td>
+  </tr>
   <tr>
-<td>idioma</td>
-<td>Determina un código de idioma</td>
-<td> Persistente </td>
-    </tr>
+    <td>country</td>
+    <td>Determina el código de país como determinado por dirección IP</td>
+    <td>Persistente</td>
+  </tr>
   <tr>
-<td>nombre utilizado en la última compra </td>
-<td>Personaliza el contenido para los Usuarios que realizan la compra </td>
-<td>Sesión</td>
-    </tr>
+    <td>lang</td>
+    <td>Determina un código de idioma</td>
+    <td>Persistente</td>
+  </tr>
   <tr>
-<td>cid</td>
-<td>Determina un valor para realizar un seguimiento de las métricas de Usuario </td>
-<td> Persistente </td>
-    </tr>
+    <td>last-used-checkout-name</td>
+    <td>Personaliza el contenido para los Usuarios que realizan la compra</td>
+    <td>Sesión</td>
+  </tr>
   <tr>
-<td>sesión de prueba de compra, sesión de dashboard de compra </td>
-<td>Asocia un equipo con una cuenta de compra con "Recuérdame"</td>
-<td> Persistente </td>
-</tr>
+    <td>cid</td>
+    <td>Determina un valor para realizar un seguimiento de las métricas de Usuario</td>
+    <td>Persistente</td>
+  </tr>
+  <tr>
+    <td>checkout-test-session, checkout-dashboard-session</td>
+    <td>Asocia un equipo con una cuenta de compra con "Recuérdame"</td>
+    <td>Persistente</td>
+  </tr>
   </tbody>
 </table>
  
@@ -119,20 +119,22 @@ A continuación se enumeran las cookies que se utilizan con mayor frecuencia. Es
 <table class="alternate">
 <thead>
 <tr>
-<th>Nombre de la cookie</th>
-<th>Finalidad</th>
-<th>Enlace de salida </th>
+  <th>Nombre de la cookie</th>
+  <th>Finalidad</th>
+  <th>Enlace de salida</th>
 </tr>
 </thead>
 <tbody>  
 <tr>
-<td>Google</td>
-<td>Se utiliza a efectos analíticos y de mejora de los servicios</td>
-<td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
-</tr><tr>
-<td>Mixpanel</td>
-<td>Se utiliza a efectos analíticos y de mejora de los servicios</td>
-<td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+  <td>Google</td>
+  <td>Se utiliza a efectos analíticos y de mejora de los servicios</td>
+  <td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
+</tr>
+<tr>
+  <td>Mixpanel</td>
+  <td>Se utiliza a efectos analíticos y de mejora de los servicios</td>
+  <td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+</tr>
 </tbody>
 </table>
  
