@@ -5,6 +5,8 @@ Last Updated: May 25, 2017.
  
 <section>
 
+{{translation_link}}
+
 Thank you for integrating [Stripe Connect](https://stripe.com/connect), software services that enable payment processing and related functions for multi-sided marketplaces and other electronic commerce platforms. 
  
 ## Stripe Connect Platform Agreement

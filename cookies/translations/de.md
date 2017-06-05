@@ -1,11 +1,12 @@
-<header>
+<header id="translation"> 
 <h1>Cookies und ähnliche Technologien</h1>
-
-For your convenience, we have included a German version of our terms on this page for informational purposes only. The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. Zu Ihrer Information haben wir eine deutsche Übersetzung dieser Seite vorgenommen.  Die Parteien stimmen hiermit zu, dass diese Seite und alle damit zusammenhängenden Unterlagen in englischer Sprache verfasst werden.
-
 </header>
 
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#cagmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#cagmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.</p>
+</aside>
 
 Cookies sind kleine Textdateien, die im Webbrowser-Speicher eines Computers gespeichert werden. Sie ermöglichen Webseitenanbietern beispielsweise, nachzuvollziehen, wie Personen eine Webseite nutzen, sie speichern die Login-Daten eines Nutzers und die Webseiten-Einstellungen. Auf dieser Seite wird erläutert, wie wir Cookies und andere ähnliche Technologien verwenden, um mit deren Hilfe sicherstellen zu können, dass unsere Dienste ordnungsgemäß funktionieren, Betrug und anderen Schäden vorbeugen zu können und die Dienste in Übereinstimmung mit unserer [Datenschutzrichtlinie](https://stripe.com/privacy) zu analysieren und zu verbessern. Die hierin verwendeten [Anm. d. Übers.: im Englischen] großgeschriebenen Begriffe, die nachstehend nicht anders definiert sind, haben die diesen Begriffen in der Datenschutzrichtlinie zugewiesene Bedeutung.
 
@@ -53,7 +54,7 @@ Sie können eventuell in Ihrem Webbrowser Ihre Cookie-Einstellungen ändern, als
   <tr>
     <th>Cookie Name</th>
     <th>Purpose</th> 
-    <th>Persistent or session </th>
+    <th>Persistent or session</th>
   </tr>
   </thead>
   <tbody>    
@@ -65,53 +66,53 @@ Sie können eventuell in Ihrem Webbrowser Ihre Cookie-Einstellungen ändern, als
   <tr>
     <td>livemode</td>
     <td>Determines dashboard User mode</td>
-    <td>Session </td>
+    <td>Session</td>
   </tr>
   <tr>
     <td>stripe.csrf</td>
     <td>Prevents cross site request forgery</td>
     <td>Session</td>
-    </tr>
+  </tr>
   <tr>
     <td>session</td>
     <td>Provides a unique session identifier for dashboard Users</td>
     <td>Persistent</td>
-    </tr>
+  </tr>
   <tr>
     <td>machine_identifier</td>
     <td>Provides a unique session identifier for authentication</td>
-    <td>Persistent </td>
-    </tr>
-    <tr>
-<td>viewedApplePay</td>
-<td>Retains ApplePay settings</td>
-<td>Persistent </td>
-    </tr>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>country</td>
-<td>Sets a country code as determined by IP address</td>
-<td>Persistent </td>
-    </tr>
+    <td>viewedApplePay</td>
+    <td>Retains ApplePay settings</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>lang</td>
-<td>Sets a language code</td>
-<td>Persistent </td>
-    </tr>
+    <td>country</td>
+    <td>Sets a country code as determined by IP address</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>last-used-checkout-name</td>
-<td>Customizes content for Checkout Users</td>
-<td>Session</td>
-    </tr>
+    <td>lang</td>
+    <td>Sets a language code</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>cid</td>
-<td>Sets a value to track User metrics</td>
-<td>Persistent</td>
-    </tr>
+    <td>last-used-checkout-name</td>
+    <td>Customizes content for Checkout Users</td>
+    <td>Session</td>
+  </tr>
   <tr>
-<td>checkout-test-session, checkout-dashboard-session</td>
-<td>Associates a device with a "Remember Me" Checkout account</td>
-<td>Persistent </td>
-</tr>
+    <td>cid</td>
+    <td>Sets a value to track User metrics</td>
+    <td>Persistent</td>
+  </tr>
+  <tr>
+    <td>checkout-test-session, checkout-dashboard-session</td>
+    <td>Associates a device with a "Remember Me" Checkout account</td>
+    <td>Persistent</td>
+  </tr>
   </tbody>
 </table>
 
@@ -120,20 +121,22 @@ Sie können eventuell in Ihrem Webbrowser Ihre Cookie-Einstellungen ändern, als
 <table class="alternate">
 <thead>
 <tr>
-<th>Cookie Name</th>
-<th>Purpose</th>
-<th>Opt out link</th>
+  <th>Cookie Name</th>
+  <th>Purpose</th>
+  <th>Opt out link</th>
 </tr>
 </thead>
 <tbody>  
 <tr>
-<td>Google</td>
-<td>Used for analytics and service improvement</td>
-<td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
-</tr><tr>
-<td>Mixpanel</td>
-<td>Used for analytics and service improvement</td>
-<td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+  <td>Google</td>
+  <td>Used for analytics and service improvement</td>
+  <td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
+</tr>
+<tr>
+  <td>Mixpanel</td>
+  <td>Used for analytics and service improvement</td>
+  <td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+</tr>
 </tbody>
 </table>
 

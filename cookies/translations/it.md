@@ -1,11 +1,12 @@
-<header>
+<header id="translation">
 <h1>Cookie e Tecnologie Affini</h1>
-
-For your convenience, we have included an Italian version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Per vostra convenienza, alleghiamo una versione di questa pagina in italiano. Questa pagina è a scopo puramente informativo. Le parti riconoscono che hanno ricevuto questa pagina e tutta la documentazione relativa redatti dall'inglese.
-
 </header>
 
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#cagmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#cagmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.</p>
+</aside>
 
 I cookie sono piccoli file di testo che vengono salvati nella memoria del browser web di un computer. Essi aiutano i provider di siti web a capire ad esempio come viene utilizzato un sito, a ricordare i dati di login di un Utente e a memorizzare preferenze del sito. In questa pagina descriviamo come utilizziamo i cookie e altre tecnologie affini per essere in grado di garantire che i nostri Servizi funzionino correttamente, per prevenire frodi e altri danni, e per analizzare e migliorare i Servizi in conformità alla nostra [Privacy Policy](https://stripe.com/privacy). Tutti i termini utilizzati con l’iniziale maiuscola e non diversamente definiti qui di seguito hanno il significato ad essi attribuito nella Privacy Policy.
 
@@ -65,7 +66,7 @@ Elenchiamo qui di seguito i cookie che utilizziamo comunemente. L’elenco che s
   <tr>
     <td>livemode</td>
     <td>Determina la modalità Utente nella dashboard</td>
-    <td>Di sessione </td>
+    <td>Di sessione</td>
   </tr>
   <tr>
     <td>stripe.csrf</td>
@@ -76,7 +77,7 @@ Elenchiamo qui di seguito i cookie che utilizziamo comunemente. L’elenco che s
     <td>session</td>
     <td>Fornisce uno speciale identificatore di sessione per Utenti dashboard</td>
     <td>Persistente</td>
-    </tr>
+  </tr>
   <tr>
     <td>machine_identifier</td>
     <td>Fornisce uno speciale identificatore di sessione per autenticazione</td>
@@ -110,7 +111,7 @@ Elenchiamo qui di seguito i cookie che utilizziamo comunemente. L’elenco che s
   <tr>
     <td>checkout-test-session, checkout-dashboard-session</td>
     <td>Associa un dispositivo con un Checkout account "Remember Me"</td>
-    <td>Persistente 
+    <td>Persistente</td>
   </tr>
   </tbody>
 </table>
@@ -138,4 +139,5 @@ Elenchiamo qui di seguito i cookie che utilizziamo comunemente. L’elenco che s
 </tr>
 </tbody>
 </table>
-</section
+
+</section>

@@ -1,12 +1,13 @@
-<header id="stripe_services_agmt">
-# Vereinbarung über Stripe-Leistungen &mdash; {{country_name}}
-
-For your convenience, we have included a German version of our terms on this page for informational purposes only. The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. Zu Ihrer Information haben wir eine deutsche Übersetzung der von uns verwendeten Begriffe auf dieser Seite aufgenommen. Die Parteien stimmen hiermit zu, dass diese Vereinbarung und alle damit zusammenhängenden Unterlagen in englischer Sprache verfasst sind.
-
+<header id="translation">
+# Vereinbarung über Stripe-Leistungen &mdash; Deutschland
 </header>
  
 <section>
  
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#stripe_services_agmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.</p>
+</aside>
+
 Willkommen bei Stripe.
  
 Diese Vereinbarung über Stripe-Leistungen ("Vereinbarung") ist ein rechtsgültiger Vertrag zwischen Stripe Payments Europe, Ltd. ("Stripe" oder "wir") und der juristischen oder natürlichen Person ("Sie" oder der "Nutzer"), die sich auf der Stripe-Kontoseite registriert hat, um bestimmte Zahlungs-, Analyse- und Benchmarkingleistungen und andere Unternehmensdienstleistungen zu erhalten, die von Stripe und seinen verbundenen Unternehmen angeboten werden können (jeweils eine "Leistung"). Diese Vereinbarung beschreibt die Geschäftsbedingungen, die für Ihre Inanspruchnahme der Leistungen gelten.
@@ -109,7 +110,7 @@ Wir können Transaktionen ablehnen, an Bedingungen knüpfen oder aussetzen, von 
  
 **e. Zurückziehen Ihrer Einwilligung:**  Aufgrund der Art der Leistungen können Sie mit der Inanspruchnahme der Leistungen nicht beginnen, ohne der elektronischen Zustellung von Mitteilungen zuzustimmen. Sie können sich jedoch entscheiden, Ihre Einwilligung zum Erhalt von Mitteilungen auf elektronischem Wege zurückzuziehen, indem Sie Ihr Stripe-Konto kündigen.
  
-### 10. Kündigung {#termination}
+### 10. Kündigung {#kündigung}
  
 **a. Laufzeit und Kündigung:** Diese Vereinbarung tritt an dem Datum in Kraft, an dem Sie erstmals auf die Leistungen zugreifen oder sie in Anspruch nehmen, und bleibt bis zur Kündigung durch Sie oder Stripe bestehen. Sie können diese Vereinbarung kündigen, indem Sie Ihr Stripe-Konto jederzeit schließen, indem Sie [den Datenreiter in Ihren Kontoeinstellungen](https://dashboard.stripe.com/login?redirect=%2Faccount%2Fdata) öffnen, "Mein Konto schließen" auswählen und die Leistungen nicht mehr in Anspruch nehmen. Nehmen Sie die Leistungen erneut in Anspruch oder registrieren Sie sich für ein anderes Stripe-Konto, willigen Sie in die vorliegende Vereinbarung ein. Wir können jederzeit aus beliebigem Grund durch Zustellung einer Mitteilung an Sie diese Vereinbarung kündigen oder Ihr Stripe-Konto schließen. Wir können Ihr Stripe-Konto und Ihre Möglichkeit zum Zugriff auf Mittel in Ihrem Stripe-Konto aussetzen oder diese Vereinbarung kündigen, wenn (i) wir nach unserem alleinigen Ermessen feststellen, dass Sie aufgrund eines erheblichen Betrugs- oder Kreditrisikos oder sonstiger mit Ihrem Stripe-Konto verbundener Risiken keinen Anspruch auf Erhalt der Leistungen haben, (ii) Sie die Leistungen in verbotener Weise in Anspruch nehmen oder anderweitig die Bestimmungen dieser Vereinbarung nicht einhalten oder (iii) ein Gesetz oder ein Finanzdienstleister dies von uns verlangt.
  
@@ -346,7 +347,7 @@ Für 30 Tage nach der Kündigung Ihres Stripe-Kontos können Sie schriftlich ver
  
 ### 1. Recht zur Änderung
  
-Wir haben das Recht, die Bestimmungen dieser Vereinbarung jederzeit zu ändern oder zu ergänzen und Bedingungen für die Inanspruchnahme der Leistungen zu ändern, zu streichen, einzustellen oder zu verhängen, indem wir diese Änderungen auf unserer [Website](https://stripe.com/{{country_code}}) oder einer anderen Website, die wir unterhalten oder besitzen, veröffentlichen. Wir können Ihnen eine Mitteilung über Änderungen über das Dashboard, per E-Mail oder auf anderem Wege zukommen lassen. Ihre Inanspruchnahme der Leistungen, der API oder von Daten nach Inkrafttreten einer Änderung stellt Ihre Annahme der Bedingungen der geänderten Vereinbarung dar. Sie können jederzeit ein Exemplar der derzeit geltenden Bedingungen dieser Vereinbarung auf unserer Website abrufen.  Sie können feststellen, wann diese Vereinbarung zuletzt geändert wurde, indem Sie sich das Datum “Zuletzt geändert am” eingangs der Vereinbarung ansehen. Sollten Sie eine Änderung dieser Vereinbarung nicht akzeptieren, müssen Sie diese Vereinbarung kündigen, indem Sie Ihr Stripe-Konto vor Inkrafttreten der Änderung schließen (nähere Angaben siehe [Kündigung](#termination)).
+Wir haben das Recht, die Bestimmungen dieser Vereinbarung jederzeit zu ändern oder zu ergänzen und Bedingungen für die Inanspruchnahme der Leistungen zu ändern, zu streichen, einzustellen oder zu verhängen, indem wir diese Änderungen auf unserer [Website](https://stripe.com/{{country_code}}) oder einer anderen Website, die wir unterhalten oder besitzen, veröffentlichen. Wir können Ihnen eine Mitteilung über Änderungen über das Dashboard, per E-Mail oder auf anderem Wege zukommen lassen. Ihre Inanspruchnahme der Leistungen, der API oder von Daten nach Inkrafttreten einer Änderung stellt Ihre Annahme der Bedingungen der geänderten Vereinbarung dar. Sie können jederzeit ein Exemplar der derzeit geltenden Bedingungen dieser Vereinbarung auf unserer Website abrufen.  Sie können feststellen, wann diese Vereinbarung zuletzt geändert wurde, indem Sie sich das Datum “Zuletzt geändert am” eingangs der Vereinbarung ansehen. Sollten Sie eine Änderung dieser Vereinbarung nicht akzeptieren, müssen Sie diese Vereinbarung kündigen, indem Sie Ihr Stripe-Konto vor Inkrafttreten der Änderung schließen (nähere Angaben siehe [Kündigung](#kündigung)).
  
 ### 2. Abtretung
  

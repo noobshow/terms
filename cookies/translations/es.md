@@ -1,12 +1,13 @@
-<header>
+<header id="translation">
 <h1>Cookies y tecnologías similares</h1>
-
-For your convenience, we have included a Spanish version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Para su conveniencia, hemos incluido una versión en español de esta página a modo informativo. Las partes están de acuerdo que esta página y todos los documentos relacionados se elaboren en el idioma inglés.
-
 </header>
  
 <section>
  
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#cagmt) of this page into Spanish. This translation is for informational purposes only, and the definitive version of this page is the English version. Para su comodidad, hemos traducido la [versión inglesa](#cagmt) de esta página a español. Hemos traducido esta página al castellano a modo informativo, la versión definitiva/oficial esta redactada en inglés.</p>
+</aside>
+
 Las cookies son pequeños ficheros de texto que se almacenan en la memoria del navegador web de un ordenador. Ayudan a los proveedores de sitios web en actividades como comprender el modo de ayudar a las personas a utilizar el sitio web, recordar la información del usuario sobre el inicio de sesión y almacenar las preferencias del sitio web. En esta página se explica cómo utilizamos las cookies y otras tecnologías similares para ayudarnos a garantizar que nuestros Servicios funcionan correctamente, evitar el fraude y otros perjuicios, y analizar y mejorar los Servicios con arreglo a nuestra [Política de Privacidad](https://stripe.com/privacy). Los términos en letras mayúsculas utilizados y no definidos de otro modo más adelante tienen el significado asignado a los mismos en la Política de Privacidad.
  
 ### 1. Cómo utilizamos las cookies. 
@@ -58,12 +59,12 @@ A continuación se enumeran las cookies que se utilizan con mayor frecuencia. Es
   </thead>
   <tbody>    
   <tr>
-    <td>cuentas</td>
+    <td>accounts</td>
     <td>Enumera las cuentas del Usuario </td> 
     <td> Persistente </td>
   </tr>
   <tr>
-    <td>Modo en vivo</td>
+    <td>livemode</td>
     <td>Determina el modo de dashboard del Usuario </td>
     <td>Sesión </td>
   </tr>
@@ -73,45 +74,45 @@ A continuación se enumeran las cookies que se utilizan con mayor frecuencia. Es
     <td>Sesión</td>
     </tr>
   <tr>
-    <td>sesión</td>
+    <td>session</td>
     <td>Proporciona un identificador de sesión único para los Usuarios de dashboard </td>
     <td> Persistente </td>
     </tr>
   <tr>
-    <td>identificador de ordenador</td>
-    <td>Proporciona un identificación de sesión único a efectos de autentificación </td>
-    <td>Permanente </td>
-    </tr>
-    <tr>
-<td>ver ApplePay</td>
-<td>Guarda las preferencias de ApplePay </td>
-<td>Persistente </td>
-    </tr>
+    <td>machine_identifier</td>
+    <td>Proporciona un identificación de sesión único a efectos de autentificación</td>
+    <td>Permanente</td>
+  </tr>
   <tr>
-<td>país</td>
-<td>Determina el código de país como determinado por dirección IP</td>
-<td> Persistente </td>
-    </tr>
+    <td>viewedApplePay</td>
+    <td>Guarda las preferencias de ApplePay</td>
+    <td>Persistente</td>
+  </tr>
   <tr>
-<td>idioma</td>
-<td>Determina un código de idioma</td>
-<td> Persistente </td>
-    </tr>
+    <td>country</td>
+    <td>Determina el código de país como determinado por dirección IP</td>
+    <td>Persistente</td>
+  </tr>
   <tr>
-<td>nombre utilizado en la última compra </td>
-<td>Personaliza el contenido para los Usuarios que realizan la compra </td>
-<td>Sesión</td>
-    </tr>
+    <td>lang</td>
+    <td>Determina un código de idioma</td>
+    <td>Persistente</td>
+  </tr>
   <tr>
-<td>cid</td>
-<td>Determina un valor para realizar un seguimiento de las métricas de Usuario </td>
-<td> Persistente </td>
-    </tr>
+    <td>last-used-checkout-name</td>
+    <td>Personaliza el contenido para los Usuarios que realizan la compra</td>
+    <td>Sesión</td>
+  </tr>
   <tr>
-<td>sesión de prueba de compra, sesión de dashboard de compra </td>
-<td>Asocia un equipo con una cuenta de compra con "Recuérdame"</td>
-<td> Persistente </td>
-</tr>
+    <td>cid</td>
+    <td>Determina un valor para realizar un seguimiento de las métricas de Usuario</td>
+    <td>Persistente</td>
+  </tr>
+  <tr>
+    <td>checkout-test-session, checkout-dashboard-session</td>
+    <td>Asocia un equipo con una cuenta de compra con "Recuérdame"</td>
+    <td>Persistente</td>
+  </tr>
   </tbody>
 </table>
  
@@ -120,20 +121,22 @@ A continuación se enumeran las cookies que se utilizan con mayor frecuencia. Es
 <table class="alternate">
 <thead>
 <tr>
-<th>Nombre de la cookie</th>
-<th>Finalidad</th>
-<th>Enlace de salida </th>
+  <th>Nombre de la cookie</th>
+  <th>Finalidad</th>
+  <th>Enlace de salida</th>
 </tr>
 </thead>
 <tbody>  
 <tr>
-<td>Google</td>
-<td>Se utiliza a efectos analíticos y de mejora de los servicios</td>
-<td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
-</tr><tr>
-<td>Mixpanel</td>
-<td>Se utiliza a efectos analíticos y de mejora de los servicios</td>
-<td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+  <td>Google</td>
+  <td>Se utiliza a efectos analíticos y de mejora de los servicios</td>
+  <td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
+</tr>
+<tr>
+  <td>Mixpanel</td>
+  <td>Se utiliza a efectos analíticos y de mejora de los servicios</td>
+  <td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+</tr>
 </tbody>
 </table>
  

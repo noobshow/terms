@@ -1,11 +1,12 @@
-<header id="stripe_services_agmt">
-# Stripe Services Agreement &mdash; {{country_name}}
-
-For your convenience, we have included a French version of our terms on this page for informational purposes only. The parties hereby acknowledge that they have required this Agreement and all related documents to be drawn up in the English language. Par souci de simplicité et à seul titre informatif, nous avons inclus une version française de nos conditions sur cette page. Les parties reconnaissent avoir demandé que le présent contrat ainsi que tous les documents qui s’y rattachent soient rédigés en langue anglaise.
-
+<header id="translation">
+# Accord de Services de Stripe &mdash; France
 </header>
 
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into French. This translation is for informational purposes only, and the definitive version of this page is the English version. Par souci de simplicité, nous avons traduit cette [page de l’anglais](#stripe_services_agmt) au français. Cette traduction n’est disponible qu’à titre informatif : la version officielle est la version anglaise.</p>
+</aside>
 
 Bienvenue chez Stripe.
 

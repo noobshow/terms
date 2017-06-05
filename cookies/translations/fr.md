@@ -1,12 +1,13 @@
-<header>
+<header id="translation"> 
 <h1>Cookies and Similar Technologies</h1>
-
-For your convenience, we have included a French version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Par souci de simplicité et à seul titre informatif, nous avons inclus une version française de cette page. Les parties reconnaissent avoir demandé que cette page ainsi que tous les documents qui s’y rattachent soient rédigés en langue anglaise.
-
 </header>
  
 <section>
- 
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#cagmt) of this page into French. This translation is for informational purposes only, and the definitive version of this page is the English version. Par souci de simplicité, nous avons traduit cette [page de l’anglais](#cagmt) au français. Cette traduction n’est disponible qu’à titre informatif : la version officielle est la version anglaise.</p>
+</aside>
+
 Les cookies sont des petits fichiers texte stockés dans la mémoire du navigateur web d’un ordinateur. Par exemple, ils aident les fournisseurs de site internet à comprendre comment les gens utilisent un site internet, à garder en mémoire les détails de connexion d’un utilisateur, et à stocker les préférences web. Cette page explique comment nous utilisons les cookies et autres technologies similaires afin de nous assurer le bon fonctionnement de nos Services, éviter la fraude et autres dommages, et analyser et améliorer les Services conformément à notre [Politique de confidentialité](https://stripe.com/privacy). Tout mot avec une majuscule utilisé ici et n’étant pas défini ci-dessous a le sens qui lui est attribué dans la Politique de Confidentialité.  
  
 ### 1. Comment nous utilisons les cookies. 
@@ -66,13 +67,13 @@ Les cookies que nous utilisons de manière générale sont listés ci-dessous. C
   <tr>
     <td>livemode</td>
     <td>Determines dashboard User mode</td>
-    <td>Session </td>
+    <td>Session</td>
   </tr>
   <tr>
     <td>stripe.csrf</td>
     <td>Prevents cross site request forgery</td>
     <td>Session</td>
-    </tr>
+  </tr>
   <tr>
     <td>session</td>
     <td>Provides a unique session identifier for dashboard Users</td>
@@ -81,38 +82,38 @@ Les cookies que nous utilisons de manière générale sont listés ci-dessous. C
   <tr>
     <td>machine_identifier</td>
     <td>Provides a unique session identifier for authentication</td>
-    <td>Persistent </td>
-    </tr>
-    <tr>
-<td>viewedApplePay</td>
-<td>Retains ApplePay settings</td>
-<td>Persistent </td>
-    </tr>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>country</td>
-<td>Sets a country code as determined by IP address</td>
-<td>Persistent </td>
-    </tr>
+    <td>viewedApplePay</td>
+    <td>Retains ApplePay settings</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>lang</td>
-<td>Sets a language code</td>
-<td>Persistent </td>
-    </tr>
+    <td>country</td>
+    <td>Sets a country code as determined by IP address</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>last-used-checkout-name</td>
-<td>Customizes content for Checkout Users</td>
-<td>Session</td>
-    </tr>
+    <td>lang</td>
+    <td>Sets a language code</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>cid</td>
-<td>Sets a value to track User metrics</td>
-<td>Persistent</td>
-    </tr>
+    <td>last-used-checkout-name</td>
+    <td>Customizes content for Checkout Users</td>
+    <td>Session</td>
+  </tr>
   <tr>
-<td>checkout-test-session, checkout-dashboard-session</td>
-<td>Associates a device with a "Remember Me" Checkout account</td>
-<td>Persistent </td>
-</tr>
+    <td>cid</td>
+    <td>Sets a value to track User metrics</td>
+    <td>Persistent</td>
+  </tr>
+  <tr>
+    <td>checkout-test-session, checkout-dashboard-session</td>
+    <td>Associates a device with a "Remember Me" Checkout account</td>
+    <td>Persistent</td>
+  </tr>
   </tbody>
 </table>
  
@@ -121,20 +122,22 @@ Les cookies que nous utilisons de manière générale sont listés ci-dessous. C
 <table class="alternate">
 <thead>
 <tr>
-<th>Cookie Name</th>
-<th>Purpose</th>
-<th>Opt out link</th>
+  <th>Cookie Name</th>
+  <th>Purpose</th>
+  <th>Opt out link</th>
 </tr>
 </thead>
 <tbody>  
 <tr>
-<td>Google</td>
-<td>Used for analytics and service improvement</td>
-<td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
-</tr><tr>
-<td>Mixpanel</td>
-<td>Used for analytics and service improvement</td>
-<td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+  <td>Google</td>
+  <td>Used for analytics and service improvement</td>
+  <td><a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></td>
+</tr>
+<tr>
+  <td>Mixpanel</td>
+  <td>Used for analytics and service improvement</td>
+  <td><a href="http://mixpanel.com/optout">mixpanel.com/optout</a></td>
+</tr>
 </tbody>
 </table>
  

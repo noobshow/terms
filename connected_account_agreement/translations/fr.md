@@ -1,11 +1,13 @@
-<header id="caagmt">
+<header id="translation">
 # Accord sur le compte connecté Stripe
-
-For your convenience, we have included a French version of this page for informational purposes only. The parties hereby acknowledge that they have required this page and all related documents to be drawn up in the English language. Par souci de simplicité et à seul titre informatif, nous avons inclus une version française de cette page. Les parties reconnaissent avoir demandé que cette page ainsi que tous les documents qui s’y rattachent soient rédigés en langue anglaise.
-
 </header>
  
 <section>
+
+<aside class="important alternate">
+<p>For your convenience, we have translated the [English version](#caagmt) of this page into French. This translation is for informational purposes only, and the definitive version of this page is the English version. Par souci de simplicité, nous avons traduit cette [page de l’anglais](#caagmt) au français. Cette traduction n’est disponible qu’à titre informatif : la version officielle est la version anglaise.</p>
+</aside>
+
 Nous vous remercions d'avoir choisi d'utiliser [Stripe Connect](https://stripe.com/connect). Le présent accord régit votre utilisation de Stripe Connect, et décrit comment vous et votre (vos) fournisseur(s) tiers de plateforme pouvez utiliser Stripe Connect afin de vous permettre d’utiliser les services de Stripe, qui comprennent la possibilité d’accepter des paiements pour des biens ou services, ou de recevoir des dons de bienfaisance, ainsi que d’autres services connexes.
 
 
