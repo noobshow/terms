@@ -5,6 +5,8 @@ Last Updated: April 4, 2017
 
 <section>
 
+{{translation_link}}
+
 Welcome to Stripe.
 
 This Stripe Services Agreement ("Agreement") is a legal agreement between Stripe Payments Europe, Ltd. ("Stripe", "we" or "us") and the entity or person ("you", "your", or "user") who registered on the Stripe Account page to receive certain payment, analytics and benchmarking, and other business services that may be offered by Stripe and its affiliates (each, a "Service"). This Agreement describes the terms and conditions that apply to your use of the Services.

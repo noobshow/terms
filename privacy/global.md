@@ -5,6 +5,8 @@ Last updated: April 24, 2017
 
 <section>
 
+{{translation_link}}
+
 ### Welcome to Stripe!
 
 Privacy and online safety are important to Stripe. We offer a software platform and services for helping run an internet business. We collect data about businesses and their customers ("**Data**") when they use the platform, the services, and our websites (collectively, "**Services**"). This privacy policy describes how we collect, use and disclose Data. 

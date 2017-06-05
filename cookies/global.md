@@ -6,6 +6,8 @@ Last updated: April 24, 2017
 
 <section>
 
+{{translation_link}}
+
 Cookies are small text files that are stored in a computer's web browser memory. They help website providers with things like understanding how people use a website, remembering a User's login details, and storing website preferences. This page explains how we use cookies and other similar technologies to help us ensure that our Services function properly, prevent fraud and other harm, and analyze and improve the Services in accordance with our [Privacy Policy](https://stripe.com/privacy).  Any capitalized term used and not otherwise defined below has the meaning assigned to it in the Privacy Policy.
 
 ### 1. How We Use Cookies. 

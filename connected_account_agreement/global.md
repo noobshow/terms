@@ -5,6 +5,8 @@ Last Updated: May 25, 2017.
  
 <section>
 
+{{translation_link}}
+
 Thank you for using [Stripe Connect](https://stripe.com/connect). This agreement governs your use of Stripe Connect, and describes how you and your third-party platform provider(s) may use Stripe Connect to enable you to use Stripe's services, which includes the ability to accept payments for goods or services, or receive charitable donations, as well as other related services.
  
 ## Stripe Connected Account Agreement
