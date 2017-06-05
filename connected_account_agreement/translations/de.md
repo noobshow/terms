@@ -1,7 +1,7 @@
 <header id="translation">
 # Vereinbarung über durch Connect verbundene Konten von Stripe
 
-For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#stripe_services_agmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.
+For your convenience, we have translated the [English version](#caagmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#caagmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.
 </header>
  
 <section>

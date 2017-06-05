@@ -1,7 +1,7 @@
 <header id="translation">
 <h1>Cookie e Tecnologie Affini</h1>
 
-For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#stripe_services_agmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.
+For your convenience, we have translated the [English version](#cagmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#cagmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.
 </header>
 
 <section>
@@ -64,7 +64,7 @@ Elenchiamo qui di seguito i cookie che utilizziamo comunemente. L’elenco che s
   <tr>
     <td>livemode</td>
     <td>Determina la modalità Utente nella dashboard</td>
-    <td>Di sessione </td>
+    <td>Di sessione</td>
   </tr>
   <tr>
     <td>stripe.csrf</td>
@@ -75,7 +75,7 @@ Elenchiamo qui di seguito i cookie che utilizziamo comunemente. L’elenco che s
     <td>session</td>
     <td>Fornisce uno speciale identificatore di sessione per Utenti dashboard</td>
     <td>Persistente</td>
-    </tr>
+  </tr>
   <tr>
     <td>machine_identifier</td>
     <td>Fornisce uno speciale identificatore di sessione per autenticazione</td>
@@ -109,7 +109,7 @@ Elenchiamo qui di seguito i cookie che utilizziamo comunemente. L’elenco che s
   <tr>
     <td>checkout-test-session, checkout-dashboard-session</td>
     <td>Associa un dispositivo con un Checkout account "Remember Me"</td>
-    <td>Persistente 
+    <td>Persistente</td>
   </tr>
   </tbody>
 </table>

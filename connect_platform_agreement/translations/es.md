@@ -1,7 +1,7 @@
 <header id="translation">
 # Contrato de Plataforma Connect de Stripe
 
-For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into Spanish. This translation is for informational purposes only, and the definitive version of this page is the English version. Para su comodidad, hemos traducido la [versión inglesa](#stripe_services_agmt) de esta página a español. Hemos traducido esta página al castellano a modo informativo, la versión definitiva/oficial esta redactada en inglés.
+For your convenience, we have translated the [English version](#cpagmt) of this page into Spanish. This translation is for informational purposes only, and the definitive version of this page is the English version. Para su comodidad, hemos traducido la [versión inglesa](#cpagmt) de esta página a español. Hemos traducido esta página al castellano a modo informativo, la versión definitiva/oficial esta redactada en inglés.
 </header>
  
 <section>

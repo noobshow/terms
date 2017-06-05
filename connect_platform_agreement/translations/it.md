@@ -1,7 +1,7 @@
 <header id ="translation"> 
 # Contratto Stripe per piattaforme Connect
 
-For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#stripe_services_agmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.
+For your convenience, we have translated the [English version](#cpagmt) of this page into Italian. This translation is for informational purposes only, and the definitive version of this page is the English version. Per vostra convenienza, abbiamo tradotto [la versione inglese](#cpagmt) di questa pagina in italiano. Questa traduzione è esclusivamente a scopo informativo, e la versione definitiva di questa pagina è da considerarsi la versione inglese.
 </header>
  
 <section>

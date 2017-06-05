@@ -1,7 +1,7 @@
-<header id ="translation"> 
+<header id="translation"> 
 <h1>Cookies und ähnliche Technologien</h1>
 
-For your convenience, we have translated the [English version](#stripe_services_agmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#stripe_services_agmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.
+For your convenience, we have translated the [English version](#cagmt) of this page into German. This translation is for informational purposes only, and the definitive version of this page is the English version. Zu Ihrer Information haben wir die [englische Version](#cagmt) dieser Seite ins Deutsche übersetzt. Diese Übersetzung dient nur zu Informationszwecken, und die endgültige Version dieser Seite ist die englische Version.
 
 <section>
 
@@ -51,7 +51,7 @@ Sie können eventuell in Ihrem Webbrowser Ihre Cookie-Einstellungen ändern, als
   <tr>
     <th>Cookie Name</th>
     <th>Purpose</th> 
-    <th>Persistent or session </th>
+    <th>Persistent or session</th>
   </tr>
   </thead>
   <tbody>    
@@ -63,53 +63,53 @@ Sie können eventuell in Ihrem Webbrowser Ihre Cookie-Einstellungen ändern, als
   <tr>
     <td>livemode</td>
     <td>Determines dashboard User mode</td>
-    <td>Session </td>
+    <td>Session</td>
   </tr>
   <tr>
     <td>stripe.csrf</td>
     <td>Prevents cross site request forgery</td>
     <td>Session</td>
-    </tr>
+  </tr>
   <tr>
     <td>session</td>
     <td>Provides a unique session identifier for dashboard Users</td>
     <td>Persistent</td>
-    </tr>
+  </tr>
   <tr>
     <td>machine_identifier</td>
     <td>Provides a unique session identifier for authentication</td>
-    <td>Persistent </td>
-    </tr>
-    <tr>
-<td>viewedApplePay</td>
-<td>Retains ApplePay settings</td>
-<td>Persistent </td>
-    </tr>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>country</td>
-<td>Sets a country code as determined by IP address</td>
-<td>Persistent </td>
-    </tr>
+    <td>viewedApplePay</td>
+    <td>Retains ApplePay settings</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>lang</td>
-<td>Sets a language code</td>
-<td>Persistent </td>
-    </tr>
+    <td>country</td>
+    <td>Sets a country code as determined by IP address</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>last-used-checkout-name</td>
-<td>Customizes content for Checkout Users</td>
-<td>Session</td>
-    </tr>
+    <td>lang</td>
+    <td>Sets a language code</td>
+    <td>Persistent</td>
+  </tr>
   <tr>
-<td>cid</td>
-<td>Sets a value to track User metrics</td>
-<td>Persistent</td>
-    </tr>
+    <td>last-used-checkout-name</td>
+    <td>Customizes content for Checkout Users</td>
+    <td>Session</td>
+  </tr>
   <tr>
-<td>checkout-test-session, checkout-dashboard-session</td>
-<td>Associates a device with a "Remember Me" Checkout account</td>
-<td>Persistent </td>
-</tr>
+    <td>cid</td>
+    <td>Sets a value to track User metrics</td>
+    <td>Persistent</td>
+  </tr>
+  <tr>
+    <td>checkout-test-session, checkout-dashboard-session</td>
+    <td>Associates a device with a "Remember Me" Checkout account</td>
+    <td>Persistent</td>
+  </tr>
   </tbody>
 </table>
 
