@@ -48,8 +48,6 @@ You will be assigned a Coinbase merchant ID and will accept Bitcoin payments int
 
 You authorize Stripe to operate and monitor Coinbase Services on your behalf, direct Coinbase or SVB to transfer resulting funds directly to your Bank Account, and display records of transactions through the Stripe management dashboard. You further authorize Stripe to generate and store credentials, passwords, API keys, and other information necessary to operate the Coinbase Account; manage your Coinbase account settings, including by linking a designated Bank Account; and provide information about you and any transaction as necessary to comply with law and Coinbase procedures.
 
-While you may have access to information related to your Coinbase account, you may not directly access your Coinbase Account without first contacting Stripe. Merchants may not change account settings without consent from Stripe. If Merchants wish to directly access their Coinbase Account, they must contact Stripe, which will initiate a process to allow Merchants to login. At the conclusion of this process, Stripe will no longer operate Merchant's Coinbase Account. Additional verification procedures or limitations may apply.
-
 Either Coinbase or Stripe may suspend, limit, or terminate your use of Coinbase Services (a) as required by law, (b) in response to a subpoena, court order, or other binding government order, (c) if you use the Coinbase Services in a manner inconsistent with the Coinbase Agreement, or (d) if your use of Coinbase Services presents, in Coinbase's sole discretion, a heightened risk of legal or regulatory non-compliance.
 
 ## 4. Payment Services
